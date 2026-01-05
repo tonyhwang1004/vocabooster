@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>테스트 결과 - VocaBooster</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <style>
+        body {
+            font-family: 'Pretendard', 'Apple SD Gothic Neo', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #1a202c;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .result-card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            margin-bottom: 20px;
+        }
+        .score-section {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .score-circle {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-size: 48px;
+            font-weight: bold;
+            color: white;
+        }
+        .score-circle.excellent {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        }
+        .score-circle.good {
+            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+        }
+        .score-circle.average {
+            background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+        }
+        .score-circle.poor {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+        .score-label {
+            font-size: 14px;
+            margin-top: 5px;
+        }
+        .student-name {
+            font-size: 24px;
+            font-weight: bold;
+            color: #4361ee;
+        }
+        .test-info {
+            color: #718096;
+            margin-top: 5px;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .stat-item {
+            background: #f7fafc;
+            border-radius: 12px;
+            padding: 15px;
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #4361ee;
+        }
+        .stat-label {
+            font-size: 12px;
+            color: #718096;
+            margin-top: 5px;
+        }
+        .answers-section {
+            margin-top: 30px;
+        }
+        .section-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .answer-item {
+            background: #f7fafc;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-left: 4px solid;
+        }
+        .answer-item.correct {
+            border-left-color: #38a169;
+        }
+        .answer-item.wrong {
+            border-left-color: #e53e3e;
+        }
+        .answer-question {
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        .answer-detail {
+            display: flex;
+            justify-content: space-between;
+            font-size: 14px;
+        }
+        .user-answer {
+            color: #4a5568;
+        }
+        .correct-answer {
+            color: #38a169;
+            font-weight: bold;
+        }
+        .wrong-answer {
+            color: #e53e3e;
+            text-decoration: line-through;
+        }
+        .action-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .btn-action {
+            flex: 1;
+            padding: 15px;
+            border: none;
+            border-radius: 10px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-decoration: none;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        .btn-home {
+            background: #4361ee;
+            color: white;
+        }
+        .btn-home:hover {
+            background: #3845c7;
+            color: white;
+        }
+        .btn-retry {
+            background: #48bb78;
+            color: white;
+        }
+        .btn-retry:hover {
+            background: #38a169;
+            color: white;
+        }
+        .filter-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+        .filter-btn {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 14px;
+        }
+        .filter-btn.active {
+            background: #4361ee;
+            color: white;
+        }
+        .filter-btn:not(.active) {
+            background: #e2e8f0;
+            color: #4a5568;
+        }
+        .filter-btn:not(.active):hover {
+            background: #cbd5e0;
+        }
+        .grade-badge {
+            display: inline-block;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .grade-A { background: #c6f6d5; color: #276749; }
+        .grade-B { background: #bee3f8; color: #2c5282; }
+        .grade-C { background: #fefcbf; color: #975a16; }
+        .grade-D { background: #fed7d7; color: #9b2c2c; }
+        .grade-F { background: #fbd38d; color: #7b341e; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="result-card">
+            <div class="score-section">
+                <div class="score-circle" id="scoreCircle">
+                    <span id="scoreValue">0</span>
+                    <span class="score-label">점</span>
+                </div>
+                <div class="student-name" id="studentName">학생</div>
+                <div class="test-info" id="testInfo">테스트 정보</div>
+                <div class="grade-badge" id="gradeBadge">등급</div>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-value" id="correctCount">0</div>
+                    <div class="stat-label">정답</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="wrongCount">0</div>
+                    <div class="stat-label">오답</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="timeSpent">0:00</div>
+                    <div class="stat-label">소요 시간</div>
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <a href="index.html" class="btn-action btn-home">
+                    <i class="bi bi-house"></i> 홈으로
+                </a>
+                <button class="btn-action btn-retry" onclick="retryTest()">
+                    <i class="bi bi-arrow-repeat"></i> 다시 시험
+                </button>
+            </div>
+        </div>
+
+        <div class="result-card answers-section">
+            <div class="section-title">
+                <i class="bi bi-list-check"></i> 상세 결과
+            </div>
+            
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">전체</button>
+                <button class="filter-btn" data-filter="correct">정답만</button>
+                <button class="filter-btn" data-filter="wrong">오답만</button>
+            </div>
+
+            <div id="answersContainer"></div>
+        </div>
+    </div>
+
+    <script>
+        let resultData = null;
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // 세션에서 결과 데이터 가져오기
+            const savedResult = sessionStorage.getItem('currentResult');
+            if (!savedResult) {
+                alert('결과 데이터가 없습니다.');
+                window.location.href = 'index.html';
+                return;
+            }
+
+            resultData = JSON.parse(savedResult);
+            displayResult(resultData);
+
+            // 필터 버튼 이벤트
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    filterAnswers(this.dataset.filter);
+                });
+            });
+        });
+
+        function displayResult(data) {
+            const score = data.score;
+            const correct = data.correct;
+            const total = data.total;
+            const wrong = total - correct;
+
+            // 점수 표시
+            document.getElementById('scoreValue').textContent = score;
+            document.getElementById('studentName').textContent = data.name;
+            document.getElementById('testInfo').textContent = 
+                `${data.book} | ${data.mode === 'kor_to_eng' ? '한→영' : '영→한'} | ${total}문제`;
+
+            // 점수 원 색상
+            const scoreCircle = document.getElementById('scoreCircle');
+            if (score >= 90) scoreCircle.classList.add('excellent');
+            else if (score >= 70) scoreCircle.classList.add('good');
+            else if (score >= 50) scoreCircle.classList.add('average');
+            else scoreCircle.classList.add('poor');
+
+            // 등급
+            const gradeBadge = document.getElementById('gradeBadge');
+            let grade, gradeClass;
+            if (score >= 90) { grade = 'A'; gradeClass = 'grade-A'; }
+            else if (score >= 80) { grade = 'B'; gradeClass = 'grade-B'; }
+            else if (score >= 70) { grade = 'C'; gradeClass = 'grade-C'; }
+            else if (score >= 60) { grade = 'D'; gradeClass = 'grade-D'; }
+            else { grade = 'F'; gradeClass = 'grade-F'; }
+            gradeBadge.textContent = `${grade} 등급`;
+            gradeBadge.classList.add(gradeClass);
+
+            // 통계
+            document.getElementById('correctCount').textContent = correct;
+            document.getElementById('wrongCount').textContent = wrong;
+            
+            const minutes = Math.floor(data.time / 60);
+            const seconds = data.time % 60;
+            document.getElementById('timeSpent').textContent = 
+                `${minutes}:${String(seconds).padStart(2, '0')}`;
+
+            // 상세 결과
+            renderAnswers(data.details);
+        }
+
+        function renderAnswers(details) {
+            const container = document.getElementById('answersContainer');
+            container.innerHTML = '';
+
+            details.forEach((item, i) => {
+                const div = document.createElement('div');
+                div.className = `answer-item ${item.isCorrect ? 'correct' : 'wrong'}`;
+                div.dataset.type = item.isCorrect ? 'correct' : 'wrong';
+
+                div.innerHTML = `
+                    <div class="answer-question">
+                        <span style="color: #718096; margin-right: 10px;">${i + 1}.</span>
+                        ${item.question}
+                    </div>
+                    <div class="answer-detail">
+                        <span class="user-answer">
+                            내 답: <span class="${item.isCorrect ? '' : 'wrong-answer'}">${item.userAnswer || '(미입력)'}</span>
+                        </span>
+                        <span class="correct-answer">정답: ${item.correctAnswer}</span>
+                    </div>
+                `;
+
+                container.appendChild(div);
+            });
+        }
+
+        function filterAnswers(filter) {
+            const items = document.querySelectorAll('.answer-item');
+            items.forEach(item => {
+                if (filter === 'all') {
+                    item.style.display = 'block';
+                } else if (filter === 'correct') {
+                    item.style.display = item.dataset.type === 'correct' ? 'block' : 'none';
+                } else if (filter === 'wrong') {
+                    item.style.display = item.dataset.type === 'wrong' ? 'block' : 'none';
+                }
+            });
+        }
+
+        function retryTest() {
+            if (resultData) {
+                const params = new URLSearchParams({
+                    name: resultData.name,
+                    book: resultData.book,
+                    lessons: resultData.lessons.replace(/, /g, ','),
+                    count: resultData.total,
+                    mode: resultData.mode
+                });
+                window.location.href = `test.html?${params.toString()}`;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>시험 결과 - VocaBooster</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <style>
+        body {
+            font-family: 'Pretendard', 'Apple SD Gothic Neo', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #1a202c;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 32px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            margin-bottom: 20px;
+        }
+        .filter-section {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+        .filter-group {
+            flex: 1;
+            min-width: 150px;
+        }
+        .filter-label {
+            font-size: 12px;
+            color: #718096;
+            margin-bottom: 5px;
+            display: block;
+        }
+        .filter-select {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        .filter-select:focus {
+            outline: none;
+            border-color: #4361ee;
+        }
+        .table-container {
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th {
+            background: #f7fafc;
+            padding: 12px;
+            text-align: left;
+            font-weight: bold;
+            color: #4a5568;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        tr:hover {
+            background: #f7fafc;
+        }
+        .score {
+            font-weight: bold;
+        }
+        .score.high {
+            color: #38a169;
+        }
+        .score.medium {
+            color: #d69e2e;
+        }
+        .score.low {
+            color: #e53e3e;
+        }
+        .rank-badge {
+            display: inline-block;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 28px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        .rank-1 {
+            background: linear-gradient(135deg, #ffd700 0%, #ffb347 100%);
+            color: white;
+        }
+        .rank-2 {
+            background: linear-gradient(135deg, #c0c0c0 0%, #a8a8a8 100%);
+            color: white;
+        }
+        .rank-3 {
+            background: linear-gradient(135deg, #cd7f32 0%, #b8860b 100%);
+            color: white;
+        }
+        .rank-other {
+            background: #e2e8f0;
+            color: #4a5568;
+        }
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #718096;
+        }
+        .btn-home {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 12px 25px;
+            background: #4361ee;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+        .btn-home:hover {
+            background: #3845c7;
+            color: white;
+        }
+        .btn-clear {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 12px 25px;
+            background: #e53e3e;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .btn-clear:hover {
+            background: #c53030;
+        }
+        .action-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .date-col {
+            white-space: nowrap;
+            font-size: 13px;
+            color: #718096;
+        }
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+        .stat-card {
+            background: #f7fafc;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #4361ee;
+        }
+        .stat-label {
+            font-size: 12px;
+            color: #718096;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1><i class="bi bi-trophy"></i> 시험 결과</h1>
+            <p>나의 테스트 기록을 확인하세요</p>
+        </div>
+
+        <div class="card">
+            <div class="stats-row" id="statsRow">
+                <div class="stat-card">
+                    <div class="stat-value" id="totalTests">0</div>
+                    <div class="stat-label">총 테스트</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="avgScore">0</div>
+                    <div class="stat-label">평균 점수</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="highScore">0</div>
+                    <div class="stat-label">최고 점수</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="totalWords">0</div>
+                    <div class="stat-label">학습 단어</div>
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <div class="filter-group">
+                    <label class="filter-label">이름 검색</label>
+                    <input type="text" class="filter-select" id="nameFilter" placeholder="이름 입력...">
+                </div>
+                <div class="filter-group">
+                    <label class="filter-label">교재</label>
+                    <select class="filter-select" id="bookFilter">
+                        <option value="">전체</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label class="filter-label">정렬</label>
+                    <select class="filter-select" id="sortFilter">
+                        <option value="date">최신순</option>
+                        <option value="score">점수순</option>
+                        <option value="name">이름순</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>순위</th>
+                            <th>이름</th>
+                            <th>교재</th>
+                            <th>레슨</th>
+                            <th>모드</th>
+                            <th>점수</th>
+                            <th>정답률</th>
+                            <th>일시</th>
+                        </tr>
+                    </thead>
+                    <tbody id="resultsBody">
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="noResults" class="no-results" style="display: none;">
+                <i class="bi bi-inbox" style="font-size: 48px; opacity: 0.3;"></i>
+                <p>아직 테스트 기록이 없습니다.</p>
+                <p>테스트를 완료하면 여기에 결과가 표시됩니다.</p>
+            </div>
+
+            <div class="action-buttons">
+                <a href="index.html" class="btn-home">
+                    <i class="bi bi-house"></i> 홈으로
+                </a>
+                <button class="btn-clear" onclick="clearResults()">
+                    <i class="bi bi-trash"></i> 기록 삭제
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let allResults = [];
+
+        document.addEventListener('DOMContentLoaded', function() {
+            loadResults();
+            
+            // 필터 이벤트
+            document.getElementById('nameFilter').addEventListener('input', filterResults);
+            document.getElementById('bookFilter').addEventListener('change', filterResults);
+            document.getElementById('sortFilter').addEventListener('change', filterResults);
+        });
+
+        function loadResults() {
+            allResults = JSON.parse(localStorage.getItem('vocabooster_results') || '[]');
+            
+            // 교재 필터 옵션 생성
+            const books = [...new Set(allResults.map(r => r.book))];
+            const bookFilter = document.getElementById('bookFilter');
+            books.forEach(book => {
+                const option = document.createElement('option');
+                option.value = book;
+                option.textContent = book;
+                bookFilter.appendChild(option);
+            });
+
+            updateStats();
+            filterResults();
+        }
+
+        function updateStats() {
+            const totalTests = allResults.length;
+            const avgScore = totalTests > 0 
+                ? Math.round(allResults.reduce((sum, r) => sum + r.score, 0) / totalTests)
+                : 0;
+            const highScore = totalTests > 0 
+                ? Math.max(...allResults.map(r => r.score))
+                : 0;
+            const totalWords = allResults.reduce((sum, r) => sum + r.total, 0);
+
+            document.getElementById('totalTests').textContent = totalTests;
+            document.getElementById('avgScore').textContent = avgScore;
+            document.getElementById('highScore').textContent = highScore;
+            document.getElementById('totalWords').textContent = totalWords;
+        }
+
+        function filterResults() {
+            const nameFilter = document.getElementById('nameFilter').value.toLowerCase();
+            const bookFilter = document.getElementById('bookFilter').value;
+            const sortFilter = document.getElementById('sortFilter').value;
+
+            let filtered = [...allResults];
+
+            // 이름 필터
+            if (nameFilter) {
+                filtered = filtered.filter(r => r.name.toLowerCase().includes(nameFilter));
+            }
+
+            // 교재 필터
+            if (bookFilter) {
+                filtered = filtered.filter(r => r.book === bookFilter);
+            }
+
+            // 정렬
+            if (sortFilter === 'date') {
+                filtered.sort((a, b) => new Date(b.date) - new Date(a.date));
+            } else if (sortFilter === 'score') {
+                filtered.sort((a, b) => b.score - a.score);
+            } else if (sortFilter === 'name') {
+                filtered.sort((a, b) => a.name.localeCompare(b.name));
+            }
+
+            renderResults(filtered);
+        }
+
+        function renderResults(results) {
+            const tbody = document.getElementById('resultsBody');
+            const noResults = document.getElementById('noResults');
+
+            if (results.length === 0) {
+                tbody.innerHTML = '';
+                noResults.style.display = 'block';
+                return;
+            }
+
+            noResults.style.display = 'none';
+            tbody.innerHTML = '';
+
+            results.forEach((r, i) => {
+                const rank = i + 1;
+                const date = new Date(r.date);
+                const dateStr = `${date.getMonth() + 1}/${date.getDate()} ${String(date.getHours()).padStart(2, '0')}:${String(date.getMinutes()).padStart(2, '0')}`;
+                
+                let rankClass = 'rank-other';
+                if (rank === 1) rankClass = 'rank-1';
+                else if (rank === 2) rankClass = 'rank-2';
+                else if (rank === 3) rankClass = 'rank-3';
+
+                let scoreClass = 'low';
+                if (r.score >= 80) scoreClass = 'high';
+                else if (r.score >= 60) scoreClass = 'medium';
+
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td><span class="rank-badge ${rankClass}">${rank}</span></td>
+                    <td><strong>${r.name}</strong></td>
+                    <td>${r.book}</td>
+                    <td>${r.lessons || '-'}</td>
+                    <td>${r.mode === 'kor_to_eng' ? '한→영' : '영→한'}</td>
+                    <td><span class="score ${scoreClass}">${r.score}점</span></td>
+                    <td>${r.correct}/${r.total}</td>
+                    <td class="date-col">${dateStr}</td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        function clearResults() {
+            if (confirm('모든 테스트 기록을 삭제하시겠습니까?\n이 작업은 되돌릴 수 없습니다.')) {
+                localStorage.removeItem('vocabooster_results');
+                allResults = [];
+                updateStats();
+                filterResults();
+                alert('기록이 삭제되었습니다.');
+            }
+        }
+    </script>
+</body>
+</html>
