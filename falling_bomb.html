@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>💣 Falling Word Bomb - VocaBooster</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Pretendard', 'Apple SD Gothic Neo', sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+        #gameContainer {
+            position: relative;
+            width: 100%;
+            height: 100vh;
+            overflow: hidden;
+        }
+        #gameArea {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: calc(100% - 120px);
+        }
+        .bomb {
+            position: absolute;
+            padding: 12px 20px;
+            background: linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%);
+            border-radius: 12px;
+            font-weight: bold;
+            font-size: 18px;
+            box-shadow: 0 4px 15px rgba(255, 65, 108, 0.4);
+            animation: pulse 1s infinite alternate;
+            cursor: default;
+            white-space: nowrap;
+            z-index: 10;
+        }
+        .bomb::before {
+            content: '💣';
+            margin-right: 8px;
+        }
+        @keyframes pulse {
+            from { transform: scale(1); }
+            to { transform: scale(1.05); }
+        }
+        .bomb.explode {
+            animation: explode 0.5s forwards;
+        }
+        @keyframes explode {
+            0% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.5); }
+            100% { transform: scale(0); opacity: 0; }
+        }
+        .bomb.correct {
+            background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+        }
+        #inputArea {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 120px;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        #answerInput {
+            width: 100%;
+            max-width: 500px;
+            padding: 15px 20px;
+            font-size: 24px;
+            border: 3px solid #4361ee;
+            border-radius: 12px;
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            text-align: center;
+            outline: none;
+        }
+        #answerInput:focus {
+            border-color: #00f2fe;
+            box-shadow: 0 0 20px rgba(0, 242, 254, 0.3);
+        }
+        #answerInput::placeholder {
+            color: rgba(255, 255, 255, 0.5);
+        }
+        #hud {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 100;
+        }
+        .hud-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 18px;
+        }
+        .hud-icon {
+            font-size: 24px;
+        }
+        #lives {
+            color: #ff6b6b;
+        }
+        #score {
+            color: #ffd93d;
+        }
+        #combo {
+            color: #6bcb77;
+        }
+        #startScreen, #gameOverScreen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        .screen-title {
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-shadow: 0 0 20px rgba(255, 65, 108, 0.5);
+        }
+        .screen-subtitle {
+            font-size: 20px;
+            color: #a0aec0;
+            margin-bottom: 40px;
+        }
+        .game-btn {
+            padding: 15px 40px;
+            font-size: 20px;
+            font-weight: bold;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin: 10px;
+        }
+        .btn-start {
+            background: linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%);
+            color: white;
+        }
+        .btn-start:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 30px rgba(255, 65, 108, 0.5);
+        }
+        .btn-home {
+            background: #4361ee;
+            color: white;
+        }
+        .btn-home:hover {
+            background: #3845c7;
+        }
+        .final-score {
+            font-size: 72px;
+            font-weight: bold;
+            color: #ffd93d;
+            margin: 20px 0;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin: 30px 0;
+        }
+        .stat-item {
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 32px;
+            font-weight: bold;
+            color: #4facfe;
+        }
+        .stat-label {
+            font-size: 14px;
+            color: #a0aec0;
+        }
+        #loadingText {
+            color: #a0aec0;
+            margin-top: 20px;
+        }
+        .mode-info {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px 25px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <!-- 시작 화면 -->
+    <div id="startScreen">
+        <div class="screen-title">💣 Falling Word Bomb</div>
+        <div class="screen-subtitle">떨어지는 단어 폭탄을 맞춰라!</div>
+        <div class="mode-info" id="modeInfo">로딩 중...</div>
+        <button class="game-btn btn-start" id="startBtn">게임 시작</button>
+        <button class="game-btn btn-home" onclick="location.href='index.html'">홈으로</button>
+        <div id="loadingText"></div>
+    </div>
+
+    <!-- 게임 오버 화면 -->
+    <div id="gameOverScreen" style="display: none;">
+        <div class="screen-title">💥 Game Over</div>
+        <div class="final-score" id="finalScore">0</div>
+        <div class="stats-grid">
+            <div class="stat-item">
+                <div class="stat-value" id="finalCorrect">0</div>
+                <div class="stat-label">맞춘 단어</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="finalCombo">0</div>
+                <div class="stat-label">최대 콤보</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="finalAccuracy">0%</div>
+                <div class="stat-label">정확도</div>
+            </div>
+        </div>
+        <button class="game-btn btn-start" onclick="restartGame()">다시 하기</button>
+        <button class="game-btn btn-home" onclick="location.href='index.html'">홈으로</button>
+    </div>
+
+    <!-- 게임 영역 -->
+    <div id="gameContainer">
+        <div id="hud">
+            <div class="hud-item" id="lives">
+                <span class="hud-icon">❤️</span>
+                <span id="livesCount">3</span>
+            </div>
+            <div class="hud-item" id="score">
+                <span class="hud-icon">⭐</span>
+                <span id="scoreCount">0</span>
+            </div>
+            <div class="hud-item" id="combo">
+                <span class="hud-icon">🔥</span>
+                <span id="comboCount">0</span>x
+            </div>
+        </div>
+        <div id="gameArea"></div>
+        <div id="inputArea">
+            <input type="text" id="answerInput" placeholder="정답을 입력하세요" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+        </div>
+    </div>
+
+    <script>
+        // GitHub Pages 기본 경로 설정
+        const BASE_PATH = (function() {
+            const path = window.location.pathname;
+            const lastSlash = path.lastIndexOf('/');
+            return path.substring(0, lastSlash + 1);
+        })();
+
+        // URL 파라미터
+        const urlParams = new URLSearchParams(window.location.search);
+        const bookName = urlParams.get('book') || '';
+        const lessonList = urlParams.get('lessons') ? urlParams.get('lessons').split(',') : [];
+        const questionCount = parseInt(urlParams.get('count')) || 40;
+        const testMode = urlParams.get('mode') || 'kor_to_eng';
+
+        // 게임 변수
+        let words = [];
+        let activeBombs = [];
+        let lives = 3;
+        let score = 0;
+        let combo = 0;
+        let maxCombo = 0;
+        let correctCount = 0;
+        let totalAttempts = 0;
+        let gameLoop = null;
+        let spawnLoop = null;
+        let isGameRunning = false;
+        let usedWordIndices = new Set();
+
+        // DOM 요소
+        const gameArea = document.getElementById('gameArea');
+        const answerInput = document.getElementById('answerInput');
+        const startScreen = document.getElementById('startScreen');
+        const gameOverScreen = document.getElementById('gameOverScreen');
+
+        // 초기화
+        document.addEventListener('DOMContentLoaded', async function() {
+            document.getElementById('modeInfo').innerHTML = `
+                📚 ${bookName}<br>
+                📝 ${testMode === 'kor_to_eng' ? '한→영' : '영→한'} 모드
+            `;
+            await loadWords();
+        });
+
+        // 단어 로드
+        async function loadWords() {
+            const loadingText = document.getElementById('loadingText');
+            loadingText.textContent = '단어 로딩 중...';
+
+            try {
+                let allWords = [];
+                for (const lesson of lessonList) {
+                    const url = BASE_PATH + `data/books/${encodeURIComponent(bookName)}/${encodeURIComponent(lesson)}.json`;
+                    const response = await fetch(url);
+                    if (response.ok) {
+                        const data = await response.json();
+                        allWords = allWords.concat(data);
+                    }
+                }
+
+                if (allWords.length === 0) {
+                    loadingText.textContent = '단어를 불러올 수 없습니다.';
+                    return;
+                }
+
+                // 셔플
+                words = shuffleArray(allWords);
+                if (questionCount !== -1) {
+                    words = words.slice(0, Math.min(questionCount, words.length));
+                }
+
+                loadingText.textContent = `${words.length}개 단어 준비 완료!`;
+                document.getElementById('startBtn').onclick = startGame;
+
+            } catch (error) {
+                console.error('단어 로드 오류:', error);
+                loadingText.textContent = '오류가 발생했습니다.';
+            }
+        }
+
+        function shuffleArray(array) {
+            const arr = [...array];
+            for (let i = arr.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [arr[i], arr[j]] = [arr[j], arr[i]];
+            }
+            return arr;
+        }
+
+        // 게임 시작
+        function startGame() {
+            startScreen.style.display = 'none';
+            gameOverScreen.style.display = 'none';
+            
+            lives = 3;
+            score = 0;
+            combo = 0;
+            maxCombo = 0;
+            correctCount = 0;
+            totalAttempts = 0;
+            usedWordIndices.clear();
+            activeBombs = [];
+            
+            updateHUD();
+            answerInput.value = '';
+            answerInput.focus();
+            
+            isGameRunning = true;
+            gameLoop = setInterval(updateGame, 50);
+            spawnLoop = setInterval(spawnBomb, 2000);
+            
+            // 첫 폭탄 즉시 생성
+            spawnBomb();
+        }
+
+        // 폭탄 생성
+        function spawnBomb() {
+            if (!isGameRunning || activeBombs.length >= 5) return;
+            if (usedWordIndices.size >= words.length) {
+                usedWordIndices.clear(); // 모든 단어를 사용했으면 리셋
+            }
+
+            // 사용하지 않은 단어 찾기
+            let wordIndex;
+            do {
+                wordIndex = Math.floor(Math.random() * words.length);
+            } while (usedWordIndices.has(wordIndex));
+            usedWordIndices.add(wordIndex);
+
+            const word = words[wordIndex];
+            const question = testMode === 'kor_to_eng' ? word.kor : word.eng;
+            const answer = testMode === 'kor_to_eng' ? word.eng : word.kor;
+
+            const bomb = document.createElement('div');
+            bomb.className = 'bomb';
+            bomb.textContent = question;
+            bomb.dataset.answer = answer.toLowerCase();
+
+            // 랜덤 X 위치
+            const maxX = gameArea.clientWidth - 200;
+            bomb.style.left = Math.random() * maxX + 'px';
+            bomb.style.top = '-60px';
+
+            gameArea.appendChild(bomb);
+            activeBombs.push({
+                element: bomb,
+                y: -60,
+                speed: 0.5 + Math.random() * 0.5 + (score / 1000) * 0.3 // 점수에 따라 속도 증가
+            });
+        }
+
+        // 게임 업데이트
+        function updateGame() {
+            if (!isGameRunning) return;
+
+            const gameHeight = gameArea.clientHeight;
+
+            for (let i = activeBombs.length - 1; i >= 0; i--) {
+                const bomb = activeBombs[i];
+                bomb.y += bomb.speed;
+                bomb.element.style.top = bomb.y + 'px';
+
+                // 바닥에 닿으면
+                if (bomb.y > gameHeight - 50) {
+                    bomb.element.classList.add('explode');
+                    setTimeout(() => bomb.element.remove(), 500);
+                    activeBombs.splice(i, 1);
+                    
+                    lives--;
+                    combo = 0;
+                    updateHUD();
+
+                    if (lives <= 0) {
+                        endGame();
+                    }
+                }
+            }
+        }
+
+        // 입력 처리
+        answerInput.addEventListener('keydown', function(e) {
+            if (e.key === 'Enter' && isGameRunning) {
+                const userAnswer = this.value.trim().toLowerCase();
+                if (!userAnswer) return;
+
+                totalAttempts++;
+                let matched = false;
+
+                for (let i = 0; i < activeBombs.length; i++) {
+                    const bomb = activeBombs[i];
+                    const correctAnswers = bomb.element.dataset.answer.split(',').map(a => a.trim());
+                    
+                    if (correctAnswers.some(ans => userAnswer === ans || ans.includes(userAnswer))) {
+                        // 정답!
+                        matched = true;
+                        correctCount++;
+                        combo++;
+                        if (combo > maxCombo) maxCombo = combo;
+                        
+                        const points = 10 * (1 + combo * 0.1);
+                        score += Math.round(points);
+
+                        bomb.element.classList.add('correct');
+                        bomb.element.classList.add('explode');
+                        setTimeout(() => bomb.element.remove(), 500);
+                        activeBombs.splice(i, 1);
+                        
+                        break;
+                    }
+                }
+
+                if (!matched) {
+                    combo = 0;
+                    // 진동 효과
+                    this.style.animation = 'shake 0.3s';
+                    setTimeout(() => this.style.animation = '', 300);
+                }
+
+                updateHUD();
+                this.value = '';
+            }
+        });
+
+        // HUD 업데이트
+        function updateHUD() {
+            document.getElementById('livesCount').textContent = lives;
+            document.getElementById('scoreCount').textContent = score;
+            document.getElementById('comboCount').textContent = combo;
+        }
+
+        // 게임 종료
+        function endGame() {
+            isGameRunning = false;
+            clearInterval(gameLoop);
+            clearInterval(spawnLoop);
+
+            // 남은 폭탄 제거
+            activeBombs.forEach(bomb => bomb.element.remove());
+            activeBombs = [];
+
+            // 결과 표시
+            document.getElementById('finalScore').textContent = score;
+            document.getElementById('finalCorrect').textContent = correctCount;
+            document.getElementById('finalCombo').textContent = maxCombo;
+            const accuracy = totalAttempts > 0 ? Math.round((correctCount / totalAttempts) * 100) : 0;
+            document.getElementById('finalAccuracy').textContent = accuracy + '%';
+
+            gameOverScreen.style.display = 'flex';
+        }
+
+        // 게임 재시작
+        function restartGame() {
+            gameOverScreen.style.display = 'none';
+            startGame();
+        }
+
+        // CSS 애니메이션 추가
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes shake {
+                0%, 100% { transform: translateX(0); }
+                25% { transform: translateX(-10px); }
+                75% { transform: translateX(10px); }
+            }
+        `;
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>
