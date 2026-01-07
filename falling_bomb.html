@@ -524,7 +524,12 @@
 
     // 단어 드롭 함수 (레벨업 주기 늘림)
     function dropWord() {
-      if (index >= words.length || !gameActive || gameIsPaused) return;
+      if (!gameActive || gameIsPaused) return;
+      
+      // 단어를 다 사용했으면 처음부터 다시
+      if (index >= words.length) {
+        index = 0;
+      }
       
       createBomb();
       wordsDropped++;
@@ -540,7 +545,12 @@
 
     // 폭탄 생성 함수
     function createBomb() {
-      if (index >= words.length || !gameActive || gameIsPaused) return;
+      if (!gameActive || gameIsPaused) return;
+      
+      // 단어를 다 사용했으면 처음부터 다시
+      if (index >= words.length) {
+        index = 0;
+      }
 
       const word = words[index];
       const bombEl = document.createElement('div');
