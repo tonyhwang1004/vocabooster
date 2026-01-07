@@ -1,0 +1,338 @@
+[
+  {
+    "word": "transport",
+    "meaning": "운송",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "convey",
+    "meaning": "운반하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "transportation",
+    "meaning": "운송",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "passenger",
+    "meaning": "승객",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "underground",
+    "meaning": "(英) 지하철; 지하의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "subway",
+    "meaning": "(美) 지하철",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "aboard",
+    "meaning": "(배·기차·비행기 등에) 탄",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "depart",
+    "meaning": "출발하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "start",
+    "meaning": "출발하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "arrive",
+    "meaning": "도착하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "departure",
+    "meaning": "출발",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sightseeing",
+    "meaning": "관광",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sightsee",
+    "meaning": "유람하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "downtown",
+    "meaning": "도심의; 도심지에",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "uptown",
+    "meaning": "주택 지구의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "ride",
+    "meaning": "(말·탈것 등을) 타다; (탈것을) 타기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "rider",
+    "meaning": "타는 사람",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "abroad",
+    "meaning": "해외로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "overseas",
+    "meaning": "해외로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "baggage",
+    "meaning": "(배·비행기 여행의) 수하물",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "luggage",
+    "meaning": "(배·비행기 여행의) 수하물",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "baggage claim",
+    "meaning": "(공항의) 수하물 찾는 곳",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cabin",
+    "meaning": "(배·비행기의) 선실",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "hut",
+    "meaning": "오두막",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "check-out",
+    "meaning": "(호텔의) 퇴실",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "check-in",
+    "meaning": "체크인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "tip",
+    "meaning": "사례금",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "advice",
+    "meaning": "사례금을 주다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "destination",
+    "meaning": "목적지",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "available",
+    "meaning": "이용 가능한; 입수 가능한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "in use",
+    "meaning": "사용되고 있는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "availability",
+    "meaning": "유용성",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "delay",
+    "meaning": "지연시키다; 지연",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "transfer",
+    "meaning": "갈아타다; 이동하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "move",
+    "meaning": "이동하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "vehicle",
+    "meaning": "탈것",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "conveyance",
+    "meaning": "탈것",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "highway",
+    "meaning": "고속 도로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "convey",
+    "meaning": "(물건·승객 등을) 나르다; 전달하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "transport",
+    "meaning": "(물건·승객 등을) 나르다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "conveyance",
+    "meaning": "운반",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "accommodate",
+    "meaning": "수용하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "accommodation",
+    "meaning": "수용",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cruise",
+    "meaning": "크루즈",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "voyage",
+    "meaning": "크루즈",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "crew",
+    "meaning": "(배·비행기·열차 등의) 승무원",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "navigate",
+    "meaning": "항해하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "navigation",
+    "meaning": "항해",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "locate",
+    "meaning": "(어떤 장소에) 정하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "location",
+    "meaning": "위치",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "journey",
+    "meaning": "여행",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "spectacle",
+    "meaning": "(인상적인) 광경",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "spectacular",
+    "meaning": "장관인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "come across",
+    "meaning": "(우연히) 마주치다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "head for",
+    "meaning": "~로 향해 가다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "pull over",
+    "meaning": "차를 길 한쪽에 대다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]

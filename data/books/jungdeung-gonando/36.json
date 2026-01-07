@@ -1,0 +1,392 @@
+[
+  {
+    "kor": "(시골의) 작은 집",
+    "eng": "cottage",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "값을 매길 수 없는",
+    "eng": "priceless",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "값을 매길 수 없는",
+    "eng": "valuable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "쓸모없는",
+    "eng": "worthless",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(수도 등의) 꼭지",
+    "eng": "tap",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수도꼭지를 틀다[잠그다]",
+    "eng": "turn on[off] the tap faucet",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경보기; 자명종; 놀람",
+    "eng": "alarm",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도난경보기",
+    "eng": "burglar alarm",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "어질러진 것",
+    "eng": "mess",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "어질러진 것",
+    "eng": "litter",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "단정함",
+    "eng": "neatness",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "어질러진",
+    "eng": "messy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "평소의",
+    "eng": "usual",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "평소의",
+    "eng": "habitual",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "평소에는",
+    "eng": "usually",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "여느 때보다 많이",
+    "eng": "more than usual",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "판에 박힌 일",
+    "eng": "routine",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "믿다",
+    "eng": "rely",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "믿다",
+    "eng": "depend",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의지",
+    "eng": "reliance",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "먼지를 털다; 먼지",
+    "eng": "dust",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "먼지",
+    "eng": "dirt",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "먼지투성이의",
+    "eng": "dusty",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "펴다",
+    "eng": "spread",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "세척하다",
+    "eng": "cleanse",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "세척하다",
+    "eng": "wash",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "깨끗한",
+    "eng": "clean",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(그릇·화장실 등을 닦는) 세제",
+    "eng": "cleanser",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "닦다",
+    "eng": "wipe",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "닦다",
+    "eng": "rub",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(대걸레로) 닦다; 대걸레",
+    "eng": "mop",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "서랍; (항상 복수형) 장롱",
+    "eng": "drawer",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(보통 복수형) 계단",
+    "eng": "stair",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(보통 복수형) 계단",
+    "eng": "step",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "쓰레기",
+    "eng": "rubbish",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "쓰레기",
+    "eng": "garbage",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "쓰레기",
+    "eng": "trash",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "처리하다",
+    "eng": "dispose",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "처리하다",
+    "eng": "throw away",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "처분할 수 있는",
+    "eng": "disposable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 처분하다",
+    "eng": "dispose of",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(불필요한 것을) 버리다",
+    "eng": "discard",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보유하다",
+    "eng": "retain",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(가정용) 기구",
+    "eng": "appliance",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 기구를 설치하다; 적용하다",
+    "eng": "apply",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가전제품",
+    "eng": "household[home] appliance",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "넓은",
+    "eng": "spacious",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "넓은",
+    "eng": "roomy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "공간",
+    "eng": "space",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(집안의) 자질구레한 일",
+    "eng": "chore",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "닦다",
+    "eng": "polish",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(물·액체 등으로) 씻어 내리다; (얼굴을) 붉히다",
+    "eng": "flush",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(물·액체 등으로) 씻어 내리다",
+    "eng": "wash out",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(얼굴을) 붉히다",
+    "eng": "blush",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "낮잠",
+    "eng": "nap",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "선잠을 자다",
+    "eng": "doze",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "낮잠을 자다",
+    "eng": "take[have] a nap",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "코드 구멍",
+    "eng": "outlet",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "코드 구멍",
+    "eng": "socket",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "다듬다",
+    "eng": "trim",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "깨지다",
+    "eng": "crack",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "새어나옴",
+    "eng": "leak",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 다 써 버리다",
+    "eng": "run out of",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 다 써 버리다",
+    "eng": "use up",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 걸다[매달다]; 전화를 끊다",
+    "eng": "hang up",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]

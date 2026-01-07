@@ -1,0 +1,386 @@
+[
+  {
+    "word": "generation",
+    "meaning": "세대",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "supporter",
+    "meaning": "지지자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "support",
+    "meaning": "지지하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "niece",
+    "meaning": "조카딸",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "nephew",
+    "meaning": "조카 (아들)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "engage",
+    "meaning": "약혼시키다(to); 약속하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "engagement",
+    "meaning": "약혼; 약속",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "be engaged in",
+    "meaning": "~에 종사하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "celebrate",
+    "meaning": "기념하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "commemorate",
+    "meaning": "기념하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "celebration",
+    "meaning": "기념",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "anniversary",
+    "meaning": "기념일",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "fate",
+    "meaning": "운명",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "destiny",
+    "meaning": "운명",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "fatal",
+    "meaning": "치명적인; 운명의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "advice",
+    "meaning": "충고",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "advise",
+    "meaning": "충고하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "x",
+    "meaning": "일생",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "lifespan",
+    "meaning": "일생",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "elder",
+    "meaning": "나이가 위인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "older",
+    "meaning": "나이가 위인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "senior",
+    "meaning": "연장자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "parental",
+    "meaning": "부모의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "parent",
+    "meaning": "부모",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "breed",
+    "meaning": "(동물이) 새끼를 낳다; 기르다; 품종",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "disobedient",
+    "meaning": "반항적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "obedience",
+    "meaning": "복종",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "obedient",
+    "meaning": "순종하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "treat",
+    "meaning": "다루다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "deal with",
+    "meaning": "다루다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "treatment",
+    "meaning": "취급; 치료",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "interact",
+    "meaning": "상호작용 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "interaction",
+    "meaning": "상호 작용",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "interact with",
+    "meaning": "~와 상호 작용을 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "contact",
+    "meaning": "연락; 접촉; ~와 연락하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "communication",
+    "meaning": "연락",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "touch",
+    "meaning": "접촉",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "come into contact with",
+    "meaning": "~와 접촉하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "relationship",
+    "meaning": "관계",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "bond, association",
+    "meaning": "관계",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "funeral",
+    "meaning": "장례식",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "behave",
+    "meaning": "행동하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "act",
+    "meaning": "행동하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "behavior",
+    "meaning": "행동",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sibling",
+    "meaning": "형제자매",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "resemble",
+    "meaning": "~와 닮다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "take after",
+    "meaning": "~와 닮다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "resemblance",
+    "meaning": "닮은 점",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "background",
+    "meaning": "(환경적·문화적) 배경",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "daycare",
+    "meaning": "탁아소의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "daycare center",
+    "meaning": "탁아소",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "pregnant",
+    "meaning": "임신한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "pregnancy",
+    "meaning": "임신",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "nurture",
+    "meaning": "양육하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "bring up",
+    "meaning": "양육하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "accompany",
+    "meaning": "동행하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "escort",
+    "meaning": "동행하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "mature",
+    "meaning": "성숙한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "immature",
+    "meaning": "미숙한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "spouse",
+    "meaning": "배우자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "marriage partner",
+    "meaning": "배우자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "bring up",
+    "meaning": "~을 기르다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "raise",
+    "meaning": "~을 기르다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "break up with",
+    "meaning": "~와 헤어지다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]

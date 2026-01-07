@@ -1,0 +1,416 @@
+[
+  {
+    "word": "insight",
+    "meaning": "통찰력",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "insightful",
+    "meaning": "통찰력 있는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "academic",
+    "meaning": "학업의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "academy",
+    "meaning": "전문학교; 학회",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "essence",
+    "meaning": "본질",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "essential",
+    "meaning": "본질적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "in essence",
+    "meaning": "본질적으로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "intelligence",
+    "meaning": "지능",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "stupidity",
+    "meaning": "어리석음",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "intelligent",
+    "meaning": "지적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "AI (artificial intelligence)",
+    "meaning": "인공 지능",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "solve",
+    "meaning": "풀다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "solution",
+    "meaning": "해답",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "inspire",
+    "meaning": "격려하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "motivate",
+    "meaning": "격려하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "inspiration",
+    "meaning": "영감",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "refer",
+    "meaning": "언급하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "reference",
+    "meaning": "언급",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "review",
+    "meaning": "복습하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "linguistics",
+    "meaning": "언어학",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "linguist",
+    "meaning": "언어학자; 수개 국어에 능통한 사람",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "improve",
+    "meaning": "향상시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "worsen",
+    "meaning": "악화시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "improvement",
+    "meaning": "향상",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "content",
+    "meaning": "내용",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "table of contents",
+    "meaning": "목차",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "figure",
+    "meaning": "그림; 수치; (사람의) 모습",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "figure out",
+    "meaning": "이해하다; 계산해서 합계를 내다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "scholar",
+    "meaning": "학자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "scholarly",
+    "meaning": "학자의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "scholarship",
+    "meaning": "장학금",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "concept",
+    "meaning": "개념",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "idea",
+    "meaning": "개념",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "principle",
+    "meaning": "원리",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "in principle",
+    "meaning": "원칙적으로는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "expose",
+    "meaning": "노출시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "uncover",
+    "meaning": "노출시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "hide",
+    "meaning": "숨기다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "exposure",
+    "meaning": "노출; 폭로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "be exposed to",
+    "meaning": "~에 노출되다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "theory",
+    "meaning": "이론",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "theoretical",
+    "meaning": "이론적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "in theory",
+    "meaning": "이론적으로는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "define",
+    "meaning": "정의하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "보여 주다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "definition",
+    "meaning": "정의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "demonstration",
+    "meaning": "증명",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "conclude",
+    "meaning": "끝내다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "conclusion",
+    "meaning": "결론",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "conclusive",
+    "meaning": "결정적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "in conclusion",
+    "meaning": "끝으로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "statistics",
+    "meaning": "통계학",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "physics",
+    "meaning": "물리학",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "physicist",
+    "meaning": "물리학자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "geology",
+    "meaning": "지질학",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "geologist",
+    "meaning": "지질학자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "diameter",
+    "meaning": "지름",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "in diameter",
+    "meaning": "직경이 ~인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "literal",
+    "meaning": "글자 그대로의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "literally",
+    "meaning": "글자 그대로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "illiterate",
+    "meaning": "문맹의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "literacy",
+    "meaning": "읽고 쓸 줄 앎",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "literate",
+    "meaning": "읽고 쓸 줄 아는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "computer-literate",
+    "meaning": "컴퓨터를 잘 다루는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "fluent",
+    "meaning": "(말·글이) 유창한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "fluency",
+    "meaning": "유창성",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "go over",
+    "meaning": "~을 점검[검토]하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "look up",
+    "meaning": "(사전·컴퓨터 등에서 정보를) 찾아보다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "dwell on",
+    "meaning": "~을 깊이 생각하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]

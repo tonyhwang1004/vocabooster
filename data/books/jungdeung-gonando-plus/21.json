@@ -1,0 +1,434 @@
+[
+  {
+    "word": "social",
+    "meaning": "사회의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "society",
+    "meaning": "사회",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "socialize",
+    "meaning": "사회화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "moral",
+    "meaning": "도덕적인; 교훈",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "immoral",
+    "meaning": "부도덕한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "morality",
+    "meaning": "도덕성",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "ethic",
+    "meaning": "윤리",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "ethics",
+    "meaning": "윤리학",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "ethical",
+    "meaning": "윤리의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "tend",
+    "meaning": "~하는 경향이 있다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "tendency",
+    "meaning": "경향",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "have a tendency to",
+    "meaning": "~하는 경향이 있다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "allow",
+    "meaning": "허락하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "allowance",
+    "meaning": "승인; 용돈",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "affect",
+    "meaning": "~에 영향을 미치다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "influence",
+    "meaning": "~에 영향을 미치다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "expire",
+    "meaning": "만기가 되다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "end",
+    "meaning": "만기가 되다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "expiration",
+    "meaning": "종료",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "organization",
+    "meaning": "조직",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "organize",
+    "meaning": "조직하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "organizational",
+    "meaning": "조직의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "liberty",
+    "meaning": "자유; 해방",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "freedom",
+    "meaning": "자유",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "factor",
+    "meaning": "요소",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "opportunity",
+    "meaning": "기회",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "chance",
+    "meaning": "기회",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "golden opportunity",
+    "meaning": "절호의 기회",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "standard",
+    "meaning": "표준",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "criterion",
+    "meaning": "표준",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "standardize",
+    "meaning": "표준화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "status",
+    "meaning": "지위",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "position",
+    "meaning": "지위",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "facility",
+    "meaning": "편의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "facilitate",
+    "meaning": "용이하게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "circumstance",
+    "meaning": "상황",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "condition",
+    "meaning": "상황",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "charity",
+    "meaning": "자선",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "charitable",
+    "meaning": "자비로운",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "volunteer",
+    "meaning": "자원봉사자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "voluntary",
+    "meaning": "자발적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "prospect",
+    "meaning": "전망",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "prospective",
+    "meaning": "유망한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "advantage",
+    "meaning": "이익",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "disadvantage",
+    "meaning": "불이익",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "advantageous",
+    "meaning": "유리한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "stereotype",
+    "meaning": "고정 관념",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "racial stereotypes",
+    "meaning": "인종적 고정 관념",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "secure",
+    "meaning": "안전한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "safe",
+    "meaning": "안전한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "insecure",
+    "meaning": "불안정한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "security",
+    "meaning": "안전",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "complex",
+    "meaning": "복잡한; 복합 건물",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "complicated",
+    "meaning": "복잡한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "simple",
+    "meaning": "단순한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "leisure complex",
+    "meaning": "종합 레저 건물",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "inadequate",
+    "meaning": "부적당한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "adequate",
+    "meaning": "적당한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "inadequacy",
+    "meaning": "불충분",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "proper",
+    "meaning": "적절한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "improper",
+    "meaning": "부적절한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "indicate",
+    "meaning": "나타내다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "indication",
+    "meaning": "암시",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "indicator",
+    "meaning": "지시자; 지표",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "deserve",
+    "meaning": "~할 자격이 있다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "acquire",
+    "meaning": "얻다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "get",
+    "meaning": "얻다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "acquisition",
+    "meaning": "습득",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "acquired",
+    "meaning": "후천적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sign up for",
+    "meaning": "(강좌 등에) 등록하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "contribute to",
+    "meaning": "~의 한 원인이 되다; ~에 기여하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "put off",
+    "meaning": "~을 연기하다[보류하다]",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]

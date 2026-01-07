@@ -1,0 +1,446 @@
+[
+  {
+    "word": "earlier",
+    "meaning": "이전의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "later",
+    "meaning": "뒤의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "prior",
+    "meaning": "이전의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "priority",
+    "meaning": "우선하는 것",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "decade",
+    "meaning": "10년간",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "biography",
+    "meaning": "전기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "biographer",
+    "meaning": "전기 작가",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "devote",
+    "meaning": "바치다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "devoted",
+    "meaning": "헌신적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "devotion",
+    "meaning": "헌신",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "devote oneself to",
+    "meaning": "~에 몰두하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "faith",
+    "meaning": "신념",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "belief",
+    "meaning": "신념",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "faithful",
+    "meaning": "충실한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "minority",
+    "meaning": "소수",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "majority",
+    "meaning": "다수",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "minor",
+    "meaning": "소수의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "mummy",
+    "meaning": "미라",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "remains",
+    "meaning": "유해",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "rid",
+    "meaning": "제거하다; 자유롭게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "get rid of",
+    "meaning": "~을 제거하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "rid A of B",
+    "meaning": "A에서 B를 없애다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "origin",
+    "meaning": "기원",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "original",
+    "meaning": "원래의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "originate",
+    "meaning": "유래하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "civilization",
+    "meaning": "문명",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "culture",
+    "meaning": "문명",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "civilize",
+    "meaning": "문명화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "revolution",
+    "meaning": "혁명",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "revolutionary",
+    "meaning": "혁명의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "royal",
+    "meaning": "왕의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "royalty",
+    "meaning": "왕위",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "heritage",
+    "meaning": "유산",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "missionary",
+    "meaning": "선교사",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "mission",
+    "meaning": "임무",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sermon",
+    "meaning": "설교",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "settle",
+    "meaning": "정착하다; 해결하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "settlement",
+    "meaning": "정착; 합의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "replace",
+    "meaning": "대신하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "substitute",
+    "meaning": "대신하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "replacement",
+    "meaning": "대체",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "replace A with B",
+    "meaning": "A를 B로 바꾸다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "signify",
+    "meaning": "의미하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "mean",
+    "meaning": "의미하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "significant",
+    "meaning": "중요한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "significance",
+    "meaning": "중요성",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "conserve",
+    "meaning": "보존하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "preserve",
+    "meaning": "보존하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "conservative",
+    "meaning": "보수적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "conservation",
+    "meaning": "보존",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "evaluate",
+    "meaning": "평가하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "assess",
+    "meaning": "평가하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "evaluation",
+    "meaning": "평가",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "descend",
+    "meaning": "계통을 잇다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "ascend",
+    "meaning": "올라가다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "descendant",
+    "meaning": "자손",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "descend from",
+    "meaning": "~의 자손이다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "disappear",
+    "meaning": "사라지다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "vanish",
+    "meaning": "사라지다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "appear",
+    "meaning": "나타나다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "disappearance",
+    "meaning": "소멸",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sequence",
+    "meaning": "순서",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sequential",
+    "meaning": "순차적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "out of sequence",
+    "meaning": "순서가 엉망인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "gradual",
+    "meaning": "점차적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sudden",
+    "meaning": "갑작스러운",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "gradually",
+    "meaning": "점차로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sacred",
+    "meaning": "신성한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "religious",
+    "meaning": "신성한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sacredness",
+    "meaning": "신성함",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "break out",
+    "meaning": "(화재·전쟁 등이) 발생하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "derive from",
+    "meaning": "~에서 유래하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "hand down",
+    "meaning": "~을 전하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "pass down",
+    "meaning": "~을 전하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]

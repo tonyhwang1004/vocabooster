@@ -1,0 +1,242 @@
+[
+  {
+    "kor": "부분",
+    "eng": "fraction",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "극도의 흥분",
+    "eng": "frenzy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인식식별",
+    "eng": "discernible",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기능 장애가 있는",
+    "eng": "dysfunctional",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "마찰",
+    "eng": "friction",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성취감을 주는",
+    "eng": "fulfilling",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흘끗 봄",
+    "eng": "glimpse",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(소리 없이) 활짝 웃다",
+    "eng": "grin",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유산",
+    "eng": "heritage",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "죽지 않는",
+    "eng": "immortal",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주다",
+    "eng": "impart",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "충동적인",
+    "eng": "impulsive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고통",
+    "eng": "distress",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무능한",
+    "eng": "incompetent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "제멋대로 하다하게 하다",
+    "eng": "indulge",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정신 이상",
+    "eng": "insanity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "확신하지 못하는",
+    "eng": "insecure",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "불충분한",
+    "eng": "insufficient",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "극복할 수 없는",
+    "eng": "insurmountable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자기 성찰의",
+    "eng": "introspective",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "작게 나누다",
+    "eng": "fractionize",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "미친",
+    "eng": "frantic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인식하다",
+    "eng": "discern",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기능 장애",
+    "eng": "dysfunction",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 마찰을 일으키다",
+    "eng": "frictionize",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수행성취하다",
+    "eng": "fulfill",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흘끗 봄",
+    "eng": "glance",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(얼굴을) 찡그리다",
+    "eng": "grimace",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유증",
+    "eng": "bequest",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "불사불후",
+    "eng": "immortality",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "줌",
+    "eng": "impartation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "충동",
+    "eng": "impulse",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고통",
+    "eng": "agony",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무능(력)",
+    "eng": "incometence",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "탐닉",
+    "eng": "indulgence",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "미친",
+    "eng": "insane",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "불안정불확실",
+    "eng": "insecurity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "불충분함",
+    "eng": "insufficiency",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "극복하다",
+    "eng": "surmount",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "내성하다",
+    "eng": "introspect",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]

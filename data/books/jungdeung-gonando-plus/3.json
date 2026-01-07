@@ -1,0 +1,506 @@
+[
+  {
+    "word": "mood",
+    "meaning": "기분",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "moody",
+    "meaning": "변덕스러운",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sorrow",
+    "meaning": "슬픔",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "grief",
+    "meaning": "슬픔",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sorrowful",
+    "meaning": "슬픈",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "emotion",
+    "meaning": "감정",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "feeling",
+    "meaning": "감정",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "emotional",
+    "meaning": "감정적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "anxious",
+    "meaning": "불안해하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "uneasy",
+    "meaning": "불안해하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "eager",
+    "meaning": "갈망하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "anxiety",
+    "meaning": "걱정; 갈망",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "ashamed",
+    "meaning": "부끄러워하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "proud",
+    "meaning": "자랑스러워하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "be ashamed of(at)",
+    "meaning": "~을 부끄러워 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "depression",
+    "meaning": "우울; 불경기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "depressed",
+    "meaning": "우울한; 불경기의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "weep",
+    "meaning": "울다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cry",
+    "meaning": "울다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "weep crocodile tears",
+    "meaning": "거짓 눈물을 흘리다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "annoy",
+    "meaning": "짜증 나게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "bother",
+    "meaning": "짜증 나게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "annoyed",
+    "meaning": "화가 난",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "be annoyed with(at)",
+    "meaning": "~에 화가 나다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "relieve",
+    "meaning": "완화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "relief",
+    "meaning": "안심",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "amaze",
+    "meaning": "놀라게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "surprise",
+    "meaning": "놀라게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "amazing",
+    "meaning": "놀랄 만한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "in amazement",
+    "meaning": "놀라서",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sentiment",
+    "meaning": "감정",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "emotion",
+    "meaning": "감정",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sentimental",
+    "meaning": "감정[정서]적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "envy",
+    "meaning": "부러워하다; 부러움",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "jealous",
+    "meaning": "부러워하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "envious",
+    "meaning": "부러워하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "be (turn) green with envy",
+    "meaning": "매우 부러워하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "be jealous of",
+    "meaning": "~을 질투하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "nerve",
+    "meaning": "신경; 용기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "nervous",
+    "meaning": "긴장한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "have the nerve to v",
+    "meaning": "~할 용기가 있다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "temper",
+    "meaning": "성질",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "resent",
+    "meaning": "화를 내다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "get into a temper",
+    "meaning": "화내다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "lose one’s temper",
+    "meaning": "화내다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "resentful",
+    "meaning": "분개한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "desperate",
+    "meaning": "필사적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "awful",
+    "meaning": "지독한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "terrible",
+    "meaning": "지독한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "awfully",
+    "meaning": "엄청",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "miserable",
+    "meaning": "비참한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "unhappy",
+    "meaning": "비참한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "misery",
+    "meaning": "비참함",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "disgust",
+    "meaning": "역겹게 하다; 반감",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "disgusting",
+    "meaning": "역겨운",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "feel disgusted at[by, with]",
+    "meaning": "~에 넌더리가 나다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "astound",
+    "meaning": "놀라게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "amaze",
+    "meaning": "놀라게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "surprise",
+    "meaning": "놀라게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "be astounded at[by]",
+    "meaning": "~에 몹시 놀라다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "frighten",
+    "meaning": "겁먹게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "scare",
+    "meaning": "겁먹게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "fright",
+    "meaning": "공포",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "frightened to death",
+    "meaning": "무서워 죽을 것 같은",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "panic",
+    "meaning": "당황하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "horror",
+    "meaning": "당황",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "scream",
+    "meaning": "비명; 소리 지르다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "scream for help",
+    "meaning": "도와달라고 소리치다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sympathy",
+    "meaning": "동정",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "sympathetic",
+    "meaning": "동정심이 있는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "in sympathy with",
+    "meaning": "~에 공감하여",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "ridicule",
+    "meaning": "비웃다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "ridiculous",
+    "meaning": "우스운",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "warm-hearted",
+    "meaning": "마음이 따뜻한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "kind",
+    "meaning": "마음이 따뜻한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "burst into",
+    "meaning": "갑자기 ~을 터뜨리다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "burst into laughter[a smile]",
+    "meaning": "웃음을 터뜨리다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "be tired of",
+    "meaning": "~에 싫증이 나다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "be sick and tired of",
+    "meaning": "~에 싫증이 나다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "put up with",
+    "meaning": "~을 참다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "tolerate",
+    "meaning": "~을 참다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "endure",
+    "meaning": "~을 참다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "bear",
+    "meaning": "~을 참다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "stand",
+    "meaning": "~을 참다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]

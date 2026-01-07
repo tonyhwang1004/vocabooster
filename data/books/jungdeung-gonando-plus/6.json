@@ -1,0 +1,392 @@
+[
+  {
+    "word": "cottage",
+    "meaning": "(시골의) 작은 집",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "priceless",
+    "meaning": "값을 매길 수 없는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "valuable",
+    "meaning": "값을 매길 수 없는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "worthless",
+    "meaning": "쓸모없는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "tap",
+    "meaning": "(수도 등의) 꼭지",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "turn on[off] the tap faucet",
+    "meaning": "수도꼭지를 틀다[잠그다]",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "alarm",
+    "meaning": "경보기; 자명종; 놀람",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "burglar alarm",
+    "meaning": "도난경보기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "mess",
+    "meaning": "어질러진 것",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "litter",
+    "meaning": "어질러진 것",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "neatness",
+    "meaning": "단정함",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "messy",
+    "meaning": "어질러진",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "usual",
+    "meaning": "평소의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "habitual",
+    "meaning": "평소의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "usually",
+    "meaning": "평소에는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "more than usual",
+    "meaning": "여느 때보다 많이",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "routine",
+    "meaning": "판에 박힌 일",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "rely",
+    "meaning": "믿다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "depend",
+    "meaning": "믿다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "reliance",
+    "meaning": "의지",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "dust",
+    "meaning": "먼지를 털다; 먼지",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "dirt",
+    "meaning": "먼지",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "dusty",
+    "meaning": "먼지투성이의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "spread",
+    "meaning": "펴다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cleanse",
+    "meaning": "세척하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "wash",
+    "meaning": "세척하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "clean",
+    "meaning": "깨끗한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cleanser",
+    "meaning": "(그릇·화장실 등을 닦는) 세제",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "wipe",
+    "meaning": "닦다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "rub",
+    "meaning": "닦다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "mop",
+    "meaning": "(대걸레로) 닦다; 대걸레",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "drawer",
+    "meaning": "서랍; (항상 복수형) 장롱",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "stair",
+    "meaning": "(보통 복수형) 계단",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "step",
+    "meaning": "(보통 복수형) 계단",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "rubbish",
+    "meaning": "쓰레기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "garbage",
+    "meaning": "쓰레기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "trash",
+    "meaning": "쓰레기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "dispose",
+    "meaning": "처리하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "throw away",
+    "meaning": "처리하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "disposable",
+    "meaning": "처분할 수 있는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "dispose of",
+    "meaning": "~을 처분하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "discard",
+    "meaning": "(불필요한 것을) 버리다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "retain",
+    "meaning": "보유하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "appliance",
+    "meaning": "(가정용) 기구",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "apply",
+    "meaning": "~에 기구를 설치하다; 적용하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "household[home] appliance",
+    "meaning": "가전제품",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "spacious",
+    "meaning": "넓은",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "roomy",
+    "meaning": "넓은",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "space",
+    "meaning": "공간",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "chore",
+    "meaning": "(집안의) 자질구레한 일",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "polish",
+    "meaning": "닦다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "flush",
+    "meaning": "(물·액체 등으로) 씻어 내리다; (얼굴을) 붉히다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "wash out",
+    "meaning": "(물·액체 등으로) 씻어 내리다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "blush",
+    "meaning": "(얼굴을) 붉히다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "nap",
+    "meaning": "낮잠",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "doze",
+    "meaning": "선잠을 자다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "take[have] a nap",
+    "meaning": "낮잠을 자다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "outlet",
+    "meaning": "코드 구멍",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "socket",
+    "meaning": "코드 구멍",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "trim",
+    "meaning": "다듬다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "crack",
+    "meaning": "깨지다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "leak",
+    "meaning": "새어나옴",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "run out of",
+    "meaning": "~을 다 써 버리다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "use up",
+    "meaning": "~을 다 써 버리다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "hang up",
+    "meaning": "~을 걸다[매달다]; 전화를 끊다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]

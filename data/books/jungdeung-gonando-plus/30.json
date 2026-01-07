@@ -1,0 +1,386 @@
+[
+  {
+    "word": "online",
+    "meaning": "온라인의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "offline",
+    "meaning": "오프라인의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "database",
+    "meaning": "데이터베이스(관련 데이터를 축적하여 이용할 수 있게 한 것)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "capture",
+    "meaning": "(이미지 등을) 포착하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "catch",
+    "meaning": "(이미지 등을) 포착하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "capture the attention",
+    "meaning": "주의를 끌다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "tool",
+    "meaning": "(컴퓨터) 도구",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "junk",
+    "meaning": "폐물",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "junk mail",
+    "meaning": "정크 메일(일방적으로 전달되는 광고성 전자 우편)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "junk food",
+    "meaning": "정크 푸드(영양가는 낮고 열량은 높은 인스턴트 식품)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "delete",
+    "meaning": "삭제하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "remove",
+    "meaning": "삭제하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "communicate",
+    "meaning": "의사소통하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "browse",
+    "meaning": "검색하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "link",
+    "meaning": "링크",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "oral",
+    "meaning": "구두의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "spoken",
+    "meaning": "구두의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "written",
+    "meaning": "문자로 쓰인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "edit",
+    "meaning": "편집하다; 교정하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "revise",
+    "meaning": "교정하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "edition",
+    "meaning": "판",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "editor",
+    "meaning": "편집자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "warn",
+    "meaning": "경고하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "dot",
+    "meaning": "(인터넷의) 닷",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "visual",
+    "meaning": "시각의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "vision",
+    "meaning": "시야",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "profile",
+    "meaning": "프로필",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "profiler",
+    "meaning": "범죄 심리 분석관",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "access",
+    "meaning": "접근",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "accessible",
+    "meaning": "접근하기 쉬운",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "have access to",
+    "meaning": "~에게 접근할 수 있다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "circulate",
+    "meaning": "보급시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "spread",
+    "meaning": "보급시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "circulation",
+    "meaning": "유통",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "circular",
+    "meaning": "순환하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "activate",
+    "meaning": "활성화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "act",
+    "meaning": "행동하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "active",
+    "meaning": "활동적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "surf",
+    "meaning": "(인터넷상의) 정보를 찾아다니다; 파도타기를 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "request",
+    "meaning": "요청",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "interrupt",
+    "meaning": "방해하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "disturb",
+    "meaning": "방해하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "interruption",
+    "meaning": "방해",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "pause",
+    "meaning": "(이야기·행동 등의 일시적) 중단; 잠시 멈추다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "response",
+    "meaning": "응답",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "answer",
+    "meaning": "응답",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "respond",
+    "meaning": "대답하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "responsive",
+    "meaning": "응답하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "debate",
+    "meaning": "토론",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "discuss",
+    "meaning": "토론하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "illogical",
+    "meaning": "비논리적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "logical",
+    "meaning": "논리적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "hesitate",
+    "meaning": "주저하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "hesitation",
+    "meaning": "망설임",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "suppose",
+    "meaning": "가정하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "supposition",
+    "meaning": "상상",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "be supposed to",
+    "meaning": "~하기로 되어 있다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "combine",
+    "meaning": "결합시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "separate",
+    "meaning": "분리하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "combination",
+    "meaning": "결합",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "keep in touch with",
+    "meaning": "~와 접촉[연락]을 유지하다; (특정 분야에서 일어나는 일을) 계속 접하다[알다]",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cut in",
+    "meaning": "남의 대화에 끼어들다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "interrupt",
+    "meaning": "남의 대화에 끼어들다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cut off",
+    "meaning": "(말을) 끊다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]

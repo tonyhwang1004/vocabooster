@@ -1,0 +1,422 @@
+[
+  {
+    "word": "fiber",
+    "meaning": "섬유",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "dietary fiber",
+    "meaning": "식이 섬유",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "contain",
+    "meaning": "담고 있다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "container",
+    "meaning": "용기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "instant",
+    "meaning": "즉석요리의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "immediate",
+    "meaning": "즉각적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "moment",
+    "meaning": "순간",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "instantly",
+    "meaning": "즉시",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "in an instant",
+    "meaning": "즉시",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "peel",
+    "meaning": "(과일·채소 등의) 껍질을 벗기다; 벗겨지다; 과일 껍질",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "nourish",
+    "meaning": "영양분을 공급하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "feed",
+    "meaning": "영양분을 공급하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "nourishment",
+    "meaning": "영양분",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "chop",
+    "meaning": "자르다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cut",
+    "meaning": "자르다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "grind",
+    "meaning": "잘게 갈다[빻다]",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "mill",
+    "meaning": "잘게 갈다[빻다]",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "roast",
+    "meaning": "굽다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "rotten",
+    "meaning": "썩은",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "decayed",
+    "meaning": "썩은",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "fresh",
+    "meaning": "신선한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "rot",
+    "meaning": "썩다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cuisine",
+    "meaning": "요리",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cooking",
+    "meaning": "요리",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "French cuisine",
+    "meaning": "프랑스 요리",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "cooked",
+    "meaning": "조리된",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "raw",
+    "meaning": "날것의; 가공하지 않은",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "unrefined",
+    "meaning": "가공하지 않은",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "natural",
+    "meaning": "가공하지 않은",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "raw material",
+    "meaning": "원료",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "grill",
+    "meaning": "석쇠; 석쇠에 굽다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "broil",
+    "meaning": "석쇠에 굽다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "outdoor grill",
+    "meaning": "야외용 석쇠",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "edible",
+    "meaning": "먹을 수 있는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "eatable",
+    "meaning": "먹을 수 있는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "inedible",
+    "meaning": "먹을 수 없는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "nutrition",
+    "meaning": "영양",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "malnutrition",
+    "meaning": "영양실조",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "nutritional",
+    "meaning": "영양상의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "vegetarian",
+    "meaning": "채식주의자; 채식주의(자)의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "vegetarianism",
+    "meaning": "채식주의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "vegetarian diet",
+    "meaning": "채식주의 식단",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "dairy",
+    "meaning": "우유의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "kettle",
+    "meaning": "주전자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "tray",
+    "meaning": "쟁반",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "serving tray",
+    "meaning": "음식을 낼 때 쓰는 쟁반",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "seasoning",
+    "meaning": "조미료",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "spice",
+    "meaning": "조미료",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "flavor",
+    "meaning": "(재료 특유의) 맛과 향; 풍미를 더하다(with)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "savor",
+    "meaning": "(재료 특유의) 맛과 향",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "give flavor to",
+    "meaning": "~에 맛을 더하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "scent",
+    "meaning": "향기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "smell",
+    "meaning": "향기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "fragrance",
+    "meaning": "향기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "leftover",
+    "meaning": "남은; 남은 음식",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "swallow",
+    "meaning": "삼키다; 삼키기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "beverage",
+    "meaning": "음료",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "drink",
+    "meaning": "음료",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "squeeze",
+    "meaning": "짜다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "ripen",
+    "meaning": "익다; 익히다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "ripe",
+    "meaning": "익은",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "paste",
+    "meaning": "반죽; 풀; 붙이다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "glue",
+    "meaning": "붙이다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "blend",
+    "meaning": "섞다; 조화되다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "mix",
+    "meaning": "섞다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "go well with",
+    "meaning": "조화되다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "match",
+    "meaning": "조화되다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "go off",
+    "meaning": "(음식 등이) 상하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "decay, spoil",
+    "meaning": "(음식 등이) 상하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "word": "feed on",
+    "meaning": "~을 먹고 살다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]
