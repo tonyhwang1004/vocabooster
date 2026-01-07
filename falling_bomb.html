@@ -869,7 +869,7 @@
       score = 0;
       hp = 3;
       index = 0;
-      level = {{ initial_level|default(1) }};
+      level = 1;
       wordsDropped = 0;
       bombSpeed = 1;  // 초기 속도 감소 (2 → 1)
       bombInterval = 5000;
@@ -956,37 +956,29 @@
       });
 
       document.getElementById('rankingBtn').addEventListener('click', () => {
-        window.location.href = '/ranking?from_result=true&date=Today';
+        window.location.href = 'ranking.html';
       });
 
       document.getElementById('homeBtn').addEventListener('click', () => {
-        window.location.href = '/';
+        window.location.href = 'index.html';
       });
 
-      // 결과 서버에 전송
+      // 결과 저장 (localStorage에 저장)
       const gameData = {
-        student_name: "{{ student_name|safe }}",
-        book: "{{ book|safe }}",
-        lesson: "{{ lesson|safe }}",
-        mode: "{{ mode|safe }}",
-        score: scorePercentage, // 100점 만점으로 환산된 점수 저장
-        total_questions: 100    // 100점 만점 기준
+        student_name: urlParams.get('name') || '학생',
+        book: urlParams.get('book') || '',
+        lesson: lessonList.join(','),
+        mode: 'eng_to_kor',
+        score: scorePercentage,
+        total_questions: 100,
+        date: new Date().toISOString()
       };
 
-      fetch('/game/save_result', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(gameData)
-      })
-      .then(response => response.json())
-      .then(data => {
-        console.log('결과 저장 성공:', data);
-      })
-      .catch(error => {
-        console.error('결과 저장 실패:', error);
-      });
+      // localStorage에 결과 저장
+      const savedResults = JSON.parse(localStorage.getItem('vocabooster_game_results') || '[]');
+      savedResults.push(gameData);
+      localStorage.setItem('vocabooster_game_results', JSON.stringify(savedResults));
+      console.log('결과 저장 완료:', gameData);
     }
 
     // 일시정지 함수
