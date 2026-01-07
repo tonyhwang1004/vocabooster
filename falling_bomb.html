@@ -384,56 +384,29 @@
   </div>
 
   <script>
+    // GitHub Pages 기본 경로 설정
+    function getBasePath() {
+      const pathname = window.location.pathname;
+      if (pathname.endsWith('.html')) {
+        return pathname.substring(0, pathname.lastIndexOf('/') + 1);
+      }
+      return pathname.endsWith('/') ? pathname : pathname + '/';
+    }
+    const BASE_PATH = getBasePath();
+
+    // URL 파라미터 파싱
+    const urlParams = new URLSearchParams(window.location.search);
+    const bookFolder = urlParams.get('folder') || urlParams.get('book') || '';
+    const lessonList = urlParams.get('lessons') ? urlParams.get('lessons').split(',') : [];
+
     // 게임 변수 초기화
     let words = [];
-    
-    // 서버에서 전달된 단어가 있으면 사용, 없으면 기본 단어 사용
-    try {
-      // JSON으로 변환된 단어 목록 가져오기 (Flask에서 tojson 필터 사용)
-      const serverWords = {{ words|tojson|safe }};
-      if (serverWords && Array.isArray(serverWords) && serverWords.length > 0) {
-        words = serverWords;
-        console.log(`서버에서 ${words.length}개의 단어를 불러왔습니다.`);
-      } else {
-        // 테스트용 단어 추가
-        words = [
-          {word: "apple", meaning: "사과"},
-          {word: "book", meaning: "책"},
-          {word: "computer", meaning: "컴퓨터"},
-          {word: "friend", meaning: "친구"},
-          {word: "school", meaning: "학교"},
-          {word: "water", meaning: "물"},
-          {word: "teacher", meaning: "선생님"},
-          {word: "student", meaning: "학생"},
-          {word: "pencil", meaning: "연필"},
-          {word: "phone", meaning: "전화기"}
-        ];
-        console.log("테스트용 단어 사용 중");
-      }
-    } catch (error) {
-      console.error("단어 데이터 로드 오류:", error);
-      // 오류 발생 시 기본 단어 사용
-      words = [
-        {word: "apple", meaning: "사과"},
-        {word: "book", meaning: "책"},
-        {word: "computer", meaning: "컴퓨터"},
-        {word: "friend", meaning: "친구"},
-        {word: "school", meaning: "학교"},
-        {word: "water", meaning: "물"},
-        {word: "teacher", meaning: "선생님"},
-        {word: "student", meaning: "학생"},
-        {word: "pencil", meaning: "연필"},
-        {word: "phone", meaning: "전화기"}
-      ];
-      console.log("오류 발생으로 테스트용 단어 사용 중");
-    }
-    
     let score = 0;
     let hp = 3;
     let index = 0;
     let activeBombs = [];
     let gameActive = false;
-    let level = {{ initial_level|default(1) }};
+    let level = 1;
     let bombSpeed = 1;
     let bombInterval = 5000;
     let bombTimer = null;
@@ -442,6 +415,108 @@
     let hintTimeout = null;
     let wordsDropped = 0;
     const maxLevel = 5;
+
+    // 단어 데이터 로드 함수
+    async function loadWords() {
+      try {
+        let allWords = [];
+        
+        console.log('BASE_PATH:', BASE_PATH);
+        console.log('Book folder:', bookFolder);
+        console.log('Lessons:', lessonList);
+
+        if (lessonList.length === 0 || !bookFolder) {
+          // URL 파라미터가 없으면 테스트용 단어 사용
+          console.log('URL 파라미터 없음, 테스트 단어 사용');
+          words = [
+            {word: "apple", meaning: "사과"},
+            {word: "book", meaning: "책"},
+            {word: "computer", meaning: "컴퓨터"},
+            {word: "friend", meaning: "친구"},
+            {word: "school", meaning: "학교"},
+            {word: "water", meaning: "물"},
+            {word: "teacher", meaning: "선생님"},
+            {word: "student", meaning: "학생"},
+            {word: "pencil", meaning: "연필"},
+            {word: "phone", meaning: "전화기"}
+          ];
+          return;
+        }
+
+        for (const lesson of lessonList) {
+          const pathsToTry = [
+            BASE_PATH + `data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`,
+            `./data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`,
+            `/vocabooster/data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`
+          ];
+          
+          let loaded = false;
+          for (const url of pathsToTry) {
+            try {
+              console.log('Trying URL:', url);
+              const response = await fetch(url);
+              if (response.ok) {
+                const data = await response.json();
+                // JSON 데이터 변환 (eng/kor → word/meaning)
+                const convertedWords = data.map(item => ({
+                  word: item.eng,
+                  meaning: item.kor
+                }));
+                allWords = allWords.concat(convertedWords);
+                console.log('Success! Loaded', data.length, 'words from', url);
+                loaded = true;
+                break;
+              }
+            } catch (e) {
+              console.log('Failed:', url, e.message);
+            }
+          }
+          
+          if (!loaded) {
+            console.warn('Could not load lesson:', lesson);
+          }
+        }
+
+        if (allWords.length > 0) {
+          words = shuffleArray(allWords);
+          console.log('총', words.length, '개의 단어 로드 완료');
+        } else {
+          // 단어 로드 실패 시 테스트 단어 사용
+          console.log('단어 로드 실패, 테스트 단어 사용');
+          words = [
+            {word: "apple", meaning: "사과"},
+            {word: "book", meaning: "책"},
+            {word: "computer", meaning: "컴퓨터"},
+            {word: "friend", meaning: "친구"},
+            {word: "school", meaning: "학교"},
+            {word: "water", meaning: "물"},
+            {word: "teacher", meaning: "선생님"},
+            {word: "student", meaning: "학생"},
+            {word: "pencil", meaning: "연필"},
+            {word: "phone", meaning: "전화기"}
+          ];
+        }
+      } catch (error) {
+        console.error('단어 로드 오류:', error);
+        words = [
+          {word: "apple", meaning: "사과"},
+          {word: "book", meaning: "책"},
+          {word: "computer", meaning: "컴퓨터"},
+          {word: "friend", meaning: "친구"},
+          {word: "school", meaning: "학교"}
+        ];
+      }
+    }
+
+    // 배열 셔플
+    function shuffleArray(array) {
+      const arr = [...array];
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      return arr;
+    }
 
     // 레벨에 따른 속도 설정 (더 완만하게 조정)
     const levelSpeeds = {
@@ -989,8 +1064,14 @@
     });
 
     // 브라우저가 완전히 로드된 후 게임 초기화
-    document.addEventListener('DOMContentLoaded', function() {
-      console.log("DOM이 로드되었습니다. 게임 초기화를 시작합니다.");
+    document.addEventListener('DOMContentLoaded', async function() {
+      console.log("DOM이 로드되었습니다. 단어를 로드합니다.");
+      
+      // 먼저 단어 로드
+      await loadWords();
+      console.log("단어 로드 완료:", words.length, "개");
+      
+      // 게임 초기화
       updateHearts();
       startCountdown();
     });
