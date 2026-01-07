@@ -448,6 +448,7 @@
                 const book = booksData.find(b => b.folder === bookFolder);
                 const bookName = book ? book.name : bookFolder;
                 const lessons = Array.from(document.querySelectorAll('input[name="lessons"]:checked')).map(cb => cb.value);
+                const mode = document.querySelector('input[name="test_mode"]:checked').value;
 
                 if (!bookFolder) {
                     alert('책을 선택해주세요.');
@@ -458,7 +459,7 @@
                     return;
                 }
 
-                const url = `falling_bomb.html?book=${encodeURIComponent(bookName)}&folder=${encodeURIComponent(bookFolder)}&lessons=${encodeURIComponent(lessons.join(','))}`;
+                const url = `falling_bomb.html?book=${encodeURIComponent(bookName)}&folder=${encodeURIComponent(bookFolder)}&lessons=${encodeURIComponent(lessons.join(','))}&mode=${mode}`;
                 window.location.href = url;
             });
         });
