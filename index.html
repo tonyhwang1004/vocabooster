@@ -49,6 +49,7 @@
             border-radius: 8px;
             padding: 8px;
             font-size: 14px;
+            width: 100%;
         }
         select:focus, input:focus {
             outline: none;
@@ -94,19 +95,6 @@
             font-weight: bold;
             transform: scale(1.1);
         }
-        .spinner {
-            display: inline-block;
-            width: 1rem;
-            height: 1rem;
-            border: 0.15em solid currentColor;
-            border-right-color: transparent;
-            border-radius: 50%;
-            animation: spinner-border .75s linear infinite;
-            margin-right: 0.5rem;
-        }
-        @keyframes spinner-border {
-            to { transform: rotate(360deg); }
-        }
         #error-message {
             display: none;
             color: #ff9e9e;
@@ -138,6 +126,7 @@
         }
         .lesson-checkbox input[type="checkbox"] {
             margin-right: 10px;
+            width: auto;
         }
         .lesson-checkbox label {
             margin: 0;
@@ -168,118 +157,48 @@
         .selection-helpers button:hover {
             background: rgba(255, 255, 255, 0.3);
         }
-        .btn-today-result {
-            display: inline-block;
-            margin-top: 12px;
-            padding: 10px 20px;
-            font-weight: bold;
-            background: linear-gradient(to right, #4facfe, #00f2fe);
-            color: white;
-            border-radius: 12px;
-            font-size: 16px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-            transition: all 0.3s ease;
-            text-decoration: none;
-        }
-        .btn-today-result:hover {
-            background: linear-gradient(to right, #43e97b, #38f9d7);
-            transform: translateY(-2px);
-            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
-        }
-        .analysis-section {
-            margin-top: 25px;
-            background: rgba(255, 255, 255, 0.15);
-            border-radius: 12px;
-            padding: 20px;
-        }
-        .analysis-title {
-            color: #fff;
-            font-size: 18px;
-            margin-bottom: 15px;
-        }
-        .analysis-form .input-group {
-            display: flex;
-            gap: 10px;
-        }
-        .analysis-input {
-            flex: 1;
-            padding: 10px;
-            border-radius: 8px;
+        .btn-game {
+            padding: 12px 28px;
+            font-size: 1rem;
+            background: linear-gradient(to right, #ff4b2b, #ff416c);
             border: none;
-        }
-        .btn-analysis {
-            background: linear-gradient(to right, #667eea, #764ba2);
+            border-radius: 30px;
             color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 8px;
             cursor: pointer;
-            transition: all 0.3s;
+            box-shadow: 0 0 10px #ff4b2b;
+            transition: 0.3s;
+            margin-top: 15px;
         }
-        .btn-analysis:hover {
+        .btn-game:hover {
             transform: scale(1.05);
         }
-        .divider {
-            height: 1px;
-            background: rgba(255, 255, 255, 0.2);
+        .game-section {
             margin: 25px 0;
-        }
-        .app-footer {
-            margin-top: 20px;
-            padding: 20px 0;
             text-align: center;
         }
-        .app-title {
-            font-size: 24px;
-            font-weight: bold;
-            margin-bottom: 5px;
-        }
-        .app-subtitle {
-            font-size: 14px;
-            opacity: 0.8;
-            margin-bottom: 10px;
-        }
-        .provider {
-            font-size: 13px;
-            margin-bottom: 15px;
-        }
-        .footer-nav {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            flex-wrap: wrap;
-            margin-bottom: 15px;
-        }
-        .footer-link {
-            color: white;
-            text-decoration: none;
-            font-size: 13px;
-            opacity: 0.8;
-            transition: opacity 0.2s;
-        }
-        .footer-link:hover {
-            opacity: 1;
-            color: white;
-        }
-        .copyright {
+        .footer {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255,255,255,0.2);
             font-size: 12px;
-            opacity: 0.6;
+            opacity: 0.8;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h2>VocaBooster</h2>
+        <p>초중고 학생을 위한 영어 단어 암기 프로그램</p>
 
         <div id="error-message"></div>
 
         <form id="test-form">
             <label for="student_name">Enter Your Name:</label>
-            <input type="text" class="form-control" id="student_name" name="student_name" required>
+            <input type="text" id="student_name" name="student_name" required placeholder="이름을 입력하세요">
 
             <label for="book">Select Book:</label>
-            <select class="form-select" id="book" name="book" required>
-                <option value="">Select a book</option>
+            <select id="book" name="book" required>
+                <option value="">Loading books...</option>
             </select>
 
             <label>Select Lessons:</label>
@@ -297,7 +216,7 @@
             </div>
 
             <label for="question_count">Number of Questions:</label>
-            <select class="form-select" id="question_count" name="question_count">
+            <select id="question_count" name="question_count">
                 <option value="-1">원래 개수대로</option>
                 <option value="20">20 Questions</option>
                 <option value="30">30 Questions</option>
@@ -308,7 +227,7 @@
             </select>
 
             <label>Choose Test Mode:</label>
-            <div id="mode-hint" style="font-size: 13px; color: #ffeaa7; margin-top: 5px;">
+            <div style="font-size: 13px; color: #ffeaa7; margin-top: 5px;">
                 ※ 초·중등 학생은 <strong>한영 모드</strong>, 고등학생은 <strong>영한 모드</strong>를 주로 선택합니다.
             </div>
             <div class="radio-group">
@@ -318,247 +237,198 @@
                 <label for="eng_to_kor">영한 (English → Korean)</label>
             </div>
 
-            <button type="submit" class="btn btn-custom" id="start-test-btn">Start Test</button>
+            <button type="submit" class="btn-custom" id="start-test-btn">Start Test</button>
         </form>
 
-        <div style="margin: 25px 0; text-align: center;">
-            <h4 style="color: #fff;">🎮 단어 게임 모드</h4>
+        <div class="game-section">
+            <h4>🎮 단어 게임 모드</h4>
             <p style="color: #ccc; margin-bottom: 12px;">지루한 테스트 대신! 단어 폭탄을 맞추며 재미있게 공부해보세요!</p>
-            <button id="bombGameBtn" style="
-                padding: 12px 28px;
-                font-size: 1rem;
-                background: linear-gradient(to right, #ff4b2b, #ff416c);
-                border: none;
-                border-radius: 30px;
-                color: white;
-                cursor: pointer;
-                box-shadow: 0 0 10px #ff4b2b;
-                transition: 0.3s;
-            " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+            <button id="bombGameBtn" class="btn-game">
                 💣 Falling Word Bomb 게임 시작하기
             </button>
         </div>
 
-        <a href="ranking.html" class="btn-today-result">시험결과 보기</a>
-
-        <div class="analysis-section">
-            <h4 class="analysis-title">학습 성과 분석</h4>
-            <div class="input-group">
-                <input type="text" id="analysis_name" class="form-control analysis-input" placeholder="학생 이름을 입력하세요">
-                <button type="button" id="btn-analysis" class="btn-analysis">
-                    <i class="analysis-icon">📈</i> 학습 성과 보기
-                </button>
-            </div>
+        <div class="footer">
+            <p><strong>VOCABOOSTER</strong> - 초중고 영어 단어 암기프로그램</p>
+            <p>제공: 김엄마관리형독서실 & 수리딩어학원</p>
+            <p>© 2025 VocaBooster. All Rights Reserved.</p>
         </div>
-
-        <div class="divider"></div>
-
-        <footer class="app-footer">
-            <div class="footer-content">
-                <h2 class="app-title">VOCABOOSTER</h2>
-                <p class="app-subtitle">초중고 영어 단어 암기프로그램</p>
-                <p class="provider">제공: <strong>김엄마관리형독서실 & 수리딩어학원</strong></p>
-                <div class="footer-nav">
-                    <a href="http://www.kimsmomsongdo.co.kr/wordbooster" class="footer-link" target="_blank">📘 이용방법</a>
-                    <a href="tel:01095794429" class="footer-link">📞 문의: 010-9579-4429</a>
-                </div>
-                <p class="copyright">© <span id="current-year">2025</span> VocaBooster. All Rights Reserved.</p>
-            </div>
-        </footer>
     </div>
 
     <script>
-        // 전역 변수로 교재 데이터 저장
-        let booksData = [];
-        
-        // GitHub Pages 기본 경로 설정 - 여러 경로 시도
+        // GitHub Pages 기본 경로 설정
         function getBasePath() {
-            // 현재 페이지 URL에서 경로 추출
             const pathname = window.location.pathname;
-            
-            // index.html을 제거하고 디렉토리 경로만 추출
             if (pathname.endsWith('.html')) {
                 return pathname.substring(0, pathname.lastIndexOf('/') + 1);
             }
-            // 경로가 /로 끝나지 않으면 / 추가
             return pathname.endsWith('/') ? pathname : pathname + '/';
         }
-        
         const BASE_PATH = getBasePath();
-        console.log('BASE_PATH:', BASE_PATH);
 
-        document.addEventListener('DOMContentLoaded', function() {
-            const bookSelect = document.getElementById('book');
-            const lessonContainer = document.getElementById('lesson-checkboxes');
-            const errorMessage = document.getElementById('error-message');
-            const testForm = document.getElementById('test-form');
-            const selectedLessonsCount = document.getElementById('selected-lessons-count');
+        // 전역 변수
+        let booksData = [];
 
-            // 현재 연도 업데이트
-            document.getElementById('current-year').textContent = new Date().getFullYear();
+        // DOM 요소
+        const bookSelect = document.getElementById('book');
+        const lessonContainer = document.getElementById('lesson-checkboxes');
+        const errorMessage = document.getElementById('error-message');
+        const testForm = document.getElementById('test-form');
+        const selectedLessonsCount = document.getElementById('selected-lessons-count');
 
-            // 책 목록 로드
-            async function loadBooks() {
-                try {
-                    bookSelect.innerHTML = '<option value="">Loading books...</option>';
-                    
-                    // 여러 경로 시도
-                    const pathsToTry = [
-                        BASE_PATH + 'data/books.json',
-                        './data/books.json',
-                        'data/books.json',
-                        '/vocabooster/data/books.json'
-                    ];
-                    
-                    let response = null;
-                    let successPath = '';
-                    
-                    for (const path of pathsToTry) {
-                        try {
-                            console.log('Trying path:', path);
-                            const resp = await fetch(path);
-                            if (resp.ok) {
-                                response = resp;
-                                successPath = path;
-                                console.log('Success with path:', path);
-                                break;
-                            }
-                        } catch (e) {
-                            console.log('Failed path:', path, e);
+        // 책 목록 로드
+        async function loadBooks() {
+            try {
+                const pathsToTry = [
+                    BASE_PATH + 'data/books.json',
+                    './data/books.json',
+                    '/vocabooster/data/books.json'
+                ];
+
+                let loaded = false;
+                for (const url of pathsToTry) {
+                    try {
+                        console.log('Trying books URL:', url);
+                        const response = await fetch(url);
+                        if (response.ok) {
+                            booksData = await response.json();
+                            console.log('Books loaded:', booksData.length);
+                            loaded = true;
+                            break;
                         }
+                    } catch (e) {
+                        console.log('Failed:', url);
                     }
-                    
-                    if (!response) {
-                        throw new Error('모든 경로에서 books.json을 찾을 수 없습니다');
-                    }
-                    
-                    booksData = await response.json();
-
-                    if (!booksData || booksData.length === 0) {
-                        showError("사용 가능한 책 목록이 없습니다.");
-                        return;
-                    }
-
-                    bookSelect.innerHTML = '<option value="">Select a book</option>';
-                    booksData.forEach(book => {
-                        const option = document.createElement('option');
-                        option.value = book.name;
-                        option.textContent = book.name;
-                        option.setAttribute('data-folder', book.folder || book.name);
-                        bookSelect.appendChild(option);
-                    });
-
-                    hideError();
-                } catch (error) {
-                    console.error('책 목록 로드 실패:', error);
-                    showError("책 목록을 불러오는데 실패했습니다.");
                 }
-            }
 
-            // 레슨 목록 로드
-            function loadLessonsForBook(bookName) {
-                if (!bookName) {
-                    lessonContainer.innerHTML = '<div class="text-center py-3">Please select a book first</div>';
+                if (!loaded || booksData.length === 0) {
+                    showError('책 목록을 불러올 수 없습니다.');
                     return;
                 }
 
-                const book = booksData.find(b => b.name === bookName);
-                if (!book || !book.lessons || book.lessons.length === 0) {
-                    lessonContainer.innerHTML = '<div class="text-center py-3">이 책에 레슨이 없습니다</div>';
-                    return;
-                }
-
-                lessonContainer.innerHTML = '';
-                book.lessons.forEach(lesson => {
-                    const checkboxDiv = document.createElement('div');
-                    checkboxDiv.className = 'lesson-checkbox';
-
-                    const checkbox = document.createElement('input');
-                    checkbox.type = 'checkbox';
-                    checkbox.name = 'lessons';
-                    checkbox.value = lesson;
-                    checkbox.id = `lesson-${lesson}`;
-                    checkbox.addEventListener('change', updateSelectedCount);
-
-                    const label = document.createElement('label');
-                    label.setAttribute('for', `lesson-${lesson}`);
-                    
-                    if (bookName === '수능2000' || bookName.startsWith('능률')) {
-                        label.textContent = lesson;
-                    } else {
-                        label.textContent = `Lesson ${lesson}`;
-                    }
-
-                    checkboxDiv.appendChild(checkbox);
-                    checkboxDiv.appendChild(label);
-                    lessonContainer.appendChild(checkboxDiv);
+                // 책 옵션 추가
+                bookSelect.innerHTML = '<option value="">Select a book</option>';
+                booksData.forEach(book => {
+                    const option = document.createElement('option');
+                    option.value = book.folder;
+                    option.textContent = book.name;
+                    option.dataset.folder = book.folder;
+                    bookSelect.appendChild(option);
                 });
 
-                updateSelectedCount();
+                hideError();
+            } catch (error) {
+                console.error('책 목록 로드 실패:', error);
+                showError('책 목록을 불러오는데 실패했습니다.');
+            }
+        }
+
+        // 레슨 목록 표시
+        function loadLessonsForBook(bookFolder) {
+            if (!bookFolder) {
+                lessonContainer.innerHTML = '<div class="text-center py-3">Please select a book first</div>';
+                return;
             }
 
-            // 선택된 레슨 수 업데이트
-            function updateSelectedCount() {
-                const checked = document.querySelectorAll('input[name="lessons"]:checked').length;
-                selectedLessonsCount.textContent = checked;
+            const book = booksData.find(b => b.folder === bookFolder);
+            if (!book) {
+                lessonContainer.innerHTML = '<div class="text-center py-3">책 정보를 찾을 수 없습니다</div>';
+                return;
             }
 
-            // 오류 메시지 표시/숨김
-            function showError(msg) {
-                errorMessage.textContent = msg;
-                errorMessage.style.display = 'block';
-            }
+            lessonContainer.innerHTML = '';
+            book.lessons.forEach(lesson => {
+                const checkboxDiv = document.createElement('div');
+                checkboxDiv.className = 'lesson-checkbox';
 
-            function hideError() {
-                errorMessage.style.display = 'none';
-            }
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.name = 'lessons';
+                checkbox.value = lesson;
+                checkbox.id = `lesson-${lesson}`;
+                checkbox.addEventListener('change', updateSelectedCount);
 
-            // 이벤트 리스너
+                const label = document.createElement('label');
+                label.setAttribute('for', `lesson-${lesson}`);
+                label.textContent = lesson;
+
+                checkboxDiv.appendChild(checkbox);
+                checkboxDiv.appendChild(label);
+                lessonContainer.appendChild(checkboxDiv);
+            });
+
+            updateSelectedCount();
+        }
+
+        // 선택된 레슨 수 업데이트
+        function updateSelectedCount() {
+            const checkedLessons = document.querySelectorAll('input[name="lessons"]:checked');
+            selectedLessonsCount.textContent = checkedLessons.length;
+        }
+
+        // 오류 메시지 표시
+        function showError(message) {
+            errorMessage.textContent = message;
+            errorMessage.style.display = 'block';
+        }
+
+        // 오류 메시지 숨기기
+        function hideError() {
+            errorMessage.style.display = 'none';
+        }
+
+        // 이벤트 리스너
+        document.addEventListener('DOMContentLoaded', function() {
+            loadBooks();
+
+            // 책 선택
             bookSelect.addEventListener('change', function() {
                 loadLessonsForBook(this.value);
             });
 
-            // 선택 도우미 버튼
+            // 전체 선택
             document.getElementById('select-all').addEventListener('click', function() {
                 document.querySelectorAll('input[name="lessons"]').forEach(cb => cb.checked = true);
                 updateSelectedCount();
             });
 
+            // 전체 해제
             document.getElementById('select-none').addEventListener('click', function() {
                 document.querySelectorAll('input[name="lessons"]').forEach(cb => cb.checked = false);
                 updateSelectedCount();
             });
 
+            // 처음 5개
             document.getElementById('select-first-5').addEventListener('click', function() {
                 const checkboxes = document.querySelectorAll('input[name="lessons"]');
                 checkboxes.forEach((cb, i) => cb.checked = i < 5);
                 updateSelectedCount();
             });
 
+            // 마지막 5개
             document.getElementById('select-last-5').addEventListener('click', function() {
                 const checkboxes = document.querySelectorAll('input[name="lessons"]');
-                const total = checkboxes.length;
-                checkboxes.forEach((cb, i) => cb.checked = i >= total - 5);
+                checkboxes.forEach((cb, i) => cb.checked = i >= checkboxes.length - 5);
                 updateSelectedCount();
             });
 
-            // 폼 제출
+            // 테스트 폼 제출
             testForm.addEventListener('submit', function(e) {
                 e.preventDefault();
 
-                const studentName = document.getElementById('student_name').value.trim();
-                const book = bookSelect.value;
-                const selectedOption = bookSelect.options[bookSelect.selectedIndex];
-                const bookFolder = selectedOption.getAttribute('data-folder') || book;
+                const studentName = document.getElementById('student_name').value;
+                const bookFolder = bookSelect.value;
+                const book = booksData.find(b => b.folder === bookFolder);
+                const bookName = book ? book.name : bookFolder;
                 const lessons = Array.from(document.querySelectorAll('input[name="lessons"]:checked')).map(cb => cb.value);
-                const questionCount = document.getElementById('question_count').value;
-                const testMode = document.querySelector('input[name="test_mode"]:checked').value;
+                const count = document.getElementById('question_count').value;
+                const mode = document.querySelector('input[name="test_mode"]:checked').value;
 
                 if (!studentName) {
                     showError('이름을 입력해주세요.');
                     return;
                 }
-                if (!book) {
+                if (!bookFolder) {
                     showError('책을 선택해주세요.');
                     return;
                 }
@@ -567,28 +437,19 @@
                     return;
                 }
 
-                // 테스트 페이지로 이동
-                const params = new URLSearchParams({
-                    name: studentName,
-                    book: book,
-                    folder: bookFolder,
-                    lessons: lessons.join(','),
-                    count: questionCount,
-                    mode: testMode
-                });
-                window.location.href = `test.html?${params.toString()}`;
+                // test.html로 이동
+                const url = `test.html?name=${encodeURIComponent(studentName)}&book=${encodeURIComponent(bookName)}&folder=${encodeURIComponent(bookFolder)}&lessons=${encodeURIComponent(lessons.join(','))}&count=${count}&mode=${mode}`;
+                window.location.href = url;
             });
 
-            // 폭탄 게임 버튼
+            // 게임 버튼
             document.getElementById('bombGameBtn').addEventListener('click', function() {
-                const book = bookSelect.value;
-                const selectedOption = bookSelect.options[bookSelect.selectedIndex];
-                const bookFolder = selectedOption.getAttribute('data-folder') || book;
+                const bookFolder = bookSelect.value;
+                const book = booksData.find(b => b.folder === bookFolder);
+                const bookName = book ? book.name : bookFolder;
                 const lessons = Array.from(document.querySelectorAll('input[name="lessons"]:checked')).map(cb => cb.value);
-                const count = document.getElementById('question_count').value || '40';
-                const mode = document.querySelector('input[name="test_mode"]:checked').value;
 
-                if (!book) {
+                if (!bookFolder) {
                     alert('책을 선택해주세요.');
                     return;
                 }
@@ -597,37 +458,9 @@
                     return;
                 }
 
-                const params = new URLSearchParams({
-                    book: book,
-                    folder: bookFolder,
-                    lessons: lessons.join(','),
-                    count: count,
-                    mode: mode
-                });
-                window.location.href = `falling_bomb.html?${params.toString()}`;
+                const url = `falling_bomb.html?book=${encodeURIComponent(bookName)}&folder=${encodeURIComponent(bookFolder)}&lessons=${encodeURIComponent(lessons.join(','))}`;
+                window.location.href = url;
             });
-
-            // 학습 성과 분석 버튼
-            document.getElementById('btn-analysis').addEventListener('click', function() {
-                const name = document.getElementById('analysis_name').value.trim();
-                if (!name) {
-                    alert('학생 이름을 입력해주세요.');
-                    return;
-                }
-                // 로컬 스토리지에서 결과 확인 (GitHub Pages에서는 서버가 없으므로)
-                const results = JSON.parse(localStorage.getItem('vocabooster_results') || '[]');
-                const studentResults = results.filter(r => r.name === name);
-                
-                if (studentResults.length === 0) {
-                    alert(`"${name}" 학생의 학습 기록이 없습니다.`);
-                    return;
-                }
-                
-                window.location.href = `student_analysis.html?name=${encodeURIComponent(name)}`;
-            });
-
-            // 초기 로드
-            loadBooks();
         });
     </script>
 </body>
