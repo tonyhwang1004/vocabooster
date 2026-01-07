@@ -398,6 +398,7 @@
     const urlParams = new URLSearchParams(window.location.search);
     const bookFolder = urlParams.get('folder') || urlParams.get('book') || '';
     const lessonList = urlParams.get('lessons') ? urlParams.get('lessons').split(',') : [];
+    const testMode = urlParams.get('mode') || 'kor_to_eng'; // 기본값: 한영
 
     // 게임 변수 초기화
     let words = [];
@@ -424,6 +425,7 @@
         console.log('BASE_PATH:', BASE_PATH);
         console.log('Book folder:', bookFolder);
         console.log('Lessons:', lessonList);
+        console.log('Test mode:', testMode);
 
         if (lessonList.length === 0 || !bookFolder) {
           // URL 파라미터가 없으면 테스트용 단어 사용
@@ -445,9 +447,9 @@
 
         for (const lesson of lessonList) {
           const pathsToTry = [
-            BASE_PATH + `data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`,
-            `./data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`,
-            `/vocabooster/data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`
+            BASE_PATH + `data/books/${bookFolder}/${lesson}.json`,
+            `./data/books/${bookFolder}/${lesson}.json`,
+            `/vocabooster/data/books/${bookFolder}/${lesson}.json`
           ];
           
           let loaded = false;
@@ -457,10 +459,12 @@
               const response = await fetch(url);
               if (response.ok) {
                 const data = await response.json();
-                // JSON 데이터 변환 (eng/kor → word/meaning)
+                // JSON 데이터 변환 - 모드에 따라 다르게 설정
+                // 한영(kor_to_eng): 한글이 떨어지고 → 영어 입력
+                // 영한(eng_to_kor): 영어가 떨어지고 → 한글 입력
                 const convertedWords = data.map(item => ({
-                  word: item.eng,
-                  meaning: item.kor
+                  word: testMode === 'kor_to_eng' ? item.kor : item.eng,
+                  meaning: testMode === 'kor_to_eng' ? item.eng : item.kor
                 }));
                 allWords = allWords.concat(convertedWords);
                 console.log('Success! Loaded', data.length, 'words from', url);
