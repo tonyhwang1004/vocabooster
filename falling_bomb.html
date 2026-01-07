@@ -427,21 +427,32 @@
         console.log('Lessons:', lessonList);
         console.log('Test mode:', testMode);
 
+        // 기본 테스트 단어 데이터
+        const testWordsData = [
+          {eng: "apple", kor: "사과"},
+          {eng: "book", kor: "책"},
+          {eng: "computer", kor: "컴퓨터"},
+          {eng: "friend", kor: "친구"},
+          {eng: "school", kor: "학교"},
+          {eng: "water", kor: "물"},
+          {eng: "teacher", kor: "선생님"},
+          {eng: "student", kor: "학생"},
+          {eng: "pencil", kor: "연필"},
+          {eng: "phone", kor: "전화기"}
+        ];
+
+        // 테스트 단어를 모드에 맞게 변환하는 함수
+        function convertTestWords(data) {
+          return data.map(item => ({
+            word: testMode === 'kor_to_eng' ? item.kor : item.eng,
+            meaning: testMode === 'kor_to_eng' ? item.eng : item.kor
+          }));
+        }
+
         if (lessonList.length === 0 || !bookFolder) {
           // URL 파라미터가 없으면 테스트용 단어 사용
           console.log('URL 파라미터 없음, 테스트 단어 사용');
-          words = [
-            {word: "apple", meaning: "사과"},
-            {word: "book", meaning: "책"},
-            {word: "computer", meaning: "컴퓨터"},
-            {word: "friend", meaning: "친구"},
-            {word: "school", meaning: "학교"},
-            {word: "water", meaning: "물"},
-            {word: "teacher", meaning: "선생님"},
-            {word: "student", meaning: "학생"},
-            {word: "pencil", meaning: "연필"},
-            {word: "phone", meaning: "전화기"}
-          ];
+          words = convertTestWords(testWordsData);
           return;
         }
 
@@ -487,28 +498,11 @@
         } else {
           // 단어 로드 실패 시 테스트 단어 사용
           console.log('단어 로드 실패, 테스트 단어 사용');
-          words = [
-            {word: "apple", meaning: "사과"},
-            {word: "book", meaning: "책"},
-            {word: "computer", meaning: "컴퓨터"},
-            {word: "friend", meaning: "친구"},
-            {word: "school", meaning: "학교"},
-            {word: "water", meaning: "물"},
-            {word: "teacher", meaning: "선생님"},
-            {word: "student", meaning: "학생"},
-            {word: "pencil", meaning: "연필"},
-            {word: "phone", meaning: "전화기"}
-          ];
+          words = convertTestWords(testWordsData);
         }
       } catch (error) {
         console.error('단어 로드 오류:', error);
-        words = [
-          {word: "apple", meaning: "사과"},
-          {word: "book", meaning: "책"},
-          {word: "computer", meaning: "컴퓨터"},
-          {word: "friend", meaning: "친구"},
-          {word: "school", meaning: "학교"}
-        ];
+        words = convertTestWords(testWordsData);
       }
     }
 
