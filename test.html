@@ -409,7 +409,12 @@
                     const question = testMode === 'kor_to_eng' ? word.kor : word.eng;
                     const answer = testMode === 'kor_to_eng' ? word.eng : word.kor;
                     
-                    // 정답 개수 계산 (쉼표로 구분된 답변)
+                    // 정답 개수: JSON 데이터의 answer_count 필드 사용
+                    const requiredCount = testMode === 'kor_to_eng' 
+                        ? (word.answer_count_eng || 1) 
+                        : (word.answer_count_kor || 1);
+                    
+                    // 정답 리스트 (쉼표로 구분)
                     const answerList = answer.split(',').map(a => a.trim()).filter(a => a);
                     
                     return {
@@ -417,7 +422,7 @@
                         question: question,
                         answer: answer,
                         answerList: answerList,
-                        requiredCount: answerList.length,
+                        requiredCount: requiredCount,
                         originalWord: word
                     };
                 });
@@ -662,16 +667,20 @@
                 let isCorrect = false;
                 
                 if (testMode === 'eng_to_kor') {
-                    // 영→한: 선택한 답변이 모든 정답을 포함하는지 확인
+                    // 영→한: 선택한 답변이 필요한 개수만큼 정답을 포함하는지 확인
                     const userAnswers = userAnswer.split(',').map(a => a.trim()).filter(a => a);
+                    const requiredCount = q.requiredCount;
                     
-                    // 모든 정답이 사용자 답변에 포함되어야 함
-                    const allCorrectIncluded = correctAnswers.every(ca => 
-                        userAnswers.some(ua => ua === ca || ua.includes(ca) || ca.includes(ua))
-                    );
+                    // 사용자가 선택한 답변 중 정답과 일치하는 개수 계산
+                    let correctCount = 0;
+                    userAnswers.forEach(ua => {
+                        if (correctAnswers.some(ca => ua === ca || ua.includes(ca) || ca.includes(ua))) {
+                            correctCount++;
+                        }
+                    });
                     
-                    // 사용자가 선택한 개수가 정답 개수와 같아야 함 (추가 선택 방지)
-                    isCorrect = allCorrectIncluded && userAnswers.length === correctAnswers.length;
+                    // 필요한 개수만큼 정답을 맞추고, 선택 개수도 정확해야 함
+                    isCorrect = correctCount >= requiredCount && userAnswers.length === requiredCount;
                 } else {
                     // 한→영: 기존 방식
                     isCorrect = correctAnswers.some(ans => 
