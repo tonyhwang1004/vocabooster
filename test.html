@@ -23,6 +23,10 @@
         .timer-box {
             text-align: center;
             margin-bottom: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
         }
         .timer {
             display: inline-flex;
@@ -36,6 +40,34 @@
         }
         .timer-icon {
             margin-right: 8px;
+        }
+        /* 🆕 반응 시간 타이머 스타일 */
+        .response-timer {
+            display: inline-flex;
+            align-items: center;
+            background-color: white;
+            border-radius: 30px;
+            padding: 8px 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+        .response-timer.fast {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .response-timer.slow {
+            background-color: #fff3cd;
+            color: #856404;
+        }
+        .response-timer.very-slow {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        .response-label {
+            font-size: 12px;
+            margin-right: 8px;
+            opacity: 0.8;
         }
         .progress-container {
             display: flex;
@@ -263,6 +295,168 @@
             font-weight: bold;
             margin-left: 10px;
         }
+        /* 🆕 반응 시간 안내 박스 */
+        .speed-guide {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 10px;
+            padding: 12px 15px;
+            margin-bottom: 15px;
+            font-size: 13px;
+            text-align: center;
+        }
+        .speed-guide .speed-badges {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 8px;
+            flex-wrap: wrap;
+        }
+        .speed-badge {
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        .speed-badge.fast {
+            background-color: rgba(212, 237, 218, 0.9);
+            color: #155724;
+        }
+        .speed-badge.slow {
+            background-color: rgba(255, 243, 205, 0.9);
+            color: #856404;
+        }
+        .speed-badge.very-slow {
+            background-color: rgba(248, 215, 218, 0.9);
+            color: #721c24;
+        }
+        /* 🆕 답변 완료 표시 */
+        .answered-indicator {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 12px;
+            padding: 3px 8px;
+            border-radius: 10px;
+            display: none;
+        }
+        .answered-indicator.fast {
+            background-color: #d4edda;
+            color: #155724;
+            display: inline-block;
+        }
+        .answered-indicator.slow {
+            background-color: #fff3cd;
+            color: #856404;
+            display: inline-block;
+        }
+        .question-card {
+            position: relative;
+        }
+        
+        /* 🆕 2번 개선: 스피드 모드 스타일 */
+        .speed-mode-banner {
+            background: linear-gradient(135deg, #ff416c, #ff4b2b);
+            color: white;
+            border-radius: 10px;
+            padding: 12px 15px;
+            margin-bottom: 15px;
+            text-align: center;
+            font-weight: bold;
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.8; }
+        }
+        .countdown-container {
+            display: none;
+            margin-bottom: 15px;
+        }
+        .countdown-container.active {
+            display: block;
+        }
+        .countdown-bar {
+            height: 8px;
+            background: #e2e8f0;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-bottom: 5px;
+        }
+        .countdown-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #48bb78, #38a169);
+            border-radius: 4px;
+            transition: width 0.1s linear;
+        }
+        .countdown-fill.warning {
+            background: linear-gradient(90deg, #ecc94b, #d69e2e);
+        }
+        .countdown-fill.danger {
+            background: linear-gradient(90deg, #fc8181, #e53e3e);
+        }
+        .countdown-text {
+            text-align: center;
+            font-size: 14px;
+            font-weight: bold;
+            color: #4a5568;
+        }
+        .countdown-text.warning {
+            color: #d69e2e;
+        }
+        .countdown-text.danger {
+            color: #e53e3e;
+            animation: blink 0.5s infinite;
+        }
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        .timeout-flash {
+            animation: timeoutFlash 0.5s ease;
+        }
+        @keyframes timeoutFlash {
+            0%, 100% { background-color: white; }
+            50% { background-color: #fed7d7; }
+        }
+        
+        /* 🆕 5번 개선: 예문 모드 스타일 */
+        .example-sentence {
+            background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%);
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 15px;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #3730a3;
+        }
+        .example-sentence .blank {
+            display: inline-block;
+            min-width: 80px;
+            border-bottom: 2px solid #4f46e5;
+            margin: 0 5px;
+            text-align: center;
+        }
+        .word-forms-hint {
+            background: rgba(79, 70, 229, 0.1);
+            border-left: 3px solid #4f46e5;
+            padding: 10px 15px;
+            margin-bottom: 15px;
+            font-size: 13px;
+            color: #4338ca;
+        }
+        .word-forms-hint strong {
+            color: #312e81;
+        }
+        .context-badge {
+            display: inline-block;
+            background: #4f46e5;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            margin-left: 10px;
+        }
     </style>
 </head>
 <body>
@@ -278,11 +472,40 @@
             <strong id="studentName"></strong> | <span id="bookName"></span> | <span id="testModeText"></span>
         </div>
 
+        <!-- 🆕 반응 속도 안내 -->
+        <div class="speed-guide" id="speedGuide">
+            <div><i class="bi bi-lightning-charge-fill"></i> <strong>빠른 인식이 독해력의 핵심!</strong> 단어를 얼마나 빨리 떠올리는지 측정합니다.</div>
+            <div class="speed-badges">
+                <span class="speed-badge fast">⚡ 3초 이내 = 가벼운 단어</span>
+                <span class="speed-badge slow">⏱️ 3~6초 = 연습 필요</span>
+                <span class="speed-badge very-slow">🐢 6초 초과 = 무거운 단어</span>
+            </div>
+        </div>
+        
+        <!-- 🆕 2번 개선: 스피드 모드 배너 -->
+        <div class="speed-mode-banner" id="speedModeBanner" style="display: none;">
+            <i class="bi bi-stopwatch-fill"></i> 스피드 모드 - 문제당 <span id="speedLimitText">0</span>초 제한!
+        </div>
+        
+        <!-- 🆕 2번 개선: 카운트다운 바 -->
+        <div class="countdown-container" id="countdownContainer">
+            <div class="countdown-bar">
+                <div class="countdown-fill" id="countdownFill" style="width: 100%"></div>
+            </div>
+            <div class="countdown-text" id="countdownText">0.0초 남음</div>
+        </div>
+
         <!-- 타이머 -->
         <div class="timer-box">
             <div class="timer">
                 <i class="bi bi-clock timer-icon"></i>
                 <span id="timer">00:00</span>
+            </div>
+            <!-- 🆕 반응 시간 타이머 -->
+            <div class="response-timer" id="responseTimer">
+                <span class="response-label">현재 문제:</span>
+                <i class="bi bi-stopwatch"></i>
+                <span id="responseTime">0.0초</span>
             </div>
         </div>
 
@@ -328,6 +551,13 @@
         const lessonList = urlParams.get('lessons') ? urlParams.get('lessons').split(',') : [];
         const questionCount = parseInt(urlParams.get('count')) || 40;
         const testMode = urlParams.get('mode') || 'kor_to_eng';
+        
+        // 🆕 2번 개선: 스피드 모드 파라미터
+        const speedMode = urlParams.get('speed') || 'normal'; // normal, speed3, speed5
+        const speedLimit = speedMode === 'speed3' ? 3 : (speedMode === 'speed5' ? 5 : 0);
+        
+        // 🆕 3번 개선: 복습 모드 파라미터
+        const reviewMode = urlParams.get('reviewMode') || null; // null, 'weak'
 
         // 전역 변수
         let questions = [];
@@ -338,12 +568,32 @@
         let startTime = null;
         let timerInterval = null;
 
+        // 🆕 반응 속도 측정 변수
+        let questionStartTime = null; // 각 문제 시작 시간
+        let responseTimes = {}; // 각 문제별 응답 시간 (초)
+        let responseTimerInterval = null; // 반응 시간 타이머
+        let firstAnswerTime = {}; // 각 문제의 첫 답변 시간 (이미 답변했으면 시간 고정)
+
+        // 🆕 반응 시간 임계값 (초)
+        const FAST_THRESHOLD = 3; // 3초 이내 = 빠름
+        const SLOW_THRESHOLD = 6; // 6초 이내 = 보통, 초과 = 느림
+
+        // 🆕 2번 개선: 스피드 모드 변수
+        let speedCountdown = null; // 스피드 모드 카운트다운 인터벌
+        let timeoutCount = 0; // 시간 초과 횟수
+
         // 페이지 로드 시
         document.addEventListener('DOMContentLoaded', async function() {
             // 학생 정보 표시
             document.getElementById('studentName').textContent = studentName;
             document.getElementById('bookName').textContent = bookName;
-            document.getElementById('testModeText').textContent = testMode === 'kor_to_eng' ? '한→영' : '영→한';
+            
+            // 🆕 2번 개선: 스피드 모드 표시
+            let modeText = testMode === 'kor_to_eng' ? '한→영' : '영→한';
+            if (speedMode !== 'normal') {
+                modeText += ` | ⚡ 스피드 ${speedLimit}초`;
+            }
+            document.getElementById('testModeText').textContent = modeText;
 
             // 단어 로드
             await loadWords();
@@ -354,50 +604,73 @@
             try {
                 let allWords = [];
                 
-                console.log('BASE_PATH:', BASE_PATH);
-                console.log('Book:', bookName);
-                console.log('Folder:', bookFolder);
-                console.log('Lessons:', lessonList);
-
-                for (const lesson of lessonList) {
-                    // 여러 경로 시도 - bookFolder 사용
-                    const pathsToTry = [
-                        BASE_PATH + `data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`,
-                        `./data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`,
-                        `/vocabooster/data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`,
-                        BASE_PATH + `data/books/${bookFolder}/${lesson}.json`
-                    ];
+                // 🆕 3번 개선: 약한 단어 복습 모드 체크
+                if (reviewMode === 'weak') {
+                    const reviewData = sessionStorage.getItem('weakWordsReview');
+                    if (reviewData) {
+                        const parsed = JSON.parse(reviewData);
+                        allWords = parsed.words || [];
+                        console.log('약한 단어 복습 모드: ', allWords.length, '개 단어 로드');
+                        
+                        // 복습 모드 표시 업데이트
+                        document.getElementById('testModeText').textContent += ' | 🔄 약한 단어 복습';
+                    }
                     
-                    let loaded = false;
-                    for (const url of pathsToTry) {
-                        try {
-                            console.log('Trying URL:', url);
-                            const response = await fetch(url);
-                            if (response.ok) {
-                                const words = await response.json();
-                                allWords = allWords.concat(words);
-                                console.log('Success! Loaded', words.length, 'words from', url);
-                                loaded = true;
-                                break;
+                    if (allWords.length === 0) {
+                        alert('복습할 약한 단어가 없습니다.');
+                        window.location.href = 'index.html';
+                        return;
+                    }
+                } else {
+                    // 일반 모드: 파일에서 로드
+                    console.log('BASE_PATH:', BASE_PATH);
+                    console.log('Book:', bookName);
+                    console.log('Folder:', bookFolder);
+                    console.log('Lessons:', lessonList);
+
+                    for (const lesson of lessonList) {
+                        // 여러 경로 시도 - bookFolder 사용
+                        const pathsToTry = [
+                            BASE_PATH + `data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`,
+                            `./data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`,
+                            `/vocabooster/data/books/${encodeURIComponent(bookFolder)}/${encodeURIComponent(lesson)}.json`,
+                            BASE_PATH + `data/books/${bookFolder}/${lesson}.json`
+                        ];
+                        
+                        let loaded = false;
+                        for (const url of pathsToTry) {
+                            try {
+                                console.log('Trying URL:', url);
+                                const response = await fetch(url);
+                                if (response.ok) {
+                                    const words = await response.json();
+                                    allWords = allWords.concat(words);
+                                    console.log('Success! Loaded', words.length, 'words from', url);
+                                    loaded = true;
+                                    break;
+                                }
+                            } catch (e) {
+                                console.log('Failed:', url, e.message);
                             }
-                        } catch (e) {
-                            console.log('Failed:', url, e.message);
+                        }
+                        
+                        if (!loaded) {
+                            console.warn('Could not load lesson:', lesson);
                         }
                     }
-                    
-                    if (!loaded) {
-                        console.warn('Could not load lesson:', lesson);
-                    }
-                }
 
-                if (allWords.length === 0) {
-                    alert('단어 데이터를 불러올 수 없습니다.\n\n콘솔(F12)에서 오류를 확인해주세요.');
-                    window.location.href = 'index.html';
-                    return;
+                    if (allWords.length === 0) {
+                        alert('단어 데이터를 불러올 수 없습니다.\n\n콘솔(F12)에서 오류를 확인해주세요.');
+                        window.location.href = 'index.html';
+                        return;
+                    }
                 }
 
                 // 전체 단어 저장 (보기 생성용)
                 allLoadedWords = [...allWords];
+
+                // 🆕 6번 개선: 유사어 분리 출제
+                allWords = separateSimilarWords(allWords);
 
                 // 셔플 및 제한
                 allWords = shuffleArray(allWords);
@@ -417,13 +690,19 @@
                     // 정답 리스트 (쉼표로 구분)
                     const answerList = answer.split(',').map(a => a.trim()).filter(a => a);
                     
+                    // 🆕 5번 개선: 예문 정보 추가
+                    const example = word.example || null; // 예문 (있으면 사용)
+                    const forms = word.forms || null; // 파생어 정보 (있으면 사용)
+                    
                     return {
                         index: i + 1,
                         question: question,
                         answer: answer,
                         answerList: answerList,
                         requiredCount: requiredCount,
-                        originalWord: word
+                        originalWord: word,
+                        example: example, // 🆕 예문
+                        forms: forms // 🆕 파생어
                     };
                 });
 
@@ -431,6 +710,14 @@
                 renderQuestions();
                 document.getElementById('loadingOverlay').style.display = 'none';
                 startTimer();
+                
+                // 🆕 첫 문제 반응 시간 측정 시작
+                startQuestionTimer();
+                
+                // 🆕 2번 개선: 스피드 모드 초기화
+                if (speedMode !== 'normal') {
+                    initSpeedMode();
+                }
 
             } catch (error) {
                 console.error('단어 로드 오류:', error);
@@ -446,6 +733,123 @@
                 [arr[i], arr[j]] = [arr[j], arr[i]];
             }
             return arr;
+        }
+
+        // 🆕 6번 개선: 유사어 분리 출제
+        function separateSimilarWords(words) {
+            // 유사어 그룹 정의 (자주 헷갈리는 단어 쌍)
+            const confusablePairs = [
+                ['affect', 'effect'],
+                ['accept', 'except'],
+                ['adapt', 'adopt', 'adept'],
+                ['advice', 'advise'],
+                ['allude', 'elude'],
+                ['allusion', 'illusion'],
+                ['complement', 'compliment'],
+                ['conscious', 'conscience'],
+                ['desert', 'dessert'],
+                ['elicit', 'illicit'],
+                ['emigrate', 'immigrate'],
+                ['eminent', 'imminent', 'immanent'],
+                ['ensure', 'insure', 'assure'],
+                ['farther', 'further'],
+                ['principal', 'principle'],
+                ['stationary', 'stationery'],
+                ['than', 'then'],
+                ['their', 'there', 'they\'re'],
+                ['to', 'too', 'two'],
+                ['weather', 'whether'],
+                ['who\'s', 'whose'],
+                ['your', 'you\'re'],
+                ['lose', 'loose'],
+                ['quiet', 'quite'],
+                ['through', 'threw', 'thorough'],
+                ['proceed', 'precede'],
+                ['persecute', 'prosecute'],
+                ['personal', 'personnel']
+            ];
+            
+            // 단어별 유사어 그룹 매핑
+            const similarGroups = {};
+            confusablePairs.forEach((group, groupIndex) => {
+                group.forEach(word => {
+                    similarGroups[word.toLowerCase()] = groupIndex;
+                });
+            });
+            
+            // 단어가 어떤 유사어 그룹에 속하는지 확인
+            function getWordGroup(word) {
+                const eng = word.eng.toLowerCase().split(',')[0].trim();
+                
+                // 정확히 매칭되는 유사어 그룹이 있는지 확인
+                if (similarGroups[eng] !== undefined) {
+                    return similarGroups[eng];
+                }
+                
+                // similar_words 필드가 있으면 사용
+                if (word.similar_words) {
+                    return 'custom_' + word.similar_words;
+                }
+                
+                // 접두사가 같은 단어 그룹화 (4글자 이상 접두사)
+                if (eng.length >= 4) {
+                    return 'prefix_' + eng.substring(0, 4);
+                }
+                
+                return null;
+            }
+            
+            // 각 단어에 그룹 정보 추가
+            const wordsWithGroups = words.map(word => ({
+                ...word,
+                _similarGroup: getWordGroup(word)
+            }));
+            
+            // 같은 그룹의 단어가 연속으로 나오지 않도록 재배치
+            const result = [];
+            const remaining = [...wordsWithGroups];
+            const usedGroups = new Set();
+            const MIN_DISTANCE = 5; // 같은 그룹 단어 사이 최소 거리
+            
+            while (remaining.length > 0) {
+                let found = false;
+                
+                // 현재 그룹과 충돌하지 않는 단어 찾기
+                for (let i = 0; i < remaining.length; i++) {
+                    const word = remaining[i];
+                    const group = word._similarGroup;
+                    
+                    // 그룹이 없거나, 최근에 사용되지 않은 그룹이면 추가
+                    if (!group || !usedGroups.has(group)) {
+                        result.push(word);
+                        remaining.splice(i, 1);
+                        
+                        // 그룹 기록 업데이트
+                        if (group) {
+                            usedGroups.add(group);
+                            
+                            // MIN_DISTANCE 이후에 그룹 해제
+                            if (result.length > MIN_DISTANCE) {
+                                const oldWord = result[result.length - MIN_DISTANCE - 1];
+                                if (oldWord._similarGroup) {
+                                    usedGroups.delete(oldWord._similarGroup);
+                                }
+                            }
+                        }
+                        
+                        found = true;
+                        break;
+                    }
+                }
+                
+                // 찾지 못하면 그냥 첫 번째 단어 추가 (무한 루프 방지)
+                if (!found && remaining.length > 0) {
+                    result.push(remaining.shift());
+                }
+            }
+            
+            // _similarGroup 필드 제거
+            return result.map(({ _similarGroup, ...word }) => word);
         }
 
         // 보기 생성 (영→한 모드용)
@@ -480,6 +884,190 @@
             return options;
         }
 
+        // 🆕 문제별 반응 시간 타이머 시작
+        function startQuestionTimer() {
+            questionStartTime = new Date();
+            
+            // 기존 타이머 정리
+            if (responseTimerInterval) {
+                clearInterval(responseTimerInterval);
+            }
+            
+            // 이미 답변한 문제면 저장된 시간 표시
+            if (firstAnswerTime[currentIndex] !== undefined) {
+                updateResponseTimerDisplay(firstAnswerTime[currentIndex]);
+                return;
+            }
+            
+            // 실시간 반응 시간 업데이트
+            responseTimerInterval = setInterval(() => {
+                // 이미 답변했으면 타이머 멈춤
+                if (firstAnswerTime[currentIndex] !== undefined) {
+                    clearInterval(responseTimerInterval);
+                    return;
+                }
+                
+                const elapsed = (new Date() - questionStartTime) / 1000;
+                updateResponseTimerDisplay(elapsed);
+            }, 100);
+        }
+
+        // 🆕 반응 시간 디스플레이 업데이트
+        function updateResponseTimerDisplay(seconds) {
+            const timerEl = document.getElementById('responseTimer');
+            const timeEl = document.getElementById('responseTime');
+            
+            timeEl.textContent = seconds.toFixed(1) + '초';
+            
+            // 색상 변경
+            timerEl.classList.remove('fast', 'slow', 'very-slow');
+            if (seconds <= FAST_THRESHOLD) {
+                timerEl.classList.add('fast');
+            } else if (seconds <= SLOW_THRESHOLD) {
+                timerEl.classList.add('slow');
+            } else {
+                timerEl.classList.add('very-slow');
+            }
+        }
+
+        // 🆕 답변 시 반응 시간 기록
+        function recordResponseTime(questionIndex) {
+            // 이미 기록되었으면 무시
+            if (firstAnswerTime[questionIndex] !== undefined) {
+                return;
+            }
+            
+            const elapsed = (new Date() - questionStartTime) / 1000;
+            firstAnswerTime[questionIndex] = elapsed;
+            responseTimes[questionIndex] = elapsed;
+            
+            // 카드에 답변 완료 표시
+            updateAnsweredIndicator(questionIndex, elapsed);
+            
+            console.log(`문제 ${questionIndex + 1} 반응 시간: ${elapsed.toFixed(1)}초`);
+        }
+
+        // 🆕 답변 완료 표시 업데이트
+        function updateAnsweredIndicator(questionIndex, elapsed) {
+            const indicator = document.getElementById(`answered-${questionIndex}`);
+            if (!indicator) return;
+            
+            indicator.classList.remove('fast', 'slow');
+            if (elapsed <= FAST_THRESHOLD) {
+                indicator.textContent = `⚡ ${elapsed.toFixed(1)}초`;
+                indicator.classList.add('fast');
+            } else {
+                indicator.textContent = `⏱️ ${elapsed.toFixed(1)}초`;
+                indicator.classList.add('slow');
+            }
+        }
+
+        // 🆕 2번 개선: 스피드 모드 초기화
+        function initSpeedMode() {
+            // 배너 표시
+            document.getElementById('speedModeBanner').style.display = 'block';
+            document.getElementById('speedLimitText').textContent = speedLimit;
+            
+            // 카운트다운 컨테이너 활성화
+            document.getElementById('countdownContainer').classList.add('active');
+            
+            // 일반 안내 숨기기 (스피드 모드에서는 다른 방식)
+            document.getElementById('speedGuide').style.display = 'none';
+            
+            // 첫 문제 카운트다운 시작
+            startSpeedCountdown();
+        }
+
+        // 🆕 2번 개선: 스피드 모드 카운트다운 시작
+        function startSpeedCountdown() {
+            if (speedMode === 'normal') return;
+            
+            // 기존 카운트다운 정리
+            if (speedCountdown) {
+                clearInterval(speedCountdown);
+            }
+            
+            const startTime = Date.now();
+            const duration = speedLimit * 1000; // 밀리초
+            
+            const countdownFill = document.getElementById('countdownFill');
+            const countdownText = document.getElementById('countdownText');
+            
+            // 초기화
+            countdownFill.style.width = '100%';
+            countdownFill.classList.remove('warning', 'danger');
+            countdownText.classList.remove('warning', 'danger');
+            
+            speedCountdown = setInterval(() => {
+                const elapsed = Date.now() - startTime;
+                const remaining = Math.max(0, duration - elapsed);
+                const percent = (remaining / duration) * 100;
+                const remainingSeconds = remaining / 1000;
+                
+                // 프로그레스 바 업데이트
+                countdownFill.style.width = percent + '%';
+                countdownText.textContent = remainingSeconds.toFixed(1) + '초 남음';
+                
+                // 색상 변경
+                countdownFill.classList.remove('warning', 'danger');
+                countdownText.classList.remove('warning', 'danger');
+                
+                if (remainingSeconds <= 1) {
+                    countdownFill.classList.add('danger');
+                    countdownText.classList.add('danger');
+                } else if (remainingSeconds <= speedLimit * 0.5) {
+                    countdownFill.classList.add('warning');
+                    countdownText.classList.add('warning');
+                }
+                
+                // 시간 초과
+                if (remaining <= 0) {
+                    clearInterval(speedCountdown);
+                    handleTimeout();
+                }
+            }, 100);
+        }
+
+        // 🆕 2번 개선: 시간 초과 처리
+        function handleTimeout() {
+            timeoutCount++;
+            
+            // 현재 문제에 시간 초과 기록
+            if (firstAnswerTime[currentIndex] === undefined) {
+                firstAnswerTime[currentIndex] = speedLimit + 0.1; // 시간 초과 표시
+                responseTimes[currentIndex] = speedLimit + 0.1;
+            }
+            
+            // 시각적 피드백
+            const currentCard = document.getElementById(`question${currentIndex + 1}`);
+            if (currentCard) {
+                currentCard.classList.add('timeout-flash');
+                setTimeout(() => currentCard.classList.remove('timeout-flash'), 500);
+            }
+            
+            // 다음 문제로 자동 이동 또는 제출
+            if (currentIndex < questions.length - 1) {
+                setTimeout(() => {
+                    navigateQuestion(1);
+                }, 300);
+            } else {
+                // 마지막 문제면 0.5초 후 제출 확인
+                setTimeout(() => {
+                    if (confirm('시간이 초과되었습니다. 테스트를 제출하시겠습니까?')) {
+                        submitTest();
+                    }
+                }, 300);
+            }
+        }
+
+        // 🆕 2번 개선: 스피드 모드 카운트다운 정지
+        function stopSpeedCountdown() {
+            if (speedCountdown) {
+                clearInterval(speedCountdown);
+                speedCountdown = null;
+            }
+        }
+
         // 문제 렌더링
         function renderQuestions() {
             const container = document.getElementById('questionsContainer');
@@ -492,6 +1080,9 @@
                 card.className = 'question-card' + (i === 0 ? ' active' : '');
                 card.id = `question${i + 1}`;
 
+                // 🆕 답변 완료 표시 추가
+                const answeredIndicator = `<span class="answered-indicator" id="answered-${i}"></span>`;
+
                 // 영→한 모드: 보기 선택 방식
                 if (testMode === 'eng_to_kor') {
                     const options = generateOptions(q.answerList, i);
@@ -502,6 +1093,7 @@
                     ).join('');
 
                     card.innerHTML = `
+                        ${answeredIndicator}
                         <div class="question-header">
                             <div class="question-number">문제 ${q.index}</div>
                             <div class="question-type">영 → 한</div>
@@ -531,12 +1123,41 @@
                     `;
                 } else {
                     // 한→영 모드: 입력 방식
+                    
+                    // 🆕 5번 개선: 예문이 있으면 표시
+                    let exampleHtml = '';
+                    if (q.example) {
+                        // 예문에서 정답 단어를 빈칸으로 대체
+                        const blankExample = q.example.replace(
+                            new RegExp(q.answerList[0], 'gi'), 
+                            '<span class="blank">______</span>'
+                        );
+                        exampleHtml = `
+                            <div class="example-sentence">
+                                <strong>📝 예문:</strong> ${blankExample}
+                            </div>
+                        `;
+                    }
+                    
+                    // 🆕 5번 개선: 파생어 힌트
+                    let formsHtml = '';
+                    if (q.forms) {
+                        formsHtml = `
+                            <div class="word-forms-hint">
+                                <strong>💡 품사 변형:</strong> ${q.forms}
+                            </div>
+                        `;
+                    }
+                    
                     card.innerHTML = `
+                        ${answeredIndicator}
                         <div class="question-header">
                             <div class="question-number">문제 ${q.index}</div>
-                            <div class="question-type">한 → 영</div>
+                            <div class="question-type">한 → 영${q.example ? '<span class="context-badge">문맥</span>' : ''}</div>
                         </div>
                         <div class="question-text">${q.question}</div>
+                        ${exampleHtml}
+                        ${formsHtml}
                         <div class="warning-message">
                             <i class="bi bi-exclamation-triangle-fill"></i> 주의: 자동단어추천 기능과 맞춤법 검사는 사용이 금지됩니다.
                         </div>
@@ -560,6 +1181,11 @@
                 const input = card.querySelector('.answer-input');
                 input.addEventListener('input', function() {
                     answers[i] = this.value;
+                    
+                    // 🆕 첫 입력 시 반응 시간 기록
+                    if (this.value.trim().length > 0) {
+                        recordResponseTime(i);
+                    }
                 });
                 input.addEventListener('keydown', function(e) {
                     if (e.key === 'Enter') {
@@ -598,6 +1224,9 @@
                 // 새로 선택
                 selectedAnswers[questionIndex].push(answer);
                 button.classList.add('selected');
+                
+                // 🆕 첫 선택 시 반응 시간 기록
+                recordResponseTime(questionIndex);
             }
             
             // 입력창에 선택된 답변 표시
@@ -610,6 +1239,9 @@
             const newIndex = currentIndex + direction;
             if (newIndex < 0 || newIndex >= questions.length) return;
 
+            // 🆕 2번 개선: 스피드 모드 카운트다운 정지
+            stopSpeedCountdown();
+
             // 현재 문제 숨기기
             document.getElementById(`question${currentIndex + 1}`).classList.remove('active');
             
@@ -619,6 +1251,14 @@
             
             // 입력 필드에 포커스
             document.getElementById(`answer${currentIndex}`).focus();
+            
+            // 🆕 새 문제 반응 시간 측정 시작
+            startQuestionTimer();
+            
+            // 🆕 2번 개선: 스피드 모드면 카운트다운 시작
+            if (speedMode !== 'normal') {
+                startSpeedCountdown();
+            }
             
             updateProgress();
         }
@@ -655,11 +1295,22 @@
             if (!confirm('테스트를 제출하시겠습니까?')) return;
 
             clearInterval(timerInterval);
+            clearInterval(responseTimerInterval); // 🆕 반응 시간 타이머도 정리
+            stopSpeedCountdown(); // 🆕 2번 개선: 스피드 모드 카운트다운 정리
+            
             const endTime = new Date();
             const totalTime = Math.floor((endTime - startTime) / 1000);
 
             // 채점
             let correct = 0;
+            
+            // 🆕 반응 시간 통계
+            let fastCount = 0; // 3초 이내 정답
+            let slowCount = 0; // 3~6초 정답
+            let verySlowCount = 0; // 6초 초과 정답
+            let totalResponseTime = 0;
+            let answeredCount = 0;
+            
             const results = questions.map((q, i) => {
                 const userAnswer = (answers[i] || '').trim().toLowerCase();
                 const correctAnswers = q.answerList.map(a => a.toLowerCase().trim());
@@ -692,15 +1343,37 @@
 
                 if (isCorrect) correct++;
 
+                // 🆕 반응 시간 통계 계산
+                const responseTime = responseTimes[i] || null;
+                if (responseTime !== null) {
+                    answeredCount++;
+                    totalResponseTime += responseTime;
+                    
+                    if (isCorrect) {
+                        if (responseTime <= FAST_THRESHOLD) {
+                            fastCount++;
+                        } else if (responseTime <= SLOW_THRESHOLD) {
+                            slowCount++;
+                        } else {
+                            verySlowCount++;
+                        }
+                    }
+                }
+
                 return {
                     question: q.question,
                     userAnswer: answers[i] || '',
                     correctAnswer: q.answer,
-                    isCorrect: isCorrect
+                    isCorrect: isCorrect,
+                    responseTime: responseTime // 🆕 반응 시간 추가
                 };
             });
 
             const score = Math.round((correct / questions.length) * 100);
+            
+            // 🆕 즉시 인식률 계산 (3초 이내 정답 / 전체 정답)
+            const instantRecognitionRate = correct > 0 ? Math.round((fastCount / correct) * 100) : 0;
+            const avgResponseTime = answeredCount > 0 ? (totalResponseTime / answeredCount).toFixed(1) : 0;
 
             // 결과 저장
             const testResult = {
@@ -713,13 +1386,30 @@
                 total: questions.length,
                 time: totalTime,
                 date: new Date().toISOString(),
-                details: results
+                details: results,
+                // 🆕 반응 속도 통계 추가
+                speedStats: {
+                    fastCount: fastCount,           // 3초 이내 정답
+                    slowCount: slowCount,           // 3~6초 정답
+                    verySlowCount: verySlowCount,   // 6초 초과 정답
+                    instantRecognitionRate: instantRecognitionRate, // 즉시 인식률
+                    avgResponseTime: parseFloat(avgResponseTime)    // 평균 반응 시간
+                },
+                // 🆕 2번 개선: 스피드 모드 정보 추가
+                speedModeInfo: {
+                    enabled: speedMode !== 'normal',
+                    limit: speedLimit,
+                    timeoutCount: timeoutCount
+                }
             };
 
             // localStorage에 저장
             const savedResults = JSON.parse(localStorage.getItem('vocabooster_results') || '[]');
             savedResults.push(testResult);
             localStorage.setItem('vocabooster_results', JSON.stringify(savedResults));
+
+            // 🆕 3번 개선: 약한 단어 저장 (오답 + 6초 초과 단어)
+            saveWeakWords(results, questions);
 
             // 결과 페이지로 이동
             sessionStorage.setItem('currentResult', JSON.stringify(testResult));
@@ -734,6 +1424,70 @@
                 navigateQuestion(1);
             }
         });
+
+        // 🆕 3번 개선: 약한 단어 저장 함수
+        function saveWeakWords(results, questions) {
+            // 기존 약한 단어 목록 가져오기
+            let weakWords = JSON.parse(localStorage.getItem('vocabooster_weak_words') || '{}');
+            
+            // 책별로 구분
+            const bookKey = `${bookFolder}`;
+            if (!weakWords[bookKey]) {
+                weakWords[bookKey] = {};
+            }
+            
+            results.forEach((result, i) => {
+                const question = questions[i];
+                const wordKey = question.question; // 문제(단어)를 키로 사용
+                const responseTime = result.responseTime || 999;
+                
+                // 기존 기록 가져오기 또는 새로 생성
+                if (!weakWords[bookKey][wordKey]) {
+                    weakWords[bookKey][wordKey] = {
+                        word: question.question,
+                        answer: question.answer,
+                        originalWord: question.originalWord,
+                        wrongCount: 0,
+                        slowCount: 0,
+                        fastStreakCount: 0, // 연속 빠른 정답 횟수
+                        lastAttempt: null,
+                        isWeak: false
+                    };
+                }
+                
+                const wordData = weakWords[bookKey][wordKey];
+                wordData.lastAttempt = new Date().toISOString();
+                
+                if (!result.isCorrect) {
+                    // 오답인 경우
+                    wordData.wrongCount++;
+                    wordData.fastStreakCount = 0; // 연속 초기화
+                    wordData.isWeak = true;
+                } else if (responseTime > SLOW_THRESHOLD) {
+                    // 정답이지만 느린 경우 (6초 초과)
+                    wordData.slowCount++;
+                    wordData.fastStreakCount = 0;
+                    wordData.isWeak = true;
+                } else if (responseTime <= FAST_THRESHOLD) {
+                    // 빠른 정답인 경우
+                    wordData.fastStreakCount++;
+                    
+                    // 3회 연속 빠른 정답이면 약한 단어에서 제외
+                    if (wordData.fastStreakCount >= 3) {
+                        wordData.isWeak = false;
+                        wordData.wrongCount = 0;
+                        wordData.slowCount = 0;
+                    }
+                } else {
+                    // 보통 속도 정답
+                    wordData.fastStreakCount = 0;
+                }
+            });
+            
+            // 저장
+            localStorage.setItem('vocabooster_weak_words', JSON.stringify(weakWords));
+            console.log('약한 단어 저장 완료:', weakWords[bookKey]);
+        }
     </script>
 </body>
 </html>
