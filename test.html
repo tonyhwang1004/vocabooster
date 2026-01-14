@@ -688,7 +688,10 @@
                     // 정답 개수: 영→한 모드에서는 항상 정답 리스트 길이 사용
                     const requiredCount = testMode === 'kor_to_eng' 
                         ? (word.answer_count_eng || 1) 
-                        : answerList.length;  // JSON의 answer_count_kor 무시, 실제 개수 사용
+                        : answerList.length;
+                    
+                    // 🔍 디버깅 로그
+                    console.log(`[${i+1}] ${question} → ${answer} | answerList:`, answerList, `| requiredCount: ${requiredCount}`);  // JSON의 answer_count_kor 무시, 실제 개수 사용
                     
                     // 🆕 5번 개선: 예문 정보 추가
                     const example = word.example || null; // 예문 (있으면 사용)
