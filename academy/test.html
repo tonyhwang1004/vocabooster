@@ -327,8 +327,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        // ⚠️ 중요: 이 URL을 Google Apps Script 배포 URL로 변경하세요!
-        const API_URL = 'YOUR_GOOGLE_APPS_SCRIPT_URL_HERE';
+        // ✅ API URL 설정 완료
+        const API_URL = 'https://script.google.com/macros/s/AKfycbwGFbsj8FgFIuF-iFkJ4ekyS76MWQf9UrUysJ-Fs12vuVByJwenoYRgOJeOZiPOa6gzkg/exec';
         const BASE_PATH = '/vocabooster/';
         
         // URL 파라미터
@@ -369,28 +369,25 @@
         async function loadQuestions() {
             try {
                 let allWords = [];
+                let folder = bookFolder;
+                
+                // 폴더 정보가 없으면 API에서 매핑 정보 가져오기
+                if (!folder) {
+                    const mappingResponse = await fetch(`${API_URL}?action=getWordBookMapping&name=${encodeURIComponent(bookName)}&vb=true`);
+                    const mappingData = await mappingResponse.json();
+                    
+                    if (mappingData.success) {
+                        folder = mappingData.mapping.folder;
+                    } else {
+                        throw new Error('단어장 매핑을 찾을 수 없습니다.');
+                    }
+                }
                 
                 // 각 레슨에서 단어 로드
                 for (const lesson of lessonList) {
-                    let url;
-                    
-                    // 폴더 정보가 있으면 사용, 없으면 단어장 매핑에서 가져오기
-                    if (bookFolder) {
-                        url = `${BASE_PATH}data/books/${bookFolder}/${lesson}.json`;
-                    } else {
-                        // API에서 매핑 정보 가져오기
-                        const mappingResponse = await fetch(`${API_URL}?action=getWordBookMapping&name=${encodeURIComponent(bookName)}`);
-                        const mappingData = await mappingResponse.json();
-                        
-                        if (mappingData.success) {
-                            const folder = mappingData.mapping.folder;
-                            url = `${BASE_PATH}data/books/${folder}/${lesson}.json`;
-                        } else {
-                            throw new Error('단어장 매핑을 찾을 수 없습니다.');
-                        }
-                    }
-                    
+                    const url = `${BASE_PATH}data/books/${folder}/${lesson}.json`;
                     console.log('Loading:', url);
+                    
                     const response = await fetch(url);
                     
                     if (response.ok) {
@@ -672,6 +669,7 @@
             // Google Sheets에 저장
             try {
                 const saveData = {
+                    vb: true,  // 충돌 방지용 플래그
                     action: 'saveTestResult',
                     name: studentName,
                     wordbook: bookName,
@@ -697,6 +695,7 @@
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
                         body: JSON.stringify({
+                            vb: true,
                             action: 'completeReview',
                             rowIndex: parseInt(reviewRowIndex),
                             score: score
