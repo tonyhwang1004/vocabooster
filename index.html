@@ -183,6 +183,163 @@
             font-size: 12px;
             opacity: 0.8;
         }
+        
+        /* 🆕 4번 개선: 숙달도 대시보드 스타일 */
+        .dashboard-section {
+            margin: 25px 0;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            text-align: left;
+        }
+        .dashboard-title {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .dashboard-stats {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            margin-bottom: 15px;
+        }
+        .dashboard-stat {
+            background: rgba(255, 255, 255, 0.15);
+            border-radius: 10px;
+            padding: 12px;
+            text-align: center;
+        }
+        .dashboard-stat-value {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .dashboard-stat-value.green { color: #90EE90; }
+        .dashboard-stat-value.yellow { color: #FFD700; }
+        .dashboard-stat-value.red { color: #FF6B6B; }
+        .dashboard-stat-label {
+            font-size: 11px;
+            opacity: 0.8;
+            margin-top: 3px;
+        }
+        .mastery-bar-container {
+            margin-top: 15px;
+        }
+        .mastery-bar-label {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+            margin-bottom: 5px;
+        }
+        .mastery-bar {
+            height: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            display: flex;
+        }
+        .mastery-segment {
+            height: 100%;
+            transition: width 0.5s ease;
+        }
+        .mastery-segment.mastered {
+            background: linear-gradient(90deg, #48bb78, #38a169);
+        }
+        .mastery-segment.learning {
+            background: linear-gradient(90deg, #ecc94b, #d69e2e);
+        }
+        .mastery-segment.weak {
+            background: linear-gradient(90deg, #fc8181, #e53e3e);
+        }
+        .mastery-legend {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 10px;
+            font-size: 11px;
+        }
+        .mastery-legend-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .mastery-legend-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+        }
+        .mastery-legend-dot.mastered { background: #48bb78; }
+        .mastery-legend-dot.learning { background: #ecc94b; }
+        .mastery-legend-dot.weak { background: #fc8181; }
+        .btn-clear-data {
+            margin-top: 10px;
+            padding: 6px 12px;
+            font-size: 11px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 15px;
+            color: white;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .btn-clear-data:hover {
+            background: rgba(255, 100, 100, 0.3);
+        }
+        .no-data-message {
+            text-align: center;
+            padding: 20px;
+            opacity: 0.7;
+            font-size: 13px;
+        }
+        
+        /* 🆕 2번 개선: 스피드 모드 스타일 */
+        .speed-mode-section {
+            margin-top: 15px;
+            padding: 15px;
+            background: rgba(255, 75, 43, 0.2);
+            border-radius: 10px;
+            border: 1px solid rgba(255, 75, 43, 0.4);
+        }
+        .speed-mode-title {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #ffcc00;
+        }
+        .speed-options {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .speed-option {
+            display: none;
+        }
+        .speed-option + label {
+            padding: 8px 16px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 13px;
+        }
+        .speed-option:checked + label {
+            background: rgba(255, 75, 43, 0.5);
+            border-color: #ff4b2b;
+            font-weight: bold;
+            transform: scale(1.05);
+        }
+        .speed-option + label:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+        .speed-description {
+            font-size: 11px;
+            color: #ffeaa7;
+            margin-top: 8px;
+        }
     </style>
 </head>
 <body>
@@ -237,6 +394,25 @@
                 <label for="eng_to_kor">영한 (English → Korean)</label>
             </div>
 
+            <!-- 🆕 2번 개선: 스피드 모드 선택 -->
+            <div class="speed-mode-section">
+                <div class="speed-mode-title">⚡ 스피드 모드 (선택사항)</div>
+                <div class="speed-options">
+                    <input type="radio" name="speed_mode" value="normal" id="speed_normal" class="speed-option" checked>
+                    <label for="speed_normal">🐢 일반 모드</label>
+                    
+                    <input type="radio" name="speed_mode" value="speed5" id="speed_5" class="speed-option">
+                    <label for="speed_5">⏱️ 5초 제한</label>
+                    
+                    <input type="radio" name="speed_mode" value="speed3" id="speed_3" class="speed-option">
+                    <label for="speed_3">⚡ 3초 제한</label>
+                </div>
+                <div class="speed-description">
+                    스피드 모드: 제한 시간 내에 답하지 못하면 자동으로 다음 문제로 넘어갑니다.<br>
+                    빠른 인식 훈련으로 독해 속도를 높여보세요!
+                </div>
+            </div>
+
             <button type="submit" class="btn-custom" id="start-test-btn">Start Test</button>
         </form>
 
@@ -246,6 +422,18 @@
             <button id="bombGameBtn" class="btn-game">
                 💣 Falling Word Bomb 게임 시작하기
             </button>
+        </div>
+        
+        <!-- 🆕 4번 개선: 숙달도 대시보드 -->
+        <div class="dashboard-section" id="dashboardSection">
+            <div class="dashboard-title">
+                <span>📊</span> 나의 학습 현황
+            </div>
+            <div id="dashboardContent">
+                <div class="no-data-message">
+                    아직 학습 기록이 없습니다. 테스트를 시작해보세요!
+                </div>
+            </div>
         </div>
 
         <div class="footer">
@@ -376,10 +564,139 @@
         function hideError() {
             errorMessage.style.display = 'none';
         }
+        
+        // 🆕 4번 개선: 대시보드 로드
+        function loadDashboard() {
+            const weakWords = JSON.parse(localStorage.getItem('vocabooster_weak_words') || '{}');
+            const results = JSON.parse(localStorage.getItem('vocabooster_results') || '[]');
+            
+            // 통계 계산
+            let totalWords = 0;
+            let masteredWords = 0; // 약하지 않고 fastStreakCount >= 3
+            let learningWords = 0; // 약하지 않고 fastStreakCount < 3
+            let weakWordCount = 0; // isWeak = true
+            
+            for (const bookKey in weakWords) {
+                for (const wordKey in weakWords[bookKey]) {
+                    const wordData = weakWords[bookKey][wordKey];
+                    totalWords++;
+                    
+                    if (wordData.isWeak) {
+                        weakWordCount++;
+                    } else if (wordData.fastStreakCount >= 3) {
+                        masteredWords++;
+                    } else {
+                        learningWords++;
+                    }
+                }
+            }
+            
+            // 최근 테스트 통계
+            const recentTests = results.slice(-10);
+            let totalCorrect = 0;
+            let totalQuestions = 0;
+            let avgInstantRate = 0;
+            let testsWithSpeed = 0;
+            
+            recentTests.forEach(test => {
+                totalCorrect += test.correct || 0;
+                totalQuestions += test.total || 0;
+                if (test.speedStats && test.speedStats.instantRecognitionRate !== undefined) {
+                    avgInstantRate += test.speedStats.instantRecognitionRate;
+                    testsWithSpeed++;
+                }
+            });
+            
+            if (testsWithSpeed > 0) {
+                avgInstantRate = Math.round(avgInstantRate / testsWithSpeed);
+            }
+            
+            // 데이터가 없으면 기본 메시지 표시
+            if (totalWords === 0 && results.length === 0) {
+                return;
+            }
+            
+            // 대시보드 렌더링
+            const dashboardContent = document.getElementById('dashboardContent');
+            
+            const avgScore = totalQuestions > 0 ? Math.round((totalCorrect / totalQuestions) * 100) : 0;
+            
+            dashboardContent.innerHTML = `
+                <div class="dashboard-stats">
+                    <div class="dashboard-stat">
+                        <div class="dashboard-stat-value green">${masteredWords}</div>
+                        <div class="dashboard-stat-label">⚡ 가벼운 단어</div>
+                    </div>
+                    <div class="dashboard-stat">
+                        <div class="dashboard-stat-value yellow">${learningWords}</div>
+                        <div class="dashboard-stat-label">📚 학습 중</div>
+                    </div>
+                    <div class="dashboard-stat">
+                        <div class="dashboard-stat-value red">${weakWordCount}</div>
+                        <div class="dashboard-stat-label">🐢 복습 필요</div>
+                    </div>
+                    <div class="dashboard-stat">
+                        <div class="dashboard-stat-value">${avgInstantRate}%</div>
+                        <div class="dashboard-stat-label">평균 즉시 인식률</div>
+                    </div>
+                </div>
+                
+                ${totalWords > 0 ? `
+                <div class="mastery-bar-container">
+                    <div class="mastery-bar-label">
+                        <span>단어 숙달 현황</span>
+                        <span>총 ${totalWords}개</span>
+                    </div>
+                    <div class="mastery-bar">
+                        <div class="mastery-segment mastered" style="width: ${(masteredWords / totalWords * 100).toFixed(1)}%"></div>
+                        <div class="mastery-segment learning" style="width: ${(learningWords / totalWords * 100).toFixed(1)}%"></div>
+                        <div class="mastery-segment weak" style="width: ${(weakWordCount / totalWords * 100).toFixed(1)}%"></div>
+                    </div>
+                    <div class="mastery-legend">
+                        <div class="mastery-legend-item">
+                            <div class="mastery-legend-dot mastered"></div>
+                            <span>가벼운 단어</span>
+                        </div>
+                        <div class="mastery-legend-item">
+                            <div class="mastery-legend-dot learning"></div>
+                            <span>학습 중</span>
+                        </div>
+                        <div class="mastery-legend-item">
+                            <div class="mastery-legend-dot weak"></div>
+                            <span>복습 필요</span>
+                        </div>
+                    </div>
+                </div>
+                ` : ''}
+                
+                <div style="text-align: center; margin-top: 15px;">
+                    <div style="font-size: 12px; opacity: 0.8; margin-bottom: 8px;">
+                        최근 ${recentTests.length}회 테스트 평균 점수: <strong>${avgScore}점</strong>
+                    </div>
+                    <button class="btn-clear-data" onclick="clearAllData()">
+                        🗑️ 학습 데이터 초기화
+                    </button>
+                </div>
+            `;
+        }
+        
+        // 🆕 4번 개선: 데이터 초기화
+        function clearAllData() {
+            if (confirm('모든 학습 데이터를 삭제하시겠습니까?\n(테스트 기록, 약한 단어 목록이 모두 삭제됩니다)')) {
+                localStorage.removeItem('vocabooster_weak_words');
+                localStorage.removeItem('vocabooster_results');
+                loadDashboard();
+                alert('학습 데이터가 초기화되었습니다.');
+                location.reload();
+            }
+        }
 
         // 이벤트 리스너
         document.addEventListener('DOMContentLoaded', function() {
             loadBooks();
+            
+            // 🆕 4번 개선: 대시보드 로드
+            loadDashboard();
 
             // 책 선택
             bookSelect.addEventListener('change', function() {
@@ -423,6 +740,9 @@
                 const lessons = Array.from(document.querySelectorAll('input[name="lessons"]:checked')).map(cb => cb.value);
                 const count = document.getElementById('question_count').value;
                 const mode = document.querySelector('input[name="test_mode"]:checked').value;
+                
+                // 🆕 2번 개선: 스피드 모드 가져오기
+                const speedMode = document.querySelector('input[name="speed_mode"]:checked').value;
 
                 if (!studentName) {
                     showError('이름을 입력해주세요.');
@@ -437,8 +757,8 @@
                     return;
                 }
 
-                // test.html로 이동
-                const url = `test.html?name=${encodeURIComponent(studentName)}&book=${encodeURIComponent(bookName)}&folder=${encodeURIComponent(bookFolder)}&lessons=${encodeURIComponent(lessons.join(','))}&count=${count}&mode=${mode}`;
+                // test.html로 이동 (스피드 모드 파라미터 추가)
+                const url = `test.html?name=${encodeURIComponent(studentName)}&book=${encodeURIComponent(bookName)}&folder=${encodeURIComponent(bookFolder)}&lessons=${encodeURIComponent(lessons.join(','))}&count=${count}&mode=${mode}&speed=${speedMode}`;
                 window.location.href = url;
             });
 
