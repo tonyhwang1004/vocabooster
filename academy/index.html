@@ -292,8 +292,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        // ⚠️ 중요: 이 URL을 Google Apps Script 배포 URL로 변경하세요!
-        const API_URL = 'YOUR_GOOGLE_APPS_SCRIPT_URL_HERE';
+        // ✅ API URL 설정 완료
+        const API_URL = 'https://script.google.com/macros/s/AKfycbwGFbsj8FgFIuF-iFkJ4ekyS76MWQf9UrUysJ-Fs12vuVByJwenoYRgOJeOZiPOa6gzkg/exec';
         
         let studentData = null;
         let todayTestData = null;
@@ -332,7 +332,7 @@
         // 설정 불러오기
         async function loadSettings() {
             try {
-                const response = await fetch(`${API_URL}?action=getSettings`);
+                const response = await fetch(`${API_URL}?action=getSettings&vb=true`);
                 const data = await response.json();
                 
                 if (data.success && data.settings['독서실명']) {
@@ -346,7 +346,7 @@
         // 학생 목록 불러오기
         async function loadStudentList() {
             try {
-                const response = await fetch(`${API_URL}?action=getStudentList`);
+                const response = await fetch(`${API_URL}?action=getStudentList&vb=true`);
                 const data = await response.json();
                 
                 if (data.success) {
@@ -402,7 +402,7 @@
             
             try {
                 // 오늘의 시험 정보 가져오기
-                const response = await fetch(`${API_URL}?action=getTodayTest&name=${encodeURIComponent(name)}`);
+                const response = await fetch(`${API_URL}?action=getTodayTest&name=${encodeURIComponent(name)}&vb=true`);
                 const data = await response.json();
                 
                 showLoading(false);
@@ -416,7 +416,7 @@
                 studentData = data.student;
                 
                 // 재시험 필요 여부 확인
-                const retestResponse = await fetch(`${API_URL}?action=checkPendingRetest&name=${encodeURIComponent(name)}`);
+                const retestResponse = await fetch(`${API_URL}?action=checkPendingRetest&name=${encodeURIComponent(name)}&vb=true`);
                 const retestData = await retestResponse.json();
                 
                 // 모달 표시
