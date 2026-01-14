@@ -813,6 +813,7 @@
                 const params = new URLSearchParams({
                     name: resultData.name,
                     book: resultData.book,
+                    folder: resultData.folder || resultData.book,  // 🆕 폴더 정보 추가
                     lessons: resultData.lessons.replace(/, /g, ','),
                     count: resultData.total,
                     mode: resultData.mode
