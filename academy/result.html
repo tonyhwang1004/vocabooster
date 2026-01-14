@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>시험 결과 - 김엄마관리형독서실</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <style>
+        body {
+            font-family: 'Pretendard', 'Apple SD Gothic Neo', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .result-card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            text-align: center;
+        }
+        .academy-name {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+        .student-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .result-status {
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+        }
+        .result-status.pass {
+            background: linear-gradient(135deg, #d4edda 0%, #c3e6cb 100%);
+        }
+        .result-status.fail {
+            background: linear-gradient(135deg, #f8d7da 0%, #f5c6cb 100%);
+        }
+        .result-icon {
+            font-size: 60px;
+            margin-bottom: 10px;
+        }
+        .result-status.pass .result-icon { color: #28a745; }
+        .result-status.fail .result-icon { color: #dc3545; }
+        .result-text {
+            font-size: 28px;
+            font-weight: 800;
+        }
+        .result-status.pass .result-text { color: #155724; }
+        .result-status.fail .result-text { color: #721c24; }
+        .score-display {
+            font-size: 72px;
+            font-weight: 800;
+            margin: 20px 0;
+        }
+        .result-status.pass .score-display { color: #28a745; }
+        .result-status.fail .score-display { color: #dc3545; }
+        .passing-score {
+            color: #666;
+            font-size: 16px;
+        }
+        .point-change {
+            display: inline-block;
+            padding: 8px 20px;
+            border-radius: 25px;
+            font-size: 18px;
+            font-weight: 700;
+            margin: 15px 0;
+        }
+        .point-change.positive {
+            background: #d4edda;
+            color: #155724;
+        }
+        .point-change.negative {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        .test-info {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+            text-align: left;
+        }
+        .test-info-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+        }
+        .test-info-row:last-child {
+            border-bottom: none;
+        }
+        .test-info-label {
+            color: #666;
+        }
+        .test-info-value {
+            font-weight: 600;
+            color: #333;
+        }
+        .speed-stats {
+            background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .speed-stats h6 {
+            color: #1565c0;
+            margin-bottom: 15px;
+        }
+        .speed-bar {
+            display: flex;
+            height: 30px;
+            border-radius: 15px;
+            overflow: hidden;
+            margin-bottom: 10px;
+        }
+        .speed-bar .fast {
+            background: #4caf50;
+        }
+        .speed-bar .slow {
+            background: #ff9800;
+        }
+        .speed-bar .very-slow {
+            background: #f44336;
+        }
+        .speed-legend {
+            display: flex;
+            justify-content: space-around;
+            font-size: 12px;
+        }
+        .speed-legend span {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .speed-legend .dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+        .speed-legend .dot.fast { background: #4caf50; }
+        .speed-legend .dot.slow { background: #ff9800; }
+        .speed-legend .dot.very-slow { background: #f44336; }
+        .btn-group-custom {
+            display: flex;
+            gap: 10px;
+            margin-top: 25px;
+        }
+        .btn-custom {
+            flex: 1;
+            padding: 15px;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 700;
+            border: none;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        .btn-custom:hover {
+            transform: translateY(-2px);
+        }
+        .btn-retest {
+            background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
+            color: white;
+        }
+        .btn-home {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .btn-home-only {
+            background: linear-gradient(135deg, #28a745 0%, #218838 100%);
+            color: white;
+            width: 100%;
+        }
+        .message-box {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            border-radius: 12px;
+            padding: 15px;
+            margin: 20px 0;
+            color: #856404;
+        }
+        .message-box.success {
+            background: #d4edda;
+            border-color: #28a745;
+            color: #155724;
+        }
+        .details-section {
+            margin-top: 30px;
+            text-align: left;
+        }
+        .details-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        .details-header h6 {
+            margin: 0;
+            color: #333;
+        }
+        .filter-btns {
+            display: flex;
+            gap: 5px;
+        }
+        .filter-btn {
+            padding: 5px 12px;
+            border-radius: 20px;
+            border: 1px solid #ddd;
+            background: white;
+            font-size: 12px;
+            cursor: pointer;
+        }
+        .filter-btn.active {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+        .result-list {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .result-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px;
+            border-radius: 8px;
+            margin-bottom: 8px;
+            background: #f8f9fa;
+        }
+        .result-item.correct {
+            border-left: 4px solid #28a745;
+        }
+        .result-item.wrong {
+            border-left: 4px solid #dc3545;
+            background: #fff5f5;
+        }
+        .result-item .word {
+            font-weight: 600;
+        }
+        .result-item .answer {
+            font-size: 13px;
+            color: #666;
+        }
+        .result-item .time {
+            font-size: 12px;
+            padding: 3px 8px;
+            border-radius: 10px;
+        }
+        .result-item .time.fast { background: #d4edda; color: #155724; }
+        .result-item .time.slow { background: #fff3cd; color: #856404; }
+        .result-item .time.very-slow { background: #f8d7da; color: #721c24; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="result-card">
+            <div class="academy-name">🏠 김엄마관리형독서실</div>
+            <div class="student-name" id="studentName"></div>
+            
+            <!-- 결과 상태 -->
+            <div class="result-status" id="resultStatus">
+                <div class="result-icon" id="resultIcon"></div>
+                <div class="result-text" id="resultText"></div>
+            </div>
+            
+            <!-- 점수 -->
+            <div class="score-display" id="scoreDisplay"></div>
+            <div class="passing-score">통과 기준: <span id="passingScore">80</span>점</div>
+            
+            <!-- 점수 변동 -->
+            <div class="point-change" id="pointChange"></div>
+            
+            <!-- 메시지 -->
+            <div class="message-box" id="messageBox"></div>
+            
+            <!-- 시험 정보 -->
+            <div class="test-info">
+                <div class="test-info-row">
+                    <span class="test-info-label">단어장</span>
+                    <span class="test-info-value" id="bookName"></span>
+                </div>
+                <div class="test-info-row">
+                    <span class="test-info-label">범위</span>
+                    <span class="test-info-value" id="lessons"></span>
+                </div>
+                <div class="test-info-row">
+                    <span class="test-info-label">시험 유형</span>
+                    <span class="test-info-value" id="testType"></span>
+                </div>
+                <div class="test-info-row">
+                    <span class="test-info-label">정답</span>
+                    <span class="test-info-value"><span id="correctCount"></span> / <span id="totalCount"></span></span>
+                </div>
+                <div class="test-info-row">
+                    <span class="test-info-label">소요 시간</span>
+                    <span class="test-info-value" id="duration"></span>
+                </div>
+                <div class="test-info-row">
+                    <span class="test-info-label">시도 횟수</span>
+                    <span class="test-info-value" id="attempts"></span>
+                </div>
+            </div>
+            
+            <!-- 속도 통계 -->
+            <div class="speed-stats">
+                <h6>⚡ 반응 속도 분석</h6>
+                <div class="speed-bar" id="speedBar"></div>
+                <div class="speed-legend">
+                    <span><div class="dot fast"></div> 즉시 (<span id="fastCount">0</span>)</span>
+                    <span><div class="dot slow"></div> 보통 (<span id="slowCount">0</span>)</span>
+                    <span><div class="dot very-slow"></div> 느림 (<span id="verySlowCount">0</span>)</span>
+                </div>
+                <div class="text-center mt-2">
+                    <strong>즉시 인식률: <span id="instantRate">0</span>%</strong>
+                </div>
+            </div>
+            
+            <!-- 버튼 -->
+            <div class="btn-group-custom" id="buttonGroup"></div>
+            
+            <!-- 상세 결과 -->
+            <div class="details-section">
+                <div class="details-header">
+                    <h6>📝 상세 결과</h6>
+                    <div class="filter-btns">
+                        <button class="filter-btn active" onclick="filterResults('all')">전체</button>
+                        <button class="filter-btn" onclick="filterResults('correct')">정답</button>
+                        <button class="filter-btn" onclick="filterResults('wrong')">오답</button>
+                    </div>
+                </div>
+                <div class="result-list" id="resultList"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let resultData = null;
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            // 세션에서 결과 가져오기
+            const savedResult = sessionStorage.getItem('academyTestResult');
+            
+            if (!savedResult) {
+                alert('시험 결과를 찾을 수 없습니다.');
+                window.location.href = 'index.html';
+                return;
+            }
+            
+            resultData = JSON.parse(savedResult);
+            displayResult();
+        });
+        
+        function displayResult() {
+            const passed = resultData.score >= resultData.passingScore;
+            const isRetest = resultData.type === '재시험';
+            const isReview = resultData.type && resultData.type.includes('복습');
+            
+            // 학생 이름
+            document.getElementById('studentName').textContent = resultData.name + '님';
+            
+            // 결과 상태
+            const statusEl = document.getElementById('resultStatus');
+            statusEl.classList.add(passed ? 'pass' : 'fail');
+            document.getElementById('resultIcon').innerHTML = passed ? '✅' : '❌';
+            document.getElementById('resultText').textContent = passed ? '통과!' : '불합격';
+            
+            // 점수
+            document.getElementById('scoreDisplay').textContent = resultData.score + '점';
+            document.getElementById('passingScore').textContent = resultData.passingScore;
+            
+            // 점수 변동
+            const pointChangeEl = document.getElementById('pointChange');
+            if (isReview) {
+                pointChangeEl.textContent = '복습 시험 (점수 변동 없음)';
+                pointChangeEl.className = 'point-change';
+                pointChangeEl.style.background = '#e9ecef';
+                pointChangeEl.style.color = '#666';
+            } else if (passed) {
+                if (isRetest) {
+                    pointChangeEl.textContent = '📈 누적 점수 +1 (재시험 통과)';
+                } else {
+                    pointChangeEl.textContent = '📈 누적 점수 +1';
+                }
+                pointChangeEl.classList.add('positive');
+            } else {
+                pointChangeEl.textContent = '📉 누적 점수 -1';
+                pointChangeEl.classList.add('negative');
+            }
+            
+            // 메시지
+            const messageEl = document.getElementById('messageBox');
+            if (passed) {
+                messageEl.classList.add('success');
+                if (isReview) {
+                    messageEl.innerHTML = '<i class="bi bi-check-circle"></i> 복습 완료! 계속해서 반복 학습하세요.';
+                } else {
+                    messageEl.innerHTML = '<i class="bi bi-check-circle"></i> 축하합니다! 다음 진도로 넘어갑니다.';
+                }
+            } else {
+                messageEl.innerHTML = `<i class="bi bi-exclamation-triangle"></i> ${resultData.passingScore}점 이상 통과해야 다음 진도를 나갈 수 있습니다.<br>재시험을 통과할 때까지 진행해주세요.`;
+            }
+            
+            // 시험 정보
+            document.getElementById('bookName').textContent = resultData.book;
+            document.getElementById('lessons').textContent = resultData.lessons;
+            document.getElementById('testType').textContent = resultData.type;
+            document.getElementById('correctCount').textContent = resultData.correct;
+            document.getElementById('totalCount').textContent = resultData.total;
+            document.getElementById('attempts').textContent = resultData.attempts + '회';
+            
+            const mins = Math.floor(resultData.time / 60);
+            const secs = resultData.time % 60;
+            document.getElementById('duration').textContent = `${mins}분 ${secs}초`;
+            
+            // 속도 통계
+            const stats = resultData.speedStats;
+            document.getElementById('fastCount').textContent = stats.fastCount;
+            document.getElementById('slowCount').textContent = stats.slowCount;
+            document.getElementById('verySlowCount').textContent = stats.verySlowCount;
+            document.getElementById('instantRate').textContent = stats.instantRate;
+            
+            const total = stats.fastCount + stats.slowCount + stats.verySlowCount;
+            if (total > 0) {
+                const fastPct = (stats.fastCount / total) * 100;
+                const slowPct = (stats.slowCount / total) * 100;
+                const verySlowPct = (stats.verySlowCount / total) * 100;
+                
+                document.getElementById('speedBar').innerHTML = `
+                    <div class="fast" style="width: ${fastPct}%"></div>
+                    <div class="slow" style="width: ${slowPct}%"></div>
+                    <div class="very-slow" style="width: ${verySlowPct}%"></div>
+                `;
+            }
+            
+            // 버튼
+            const buttonGroup = document.getElementById('buttonGroup');
+            if (passed) {
+                buttonGroup.innerHTML = `
+                    <button class="btn-custom btn-home-only" onclick="goHome()">
+                        <i class="bi bi-house"></i> 홈으로 돌아가기
+                    </button>
+                `;
+            } else {
+                buttonGroup.innerHTML = `
+                    <button class="btn-custom btn-retest" onclick="retryTest()">
+                        <i class="bi bi-arrow-repeat"></i> 재시험
+                    </button>
+                    <button class="btn-custom btn-home" onclick="goHome()">
+                        <i class="bi bi-house"></i> 홈으로
+                    </button>
+                `;
+            }
+            
+            // 상세 결과
+            renderResultList('all');
+        }
+        
+        function renderResultList(filter) {
+            const listEl = document.getElementById('resultList');
+            let items = resultData.details;
+            
+            if (filter === 'correct') {
+                items = items.filter(item => item.isCorrect);
+            } else if (filter === 'wrong') {
+                items = items.filter(item => !item.isCorrect);
+            }
+            
+            listEl.innerHTML = items.map(item => {
+                let timeClass = '';
+                let timeText = '';
+                
+                if (item.responseTime !== null) {
+                    if (item.responseTime <= 3) {
+                        timeClass = 'fast';
+                        timeText = `⚡${item.responseTime.toFixed(1)}초`;
+                    } else if (item.responseTime <= 6) {
+                        timeClass = 'slow';
+                        timeText = `⏱️${item.responseTime.toFixed(1)}초`;
+                    } else {
+                        timeClass = 'very-slow';
+                        timeText = `🐢${item.responseTime.toFixed(1)}초`;
+                    }
+                }
+                
+                return `
+                    <div class="result-item ${item.isCorrect ? 'correct' : 'wrong'}">
+                        <div>
+                            <div class="word">${item.question}</div>
+                            <div class="answer">
+                                ${item.isCorrect ? '✅' : '❌'} 
+                                ${item.userAnswer || '(미입력)'} 
+                                ${!item.isCorrect ? `→ ${item.correctAnswer}` : ''}
+                            </div>
+                        </div>
+                        ${timeText ? `<span class="time ${timeClass}">${timeText}</span>` : ''}
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        function filterResults(filter) {
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            renderResultList(filter);
+        }
+        
+        function retryTest() {
+            const params = new URLSearchParams({
+                name: resultData.name,
+                book: resultData.book,
+                lessons: resultData.lessons,
+                type: '재시험',
+                passingScore: resultData.passingScore,
+                attempts: (resultData.attempts || 1) + 1,
+                academyMode: 'true'
+            });
+            
+            window.location.href = `test.html?${params.toString()}`;
+        }
+        
+        function goHome() {
+            sessionStorage.removeItem('academyTestResult');
+            window.location.href = 'index.html';
+        }
+    </script>
+</body>
+</html>
