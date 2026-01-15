@@ -2,732 +2,766 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>단어 시험 - 김엄마관리형독서실</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>VocaBooster - 시험</title>
     <style>
-        body {
-            font-family: 'Pretendard', 'Apple SD Gothic Neo', sans-serif;
-            background-color: #edf2f7;
+        * {
             margin: 0;
             padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
             min-height: 100vh;
         }
-        .academy-header {
+        
+        .header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 10px 20px;
-            text-align: center;
-        }
-        .academy-header h1 {
-            font-size: 14px;
-            margin: 0;
-            opacity: 0.9;
-        }
-        .student-info {
-            font-size: 16px;
-            font-weight: 700;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 0 15px;
-        }
-        .speed-banner {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            border-radius: 12px;
-            padding: 15px;
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        .speed-banner h5 {
-            margin-bottom: 10px;
-            font-size: 14px;
-        }
-        .speed-legend {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            flex-wrap: wrap;
-        }
-        .speed-legend span {
-            background: rgba(255,255,255,0.2);
-            padding: 5px 12px;
-            border-radius: 20px;
-            font-size: 12px;
-        }
-        .timer-box {
-            text-align: center;
-            margin-bottom: 20px;
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            flex-wrap: wrap;
-        }
-        .timer {
-            display: inline-flex;
-            align-items: center;
-            background-color: white;
-            border-radius: 30px;
-            padding: 8px 20px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            font-weight: bold;
-            color: #4361ee;
-        }
-        .response-timer {
-            display: inline-flex;
-            align-items: center;
-            background-color: white;
-            border-radius: 30px;
-            padding: 8px 20px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            font-weight: bold;
-            transition: all 0.3s ease;
-        }
-        .response-timer.fast { background-color: #d4edda; color: #155724; }
-        .response-timer.slow { background-color: #fff3cd; color: #856404; }
-        .response-timer.very-slow { background-color: #f8d7da; color: #721c24; }
-        .progress-container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 10px;
-            font-size: 14px;
-            color: #4a5568;
-        }
-        .progress {
-            height: 8px;
-            margin-bottom: 20px;
-            background-color: #e2e8f0;
-            border-radius: 4px;
-        }
-        .progress-bar {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            border-radius: 4px;
-        }
-        .question-card {
-            background-color: white;
-            border-radius: 12px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-            padding: 25px;
-            margin-bottom: 20px;
-            display: none;
-        }
-        .question-card.active { display: block; }
-        .question-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-        .question-number {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 5px 15px;
-            border-radius: 20px;
-            font-weight: bold;
-            font-size: 14px;
-        }
-        .question-mode {
-            color: #718096;
-            font-size: 14px;
-        }
-        .question-content {
-            text-align: center;
-            padding: 30px;
-            background-color: #f8fafc;
-            border-radius: 10px;
-            margin-bottom: 20px;
-        }
-        .question-word {
-            font-size: 32px;
-            font-weight: 700;
-            color: #1a202c;
-        }
-        .warning-box {
-            background-color: #fef3c7;
-            border: 1px solid #f59e0b;
-            border-radius: 8px;
-            padding: 10px;
-            margin-bottom: 15px;
-            color: #92400e;
-            font-size: 13px;
-            display: flex;
-            align-items: center;
-        }
-        .warning-box i {
-            margin-right: 8px;
-            color: #f59e0b;
-        }
-        .answer-section { margin-bottom: 20px; }
-        .answer-label {
-            font-size: 14px;
-            color: #4a5568;
-            margin-bottom: 10px;
-        }
-        .required-count {
-            background-color: #fef3c7;
-            color: #92400e;
-            padding: 2px 8px;
-            border-radius: 10px;
-            font-size: 12px;
-            margin-left: 10px;
-        }
-        .answer-input {
-            width: 100%;
-            padding: 15px;
-            font-size: 18px;
-            border: 2px solid #e2e8f0;
-            border-radius: 10px;
-            text-align: center;
-            transition: border-color 0.3s;
-        }
-        .answer-input:focus {
-            outline: none;
-            border-color: #667eea;
-        }
-        .answer-input:disabled {
-            background-color: #f1f5f9;
-        }
-        .choices-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            justify-content: center;
-            margin-top: 15px;
-        }
-        .choice-btn {
-            padding: 10px 20px;
-            border: 2px solid #e2e8f0;
-            border-radius: 10px;
-            background: white;
-            cursor: pointer;
-            transition: all 0.2s;
-            font-size: 14px;
-        }
-        .choice-btn:hover {
-            border-color: #667eea;
-            background: #f0f4ff;
-        }
-        .choice-btn.selected {
-            border-color: #667eea;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-        }
-        .btn-next {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            border: none;
-            padding: 15px 40px;
-            border-radius: 10px;
-            font-size: 18px;
-            font-weight: bold;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 0 auto;
-            cursor: pointer;
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-        .btn-next:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
-        }
-        .btn-submit {
-            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-            color: white;
-            border: none;
-            padding: 18px 50px;
-            border-radius: 10px;
-            font-size: 20px;
-            font-weight: bold;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 20px auto;
-            cursor: pointer;
-        }
-        .loading-overlay {
+            padding: 15px 20px;
             position: fixed;
             top: 0;
             left: 0;
-            width: 100%;
+            right: 0;
+            z-index: 100;
+        }
+        
+        .header-content {
+            max-width: 600px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .header h1 {
+            font-size: 18px;
+        }
+        
+        .header-info {
+            display: flex;
+            gap: 15px;
+            font-size: 14px;
+        }
+        
+        .progress-bar {
+            background: rgba(255,255,255,0.3);
+            height: 4px;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+        
+        .progress-fill {
+            background: white;
             height: 100%;
-            background: rgba(255,255,255,0.95);
+            transition: width 0.3s;
+        }
+        
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 80px 20px 100px;
+        }
+        
+        .question-card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        
+        .question-number {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            display: inline-block;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        
+        .question-word {
+            font-size: 32px;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 30px;
+            color: #333;
+        }
+        
+        .question-hint {
+            text-align: center;
+            color: #888;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        
+        .options {
+            display: grid;
+            gap: 12px;
+        }
+        
+        .option {
+            background: #f8f9fa;
+            border: 2px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 16px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-align: left;
+        }
+        
+        .option:hover {
+            border-color: #667eea;
+            background: #f0f3ff;
+        }
+        
+        .option.selected {
+            border-color: #667eea;
+            background: #667eea;
+            color: white;
+        }
+        
+        .option.correct {
+            border-color: #4caf50;
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+        
+        .option.wrong {
+            border-color: #f44336;
+            background: #ffebee;
+            color: #c62828;
+        }
+        
+        .option.correct-answer {
+            border-color: #4caf50;
+            background: #4caf50;
+            color: white;
+        }
+        
+        .bottom-bar {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: white;
+            padding: 15px 20px;
+            box-shadow: 0 -4px 20px rgba(0,0,0,0.1);
+        }
+        
+        .bottom-bar-content {
+            max-width: 600px;
+            margin: 0 auto;
+            display: flex;
+            gap: 10px;
+        }
+        
+        .btn {
+            flex: 1;
+            padding: 16px;
+            border: none;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .btn-primary:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        
+        .btn-secondary {
+            background: #f5f5f5;
+            color: #333;
+        }
+        
+        /* 결과 피드백 */
+        .feedback {
+            display: none;
+            padding: 15px;
+            border-radius: 12px;
+            margin-top: 20px;
+            text-align: center;
+        }
+        
+        .feedback.show {
+            display: block;
+        }
+        
+        .feedback.correct {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+        
+        .feedback.wrong {
+            background: #ffebee;
+            color: #c62828;
+        }
+        
+        .feedback-icon {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+        
+        .feedback-text {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+        
+        .feedback-answer {
+            font-size: 14px;
+        }
+        
+        /* 로딩 화면 */
+        .loading-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: white;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
             z-index: 1000;
         }
-        .loading-overlay .spinner-border {
-            width: 3rem;
-            height: 3rem;
-            color: #667eea;
+        
+        .loading-screen.hide {
+            display: none;
+        }
+        
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 20px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* 모드 표시 */
+        .mode-badge {
+            background: rgba(255,255,255,0.2);
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 12px;
+        }
+        
+        /* 힌트 버튼 */
+        .hint-btn {
+            background: none;
+            border: 1px solid #ddd;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            color: #666;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        
+        .hint-btn:hover {
+            background: #f5f5f5;
+        }
+        
+        /* 단어 북마크 */
+        .bookmark-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            opacity: 0.5;
+            transition: all 0.2s;
+        }
+        
+        .bookmark-btn:hover,
+        .bookmark-btn.active {
+            opacity: 1;
+        }
+        
+        .question-card {
+            position: relative;
+        }
+        
+        /* 타이머 */
+        .timer {
+            font-size: 14px;
+            font-weight: 600;
+        }
+        
+        .timer.warning {
+            color: #ff6b6b;
         }
     </style>
 </head>
 <body>
-    <!-- 학원 헤더 -->
-    <div class="academy-header">
-        <h1>🏠 김엄마관리형독서실</h1>
-        <div class="student-info">
-            <span id="headerStudentName"></span> | <span id="headerBookName"></span> | <span id="headerTestType"></span>
+    <!-- 로딩 화면 -->
+    <div class="loading-screen" id="loadingScreen">
+        <div class="spinner"></div>
+        <p>단어를 불러오는 중...</p>
+    </div>
+    
+    <!-- 헤더 -->
+    <div class="header">
+        <div class="header-content">
+            <h1 id="headerTitle">📚 시험</h1>
+            <div class="header-info">
+                <span class="mode-badge" id="modeBadge">정규 시험</span>
+                <span id="scoreDisplay">0/0</span>
+                <span class="timer" id="timer">--:--</span>
+            </div>
+        </div>
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill" style="width: 0%"></div>
         </div>
     </div>
-
-    <!-- 로딩 -->
-    <div class="loading-overlay" id="loadingOverlay">
-        <div class="spinner-border" role="status"></div>
-        <p class="mt-3">단어 데이터를 불러오는 중...</p>
-    </div>
-
+    
+    <!-- 메인 컨텐츠 -->
     <div class="container">
-        <!-- 속도 안내 배너 -->
-        <div class="speed-banner">
-            <h5>⚡ 빠른 인식이 독해력의 핵심! 단어를 얼마나 빨리 떠올리는지 측정합니다.</h5>
-            <div class="speed-legend">
-                <span>⚡ 3초 이내 = 가벼운 단어</span>
-                <span>⏱️ 3~6초 = 연습 필요</span>
-                <span>🐢 6초 초과 = 무거운 단어</span>
+        <div class="question-card" id="questionCard">
+            <button class="bookmark-btn" id="bookmarkBtn" onclick="toggleBookmark()">☆</button>
+            <div class="question-number" id="questionNumber">1 / 40</div>
+            <div class="question-word" id="questionWord">Loading...</div>
+            <div class="question-hint" id="questionHint"></div>
+            <div class="options" id="options">
+                <!-- 옵션들이 여기에 렌더링됨 -->
             </div>
-        </div>
-
-        <!-- 타이머 -->
-        <div class="timer-box">
-            <div class="timer">
-                <i class="bi bi-clock me-2"></i>
-                <span id="totalTimer">00:00</span>
+            <div class="feedback" id="feedback">
+                <div class="feedback-icon" id="feedbackIcon"></div>
+                <div class="feedback-text" id="feedbackText"></div>
+                <div class="feedback-answer" id="feedbackAnswer"></div>
             </div>
-            <div class="response-timer" id="responseTimer">
-                <span>현재 문제: </span>
-                <span id="currentResponseTime">⏱️0.0초</span>
-            </div>
+            <center>
+                <button class="hint-btn" id="hintBtn" onclick="showHint()">💡 힌트 보기</button>
+            </center>
         </div>
-
-        <!-- 진행률 -->
-        <div class="progress-container">
-            <span>문제 <span id="currentQuestion">1</span>/<span id="totalQuestions">20</span></span>
-            <span>진행률: <span id="progressPercent">0</span>%</span>
-        </div>
-        <div class="progress">
-            <div class="progress-bar" id="progressBar" style="width: 0%"></div>
-        </div>
-
-        <!-- 문제 카드들 -->
-        <div id="questionsContainer"></div>
-
-        <!-- 제출 버튼 -->
-        <button class="btn-submit" id="submitBtn" style="display: none;">
-            <i class="bi bi-check-circle me-2"></i> 테스트 제출
-        </button>
     </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- 하단 바 -->
+    <div class="bottom-bar">
+        <div class="bottom-bar-content">
+            <button class="btn btn-secondary" onclick="skipQuestion()">건너뛰기</button>
+            <button class="btn btn-primary" id="nextBtn" onclick="nextQuestion()" disabled>다음</button>
+        </div>
+    </div>
+    
     <script>
-        // ✅ API URL 설정 완료
+        // API 설정
         const API_URL = 'https://script.google.com/macros/s/AKfycbwGFbsj8FgFIuF-iFkJ4ekyS76MWQf9UrUysJ-Fs12vuVByJwenoYRgOJeOZiPOa6gzkg/exec';
-        const BASE_PATH = '/vocabooster/';
+        const GITHUB_BASE = 'https://raw.githubusercontent.com/tonyhwang1004/vocabooster/main/data';
         
-        // URL 파라미터
-        const urlParams = new URLSearchParams(window.location.search);
-        const studentName = urlParams.get('name') || '';
-        const bookName = urlParams.get('book') || '';
-        const bookFolder = urlParams.get('folder') || '';
-        const lessonList = urlParams.get('lessons') ? urlParams.get('lessons').split(',') : [];
-        const testType = urlParams.get('type') || '정규';
-        const testMode = urlParams.get('mode') || 'eng_to_kor';
-        const passingScore = parseInt(urlParams.get('passingScore')) || 80;
-        const dailyCount = parseInt(urlParams.get('dailyCount')) || 1;
-        const attempts = parseInt(urlParams.get('attempts')) || 1;
-        const reviewRowIndex = urlParams.get('reviewRowIndex') || null;
-        
-        // 헤더 업데이트
-        document.getElementById('headerStudentName').textContent = studentName;
-        document.getElementById('headerBookName').textContent = bookName;
-        document.getElementById('headerTestType').textContent = testType;
-
-        // 전역 변수
+        // 상태 변수
+        let currentStudent = null;
+        let testData = null;
+        let testMode = 'regular';
         let questions = [];
-        let answers = {};
         let currentIndex = 0;
-        let timerInterval = null;
+        let correctCount = 0;
+        let wrongWords = [];
+        let answeredQuestions = [];
         let startTime = null;
-        let totalSeconds = 0;
-        let responseTimes = {};
-        let questionStartTime = null;
-        let responseTimerInterval = null;
-
-        // 초기화
-        document.addEventListener('DOMContentLoaded', function() {
-            loadQuestions();
+        let timerInterval = null;
+        let bookmarkedWords = [];
+        
+        // 페이지 로드
+        document.addEventListener('DOMContentLoaded', async function() {
+            // 세션에서 정보 가져오기
+            const studentStr = sessionStorage.getItem('vb_current_student');
+            const testDataStr = sessionStorage.getItem('vb_test_data');
+            testMode = new URLSearchParams(window.location.search).get('mode') || 'regular';
+            
+            if (!studentStr) {
+                alert('로그인 정보가 없습니다.');
+                window.location.href = 'index.html';
+                return;
+            }
+            
+            currentStudent = JSON.parse(studentStr);
+            testData = testDataStr ? JSON.parse(testDataStr) : null;
+            
+            // 모드에 따른 UI 설정
+            setupModeUI();
+            
+            // 단어 로드
+            await loadWords();
+            
+            // 시험 시작
+            startTest();
         });
-
-        // 문제 로드
-        async function loadQuestions() {
+        
+        // 모드별 UI 설정
+        function setupModeUI() {
+            const modeBadge = document.getElementById('modeBadge');
+            const headerTitle = document.getElementById('headerTitle');
+            
+            switch (testMode) {
+                case 'regular':
+                    modeBadge.textContent = '정규 시험';
+                    headerTitle.textContent = '📝 정규 시험';
+                    break;
+                case 'review':
+                    modeBadge.textContent = '복습';
+                    modeBadge.style.background = 'rgba(76, 175, 80, 0.3)';
+                    headerTitle.textContent = '🔄 복습 시험';
+                    break;
+                case 'weak':
+                    modeBadge.textContent = '취약 단어';
+                    modeBadge.style.background = 'rgba(255, 152, 0, 0.3)';
+                    headerTitle.textContent = '💪 취약 단어 학습';
+                    break;
+                case 'practice':
+                    modeBadge.textContent = '연습';
+                    modeBadge.style.background = 'rgba(33, 150, 243, 0.3)';
+                    headerTitle.textContent = '📖 연습 모드';
+                    break;
+            }
+        }
+        
+        // 단어 로드
+        async function loadWords() {
             try {
-                let allWords = [];
-                let folder = bookFolder;
-                
-                // 폴더 정보가 없으면 API에서 매핑 정보 가져오기
-                if (!folder) {
-                    const mappingResponse = await fetch(`${API_URL}?action=getWordBookMapping&name=${encodeURIComponent(bookName)}&vb=true`);
-                    const mappingData = await mappingResponse.json();
-                    
-                    if (mappingData.success) {
-                        folder = mappingData.mapping.folder;
-                    } else {
-                        throw new Error('단어장 매핑을 찾을 수 없습니다.');
+                if (testMode === 'weak' && testData && testData.weakWords && testData.weakWords.length > 0) {
+                    // 취약 단어 모드
+                    questions = testData.weakWords.map(w => ({
+                        english: w.english,
+                        korean: w.korean,
+                        wrongCount: w.wrongCount
+                    }));
+                    shuffleArray(questions);
+                } else if (testMode === 'review' && testData && testData.reviewTests && testData.reviewTests.length > 0) {
+                    // 복습 모드 - 복습 대기 레슨의 단어 로드
+                    const review = testData.reviewTests[0];
+                    await loadLessonWords(review.wordbook, review.lesson);
+                } else {
+                    // 정규/연습 모드
+                    if (testData && testData.todayTest) {
+                        const folder = testData.todayTest.folder;
+                        const lessons = testData.todayTest.lessons;
+                        
+                        for (const lesson of lessons) {
+                            await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
+                        }
                     }
                 }
                 
-                // 각 레슨에서 단어 로드
-                for (const lesson of lessonList) {
-                    const url = `${BASE_PATH}data/books/${folder}/${lesson}.json`;
-                    console.log('Loading:', url);
-                    
-                    const response = await fetch(url);
-                    
-                    if (response.ok) {
-                        const words = await response.json();
-                        allWords = allWords.concat(words);
-                    }
+                // 문제 수 제한 (최대 40문제)
+                if (questions.length > 40) {
+                    shuffleArray(questions);
+                    questions = questions.slice(0, 40);
                 }
                 
-                if (allWords.length === 0) {
-                    throw new Error('단어를 불러올 수 없습니다.');
-                }
-                
-                // 문제 섞기
-                allWords = shuffleArray(allWords);
-                
-                // 문제 생성
-                questions = allWords.map((word, i) => {
-                    const question = testMode === 'kor_to_eng' ? word.kor : word.eng;
-                    const answer = testMode === 'kor_to_eng' ? word.eng : word.kor;
-                    const answerList = answer.split(/[,;]/).map(a => a.trim()).filter(a => a);
-                    const requiredCount = testMode === 'kor_to_eng' ? 1 : answerList.length;
-                    
-                    return {
-                        index: i + 1,
-                        question: question,
-                        answer: answer,
-                        answerList: answerList,
-                        requiredCount: requiredCount,
-                        originalWord: word
-                    };
-                });
-                
-                // UI 렌더링
-                renderQuestions();
-                document.getElementById('loadingOverlay').style.display = 'none';
-                document.getElementById('totalQuestions').textContent = questions.length;
-                startTimer();
-                startQuestionTimer();
+                // 각 문제에 보기 생성
+                generateOptions();
                 
             } catch (error) {
-                console.error('Error loading questions:', error);
-                alert('단어 데이터를 불러올 수 없습니다.\n' + error.message);
+                console.error('단어 로드 실패:', error);
+                alert('단어를 불러오는데 실패했습니다.');
                 window.location.href = 'index.html';
             }
         }
-
-        // 배열 섞기
-        function shuffleArray(array) {
-            const newArray = [...array];
-            for (let i = newArray.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
-            }
-            return newArray;
-        }
-
-        // 문제 렌더링
-        function renderQuestions() {
-            const container = document.getElementById('questionsContainer');
-            container.innerHTML = '';
-            
-            questions.forEach((q, index) => {
-                const choices = generateChoices(q, questions);
-                
-                const card = document.createElement('div');
-                card.className = `question-card ${index === 0 ? 'active' : ''}`;
-                card.id = `question-${index}`;
-                
-                card.innerHTML = `
-                    <div class="question-header">
-                        <span class="question-number">문제 ${q.index}</span>
-                        <span class="question-mode">${testMode === 'eng_to_kor' ? '영 → 한' : '한 → 영'}</span>
-                    </div>
-                    <div class="question-content">
-                        <div class="question-word">${q.question}</div>
-                    </div>
-                    <div class="warning-box">
-                        <i class="bi bi-exclamation-triangle"></i>
-                        주의: 자동단어추천 기능과 맞춤법 검사(빨간 밑줄)는 사용이 금지됩니다.
-                    </div>
-                    <div class="answer-section">
-                        <div class="answer-label">
-                            ${testMode === 'eng_to_kor' ? '모든 한글 뜻을 쉼표로 구분해 입력하세요' : '영어 단어를 입력하세요'}
-                            <span class="required-count">[필요한 답변 수: ${q.requiredCount}개]</span>
-                        </div>
-                        <input type="text" class="answer-input" 
-                               id="answer-${index}" 
-                               placeholder="정답을 입력하세요"
-                               autocomplete="off"
-                               autocorrect="off"
-                               autocapitalize="off"
-                               spellcheck="false">
-                        ${testMode === 'eng_to_kor' ? `
-                            <div class="choices-container" id="choices-${index}">
-                                ${choices.map(c => `
-                                    <button type="button" class="choice-btn" onclick="selectChoice(${index}, this, '${c.replace(/'/g, "\\'")}')">
-                                        ${c}
-                                    </button>
-                                `).join('')}
-                            </div>
-                        ` : ''}
-                    </div>
-                    <button class="btn-next" onclick="nextQuestion(${index})">
-                        ${index === questions.length - 1 ? '완료' : '다음'} <i class="bi bi-arrow-right ms-2"></i>
-                    </button>
-                `;
-                
-                container.appendChild(card);
-            });
-        }
-
-        // 보기 생성
-        function generateChoices(currentQuestion, allQuestions) {
-            const correctAnswers = currentQuestion.answerList;
-            const choices = [...correctAnswers];
-            
-            const otherMeanings = [];
-            allQuestions.forEach(q => {
-                if (q !== currentQuestion) {
-                    const meanings = q.originalWord.kor.split(/[,;]/).map(m => m.trim()).filter(m => m);
-                    meanings.forEach(m => {
-                        if (!correctAnswers.includes(m) && !otherMeanings.includes(m)) {
-                            otherMeanings.push(m);
-                        }
-                    });
-                }
-            });
-            
-            const shuffledOthers = shuffleArray(otherMeanings);
-            const targetCount = Math.min(15, correctAnswers.length + shuffledOthers.length);
-            
-            while (choices.length < targetCount && shuffledOthers.length > 0) {
-                choices.push(shuffledOthers.shift());
-            }
-            
-            return shuffleArray(choices);
-        }
-
-        // 보기 선택
-        function selectChoice(questionIndex, btn, choice) {
-            const input = document.getElementById(`answer-${questionIndex}`);
-            const currentAnswers = input.value.split(',').map(a => a.trim()).filter(a => a);
-            
-            if (btn.classList.contains('selected')) {
-                btn.classList.remove('selected');
-                const idx = currentAnswers.indexOf(choice);
-                if (idx > -1) currentAnswers.splice(idx, 1);
-            } else {
-                btn.classList.add('selected');
-                currentAnswers.push(choice);
-            }
-            
-            input.value = currentAnswers.join(', ');
-        }
-
-        // 다음 문제
-        function nextQuestion(index) {
-            // 반응 시간 기록
-            if (questionStartTime) {
-                responseTimes[index] = (Date.now() - questionStartTime) / 1000;
-            }
-            
-            // 답안 저장
-            answers[index] = document.getElementById(`answer-${index}`).value;
-            
-            // 현재 카드 숨기기
-            document.getElementById(`question-${index}`).classList.remove('active');
-            
-            if (index < questions.length - 1) {
-                // 다음 문제 표시
-                currentIndex = index + 1;
-                document.getElementById(`question-${currentIndex}`).classList.add('active');
-                updateProgress();
-                startQuestionTimer();
-            } else {
-                // 마지막 문제면 제출
-                submitTest();
-            }
-        }
-
-        // 진행률 업데이트
-        function updateProgress() {
-            const progress = ((currentIndex + 1) / questions.length) * 100;
-            document.getElementById('currentQuestion').textContent = currentIndex + 1;
-            document.getElementById('progressPercent').textContent = Math.round(progress);
-            document.getElementById('progressBar').style.width = `${progress}%`;
-        }
-
-        // 타이머 시작
-        function startTimer() {
-            startTime = Date.now();
-            timerInterval = setInterval(() => {
-                totalSeconds = Math.floor((Date.now() - startTime) / 1000);
-                const mins = Math.floor(totalSeconds / 60);
-                const secs = totalSeconds % 60;
-                document.getElementById('totalTimer').textContent = 
-                    `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
-            }, 1000);
-        }
-
-        // 문제별 타이머
-        function startQuestionTimer() {
-            questionStartTime = Date.now();
-            
-            if (responseTimerInterval) clearInterval(responseTimerInterval);
-            
-            const timerEl = document.getElementById('responseTimer');
-            const timeEl = document.getElementById('currentResponseTime');
-            
-            responseTimerInterval = setInterval(() => {
-                const elapsed = (Date.now() - questionStartTime) / 1000;
-                timeEl.textContent = `⏱️${elapsed.toFixed(1)}초`;
-                
-                timerEl.classList.remove('fast', 'slow', 'very-slow');
-                if (elapsed <= 3) {
-                    timerEl.classList.add('fast');
-                } else if (elapsed <= 6) {
-                    timerEl.classList.add('slow');
-                } else {
-                    timerEl.classList.add('very-slow');
-                }
-            }, 100);
-        }
-
-        // 테스트 제출
-        async function submitTest() {
-            clearInterval(timerInterval);
-            clearInterval(responseTimerInterval);
-            
-            // 채점
-            let correct = 0;
-            let fastCount = 0;
-            let slowCount = 0;
-            let verySlowCount = 0;
-            const results = [];
-            
-            questions.forEach((q, i) => {
-                const userAnswer = (answers[i] || '').trim().toLowerCase();
-                const correctAnswers = q.answerList.map(a => a.toLowerCase().trim());
-                
-                let isCorrect = false;
-                
-                if (testMode === 'eng_to_kor') {
-                    const userAnswers = userAnswer.split(',').map(a => a.trim()).filter(a => a);
-                    let correctCount = 0;
-                    userAnswers.forEach(ua => {
-                        if (correctAnswers.some(ca => ua === ca || ua.includes(ca) || ca.includes(ua))) {
-                            correctCount++;
-                        }
-                    });
-                    isCorrect = correctCount >= q.requiredCount && userAnswers.length === q.requiredCount;
-                } else {
-                    isCorrect = correctAnswers.some(ans => 
-                        userAnswer === ans || userAnswer.includes(ans) || ans.includes(userAnswer)
-                    );
-                }
-                
-                if (isCorrect) correct++;
-                
-                const responseTime = responseTimes[i] || null;
-                if (responseTime !== null && isCorrect) {
-                    if (responseTime <= 3) fastCount++;
-                    else if (responseTime <= 6) slowCount++;
-                    else verySlowCount++;
-                }
-                
-                results.push({
-                    question: q.question,
-                    userAnswer: answers[i] || '',
-                    correctAnswer: q.answer,
-                    isCorrect: isCorrect,
-                    responseTime: responseTime
-                });
-            });
-            
-            const score = Math.round((correct / questions.length) * 100);
-            const instantRate = correct > 0 ? Math.round((fastCount / correct) * 100) : 0;
-            
-            // Google Sheets에 저장
+        
+        // 레슨 단어 로드
+        async function loadLessonWords(wordbook, lesson, folder) {
             try {
-                const saveData = {
-                    vb: true,  // 충돌 방지용 플래그
-                    action: 'saveTestResult',
-                    name: studentName,
-                    wordbook: bookName,
-                    lesson: lessonList.join(', '),
-                    type: testType,
-                    score: score,
-                    duration: totalSeconds,
-                    instantRate: instantRate,
-                    wrongCount: questions.length - correct,
-                    attempts: attempts,
-                    dailyCount: dailyCount
-                };
+                // 폴더 이름 가져오기
+                if (!folder && testData && testData.todayTest) {
+                    folder = testData.todayTest.folder;
+                }
                 
-                await fetch(API_URL, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(saveData)
-                });
+                if (!folder) {
+                    console.error('폴더 정보 없음');
+                    return;
+                }
                 
-                // 복습 완료 처리
-                if (reviewRowIndex && score >= passingScore) {
-                    await fetch(API_URL, {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify({
-                            vb: true,
-                            action: 'completeReview',
-                            rowIndex: parseInt(reviewRowIndex),
-                            score: score
-                        })
-                    });
+                // 레슨 형식에 맞게 파일명 생성
+                let fileName = lesson;
+                if (!fileName.includes('DAY') && !fileName.includes('day')) {
+                    fileName = String(lesson);
+                }
+                
+                const url = `${GITHUB_BASE}/${folder}/${fileName}.json`;
+                console.log('Loading:', url);
+                
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                
+                const data = await response.json();
+                
+                if (data.words && Array.isArray(data.words)) {
+                    questions.push(...data.words.map(w => ({
+                        english: w.english || w.word || w.en,
+                        korean: w.korean || w.meaning || w.ko,
+                        lesson: lesson
+                    })));
                 }
             } catch (error) {
-                console.error('저장 실패:', error);
+                console.error(`레슨 ${lesson} 로드 실패:`, error);
+            }
+        }
+        
+        // 보기 생성
+        function generateOptions() {
+            const allKorean = questions.map(q => q.korean);
+            
+            questions.forEach(q => {
+                // 정답 포함 4개 보기
+                const options = [q.korean];
+                
+                while (options.length < 4) {
+                    const randomKorean = allKorean[Math.floor(Math.random() * allKorean.length)];
+                    if (!options.includes(randomKorean)) {
+                        options.push(randomKorean);
+                    }
+                }
+                
+                shuffleArray(options);
+                q.options = options;
+            });
+        }
+        
+        // 배열 섞기
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+        
+        // 시험 시작
+        function startTest() {
+            if (questions.length === 0) {
+                alert('시험할 단어가 없습니다.');
+                window.location.href = 'index.html';
+                return;
+            }
+            
+            document.getElementById('loadingScreen').classList.add('hide');
+            startTime = new Date();
+            startTimer();
+            showQuestion();
+        }
+        
+        // 타이머 시작
+        function startTimer() {
+            timerInterval = setInterval(() => {
+                const elapsed = Math.floor((new Date() - startTime) / 1000);
+                const minutes = Math.floor(elapsed / 60);
+                const seconds = elapsed % 60;
+                document.getElementById('timer').textContent = 
+                    `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+            }, 1000);
+        }
+        
+        // 문제 표시
+        function showQuestion() {
+            if (currentIndex >= questions.length) {
+                finishTest();
+                return;
+            }
+            
+            const q = questions[currentIndex];
+            
+            document.getElementById('questionNumber').textContent = 
+                `${currentIndex + 1} / ${questions.length}`;
+            document.getElementById('questionWord').textContent = q.english;
+            document.getElementById('progressFill').style.width = 
+                `${((currentIndex) / questions.length) * 100}%`;
+            document.getElementById('scoreDisplay').textContent = 
+                `${correctCount}/${currentIndex}`;
+            
+            // 힌트 초기화
+            document.getElementById('questionHint').textContent = '';
+            document.getElementById('hintBtn').style.display = 'inline-block';
+            
+            // 북마크 상태
+            document.getElementById('bookmarkBtn').textContent = 
+                bookmarkedWords.includes(q.english) ? '★' : '☆';
+            
+            // 보기 렌더링
+            const optionsContainer = document.getElementById('options');
+            optionsContainer.innerHTML = '';
+            
+            q.options.forEach((opt, i) => {
+                const btn = document.createElement('button');
+                btn.className = 'option';
+                btn.textContent = opt;
+                btn.onclick = () => selectOption(btn, opt, q.korean);
+                optionsContainer.appendChild(btn);
+            });
+            
+            // 피드백 숨기기
+            document.getElementById('feedback').classList.remove('show');
+            document.getElementById('nextBtn').disabled = true;
+        }
+        
+        // 옵션 선택
+        function selectOption(btn, selected, correct) {
+            // 이미 답한 경우 무시
+            if (answeredQuestions.includes(currentIndex)) return;
+            answeredQuestions.push(currentIndex);
+            
+            const options = document.querySelectorAll('.option');
+            const isCorrect = selected === correct;
+            const q = questions[currentIndex];
+            
+            // 모든 옵션 비활성화
+            options.forEach(opt => {
+                opt.style.pointerEvents = 'none';
+                if (opt.textContent === correct) {
+                    opt.classList.add('correct-answer');
+                }
+            });
+            
+            if (isCorrect) {
+                btn.classList.add('correct');
+                correctCount++;
+                showFeedback(true, correct);
+            } else {
+                btn.classList.add('wrong');
+                showFeedback(false, correct);
+                
+                // 틀린 단어 기록
+                wrongWords.push({
+                    english: q.english,
+                    korean: q.korean,
+                    selected: selected,
+                    lesson: q.lesson
+                });
+            }
+            
+            document.getElementById('nextBtn').disabled = false;
+            document.getElementById('hintBtn').style.display = 'none';
+        }
+        
+        // 피드백 표시
+        function showFeedback(isCorrect, answer) {
+            const feedback = document.getElementById('feedback');
+            const icon = document.getElementById('feedbackIcon');
+            const text = document.getElementById('feedbackText');
+            const answerEl = document.getElementById('feedbackAnswer');
+            
+            feedback.className = 'feedback show ' + (isCorrect ? 'correct' : 'wrong');
+            icon.textContent = isCorrect ? '🎉' : '😢';
+            text.textContent = isCorrect ? '정답입니다!' : '틀렸습니다';
+            answerEl.textContent = isCorrect ? '' : `정답: ${answer}`;
+        }
+        
+        // 힌트 표시
+        function showHint() {
+            const q = questions[currentIndex];
+            const hint = q.korean.charAt(0) + '...'; // 첫 글자만 표시
+            document.getElementById('questionHint').textContent = `힌트: ${hint}`;
+            document.getElementById('hintBtn').style.display = 'none';
+        }
+        
+        // 북마크 토글
+        function toggleBookmark() {
+            const q = questions[currentIndex];
+            const btn = document.getElementById('bookmarkBtn');
+            
+            if (bookmarkedWords.includes(q.english)) {
+                bookmarkedWords = bookmarkedWords.filter(w => w !== q.english);
+                btn.textContent = '☆';
+            } else {
+                bookmarkedWords.push(q.english);
+                btn.textContent = '★';
+            }
+        }
+        
+        // 다음 문제
+        function nextQuestion() {
+            currentIndex++;
+            showQuestion();
+        }
+        
+        // 건너뛰기
+        function skipQuestion() {
+            if (!answeredQuestions.includes(currentIndex)) {
+                const q = questions[currentIndex];
+                wrongWords.push({
+                    english: q.english,
+                    korean: q.korean,
+                    selected: '(건너뜀)',
+                    lesson: q.lesson
+                });
+                answeredQuestions.push(currentIndex);
+            }
+            currentIndex++;
+            showQuestion();
+        }
+        
+        // 시험 종료
+        async function finishTest() {
+            clearInterval(timerInterval);
+            
+            const endTime = new Date();
+            const duration = Math.floor((endTime - startTime) / 1000);
+            const score = Math.round((correctCount / questions.length) * 100);
+            
+            // 결과 저장
+            const resultData = {
+                vb: true,
+                action: 'saveTestResult',
+                name: currentStudent.name,
+                wordbook: currentStudent.wordbook,
+                lesson: testData?.todayTest?.lessons?.join(', ') || 'N/A',
+                type: testMode === 'regular' ? '정규' : testMode === 'review' ? '복습' : testMode === 'weak' ? '취약단어' : '연습',
+                score: score,
+                duration: duration,
+                wrongCount: wrongWords.length,
+                wrongWords: wrongWords,
+                dailyCount: currentStudent.dailyCount
+            };
+            
+            try {
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(resultData)
+                });
+                
+                const result = await response.json();
+                console.log('저장 결과:', result);
+            } catch (error) {
+                console.error('결과 저장 실패:', error);
             }
             
             // 결과 페이지로 이동
-            const resultData = {
-                name: studentName,
-                book: bookName,
-                lessons: lessonList.join(', '),
-                type: testType,
+            sessionStorage.setItem('vb_test_result', JSON.stringify({
                 score: score,
-                correct: correct,
                 total: questions.length,
-                time: totalSeconds,
-                passingScore: passingScore,
-                attempts: attempts,
-                speedStats: {
-                    fastCount: fastCount,
-                    slowCount: slowCount,
-                    verySlowCount: verySlowCount,
-                    instantRate: instantRate
-                },
-                details: results
-            };
+                correct: correctCount,
+                wrong: wrongWords.length,
+                duration: duration,
+                wrongWords: wrongWords,
+                mode: testMode
+            }));
             
-            sessionStorage.setItem('academyTestResult', JSON.stringify(resultData));
             window.location.href = 'result.html';
         }
     </script>
