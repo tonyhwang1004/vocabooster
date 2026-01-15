@@ -2,543 +2,468 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>시험 결과 - 김엄마관리형독서실</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>VocaBooster - 결과</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
         body {
-            font-family: 'Pretendard', 'Apple SD Gothic Neo', sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
             min-height: 100vh;
             padding: 20px;
         }
+        
         .container {
-            max-width: 600px;
+            max-width: 500px;
             margin: 0 auto;
         }
+        
         .result-card {
             background: white;
-            border-radius: 20px;
-            padding: 30px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            border-radius: 24px;
+            padding: 40px 30px;
             text-align: center;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
         }
-        .academy-name {
-            color: #666;
-            font-size: 14px;
-            margin-bottom: 5px;
+        
+        .result-icon {
+            font-size: 80px;
+            margin-bottom: 20px;
         }
-        .student-name {
+        
+        .result-title {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        
+        .result-title.pass {
+            color: #4caf50;
+        }
+        
+        .result-title.fail {
+            color: #f44336;
+        }
+        
+        .result-score {
+            font-size: 64px;
+            font-weight: 800;
+            margin: 20px 0;
+        }
+        
+        .result-score.pass {
+            background: linear-gradient(135deg, #4caf50, #8bc34a);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .result-score.fail {
+            background: linear-gradient(135deg, #f44336, #ff9800);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .result-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-top: 30px;
+        }
+        
+        .stat-item {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 12px;
+        }
+        
+        .stat-value {
             font-size: 24px;
             font-weight: 700;
             color: #333;
-            margin-bottom: 20px;
         }
-        .result-status {
-            padding: 20px;
-            border-radius: 15px;
-            margin-bottom: 25px;
-        }
-        .result-status.pass {
-            background: linear-gradient(135deg, #d4edda 0%, #c3e6cb 100%);
-        }
-        .result-status.fail {
-            background: linear-gradient(135deg, #f8d7da 0%, #f5c6cb 100%);
-        }
-        .result-icon {
-            font-size: 60px;
-            margin-bottom: 10px;
-        }
-        .result-status.pass .result-icon { color: #28a745; }
-        .result-status.fail .result-icon { color: #dc3545; }
-        .result-text {
-            font-size: 28px;
-            font-weight: 800;
-        }
-        .result-status.pass .result-text { color: #155724; }
-        .result-status.fail .result-text { color: #721c24; }
-        .score-display {
-            font-size: 72px;
-            font-weight: 800;
-            margin: 20px 0;
-        }
-        .result-status.pass .score-display { color: #28a745; }
-        .result-status.fail .score-display { color: #dc3545; }
-        .passing-score {
+        
+        .stat-label {
+            font-size: 12px;
             color: #666;
-            font-size: 16px;
+            margin-top: 5px;
         }
-        .point-change {
-            display: inline-block;
-            padding: 8px 20px;
-            border-radius: 25px;
+        
+        .wrong-words-section {
+            background: white;
+            border-radius: 20px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+        
+        .section-title {
             font-size: 18px;
             font-weight: 700;
-            margin: 15px 0;
-        }
-        .point-change.positive {
-            background: #d4edda;
-            color: #155724;
-        }
-        .point-change.negative {
-            background: #f8d7da;
-            color: #721c24;
-        }
-        .test-info {
-            background: #f8f9fa;
-            border-radius: 12px;
-            padding: 20px;
-            margin: 20px 0;
-            text-align: left;
-        }
-        .test-info-row {
-            display: flex;
-            justify-content: space-between;
-            padding: 10px 0;
-            border-bottom: 1px solid #eee;
-        }
-        .test-info-row:last-child {
-            border-bottom: none;
-        }
-        .test-info-label {
-            color: #666;
-        }
-        .test-info-value {
-            font-weight: 600;
-            color: #333;
-        }
-        .speed-stats {
-            background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
-            border-radius: 12px;
-            padding: 20px;
-            margin: 20px 0;
-        }
-        .speed-stats h6 {
-            color: #1565c0;
-            margin-bottom: 15px;
-        }
-        .speed-bar {
-            display: flex;
-            height: 30px;
-            border-radius: 15px;
-            overflow: hidden;
-            margin-bottom: 10px;
-        }
-        .speed-bar .fast {
-            background: #4caf50;
-        }
-        .speed-bar .slow {
-            background: #ff9800;
-        }
-        .speed-bar .very-slow {
-            background: #f44336;
-        }
-        .speed-legend {
-            display: flex;
-            justify-content: space-around;
-            font-size: 12px;
-        }
-        .speed-legend span {
+            margin-bottom: 20px;
             display: flex;
             align-items: center;
-            gap: 5px;
-        }
-        .speed-legend .dot {
-            width: 12px;
-            height: 12px;
-            border-radius: 50%;
-        }
-        .speed-legend .dot.fast { background: #4caf50; }
-        .speed-legend .dot.slow { background: #ff9800; }
-        .speed-legend .dot.very-slow { background: #f44336; }
-        .btn-group-custom {
-            display: flex;
             gap: 10px;
-            margin-top: 25px;
         }
-        .btn-custom {
-            flex: 1;
+        
+        .wrong-word-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
             padding: 15px;
+            background: #fff5f5;
+            border-radius: 12px;
+            margin-bottom: 10px;
+            border-left: 4px solid #f44336;
+        }
+        
+        .wrong-word-english {
+            font-weight: 600;
+            font-size: 16px;
+            color: #333;
+        }
+        
+        .wrong-word-korean {
+            color: #666;
+            font-size: 14px;
+        }
+        
+        .wrong-word-selected {
+            font-size: 12px;
+            color: #f44336;
+            margin-top: 4px;
+        }
+        
+        .study-tip {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 16px;
+            margin-bottom: 20px;
+        }
+        
+        .study-tip h3 {
+            font-size: 16px;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .study-tip p {
+            font-size: 14px;
+            opacity: 0.9;
+            line-height: 1.6;
+        }
+        
+        .btn-group {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        
+        .btn {
+            width: 100%;
+            padding: 16px;
+            border: none;
             border-radius: 12px;
             font-size: 16px;
-            font-weight: 700;
-            border: none;
+            font-weight: 600;
             cursor: pointer;
-            transition: transform 0.2s;
+            transition: all 0.3s;
         }
-        .btn-custom:hover {
-            transform: translateY(-2px);
-        }
-        .btn-retest {
-            background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
-            color: white;
-        }
-        .btn-home {
+        
+        .btn-primary {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
         }
-        .btn-home-only {
-            background: linear-gradient(135deg, #28a745 0%, #218838 100%);
-            color: white;
-            width: 100%;
+        
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
         }
-        .message-box {
-            background: #fff3cd;
-            border: 1px solid #ffc107;
-            border-radius: 12px;
-            padding: 15px;
-            margin: 20px 0;
-            color: #856404;
-        }
-        .message-box.success {
-            background: #d4edda;
-            border-color: #28a745;
-            color: #155724;
-        }
-        .details-section {
-            margin-top: 30px;
-            text-align: left;
-        }
-        .details-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 15px;
-        }
-        .details-header h6 {
-            margin: 0;
+        
+        .btn-secondary {
+            background: #f5f5f5;
             color: #333;
         }
-        .filter-btns {
-            display: flex;
-            gap: 5px;
-        }
-        .filter-btn {
-            padding: 5px 12px;
-            border-radius: 20px;
-            border: 1px solid #ddd;
-            background: white;
-            font-size: 12px;
-            cursor: pointer;
-        }
-        .filter-btn.active {
-            background: #667eea;
+        
+        .btn-success {
+            background: linear-gradient(135deg, #4caf50 0%, #8bc34a 100%);
             color: white;
-            border-color: #667eea;
         }
-        .result-list {
-            max-height: 300px;
-            overflow-y: auto;
+        
+        .btn-warning {
+            background: linear-gradient(135deg, #ff9800 0%, #ffc107 100%);
+            color: white;
         }
-        .result-item {
+        
+        .progress-message {
+            background: #e8f5e9;
+            color: #2e7d32;
+            padding: 15px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .progress-message.fail {
+            background: #fff3e0;
+            color: #e65100;
+        }
+        
+        /* 애니메이션 */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .result-card {
+            animation: fadeInUp 0.5s ease;
+        }
+        
+        .wrong-words-section {
+            animation: fadeInUp 0.5s ease 0.2s;
+            animation-fill-mode: both;
+        }
+        
+        .study-tip {
+            animation: fadeInUp 0.5s ease 0.3s;
+            animation-fill-mode: both;
+        }
+        
+        .btn-group {
+            animation: fadeInUp 0.5s ease 0.4s;
+            animation-fill-mode: both;
+        }
+        
+        /* 틀린 단어 복습 버튼 */
+        .review-wrong-btn {
             display: flex;
-            justify-content: space-between;
             align-items: center;
-            padding: 12px;
-            border-radius: 8px;
-            margin-bottom: 8px;
-            background: #f8f9fa;
-        }
-        .result-item.correct {
-            border-left: 4px solid #28a745;
-        }
-        .result-item.wrong {
-            border-left: 4px solid #dc3545;
-            background: #fff5f5;
-        }
-        .result-item .word {
-            font-weight: 600;
-        }
-        .result-item .answer {
-            font-size: 13px;
-            color: #666;
-        }
-        .result-item .time {
-            font-size: 12px;
-            padding: 3px 8px;
+            justify-content: center;
+            gap: 8px;
+            background: #ff5722;
+            color: white;
+            padding: 12px 20px;
             border-radius: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            margin-top: 15px;
+            width: 100%;
         }
-        .result-item .time.fast { background: #d4edda; color: #155724; }
-        .result-item .time.slow { background: #fff3cd; color: #856404; }
-        .result-item .time.very-slow { background: #f8d7da; color: #721c24; }
+        
+        .review-wrong-btn:hover {
+            background: #e64a19;
+        }
+        
+        /* 학습 팁 리스트 */
+        .tip-list {
+            list-style: none;
+            margin-top: 10px;
+        }
+        
+        .tip-list li {
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.2);
+            font-size: 13px;
+        }
+        
+        .tip-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .tip-list li::before {
+            content: '✓ ';
+        }
     </style>
 </head>
 <body>
     <div class="container">
+        <!-- 결과 카드 -->
         <div class="result-card">
-            <div class="academy-name">🏠 김엄마관리형독서실</div>
-            <div class="student-name" id="studentName"></div>
+            <div class="result-icon" id="resultIcon">🎉</div>
+            <div class="result-title" id="resultTitle">축하합니다!</div>
+            <div class="result-score" id="resultScore">100점</div>
             
-            <!-- 결과 상태 -->
-            <div class="result-status" id="resultStatus">
-                <div class="result-icon" id="resultIcon"></div>
-                <div class="result-text" id="resultText"></div>
-            </div>
-            
-            <!-- 점수 -->
-            <div class="score-display" id="scoreDisplay"></div>
-            <div class="passing-score">통과 기준: <span id="passingScore">80</span>점</div>
-            
-            <!-- 점수 변동 -->
-            <div class="point-change" id="pointChange"></div>
-            
-            <!-- 메시지 -->
-            <div class="message-box" id="messageBox"></div>
-            
-            <!-- 시험 정보 -->
-            <div class="test-info">
-                <div class="test-info-row">
-                    <span class="test-info-label">단어장</span>
-                    <span class="test-info-value" id="bookName"></span>
+            <div class="result-stats">
+                <div class="stat-item">
+                    <div class="stat-value" id="statCorrect">0</div>
+                    <div class="stat-label">정답</div>
                 </div>
-                <div class="test-info-row">
-                    <span class="test-info-label">범위</span>
-                    <span class="test-info-value" id="lessons"></span>
+                <div class="stat-item">
+                    <div class="stat-value" id="statWrong">0</div>
+                    <div class="stat-label">오답</div>
                 </div>
-                <div class="test-info-row">
-                    <span class="test-info-label">시험 유형</span>
-                    <span class="test-info-value" id="testType"></span>
+                <div class="stat-item">
+                    <div class="stat-value" id="statTime">0:00</div>
+                    <div class="stat-label">소요시간</div>
                 </div>
-                <div class="test-info-row">
-                    <span class="test-info-label">정답</span>
-                    <span class="test-info-value"><span id="correctCount"></span> / <span id="totalCount"></span></span>
-                </div>
-                <div class="test-info-row">
-                    <span class="test-info-label">소요 시간</span>
-                    <span class="test-info-value" id="duration"></span>
-                </div>
-                <div class="test-info-row">
-                    <span class="test-info-label">시도 횟수</span>
-                    <span class="test-info-value" id="attempts"></span>
-                </div>
-            </div>
-            
-            <!-- 속도 통계 -->
-            <div class="speed-stats">
-                <h6>⚡ 반응 속도 분석</h6>
-                <div class="speed-bar" id="speedBar"></div>
-                <div class="speed-legend">
-                    <span><div class="dot fast"></div> 즉시 (<span id="fastCount">0</span>)</span>
-                    <span><div class="dot slow"></div> 보통 (<span id="slowCount">0</span>)</span>
-                    <span><div class="dot very-slow"></div> 느림 (<span id="verySlowCount">0</span>)</span>
-                </div>
-                <div class="text-center mt-2">
-                    <strong>즉시 인식률: <span id="instantRate">0</span>%</strong>
-                </div>
-            </div>
-            
-            <!-- 버튼 -->
-            <div class="btn-group-custom" id="buttonGroup"></div>
-            
-            <!-- 상세 결과 -->
-            <div class="details-section">
-                <div class="details-header">
-                    <h6>📝 상세 결과</h6>
-                    <div class="filter-btns">
-                        <button class="filter-btn active" onclick="filterResults('all')">전체</button>
-                        <button class="filter-btn" onclick="filterResults('correct')">정답</button>
-                        <button class="filter-btn" onclick="filterResults('wrong')">오답</button>
-                    </div>
-                </div>
-                <div class="result-list" id="resultList"></div>
             </div>
         </div>
-    </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script>
-        // ✅ API URL 설정 완료
-        const API_URL = 'https://script.google.com/macros/s/AKfycbwGFbsj8FgFIuF-iFkJ4ekyS76MWQf9UrUysJ-Fs12vuVByJwenoYRgOJeOZiPOa6gzkg/exec';
         
+        <!-- 진도 메시지 -->
+        <div class="progress-message" id="progressMessage">
+            진도가 업데이트되었습니다!
+        </div>
+        
+        <!-- 틀린 단어 섹션 -->
+        <div class="wrong-words-section" id="wrongWordsSection" style="display: none;">
+            <div class="section-title">
+                <span>❌</span> 틀린 단어 (<span id="wrongCount">0</span>개)
+            </div>
+            <div id="wrongWordsList"></div>
+            <button class="review-wrong-btn" onclick="reviewWrongWords()">
+                🔄 틀린 단어 다시 학습하기
+            </button>
+        </div>
+        
+        <!-- 학습 팁 -->
+        <div class="study-tip" id="studyTip">
+            <h3>💡 학습 팁</h3>
+            <p id="tipText">틀린 단어는 자동으로 저장되어 복습 시스템에 추가됩니다.</p>
+            <ul class="tip-list" id="tipList">
+                <li>틀린 단어는 1일, 3일, 7일 후에 다시 출제됩니다</li>
+                <li>5번 연속 맞추면 완전 학습으로 처리됩니다</li>
+                <li>취약 단어 학습에서 집중 복습하세요</li>
+            </ul>
+        </div>
+        
+        <!-- 버튼 그룹 -->
+        <div class="btn-group">
+            <button class="btn btn-primary" onclick="goHome()">홈으로</button>
+            <button class="btn btn-secondary" onclick="goToMyStudy()">📊 내 학습 현황</button>
+            <button class="btn btn-warning" id="retestBtn" onclick="retakeTest()" style="display: none;">
+                🔄 재시험 보기
+            </button>
+        </div>
+    </div>
+    
+    <script>
+        // 결과 데이터
         let resultData = null;
+        let currentStudent = null;
         
         document.addEventListener('DOMContentLoaded', function() {
             // 세션에서 결과 가져오기
-            const savedResult = sessionStorage.getItem('academyTestResult');
+            const resultStr = sessionStorage.getItem('vb_test_result');
+            const studentStr = sessionStorage.getItem('vb_current_student');
             
-            if (!savedResult) {
-                alert('시험 결과를 찾을 수 없습니다.');
+            if (!resultStr) {
                 window.location.href = 'index.html';
                 return;
             }
             
-            resultData = JSON.parse(savedResult);
+            resultData = JSON.parse(resultStr);
+            currentStudent = studentStr ? JSON.parse(studentStr) : null;
+            
             displayResult();
         });
         
         function displayResult() {
-            const passed = resultData.score >= resultData.passingScore;
-            const isRetest = resultData.type === '재시험';
-            const isReview = resultData.type && resultData.type.includes('복습');
+            const passed = resultData.score >= 80;
             
-            // 학생 이름
-            document.getElementById('studentName').textContent = resultData.name + '님';
-            
-            // 결과 상태
-            const statusEl = document.getElementById('resultStatus');
-            statusEl.classList.add(passed ? 'pass' : 'fail');
-            document.getElementById('resultIcon').innerHTML = passed ? '✅' : '❌';
-            document.getElementById('resultText').textContent = passed ? '통과!' : '불합격';
+            // 아이콘 및 타이틀
+            document.getElementById('resultIcon').textContent = passed ? '🎉' : '😢';
+            document.getElementById('resultTitle').textContent = passed ? '축하합니다!' : '아쉽네요...';
+            document.getElementById('resultTitle').className = 'result-title ' + (passed ? 'pass' : 'fail');
             
             // 점수
-            document.getElementById('scoreDisplay').textContent = resultData.score + '점';
-            document.getElementById('passingScore').textContent = resultData.passingScore;
+            document.getElementById('resultScore').textContent = resultData.score + '점';
+            document.getElementById('resultScore').className = 'result-score ' + (passed ? 'pass' : 'fail');
             
-            // 점수 변동
-            const pointChangeEl = document.getElementById('pointChange');
-            if (isReview) {
-                pointChangeEl.textContent = '복습 시험 (점수 변동 없음)';
-                pointChangeEl.className = 'point-change';
-                pointChangeEl.style.background = '#e9ecef';
-                pointChangeEl.style.color = '#666';
-            } else if (passed) {
-                if (isRetest) {
-                    pointChangeEl.textContent = '📈 누적 점수 +1 (재시험 통과)';
-                } else {
-                    pointChangeEl.textContent = '📈 누적 점수 +1';
-                }
-                pointChangeEl.classList.add('positive');
+            // 통계
+            document.getElementById('statCorrect').textContent = resultData.correct;
+            document.getElementById('statWrong').textContent = resultData.wrong;
+            
+            const minutes = Math.floor(resultData.duration / 60);
+            const seconds = resultData.duration % 60;
+            document.getElementById('statTime').textContent = 
+                `${minutes}:${String(seconds).padStart(2, '0')}`;
+            
+            // 진도 메시지
+            const progressMsg = document.getElementById('progressMessage');
+            if (passed && resultData.mode === 'regular') {
+                progressMsg.textContent = '✅ 통과! 진도가 다음 레슨으로 업데이트되었습니다.';
+                progressMsg.className = 'progress-message';
+            } else if (!passed) {
+                progressMsg.textContent = '⚠️ 80점 미만입니다. 재시험을 봐주세요.';
+                progressMsg.className = 'progress-message fail';
+                document.getElementById('retestBtn').style.display = 'block';
             } else {
-                pointChangeEl.textContent = '📉 누적 점수 -1';
-                pointChangeEl.classList.add('negative');
+                progressMsg.textContent = `${resultData.mode === 'weak' ? '취약 단어' : '복습'} 학습을 완료했습니다!`;
             }
             
-            // 메시지
-            const messageEl = document.getElementById('messageBox');
-            if (passed) {
-                messageEl.classList.add('success');
-                if (isReview) {
-                    messageEl.innerHTML = '<i class="bi bi-check-circle"></i> 복습 완료! 계속해서 반복 학습하세요.';
-                } else {
-                    messageEl.innerHTML = '<i class="bi bi-check-circle"></i> 축하합니다! 다음 진도로 넘어갑니다.';
-                }
-            } else {
-                messageEl.innerHTML = `<i class="bi bi-exclamation-triangle"></i> ${resultData.passingScore}점 이상 통과해야 다음 진도를 나갈 수 있습니다.<br>재시험을 통과할 때까지 진행해주세요.`;
-            }
-            
-            // 시험 정보
-            document.getElementById('bookName').textContent = resultData.book;
-            document.getElementById('lessons').textContent = resultData.lessons;
-            document.getElementById('testType').textContent = resultData.type;
-            document.getElementById('correctCount').textContent = resultData.correct;
-            document.getElementById('totalCount').textContent = resultData.total;
-            document.getElementById('attempts').textContent = resultData.attempts + '회';
-            
-            const mins = Math.floor(resultData.time / 60);
-            const secs = resultData.time % 60;
-            document.getElementById('duration').textContent = `${mins}분 ${secs}초`;
-            
-            // 속도 통계
-            const stats = resultData.speedStats;
-            document.getElementById('fastCount').textContent = stats.fastCount;
-            document.getElementById('slowCount').textContent = stats.slowCount;
-            document.getElementById('verySlowCount').textContent = stats.verySlowCount;
-            document.getElementById('instantRate').textContent = stats.instantRate;
-            
-            const total = stats.fastCount + stats.slowCount + stats.verySlowCount;
-            if (total > 0) {
-                const fastPct = (stats.fastCount / total) * 100;
-                const slowPct = (stats.slowCount / total) * 100;
-                const verySlowPct = (stats.verySlowCount / total) * 100;
+            // 틀린 단어 표시
+            if (resultData.wrongWords && resultData.wrongWords.length > 0) {
+                document.getElementById('wrongWordsSection').style.display = 'block';
+                document.getElementById('wrongCount').textContent = resultData.wrongWords.length;
                 
-                document.getElementById('speedBar').innerHTML = `
-                    <div class="fast" style="width: ${fastPct}%"></div>
-                    <div class="slow" style="width: ${slowPct}%"></div>
-                    <div class="very-slow" style="width: ${verySlowPct}%"></div>
-                `;
-            }
-            
-            // 버튼
-            const buttonGroup = document.getElementById('buttonGroup');
-            if (passed) {
-                buttonGroup.innerHTML = `
-                    <button class="btn-custom btn-home-only" onclick="goHome()">
-                        <i class="bi bi-house"></i> 홈으로 돌아가기
-                    </button>
-                `;
-            } else {
-                buttonGroup.innerHTML = `
-                    <button class="btn-custom btn-retest" onclick="retryTest()">
-                        <i class="bi bi-arrow-repeat"></i> 재시험
-                    </button>
-                    <button class="btn-custom btn-home" onclick="goHome()">
-                        <i class="bi bi-house"></i> 홈으로
-                    </button>
-                `;
-            }
-            
-            // 상세 결과
-            renderResultList('all');
-        }
-        
-        function renderResultList(filter) {
-            const listEl = document.getElementById('resultList');
-            let items = resultData.details;
-            
-            if (filter === 'correct') {
-                items = items.filter(item => item.isCorrect);
-            } else if (filter === 'wrong') {
-                items = items.filter(item => !item.isCorrect);
-            }
-            
-            listEl.innerHTML = items.map(item => {
-                let timeClass = '';
-                let timeText = '';
-                
-                if (item.responseTime !== null) {
-                    if (item.responseTime <= 3) {
-                        timeClass = 'fast';
-                        timeText = `⚡${item.responseTime.toFixed(1)}초`;
-                    } else if (item.responseTime <= 6) {
-                        timeClass = 'slow';
-                        timeText = `⏱️${item.responseTime.toFixed(1)}초`;
-                    } else {
-                        timeClass = 'very-slow';
-                        timeText = `🐢${item.responseTime.toFixed(1)}초`;
-                    }
-                }
-                
-                return `
-                    <div class="result-item ${item.isCorrect ? 'correct' : 'wrong'}">
+                const list = document.getElementById('wrongWordsList');
+                resultData.wrongWords.forEach(word => {
+                    const item = document.createElement('div');
+                    item.className = 'wrong-word-item';
+                    item.innerHTML = `
                         <div>
-                            <div class="word">${item.question}</div>
-                            <div class="answer">
-                                ${item.isCorrect ? '✅' : '❌'} 
-                                ${item.userAnswer || '(미입력)'} 
-                                ${!item.isCorrect ? `→ ${item.correctAnswer}` : ''}
-                            </div>
+                            <div class="wrong-word-english">${word.english}</div>
+                            <div class="wrong-word-korean">${word.korean}</div>
+                            <div class="wrong-word-selected">내 답: ${word.selected}</div>
                         </div>
-                        ${timeText ? `<span class="time ${timeClass}">${timeText}</span>` : ''}
-                    </div>
-                `;
-            }).join('');
-        }
-        
-        function filterResults(filter) {
-            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            event.target.classList.add('active');
-            renderResultList(filter);
-        }
-        
-        function retryTest() {
-            // 단어장 폴더 정보 가져오기
-            const params = new URLSearchParams({
-                name: resultData.name,
-                book: resultData.book,
-                lessons: resultData.lessons,
-                type: '재시험',
-                passingScore: resultData.passingScore,
-                attempts: (resultData.attempts || 1) + 1,
-                academyMode: 'true'
-            });
+                    `;
+                    list.appendChild(item);
+                });
+            }
             
-            window.location.href = `test.html?${params.toString()}`;
+            // 학습 팁 커스터마이징
+            if (resultData.wrongWords && resultData.wrongWords.length > 5) {
+                document.getElementById('tipText').textContent = 
+                    '오답이 많습니다. 틀린 단어를 꼼꼼히 복습해주세요!';
+            } else if (passed) {
+                document.getElementById('tipText').textContent = 
+                    '훌륭합니다! 꾸준히 학습하면 실력이 늘어요.';
+            }
         }
         
         function goHome() {
-            sessionStorage.removeItem('academyTestResult');
+            sessionStorage.removeItem('vb_test_result');
             window.location.href = 'index.html';
+        }
+        
+        function goToMyStudy() {
+            window.location.href = 'my-study.html';
+        }
+        
+        function retakeTest() {
+            sessionStorage.setItem('vb_test_mode', 'retest');
+            window.location.href = 'test.html?mode=regular';
+        }
+        
+        function reviewWrongWords() {
+            // 틀린 단어만 세션에 저장하고 테스트 시작
+            const testData = {
+                weakWords: resultData.wrongWords.map(w => ({
+                    english: w.english,
+                    korean: w.korean,
+                    wrongCount: 1
+                }))
+            };
+            sessionStorage.setItem('vb_test_data', JSON.stringify(testData));
+            window.location.href = 'test.html?mode=weak';
         }
     </script>
 </body>
