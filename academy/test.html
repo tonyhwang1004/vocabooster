@@ -440,67 +440,67 @@
             }
         }
         
-        // 단어 로드
-        async function loadWords() {
-            try {
-                if (testMode === 'weak' && testData && testData.weakWords && testData.weakWords.length > 0) {
-                    // 취약 단어 모드
-                    questions = testData.weakWords.map(w => ({
-                        english: w.english,
-                        korean: w.korean,
-                        wrongCount: w.wrongCount
-                    }));
-                    shuffleArray(questions);
-                } else if (testMode === 'review' && testData && testData.reviewTests && testData.reviewTests.length > 0) {
-                    // 복습 모드 - 복습 대기 레슨의 단어 로드
-                    const review = testData.reviewTests[0];
-                    await loadLessonWords(review.wordbook, review.lesson);
-               } else if (testMode === 'practice') {
-    // 연습 모드
-    if (testData && testData.todayTest) {
-        const folder = testData.todayTest.folder;
-        const lessons = testData.todayTest.lessons;
-        for (const lesson of lessons) {
-            await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
-        }
-    } else {
-        // testData 없으면 현재 학생 진도에서 로드
-        if (currentStudent && currentStudent.wordbook) {
-            const folder = currentStudent.folder || currentStudent.wordbook;
-            await loadLessonWords(currentStudent.wordbook, `DAY${currentStudent.currentDay}`, folder);
-        }
-    }
-} else {
-    // 정규 모드
-    if (testData && testData.todayTest) {
-        const folder = testData.todayTest.folder;
-        const lessons = testData.todayTest.lessons;
-        
-        for (const lesson of lessons) {
-            await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
-        }
-    } else if (currentStudent && currentStudent.wordbook) {
-        // fallback: 현재 학생 정보로 로드
-        const folder = currentStudent.folder || currentStudent.wordbook;
-        await loadLessonWords(currentStudent.wordbook, `DAY${currentStudent.currentDay}`, folder);
-    }
-}
-                
-                // 문제 수 제한 (최대 40문제)
-                if (questions.length > 40) {
-                    shuffleArray(questions);
-                    questions = questions.slice(0, 40);
+// 단어 로드
+async function loadWords() {
+    try {
+        if (testMode === 'weak' && testData && testData.weakWords && testData.weakWords.length > 0) {
+            // 취약 단어 모드
+            questions = testData.weakWords.map(w => ({
+                english: w.english,
+                korean: w.korean,
+                wrongCount: w.wrongCount
+            }));
+            shuffleArray(questions);
+        } else if (testMode === 'review' && testData && testData.reviewTests && testData.reviewTests.length > 0) {
+            // 복습 모드 - 복습 대기 레슨의 단어 로드
+            const review = testData.reviewTests[0];
+            await loadLessonWords(review.wordbook, review.lesson);
+        } else if (testMode === 'practice') {
+            // 연습 모드
+            if (testData && testData.todayTest) {
+                const folder = testData.todayTest.folder;
+                const lessons = testData.todayTest.lessons;
+                for (const lesson of lessons) {
+                    await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
                 }
+            } else {
+                // testData 없으면 현재 학생 진도에서 로드
+                if (currentStudent && currentStudent.wordbook) {
+                    const folder = currentStudent.folder || currentStudent.wordbook;
+                    await loadLessonWords(currentStudent.wordbook, `DAY${currentStudent.currentDay}`, folder);
+                }
+            }
+        } else {
+            // 정규 모드
+            if (testData && testData.todayTest) {
+                const folder = testData.todayTest.folder;
+                const lessons = testData.todayTest.lessons;
                 
-                // 각 문제에 보기 생성
-                generateOptions();
-                
-            } catch (error) {
-                console.error('단어 로드 실패:', error);
-                alert('단어를 불러오는데 실패했습니다.');
-                window.location.href = 'index.html';
+                for (const lesson of lessons) {
+                    await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
+                }
+            } else if (currentStudent && currentStudent.wordbook) {
+                // fallback: 현재 학생 정보로 로드
+                const folder = currentStudent.folder || currentStudent.wordbook;
+                await loadLessonWords(currentStudent.wordbook, `DAY${currentStudent.currentDay}`, folder);
             }
         }
+        
+        // 문제 수 제한 (최대 40문제)
+        if (questions.length > 40) {
+            shuffleArray(questions);
+            questions = questions.slice(0, 40);
+        }
+        
+        // 각 문제에 보기 생성
+        generateOptions();
+        
+    } catch (error) {
+        console.error('단어 로드 실패:', error);
+        alert('단어를 불러오는데 실패했습니다.');
+        window.location.href = 'index.html';
+    }
+}
         
         // 레슨 단어 로드
         async function loadLessonWords(wordbook, lesson, folder) {
