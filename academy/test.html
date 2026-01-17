@@ -455,16 +455,36 @@
                     // 복습 모드 - 복습 대기 레슨의 단어 로드
                     const review = testData.reviewTests[0];
                     await loadLessonWords(review.wordbook, review.lesson);
-                } else {
-                    // 정규/연습 모드
-                    if (testData && testData.todayTest) {
-                        const folder = testData.todayTest.folder;
-                        const lessons = testData.todayTest.lessons;
-                        
-                        for (const lesson of lessons) {
-                            await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
-                        }
-                    }
+               } else if (testMode === 'practice') {
+    // 연습 모드
+    if (testData && testData.todayTest) {
+        const folder = testData.todayTest.folder;
+        const lessons = testData.todayTest.lessons;
+        for (const lesson of lessons) {
+            await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
+        }
+    } else {
+        // testData 없으면 현재 학생 진도에서 로드
+        if (currentStudent && currentStudent.wordbook) {
+            const folder = currentStudent.folder || currentStudent.wordbook;
+            await loadLessonWords(currentStudent.wordbook, `DAY${currentStudent.currentDay}`, folder);
+        }
+    }
+} else {
+    // 정규 모드
+    if (testData && testData.todayTest) {
+        const folder = testData.todayTest.folder;
+        const lessons = testData.todayTest.lessons;
+        
+        for (const lesson of lessons) {
+            await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
+        }
+    } else if (currentStudent && currentStudent.wordbook) {
+        // fallback: 현재 학생 정보로 로드
+        const folder = currentStudent.folder || currentStudent.wordbook;
+        await loadLessonWords(currentStudent.wordbook, `DAY${currentStudent.currentDay}`, folder);
+    }
+}
                 }
                 
                 // 문제 수 제한 (최대 40문제)
