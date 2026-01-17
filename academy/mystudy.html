@@ -728,8 +728,17 @@
         }
         
         function startPractice() {
-            window.location.href = 'test.html?mode=practice';
+    // 현재 학생의 wordbook 정보로 테스트 데이터 설정
+    const testData = {
+        todayTest: {
+            folder: currentStudent.wordbook,  // 또는 적절한 폴더명
+            wordbook: currentStudent.wordbook,
+            lessons: ['DAY1']  // 연습할 레슨 지정 (또는 사용자 선택)
         }
+    };
+    sessionStorage.setItem('vb_test_data', JSON.stringify(testData));
+    window.location.href = 'test.html?mode=practice';
+}
         
         function goHome() {
             window.location.href = 'index.html';
