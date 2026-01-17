@@ -516,13 +516,15 @@ async function loadWords() {
                 }
                 
                 // 레슨에서 숫자만 추출 (예: "DAY 01" → "1", "DAY_05" → "5")
+// 레슨 번호 추출 및 파일명 생성
 let fileName = lesson;
 const numMatch = lesson.match(/\d+/);
 if (numMatch) {
-    fileName = String(parseInt(numMatch[0], 10)); // "01" → "1"
+    const num = numMatch[0].padStart(2, '0'); // "1" → "01"
+    fileName = `DAY ${num}`; // "DAY 01" 형식
 }
 
-const url = `${GITHUB_BASE}/${folder}/${fileName}.json`;
+const url = `${GITHUB_BASE}/${folder}/${encodeURIComponent(fileName)}.json`;
                 console.log('Loading:', url);
                 
                 const response = await fetch(url);
