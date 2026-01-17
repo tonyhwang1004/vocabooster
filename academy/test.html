@@ -519,8 +519,8 @@ async function loadLessonWords(wordbook, lesson, folder) {
         let fileName = lesson;
         const numMatch = String(lesson).match(/\d+/);
         if (numMatch) {
-            const num = numMatch[0].padStart(2, '0'); // "1" → "01"
-            fileName = `DAY ${num}`; // "DAY 01" 형식
+            const num = numMatch[0].padStart(2, '0');
+            fileName = `DAY ${num}`;
         }
         
         const url = `${GITHUB_BASE}/${folder}/${encodeURIComponent(fileName)}.json`;
@@ -532,17 +532,20 @@ async function loadLessonWords(wordbook, lesson, folder) {
         }
         
         const data = await response.json();
+        console.log('Loaded data:', data);  // 디버깅용
         
-       // 배열인지 확인 (words 키가 없고 바로 배열인 경우)
-const wordArray = Array.isArray(data) ? data : (data.words || []);
-
-if (wordArray.length > 0) {
-    questions.push(...wordArray.map(w => ({
-        english: w.eng || w.english || w.word || w.en,
-        korean: w.kor || w.korean || w.meaning || w.ko,
-        lesson: lesson
-    })));
-}
+        // 배열인지 확인 (words 키가 없고 바로 배열인 경우)
+        const wordArray = Array.isArray(data) ? data : (data.words || []);
+        console.log('Word array length:', wordArray.length);  // 디버깅용
+        
+        if (wordArray.length > 0) {
+            questions.push(...wordArray.map(w => ({
+                english: w.eng || w.english || w.word || w.en,
+                korean: w.kor || w.korean || w.meaning || w.ko,
+                lesson: lesson
+            })));
+            console.log('Total questions:', questions.length);  // 디버깅용
+        }
     } catch (error) {
         console.error(`레슨 ${lesson} 로드 실패:`, error);
     }
