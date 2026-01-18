@@ -440,132 +440,131 @@
             }
         }
         
-// 단어 로드
-async function loadWords() {
-    try {
-        if (testMode === 'weak' && testData && testData.weakWords && testData.weakWords.length > 0) {
-            // 취약 단어 모드
-            questions = testData.weakWords.map(w => ({
-                english: w.english,
-                korean: w.korean,
-                wrongCount: w.wrongCount
-            }));
-            shuffleArray(questions);
-        } else if (testMode === 'review' && testData && testData.reviewTests && testData.reviewTests.length > 0) {
-            // 복습 모드 - 복습 대기 레슨의 단어 로드
-            const review = testData.reviewTests[0];
-            await loadLessonWords(review.wordbook, review.lesson);
-        } else if (testMode === 'practice') {
-            // 연습 모드
-            if (testData && testData.todayTest) {
-                const folder = testData.todayTest.folder;
-                const lessons = testData.todayTest.lessons;
-                for (const lesson of lessons) {
-                    await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
+        // 단어 로드
+        async function loadWords() {
+            try {
+                if (testMode === 'weak' && testData && testData.weakWords && testData.weakWords.length > 0) {
+                    // 취약 단어 모드
+                    questions = testData.weakWords.map(w => ({
+                        english: w.english,
+                        korean: w.korean,
+                        wrongCount: w.wrongCount
+                    }));
+                    shuffleArray(questions);
+                } else if (testMode === 'review' && testData && testData.reviewTests && testData.reviewTests.length > 0) {
+                    // 복습 모드 - 복습 대기 레슨의 단어 로드
+                    const review = testData.reviewTests[0];
+                    await loadLessonWords(review.wordbook, review.lesson);
+                } else if (testMode === 'practice') {
+                    // 연습 모드
+                    if (testData && testData.todayTest) {
+                        const folder = testData.todayTest.folder;
+                        const lessons = testData.todayTest.lessons;
+                        for (const lesson of lessons) {
+                            await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
+                        }
+                    } else {
+                        // testData 없으면 현재 학생 진도에서 로드
+                        if (currentStudent && currentStudent.wordbook) {
+                            const folder = currentStudent.folder || currentStudent.wordbook;
+                            await loadLessonWords(currentStudent.wordbook, `DAY${currentStudent.currentDay}`, folder);
+                        }
+                    }
+                } else {
+                    // 정규 모드
+                    if (testData && testData.todayTest) {
+                        const folder = testData.todayTest.folder;
+                        const lessons = testData.todayTest.lessons;
+                        
+                        for (const lesson of lessons) {
+                            await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
+                        }
+                    } else if (currentStudent && currentStudent.wordbook) {
+                        // fallback: 현재 학생 정보로 로드
+                        const folder = currentStudent.folder || currentStudent.wordbook;
+                        await loadLessonWords(currentStudent.wordbook, `DAY${currentStudent.currentDay}`, folder);
+                    }
                 }
-            } else {
-                // testData 없으면 현재 학생 진도에서 로드
-                if (currentStudent && currentStudent.wordbook) {
-                    const folder = currentStudent.folder || currentStudent.wordbook;
-                    await loadLessonWords(currentStudent.wordbook, `DAY${currentStudent.currentDay}`, folder);
-                }
-            }
-        } else {
-            // 정규 모드
-            if (testData && testData.todayTest) {
-                const folder = testData.todayTest.folder;
-                const lessons = testData.todayTest.lessons;
                 
-                for (const lesson of lessons) {
-                    await loadLessonWords(testData.todayTest.wordbook, lesson, folder);
+                // 문제 수 제한 (최대 40문제)
+                if (questions.length > 40) {
+                    shuffleArray(questions);
+                    questions = questions.slice(0, 40);
                 }
-            } else if (currentStudent && currentStudent.wordbook) {
-                // fallback: 현재 학생 정보로 로드
-                const folder = currentStudent.folder || currentStudent.wordbook;
-                await loadLessonWords(currentStudent.wordbook, `DAY${currentStudent.currentDay}`, folder);
+                
+                // 각 문제에 보기 생성
+                generateOptions();
+                
+            } catch (error) {
+                console.error('단어 로드 실패:', error);
+                alert('단어를 불러오는데 실패했습니다.');
+                window.location.href = 'index.html';
             }
         }
         
-        // 문제 수 제한 (최대 40문제)
-        if (questions.length > 40) {
-            shuffleArray(questions);
-            questions = questions.slice(0, 40);
+        // 레슨 단어 로드
+        async function loadLessonWords(wordbook, lesson, folder) {
+            try {
+                // 폴더 이름 가져오기
+                if (!folder && testData && testData.todayTest) {
+                    folder = testData.todayTest.folder;
+                }
+                
+                if (!folder) {
+                    console.error('폴더 정보 없음');
+                    return;
+                }
+                
+                // 레슨 번호 추출 및 파일명 생성
+                let fileName = lesson;
+                const numMatch = String(lesson).match(/\d+/);
+                if (numMatch) {
+                    const num = parseInt(numMatch[0], 10);
+                    
+                    // DAY 형식 폴더 목록
+                    const dayFormatFolders = [
+                        'suneung-2000',
+                        'neungyul-eowon',
+                        'neungyul-gibon',
+                        'neungyul-ipmun',
+                        'neungyul-silryuk'
+                    ];
+                    
+                    // 폴더별 파일명 형식 처리
+                    if (dayFormatFolders.includes(folder)) {
+                        fileName = `DAY ${String(num).padStart(2, '0')}`; // "DAY 01"
+                    } else {
+                        fileName = String(num); // "1"
+                    }
+                }
+                
+                const url = `${GITHUB_BASE}/${folder}/${encodeURIComponent(fileName)}.json`;
+                console.log('Loading:', url);
+                
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                
+                const data = await response.json();
+                console.log('Loaded data:', data);
+                
+                // 배열인지 확인 (words 키가 없고 바로 배열인 경우)
+                const wordArray = Array.isArray(data) ? data : (data.words || []);
+                console.log('Word array length:', wordArray.length);
+                
+                if (wordArray.length > 0) {
+                    questions.push(...wordArray.map(w => ({
+                        english: w.eng || w.english || w.word || w.en,
+                        korean: w.kor || w.korean || w.meaning || w.ko,
+                        lesson: lesson
+                    })));
+                    console.log('Total questions:', questions.length);
+                }
+            } catch (error) {
+                console.error(`레슨 ${lesson} 로드 실패:`, error);
+            }
         }
-        
-        // 각 문제에 보기 생성
-        generateOptions();
-        
-    } catch (error) {
-        console.error('단어 로드 실패:', error);
-        alert('단어를 불러오는데 실패했습니다.');
-        window.location.href = 'index.html';
-    }
-}
-        
-       // 레슨 단어 로드
-async function loadLessonWords(wordbook, lesson, folder) {
-    try {
-        // 폴더 이름 가져오기
-        if (!folder && testData && testData.todayTest) {
-            folder = testData.todayTest.folder;
-        }
-        
-        if (!folder) {
-            console.error('폴더 정보 없음');
-            return;
-        }
-        
-        // 레슨 번호 추출 및 파일명 생성
-        // 레슨 번호 추출 및 파일명 생성
-let fileName = lesson;
-const numMatch = String(lesson).match(/\d+/);
-if (numMatch) {
-    const num = parseInt(numMatch[0], 10);
-    
-    // DAY 형식 폴더 목록
-    const dayFormatFolders = [
-        'suneung-2000',
-        'neungyul-eowon',
-        'neungyul-gibon',
-        'neungyul-ipmun',
-        'neungyul-silryuk'
-    ];
-    
-    // 폴더별 파일명 형식 처리
-    if (dayFormatFolders.includes(folder)) {
-        fileName = `DAY ${String(num).padStart(2, '0')}`; // "DAY 01"
-    } else {
-        fileName = String(num); // "1"
-    }
-}
-        
-        const url = `${GITHUB_BASE}/${folder}/${encodeURIComponent(fileName)}.json`;
-        console.log('Loading:', url);
-        
-        const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error(`HTTP ${response.status}`);
-        }
-        
-        const data = await response.json();
-        console.log('Loaded data:', data);  // 디버깅용
-        
-        // 배열인지 확인 (words 키가 없고 바로 배열인 경우)
-        const wordArray = Array.isArray(data) ? data : (data.words || []);
-        console.log('Word array length:', wordArray.length);  // 디버깅용
-        
-        if (wordArray.length > 0) {
-            questions.push(...wordArray.map(w => ({
-                english: w.eng || w.english || w.word || w.en,
-                korean: w.kor || w.korean || w.meaning || w.ko,
-                lesson: lesson
-            })));
-            console.log('Total questions:', questions.length);  // 디버깅용
-        }
-    } catch (error) {
-        console.error(`레슨 ${lesson} 로드 실패:`, error);
-    }
-}
         
         // 보기 생성
         function generateOptions() {
@@ -695,10 +694,32 @@ if (numMatch) {
                     selected: selected,
                     lesson: q.lesson
                 });
+                
+                // ★ 틀린 단어 로컬 저장 (취약 단어 추적용)
+                saveWrongWord(q.english, q.korean);
             }
             
             document.getElementById('nextBtn').disabled = false;
             document.getElementById('hintBtn').style.display = 'none';
+        }
+        
+        // ★ 틀린 단어 로컬 저장
+        function saveWrongWord(english, korean) {
+            const key = `vb_wrong_${english.replace(/\s/g, '_')}`;
+            let data = { english, korean, wrongCount: 0, totalCount: 0 };
+            
+            try {
+                const existing = localStorage.getItem(key);
+                if (existing) {
+                    data = JSON.parse(existing);
+                }
+            } catch (e) {}
+            
+            data.wrongCount = (data.wrongCount || 0) + 1;
+            data.totalCount = (data.totalCount || 0) + 1;
+            data.lastWrong = new Date().toISOString();
+            
+            localStorage.setItem(key, JSON.stringify(data));
         }
         
         // 피드백 표시
@@ -753,6 +774,9 @@ if (numMatch) {
                     lesson: q.lesson
                 });
                 answeredQuestions.push(currentIndex);
+                
+                // 건너뛴 단어도 틀린 것으로 기록
+                saveWrongWord(q.english, q.korean);
             }
             currentIndex++;
             showQuestion();
@@ -766,13 +790,50 @@ if (numMatch) {
             const duration = Math.floor((endTime - startTime) / 1000);
             const score = Math.round((correctCount / questions.length) * 100);
             
-            // 결과 저장
+            // 레슨 정보 생성
+            let lessonInfo = '';
+            if (testData && testData.todayTest && testData.todayTest.lessons) {
+                lessonInfo = testData.todayTest.lessons.join(', ');
+            } else if (currentStudent && currentStudent.currentDay) {
+                lessonInfo = `DAY ${currentStudent.currentDay}`;
+            }
+            
+            // ★★★ 로컬 스토리지에 시험 결과 저장 (핵심!) ★★★
+            const localResultKey = `vb_test_result_${Date.now()}`;
+            const localResult = {
+                timestamp: new Date().toISOString(),
+                score: score,
+                correct: correctCount,
+                total: questions.length,
+                wrong: wrongWords.length,
+                duration: duration,
+                book: currentStudent?.wordbook || currentStudent?.book || '',
+                bookName: testData?.todayTest?.wordbook || currentStudent?.wordbook || '',
+                range: lessonInfo,
+                dayRange: lessonInfo,
+                wordCount: questions.length,
+                mode: testMode,
+                studentName: currentStudent?.name || ''
+            };
+            
+            try {
+                localStorage.setItem(localResultKey, JSON.stringify(localResult));
+                console.log('✅ 로컬 저장 완료:', localResultKey);
+            } catch (e) {
+                console.error('로컬 저장 실패:', e);
+            }
+            
+            // ★★★ 학습 스트릭 업데이트 ★★★
+            updateStudyStreak();
+            
+            // API로 결과 전송 (비동기, 실패해도 계속 진행)
             const resultData = {
                 vb: true,
                 action: 'saveTestResult',
                 name: currentStudent.name,
+                phone: currentStudent.phone || '',
                 wordbook: currentStudent.wordbook,
-                lesson: testData?.todayTest?.lessons?.join(', ') || 'N/A',
+                lesson: lessonInfo,
                 type: testMode === 'regular' ? '정규' : testMode === 'review' ? '복습' : testMode === 'weak' ? '취약단어' : '연습',
                 score: score,
                 duration: duration,
@@ -789,12 +850,12 @@ if (numMatch) {
                 });
                 
                 const result = await response.json();
-                console.log('저장 결과:', result);
+                console.log('✅ API 저장 결과:', result);
             } catch (error) {
-                console.error('결과 저장 실패:', error);
+                console.error('API 저장 실패 (로컬은 저장됨):', error);
             }
             
-            // 결과 페이지로 이동
+            // 결과 페이지로 이동 (sessionStorage에도 저장)
             sessionStorage.setItem('vb_test_result', JSON.stringify({
                 score: score,
                 total: questions.length,
@@ -802,10 +863,47 @@ if (numMatch) {
                 wrong: wrongWords.length,
                 duration: duration,
                 wrongWords: wrongWords,
-                mode: testMode
+                mode: testMode,
+                book: currentStudent?.wordbook || '',
+                range: lessonInfo
             }));
             
             window.location.href = 'result.html';
+        }
+        
+        // ★★★ 학습 스트릭(연속 학습일) 업데이트 ★★★
+        function updateStudyStreak() {
+            const today = new Date().toDateString();
+            const streakKey = `vb_streak_${currentStudent?.name || 'user'}`;
+            
+            let streakData = { lastDate: '', streak: 0 };
+            
+            try {
+                const existing = localStorage.getItem(streakKey);
+                if (existing) {
+                    streakData = JSON.parse(existing);
+                }
+            } catch (e) {}
+            
+            const lastDate = streakData.lastDate ? new Date(streakData.lastDate).toDateString() : '';
+            const yesterday = new Date();
+            yesterday.setDate(yesterday.getDate() - 1);
+            const yesterdayStr = yesterday.toDateString();
+            
+            if (lastDate === today) {
+                // 오늘 이미 학습함 - 스트릭 유지
+            } else if (lastDate === yesterdayStr) {
+                // 어제 학습함 - 스트릭 +1
+                streakData.streak = (streakData.streak || 0) + 1;
+            } else {
+                // 어제 학습 안함 - 스트릭 리셋
+                streakData.streak = 1;
+            }
+            
+            streakData.lastDate = today;
+            
+            localStorage.setItem(streakKey, JSON.stringify(streakData));
+            console.log('✅ 스트릭 업데이트:', streakData);
         }
     </script>
 </body>
