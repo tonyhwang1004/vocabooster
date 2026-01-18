@@ -516,12 +516,28 @@ async function loadLessonWords(wordbook, lesson, folder) {
         }
         
         // 레슨 번호 추출 및 파일명 생성
-        let fileName = lesson;
-        const numMatch = String(lesson).match(/\d+/);
-        if (numMatch) {
-            const num = numMatch[0].padStart(2, '0');
-            fileName = `DAY ${num}`;
-        }
+        // 레슨 번호 추출 및 파일명 생성
+let fileName = lesson;
+const numMatch = String(lesson).match(/\d+/);
+if (numMatch) {
+    const num = parseInt(numMatch[0], 10);
+    
+    // DAY 형식 폴더 목록
+    const dayFormatFolders = [
+        'suneung-2000',
+        'neungyul-eowon',
+        'neungyul-gibon',
+        'neungyul-ipmun',
+        'neungyul-silryuk'
+    ];
+    
+    // 폴더별 파일명 형식 처리
+    if (dayFormatFolders.includes(folder)) {
+        fileName = `DAY ${String(num).padStart(2, '0')}`; // "DAY 01"
+    } else {
+        fileName = String(num); // "1"
+    }
+}
         
         const url = `${GITHUB_BASE}/${folder}/${encodeURIComponent(fileName)}.json`;
         console.log('Loading:', url);
