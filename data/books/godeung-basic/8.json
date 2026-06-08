@@ -1,242 +1,242 @@
 [
   {
-    "kor": "정확한",
-    "eng": "accurate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정확한",
-    "eng": "precise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추정하다",
-    "eng": "estimate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경쟁하다",
-    "eng": "compete",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제출하다",
-    "eng": "submit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "붙잡다",
     "eng": "grab",
-    "answer_count_kor": 1,
+    "kor": "붙잡다, 움켜잡다, 움켜잡음",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "이론",
-    "eng": "theory",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "문서",
-    "eng": "document",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가능하게 하다",
-    "eng": "enable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "피하다",
     "eng": "avoid",
-    "answer_count_kor": 1,
+    "kor": "피하다, 막다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "달아나다",
-    "eng": "escape",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "혁신하다",
-    "eng": "innovate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통찰력",
-    "eng": "insight",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보험",
-    "eng": "insurance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감염시키다",
-    "eng": "infect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "차량",
-    "eng": "vehicle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오디션",
-    "eng": "audition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "속하다",
-    "eng": "belong",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기념하다",
-    "eng": "celebrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구성되다",
-    "eng": "consist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시범을 보이다",
-    "eng": "demonstrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방어하다",
-    "eng": "defend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "재난",
-    "eng": "disaster",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경제의",
-    "eng": "economic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가족",
-    "eng": "household",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "할당하다",
-    "eng": "assign",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "옮기다",
-    "eng": "transfer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보존하다",
-    "eng": "preserve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "접근",
-    "eng": "access",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정반대의",
-    "eng": "opposite",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "만족",
     "eng": "satisfaction",
+    "kor": "만족(감)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "편암한",
-    "eng": "comfort",
-    "answer_count_kor": 1,
+    "eng": "insight",
+    "kor": "통찰력, 이해",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "편안함",
-    "eng": "ease",
-    "answer_count_kor": 1,
+    "eng": "accurate",
+    "kor": "정확한, 정밀한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "수술",
-    "eng": "motion",
-    "answer_count_kor": 1,
+    "eng": "demonstrate",
+    "kor": "시범을 보이다, 증명하다, 시위하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "운동",
-    "eng": "operation",
-    "answer_count_kor": 1,
+    "eng": "economic",
+    "kor": "경제의, 경제학의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "상쾌하게 하는",
-    "eng": "blame",
-    "answer_count_kor": 1,
+    "eng": "rather than",
+    "kor": "~보다는, ~ 대신에, ~하지 말고",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "비난하다",
-    "eng": "refreshing",
-    "answer_count_kor": 1,
+    "eng": "dozens of",
+    "kor": "수십의, 많은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경향",
+    "eng": "sentence",
+    "kor": "문장, 판결, 선고, 판결을 내리다, 형을 선고하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "trend",
-    "answer_count_kor": 1,
+    "kor": "경향, 추세, 유행",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "사적인",
-    "eng": "journal",
-    "answer_count_kor": 1,
+    "eng": "vehicle",
+    "kor": "차량, 탈것, 운송 수단",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "신문",
+    "eng": "innovate",
+    "kor": "혁신하다, 쇄신하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compete",
+    "kor": "경쟁하다, 겨루다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "document",
+    "kor": "문서, 서류, 기록하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enable",
+    "kor": "(~을) 할 수 있게 하다, 가능하게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "opposite",
+    "kor": "정반대의, 맞은편의, 정반대의 것",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "majority",
+    "kor": "(대)다수, 대부분",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transfer",
+    "kor": "옮기다, 갈아타다, 이동, 이전, 환승",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "submit",
+    "kor": "제출하다, 굴복하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infection",
+    "kor": "감염, 전염",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "private",
+    "kor": "사적인, 사유의, 비밀의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assign",
+    "kor": "할당하다, 임명하다, 지정하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "operation",
+    "kor": "수술, 운영, 작업",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "escape",
+    "kor": "달아나다, 탈출하다, 탈출, 도망",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "estimate",
+    "kor": "추정하다, 평가하다, 추정, 견적",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "journal",
+    "kor": "신문, 간행물, 일기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "household",
+    "kor": "가족, 가정, 가족[가정]의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "comfort",
+    "kor": "편안함, 위로, 편하게 하다, 위로 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insurance",
+    "kor": "보험",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "motion",
+    "kor": "운동, 움직임, 동작, 몸짓으로 신 호하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ease",
+    "kor": "편안함, 용이함, 편하게 하다, 덜 어 주다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blame",
+    "kor": "비난하다, ~의 책임[탓]으로 돌 리다, 비난, 책임",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "theory",
+    "kor": "이론, 학설",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preserve",
+    "kor": "보존하다, 지키다, 저장하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refreshing",
+    "kor": "상쾌하게 하는, 신선한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precise",
+    "kor": "정확한, 정밀한, 꼼꼼한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "celebrate",
+    "kor": "기념하다, 축하하다, 찬양하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disaster",
+    "kor": "재난, 재앙",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "belong",
+    "kor": "속하다, 제자리에 있다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
