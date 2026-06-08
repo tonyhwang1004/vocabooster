@@ -1,182 +1,386 @@
 [
   {
-    "kor": "온도",
-    "eng": "temperature",
+    "eng": "herd",
+    "kor": "떼, 무리; 군중; (사람·가축을) 이동시키다, 몰다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "demonstrate",
+    "kor": "입증하다; 설명하다, 시연하다; 시위하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "demonstration",
+    "kor": "시위; (시범) 설명; 입증",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "jeopardize",
+    "kor": "위태롭게 하다, 위험에 빠뜨리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "jeopardy",
+    "kor": "위험, 위태로움",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "phobia",
+    "kor": "공포증",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "예보; 예상하다",
-    "eng": "forecast",
+    "eng": "bond",
+    "kor": "유대; 채권; 접착(제); 유대감을 형성하다; 접착되다[시키다]",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bonding",
+    "kor": "긴밀한 유대",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기후",
-    "eng": "climate",
+    "eng": "discipline",
+    "kor": "규율, 훈육; 훈련, 단련; 학문 분야, 학과; 징계하다; 훈육하다",
+    "answer_count_kor": 8,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disciplined",
+    "kor": "훈련받은",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고무; 고무의",
-    "eng": "rubber",
+    "eng": "disciplinary",
+    "kor": "징계의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "극심한",
-    "eng": "severe",
+    "eng": "outdated",
+    "kor": "시대에 뒤떨어진, 구식의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "monopoly",
+    "kor": "독점(권), 전매(권)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "monopolize",
+    "kor": "독점하다; 독차지하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agenda",
+    "kor": "의제, 안건",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deluxe",
+    "kor": "고급의, 호화로운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decisive",
+    "kor": "결정적인, 중대한; 결단력 있는, 단호한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preliminary",
+    "kor": "예비의, 준비의; 예비 단계, 예선전",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "critique",
+    "kor": "비평, 평론; 비평[평론]하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mournful",
+    "kor": "슬픔에 잠긴, 애절한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mourn",
+    "kor": "슬퍼하다, 애도하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mourning",
+    "kor": "애도",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "자원",
-    "eng": "resource",
+    "eng": "cue",
+    "kor": "신호, 암시; (연극 등의) 큐 사인; 신호를 주다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diverse",
+    "kor": "다양한, 여러 가지의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diversity",
+    "kor": "다양성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "도화선이 되다",
-    "eng": "spark",
+    "eng": "minimize",
+    "kor": "최소화하다; (중요성 등을) 축소하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "erroneous",
+    "kor": "(생각·정보 등이) 잘못된, 틀린",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "erroneously",
+    "kor": "잘못되게, 틀리게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dimension",
+    "kor": "크기, 치수; 측면, 관점; 차원",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dimensional",
+    "kor": "치수의; ~차원의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "friction",
+    "kor": "마찰; 갈등, 불화",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humanity",
+    "kor": "인류, 인간; 인간성",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humanitarian",
+    "kor": "인도주의적인; 인도주의자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alter",
+    "kor": "변경하다, 바꾸다[바뀌다]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alteration",
+    "kor": "변경, 개조, 수정",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coherent",
+    "kor": "일관성 있는, 논리정연한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coherence",
+    "kor": "일관성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "북극 지방; 북극의",
-    "eng": "Arctic",
+    "eng": "coherently",
+    "kor": "일관되게, 조리 있게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "peninsula",
+    "kor": "반도",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "심해; 깊이",
-    "eng": "depth (the -s)",
+    "eng": "deduct",
+    "kor": "빼다, 공제하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deduction",
+    "kor": "추론, 연역; 공제(액)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "maternity",
+    "kor": "어머니[임부]인 상태, 모성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "maternal",
+    "kor": "어머니의, 모성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transcend",
+    "kor": "초월하다, 뛰어넘다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transcendence",
+    "kor": "초월(성)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보호하다; 방패",
-    "eng": "shield",
+    "eng": "transcendent",
+    "kor": "초월적인; 탁월한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "council",
+    "kor": "(지방) 의회; 협의회, 위원회",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "configuration",
+    "kor": "배열, 배치; (시스템의) 환경 설정",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "configure",
+    "kor": "(시스템 등을) 설정하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "야생 생물",
-    "eng": "wildlife",
+    "eng": "plague",
+    "kor": "전염병, 역병; 괴롭히다, 시달리게 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "masterpiece",
+    "kor": "걸작, 명작",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "physicist",
+    "kor": "물리학자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "재난",
-    "eng": "disaster",
+    "eng": "physics",
+    "kor": "물리학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "발생하다",
-    "eng": "occur",
+    "eng": "physician",
+    "kor": "(내과) 의사",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대서양; 대서양의",
-    "eng": "Atlantic",
+    "eng": "variable",
+    "kor": "변동이 심한, 가변적인; 변수",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "variability",
+    "kor": "변동성, 가변성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "satellite",
+    "kor": "(인공)위성; (행성의) 위성; 위성 국가, 위성 도시",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "radiate",
+    "kor": "내뿜다, 방출하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "radiation",
+    "kor": "방사선; (열·에너지 등의) 복사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "radiant",
+    "kor": "빛나는; 복사의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "launch into",
+    "kor": "(갑자기 혹은 열정적으로) 시작하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "협곡",
-    "eng": "canyon",
-    "answer_count_kor": 1,
+    "eng": "break up",
+    "kor": "(관계 등이) 끝나다; 부서지다; (신호 등이) 끊기다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "늪; 늪에 빠져들다",
-    "eng": "swamp",
-    "answer_count_kor": 1,
+    "eng": "carry off",
+    "kor": "(어려운 일을) 잘 해내다; (상을) 받다, 차지하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "수분",
-    "eng": "moisture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반사하다; 반영하다; 심사숙고하다",
-    "eng": "reflect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "섭씨",
-    "eng": "Celsius",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "온도계",
-    "eng": "thermometer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "파괴적인",
-    "eng": "destructive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "난파",
-    "eng": "wreck",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정상",
-    "eng": "peak",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "폭발하다",
-    "eng": "erupt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "내뿜다",
-    "eng": "eject",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정화하다",
-    "eng": "purify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "둘러싸다",
-    "eng": "surround",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 쓸어 가다[유실되게 하다]",
-    "eng": "wash away",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 완전히 파괴하다[없애 버리다]",
-    "eng": "wipe out",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다 써 버리다; 소비하다",
-    "eng": "use up",
-    "answer_count_kor": 1,
+    "eng": "look through",
+    "kor": "~을 살펴보다, 훑어보다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
