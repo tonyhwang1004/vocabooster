@@ -1,182 +1,242 @@
 [
   {
-    "kor": "친구",
-    "eng": "company",
-    "answer_count_kor": 1,
+    "eng": "be engaged in",
+    "kor": "~에 종사하고 있다, ~에 열중하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "기사",
-    "eng": "article",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일치하다",
-    "eng": "correspond",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반사하다",
-    "eng": "reflect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기둥",
-    "eng": "post",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감소하다",
-    "eng": "decline",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정장",
-    "eng": "suit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수치",
-    "eng": "figure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경우",
-    "eng": "case",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "해산시키다",
-    "eng": "dismiss",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "환대",
     "eng": "hospitality",
+    "kor": "환대, 접대",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consistent",
+    "kor": "일관된, (의견·언행 등이) 일치하는, 모순없는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "be engaged to",
+    "kor": "~와 약혼한 사이다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "적대감",
     "eng": "hostility",
+    "kor": "적대감",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상태",
-    "eng": "state",
-    "answer_count_kor": 1,
+    "eng": "appreciate",
+    "kor": "진가를 알아보다, (제대로) 이해하다, 감사하다, 고마워하다, 감상하다",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "지위",
-    "eng": "statue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조각상",
-    "eng": "status",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방학",
-    "eng": "vacation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소명",
-    "eng": "vocation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "탐험하다",
-    "eng": "explode",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "폭발하다",
-    "eng": "explore",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "민족의",
-    "eng": "ethical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "윤리적인",
-    "eng": "ethnic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "허리",
-    "eng": "waist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "낭비",
-    "eng": "waste",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 앞서다",
-    "eng": "precede",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나아가다",
-    "eng": "proceed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "브레이크",
-    "eng": "brake",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "휴식",
-    "eng": "break",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "톱",
     "eng": "saw",
+    "kor": "톱, 톱질하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "explore",
+    "kor": "탐험하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "바느질하다",
-    "eng": "sew",
+    "eng": "company",
+    "kor": "함께 있는 사람들, 친구, 동석, 동행, 회사",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "state",
+    "kor": "상태, 국가, 말하다, 진술하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "statue",
+    "kor": "조각상",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "뿌리다",
+    "eng": "waist",
+    "kor": "허리",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suit",
+    "kor": "정장, 소송, 맞다, 어울리다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "correspond",
+    "kor": "일치하다, 해당[상응]하다, 서신을 주고받다, 조화를 이루다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "sow",
+    "kor": "(씨를) 뿌리다, 심다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "article",
+    "kor": "기사, 물건, 물품, 조항, 조건",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "desert",
+    "kor": "사막",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "explode",
+    "kor": "폭발하다, 터뜨리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precede",
+    "kor": "~에 앞서다[선행하다]",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ethical",
+    "kor": "윤리적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "constitute",
+    "kor": "구성하다, ~이 되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "status",
+    "kor": "지위, 신분, 상황",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proceed",
+    "kor": "나아가다, (계속) 진행하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "addiction",
+    "kor": "중독, 열중",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sew",
+    "kor": "바느질하다, 꿰매다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "brake",
+    "kor": "브레이크, 제동 장치",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "figure",
+    "kor": "수치, 모습, 몸매, 인물, 사람, 모 양, 무늬, 이해하다, 생각해 내다",
+    "answer_count_kor": 9,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "post",
+    "kor": "기둥, 우편, 우편물, 붙이다, 게시 하다, (우편물을) 발송하다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dessert",
+    "kor": "후식, 디저트",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "substitute",
+    "kor": "대신하다, 교체하다, 대리자, 대 용품",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "addition",
+    "kor": "추가, 첨가, 덧셈",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "constant",
+    "kor": "불변의, 끊임없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ethnic",
+    "kor": "민족의, 종족의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "break",
+    "kor": "휴식, 부서지다, 고장 나다, 쉬다, 어기다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "waste",
+    "kor": "낭비, 폐기물, 낭비하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reflect",
+    "kor": "반사하다, 반영하다, 심사숙고하 다, 회고하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "case",
+    "kor": "경우, 사례, 사건, 문제, 소송, 상 자, 용기",
+    "answer_count_kor": 7,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reserve",
+    "kor": "예약하다, 따로 남겨 두다, 보유 하다, 매장량, 비축, 보호 구역",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dismiss",
+    "kor": "해산시키다, 해고하다, (생각 등 을) 떨쳐 버리다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decline",
+    "kor": "감소하다, 하락하다, 감소, 하락, 거절하다, 아래로 경사지다, 아 래를 향하다",
+    "answer_count_kor": 7,
     "answer_count_eng": 1
   }
 ]
