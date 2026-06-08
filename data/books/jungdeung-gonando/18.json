@@ -1,182 +1,422 @@
 [
   {
-    "kor": "풍부하게 하다",
-    "eng": "enrich",
+    "eng": "identical",
+    "kor": "동일한, 똑같은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "affirm",
+    "kor": "단언[확언]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "배럴(용량의 단위로 약 159리터); 통",
-    "eng": "barrel",
+    "eng": "affirmation",
+    "kor": "단언, 확언",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "affirmative",
+    "kor": "긍정[동의]의; 긍정(의 말)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coincidence",
+    "kor": "(우연의) 일치; 동시 발생",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coincide",
+    "kor": "동시에 일어나다; (생각 등이) 일치하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coincidental",
+    "kor": "우연의 일치인, 우연의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "radioactive",
+    "kor": "방사성의, 방사능이 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "radioactivity",
+    "kor": "방사능",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(가축의) 떼",
-    "eng": "herd",
+    "eng": "bulky",
+    "kor": "부피가 큰; 덩치가 큰",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bulk",
+    "kor": "대부분; 부피, 크기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "congestion",
+    "kor": "혼잡, 밀집; (신체의) 막힘, 충혈",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "congested",
+    "kor": "혼잡한; (신체 일부가) 충혈된, 막힌",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appropriate",
+    "kor": "적절한, 적합한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appropriately",
+    "kor": "적당하게, 알맞게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exploit",
+    "kor": "(부당하게) 이용하다, 착취하다; 활용하다; 위업",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exploitation",
+    "kor": "착취; (자원) 개발",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "controversial",
+    "kor": "논란이 많은",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위기",
-    "eng": "crisis",
+    "eng": "controversy",
+    "kor": "논란, 논쟁",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coverage",
+    "kor": "보도; (광고·보험 등의) 도달[보장] 범위",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dreadful",
+    "kor": "끔찍한, 지독한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dread",
+    "kor": "두려워하다; 두려움",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "staple",
+    "kor": "주된, 주요한; 주식; 주요 산물",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disguise",
+    "kor": "변장[위장]하다; (감정 등을) 숨기다; 변장, 위장",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alienate",
+    "kor": "소원하게[멀어지게] 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공급하다(with); 준비하다(for",
-    "eng": "provide",
+    "eng": "alienation",
+    "kor": "멀어짐, 소외; 양도",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alienated",
+    "kor": "소외된",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "물질",
-    "eng": "material",
+    "eng": "interplay",
+    "kor": "상호 작용",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수출하다; 수출",
-    "eng": "export",
+    "eng": "correlate",
+    "kor": "연관성이 있다; 서로 연관시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "correlation",
+    "kor": "연관성, 상관관계",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "correlative",
+    "kor": "상관관계가 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "건설하다",
-    "eng": "construct",
+    "eng": "viewpoint",
+    "kor": "관점, 견해",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "plight",
+    "kor": "곤경, 역경, (어려운) 처지",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ecology",
+    "kor": "생태(계), 생태학",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ecological",
+    "kor": "생태계의, 생태학의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ecologist",
+    "kor": "생태학자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "오염",
-    "eng": "pollution",
+    "eng": "cosmopolitan",
+    "kor": "세계적인, 국제적인; 범세계주의자, 세계인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "skyscraper",
+    "kor": "고층 건물, 마천루",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appealing",
+    "kor": "매력적인, 마음을 끄는; 호소하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "habitual",
+    "kor": "습관적인; 상습적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "habitually",
+    "kor": "습관적으로, 늘",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prehistoric",
+    "kor": "선사 시대의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "농업",
-    "eng": "agriculture",
+    "eng": "prehistory",
+    "kor": "선사 시대; 초기 단계",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "relevant",
+    "kor": "관련 있는, 적절한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "relevance",
+    "kor": "관련성; 적절, 타당성",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "representative",
+    "kor": "대표자, 대리인; 대표하는; 전형적인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dialect",
+    "kor": "방언, 사투리",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "repertoire",
+    "kor": "레퍼토리, 연주[공연] 목록",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "comply",
+    "kor": "따르다, 준수하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compliance",
+    "kor": "준수, 순응",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compliant",
+    "kor": "따르는, 순응하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "succumb",
+    "kor": "굴복하다; (병 등으로) 쓰러지다, 죽다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subtle",
+    "kor": "미묘한, 감지하기 힘든; 교묘한, 영리한; 예민한, 섬세한",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subtly",
+    "kor": "미묘하게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(가축이) 풀을 뜯어 먹다",
-    "eng": "graze",
+    "eng": "subtlety",
+    "kor": "미묘함",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "목초지",
-    "eng": "pasture",
+    "eng": "diameter",
+    "kor": "지름, 직경",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "industrious",
+    "kor": "근면한, 부지런한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "industrial",
+    "kor": "산업의, 공업의; 공업용의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "industry",
+    "kor": "산업, 공업",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "industrialize",
+    "kor": "산업화하다[되다]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소; 가축",
-    "eng": "cattle",
+    "eng": "industrialization",
+    "kor": "산업화",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경작하다",
-    "eng": "cultivate",
+    "eng": "camouflage",
+    "kor": "위장, 속임수; 위장하다, 감추다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "legal",
+    "kor": "법률의; 합법적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "legally",
+    "kor": "법적으로, 합법적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "legality",
+    "kor": "합법성, 적법성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "legalize",
+    "kor": "합법화하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "콘크리트; 구체적인; 콘크리트의",
-    "eng": "concrete",
-    "answer_count_kor": 1,
+    "eng": "set aside",
+    "kor": "~을 따로 떼어 두다; ~을 고려하지 않다, 무시하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "기중기",
-    "eng": "crane",
-    "answer_count_kor": 1,
+    "eng": "weigh down",
+    "kor": "(물리적·심리적으로) 짓누르다, 압박하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "투자하다",
-    "eng": "invest",
-    "answer_count_kor": 1,
+    "eng": "act out",
+    "kor": "~을 연기[재연]하다; (감정 등을) 표출하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "확장하다; 팽창하다",
-    "eng": "expand",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "규모; 저울; 비늘",
-    "eng": "scale",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비율",
-    "eng": "proportion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "초월하다",
-    "eng": "surpass",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발생시키다",
-    "eng": "generate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일정한",
-    "eng": "constant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "낙관적인",
-    "eng": "optimistic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "떠맡다",
-    "eng": "undertake",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조립하다; 모으다",
-    "eng": "assemble",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "획기적인",
-    "eng": "innovative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기업",
-    "eng": "enterprise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "문을 닫다",
-    "eng": "shut down",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시작하다",
-    "eng": "set up",
-    "answer_count_kor": 1,
+    "eng": "turn away",
+    "kor": "~을 돌려보내다; ~을 외면하다, ~에서 멀어지게 하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
