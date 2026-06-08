@@ -1,170 +1,98 @@
 [
   {
-    "kor": "가능하게하다",
+    "kor": "결론짓다, 끝내다",
+    "eng": "conclude",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기부하다",
+    "eng": "donate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "개성, 성격, 특색",
+    "eng": "personality",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "싸우다, 노력하다, 투쟁, 노력",
+    "eng": "struggle",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유리한 점, 이점",
+    "eng": "advantage",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "다양, 다양성",
+    "eng": "variety",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가능하게 하다",
     "eng": "enable",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "제한하다",
-    "eng": "limit",
-    "answer_count_kor": 1,
+    "kor": "지시, 제품 사용 설명서, 가르침",
+    "eng": "instruction",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "전자공학의",
+    "kor": "추정하다, (태도 등을) 취하다",
+    "eng": "assume",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시도하다, 시도",
+    "eng": "attempt",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "믿을 수 없는, (믿기 어려울 만큼) 굉장한",
+    "eng": "incredible",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "특징, 특집 기사, 얼굴 생김새, ~을 특징으로 하다, 주연하다",
+    "eng": "feature",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "혼동하다, 혼란시키다",
+    "eng": "confuse",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전자의",
     "eng": "electronic",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "주장",
-    "eng": "claim",
-    "answer_count_kor": 1,
+    "kor": "흡수하다, (사람, 마음을) 열중시키다",
+    "eng": "absorb",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "낯선사람",
-    "eng": "stranger",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "노동",
-    "eng": "labor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "도덕적인",
-    "eng": "moral",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유리한점",
-    "eng": "advantage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개성",
-    "eng": "personality",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "들여놓다",
-    "eng": "stock",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "얼굴생김새",
-    "eng": "feature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "혼동하다",
-    "eng": "confuse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방해하다",
-    "eng": "interrupt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가르침",
-    "eng": "instruction",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "납득시키다",
-    "eng": "convince",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에주목하다",
-    "eng": "remark",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "노력",
-    "eng": "struggle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "낫게하다",
-    "eng": "heal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다양",
-    "eng": "variety",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갑작스러운변화",
-    "eng": "revolution",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조수",
-    "eng": "tide",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "굉장한",
-    "eng": "terrific",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "생물",
-    "eng": "creature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결론짓다",
-    "eng": "conclude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거주하는",
-    "eng": "resident",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "설립하다",
-    "eng": "establish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "재난",
-    "eng": "disaster",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "논리적인",
-    "eng": "reasonable",
-    "answer_count_kor": 1,
+    "kor": "가리키다, 나타내다",
+    "eng": "indicate",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -174,20 +102,32 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "시도하다",
-    "eng": "attempt",
+    "kor": "재고품, 저장, 가축, 저장하다, (물품을) 들여놓다",
+    "eng": "stock",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "거주자",
+    "eng": "resident",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "열중시키다",
-    "eng": "absorb",
-    "answer_count_kor": 1,
+    "kor": "노동, 산고, 노동하다",
+    "eng": "labor",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "도움을주다",
-    "eng": "assist",
+    "kor": "의견, 주목, 의견을 말하다, ~에 주목하다",
+    "eng": "remark",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도덕적인",
+    "eng": "moral",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -198,33 +138,51 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "가리키다",
-    "eng": "indicate",
-    "answer_count_kor": 1,
+    "kor": "주장하다, 요구, 주장",
+    "eng": "claim",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "유능한",
-    "eng": "efficient",
-    "answer_count_kor": 1,
+    "kor": "논리적인, 분별력 있는",
+    "eng": "reasonable",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "얻다",
-    "eng": "obtain",
-    "answer_count_kor": 1,
+    "kor": "방해하다, 중단하다",
+    "eng": "interrupt",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "굉장한",
-    "eng": "incredible",
-    "answer_count_kor": 1,
+    "kor": "할인, 할인하다",
+    "eng": "discount",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "기부하다",
-    "eng": "donate",
-    "answer_count_kor": 1,
+    "kor": "생물, 피조물",
+    "eng": "creature",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "치료하다, 낫게 하다",
+    "eng": "heal",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "설립하다, 확립하다, 제정하다",
+    "eng": "establish",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "혁명, 갑작스러운 변화, 회전",
+    "eng": "revolution",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -234,9 +192,51 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "취하다",
-    "eng": "assume",
+    "kor": "확신시키다, 납득시키다",
+    "eng": "convince",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "효율적인, 유능한",
+    "eng": "efficient",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "낯선 사람, 문외한",
+    "eng": "stranger",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조수, 흐름",
+    "eng": "tide",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "획득하다, 통용되다, 행해지다",
+    "eng": "obtain",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도움을 주다",
+    "eng": "assist",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "재앙, 재난, 재해",
+    "eng": "disaster",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "굉장한, 훌륭한",
+    "eng": "terrific",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
