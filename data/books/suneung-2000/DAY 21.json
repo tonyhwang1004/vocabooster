@@ -1,242 +1,242 @@
 [
   {
-    "kor": "공로",
-    "eng": "merit",
+    "kor": "건축학, 건축 양식",
+    "eng": "architecture",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "영토, 영역",
+    "eng": "territory",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전략, 계획",
+    "eng": "strategy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "그러므로, 향후",
+    "eng": "hence",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "당황한, 공황",
+    "eng": "panic",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "황무지",
+    "eng": "wilderness",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "각도",
-    "eng": "angle",
+    "kor": "끌다, 매혹하다",
+    "eng": "attract",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부류, 종류",
+    "eng": "category",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "죽이다, 살인",
+    "eng": "murder",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "장례식, 장례의",
+    "eng": "funeral",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "창피 줌, 굴욕",
+    "eng": "humiliation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "금지하다, 금지",
+    "eng": "ban",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "물로 씻어내리다, (얼굴이) 붉어지다, 물로 씻어냄, 홍조",
+    "eng": "flush",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 생략하다",
+    "eng": "omit",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "알약",
-    "eng": "pill",
+    "kor": "결과",
+    "eng": "outcome",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "끈",
-    "eng": "string",
+    "kor": "절망, 절망하다",
+    "eng": "despair",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조심하는, 경고하다, 경계",
+    "eng": "alert",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "아담한, 빽빽한, 계약, 협정",
+    "eng": "compact",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "마찬가지로",
+    "eng": "likewise",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "으쓱하다",
-    "eng": "shrug",
+    "kor": "깜짝 놀라게 하다",
+    "eng": "astonish",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "왕",
-    "eng": "majesty",
+    "kor": "낙천적인",
+    "eng": "optimistic",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "우월한",
-    "eng": "superior",
+    "kor": "충성스러운",
+    "eng": "loyal",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대처하다",
-    "eng": "cope",
+    "kor": "습한",
+    "eng": "humid",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "버리다",
-    "eng": "discard",
+    "kor": "~인 척하다",
+    "eng": "pretend",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전달하다",
-    "eng": "transmit",
+    "kor": "졸업하다, 졸업생",
+    "eng": "graduate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "연약한, 섬세한, 미묘한",
+    "eng": "delicate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부풀리다, 과장하다, (가격을) 올리다",
+    "eng": "inflate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적절한",
+    "eng": "adequate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "것",
-    "eng": "stuff",
+    "kor": "의사",
+    "eng": "physician",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "향상하다",
-    "eng": "enhance",
+    "kor": "관절, 공동의",
+    "eng": "joint",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 경유해서, ~을 매개로 하여",
+    "eng": "via",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "통로, (책의) 구절",
+    "eng": "passage",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 좋아하다",
+    "eng": "prefer",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "구리",
-    "eng": "copper",
+    "kor": "선박, 용기",
+    "eng": "vessel",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이전상태로 회복시키다",
+    "eng": "restore",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고집하다",
-    "eng": "persist",
+    "kor": "소극적인,수동적인",
+    "eng": "passive",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경험, 경험하다",
+    "eng": "experience",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대리석",
+    "eng": "marble",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고발하다",
-    "eng": "accuse",
+    "kor": "분류하다",
+    "eng": "classify",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "결속",
-    "eng": "bond",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "그리다",
-    "eng": "depict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "교묘한",
-    "eng": "subtle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대",
-    "eng": "reverse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "친밀한",
-    "eng": "intimate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "접수",
-    "eng": "reception",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "굶주림",
-    "eng": "famine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사악한",
-    "eng": "vicious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영원한",
-    "eng": "eternal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동료",
-    "eng": "colleague",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "순종하는",
-    "eng": "obedient",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "궤도",
-    "eng": "orbit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "과격한",
-    "eng": "radical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "요법",
-    "eng": "therapy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조심",
-    "eng": "caution",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소중히하다",
-    "eng": "cherish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대출",
-    "eng": "loan",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "면역성의",
-    "eng": "immune",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "과정",
-    "eng": "procedure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "회담",
-    "eng": "conference",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가공하지않은",
-    "eng": "raw",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수축하다",
-    "eng": "shrink",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "당황하게하다",
-    "eng": "overwhelm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동시에일어난사건",
-    "eng": "coincidence",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "저하되다",
-    "eng": "dwindle",
-    "answer_count_kor": 1,
+    "kor": "근본적인, 필수의",
+    "eng": "fundamental",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
