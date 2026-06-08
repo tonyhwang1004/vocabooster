@@ -1,242 +1,242 @@
 [
   {
-    "kor": "기후",
-    "eng": "climate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "얼다",
-    "eng": "freeze",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "녹다",
     "eng": "melt",
-    "answer_count_kor": 1,
+    "kor": "녹다, 녹이다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "파도",
-    "eng": "wave",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "습도",
-    "eng": "humidity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "온화한",
-    "eng": "temperature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "충분한",
-    "eng": "sufficient",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "열대의",
-    "eng": "tropical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "극심한",
-    "eng": "intense",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사나운",
-    "eng": "fierce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가벼운",
-    "eng": "light",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "현상",
-    "eng": "phenomenon",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "창조물",
-    "eng": "creature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뜨다",
-    "eng": "float",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "그림자",
-    "eng": "shadow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조수",
-    "eng": "tide",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지진",
-    "eng": "earthquake",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "폭발",
-    "eng": "eruption",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유래하다",
-    "eng": "derive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유래하다",
-    "eng": "originate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부화하다",
-    "eng": "hatch",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "농업",
-    "eng": "agriculture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "익은",
-    "eng": "ripe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갈다",
-    "eng": "plow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경작하다",
-    "eng": "cultivate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "농작물",
-    "eng": "crop",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수확하다",
-    "eng": "reap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수확하다",
-    "eng": "harvest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연례의",
-    "eng": "annual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "민속의",
-    "eng": "folk",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "토착의",
     "eng": "native",
+    "kor": "토착의, 원산의, 원주민",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hatch",
+    "kor": "부화하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "저항력이 있는",
-    "eng": "resistant",
-    "answer_count_kor": 1,
+    "eng": "harvest",
+    "kor": "수확하다, 수확, 수확물",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "내구성이 있는",
-    "eng": "durable",
-    "answer_count_kor": 1,
+    "eng": "light",
+    "kor": "가벼운, 밝은, 밝히다, 빛",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "옮겨 심다",
-    "eng": "transplant",
-    "answer_count_kor": 1,
+    "eng": "tide",
+    "kor": "조수(潮水), 조류, 흐름",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "비옥하게 하다",
-    "eng": "enrich",
-    "answer_count_kor": 1,
+    "eng": "wave",
+    "kor": "파도, 물결, 파도치다, 흔들다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "비옥한",
-    "eng": "fertile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "척박한",
-    "eng": "barren",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배수하다",
     "eng": "drain",
+    "kor": "물을 빼내다, 배수하다, 소모시키다, 배수관, 소모",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "earthquake",
+    "kor": "지진",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "해충",
+    "eng": "shadow",
+    "kor": "그림자, 그늘, 그늘지게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "temperate",
+    "kor": "(기후가) 온화한, (행동이) 차분한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "pest",
+    "kor": "해충, 골칫거리",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "take over",
+    "kor": "~을 차지하다, ~을 인계받다, ~을 인수하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "creature",
+    "kor": "창조물, 생물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sufficient",
+    "kor": "충분한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "잡초",
-    "eng": "weed",
+    "eng": "enrich",
+    "kor": "비옥하게 하다, 풍요롭게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "durable",
+    "kor": "내구성이 있는",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fertile",
+    "kor": "비옥한, 번식력이 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "originate",
+    "kor": "유래하다, 발생하다, 고안하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ripe",
+    "kor": "익은, 숙성한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agriculture",
+    "kor": "농업",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "barren",
+    "kor": "척박한, 결실이 없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "drought",
+    "kor": "가뭄",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transplant",
+    "kor": "옮겨 심다, 이식하다, 이식",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "freeze",
+    "kor": "얼다, 동결시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "weed",
+    "kor": "잡초, 잡초를 제거하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "take advantage of",
+    "kor": "~을 이용하다, ~을 활용하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eruption",
+    "kor": "폭발, 분화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "folk",
+    "kor": "민속의, 민간의, 사람들",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humid",
+    "kor": "습한, 습기 찬",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crop",
+    "kor": "농작물, 수확물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cultivate",
+    "kor": "경작하다, (작물을) 재배하다, 기 르다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "float",
+    "kor": "뜨다, 떠다니다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "climate",
+    "kor": "기후",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "phenomenon",
+    "kor": "현상",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "annual",
+    "kor": "연례의, 연간의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tropical",
+    "kor": "열대의, 열대 지방의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resistant",
+    "kor": "저항력이 있는, 저항하는, 잘 견 디는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intense",
+    "kor": "극심한, 치열한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fierce",
+    "kor": "사나운, 극심한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
