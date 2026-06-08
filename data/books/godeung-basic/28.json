@@ -1,181 +1,241 @@
 [
   {
-    "kor": "비율",
-    "eng": "rate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "벌금을 부과하다",
-    "eng": "fine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기간",
-    "eng": "term",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "누르다",
-    "eng": "press",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상태",
-    "eng": "condition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "해결",
-    "eng": "solution",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수행하다",
-    "eng": "conduct",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공평한",
-    "eng": "fair",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "책",
-    "eng": "book",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "현재의",
-    "eng": "current",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "만료되다",
-    "eng": "expire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고무하다",
     "eng": "inspire",
-    "answer_count_kor": 1,
+    "kor": "고무[격려]하다, 영감을 주다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "지구",
-    "eng": "globe",
-    "answer_count_kor": 1,
+    "eng": "be concerned",
+    "kor": "~을 염려하다, ~을 걱정하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "장갑",
-    "eng": "glove",
-    "answer_count_kor": 1,
+    "eng": "evolution",
+    "kor": "진화, 발전",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "충성스러운",
-    "eng": "loyal",
-    "answer_count_kor": 1,
+    "eng": "conduct",
+    "kor": "수행하다, 지휘하다, 안내하다, 안내, (열·전기를) 전도하다, 행동",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "왕의",
-    "eng": "royal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사막",
-    "eng": "desert",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "후식",
-    "eng": "dessert",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비상사태",
-    "eng": "emergency",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "출현",
-    "eng": "emergence",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "끔찍한",
-    "eng": "terrible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "아주 멋진",
-    "eng": "terrific",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개인적인",
-    "eng": "personal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인원",
-    "eng": "personnel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양심",
-    "eng": "conscience",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의식",
-    "eng": "conscious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "계산하다",
     "eng": "calculate",
+    "kor": "계산하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "순환하다",
-    "eng": "circulate",
+    "eng": "revolution",
+    "kor": "혁명, 회전",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rate",
+    "kor": "비율, 속도, 요금, 평가하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "press",
+    "kor": "누르다, 강요하다, 재촉하다, 언론, 출판",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emergence",
+    "kor": "출현, 발생",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conscious",
+    "kor": "의식하는, 의식이 있는, 의도적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "feature",
+    "kor": "특징, ~을 특징으로 하다, 이목구비, 특집 기사[방송]",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fair",
+    "kor": "공평한, 공정한, 상당한, 아름다운, 매력적인, (날씨가) 맑은, 박람회",
+    "answer_count_kor": 7,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "confirm",
+    "kor": "확인하다, 승인하다, (사실임을) 입증하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "terrible",
+    "kor": "끔찍한, 심한, 지독한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "term",
+    "kor": "기간, 학기, 용어, 사이, 관계, 조건",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "book",
+    "kor": "책, 서적, 예약하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emergency",
+    "kor": "비상사태",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "올리다",
+    "eng": "terrific",
+    "kor": "아주 멋진, 훌륭한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "loyal",
+    "kor": "충성스러운, 충실한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "neutral",
+    "kor": "중립의, 중성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stimulate",
+    "kor": "자극[격려]하다, 관심을 불러일 으키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "personnel",
+    "kor": "인원, 직원, 인사과",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "depend",
+    "kor": "의존하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "raise",
+    "kor": "올리다, 들어올리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conform",
+    "kor": "따르다, 순응하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "royal",
+    "kor": "왕의, 왕국의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fine",
+    "kor": "벌금, 벌금을 부과하다, 훌륭한, 좋은, 고운, 미세한, (날씨가) 맑 은[좋은]",
+    "answer_count_kor": 7,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conscience",
+    "kor": "양심",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "오르다",
+    "eng": "condition",
+    "kor": "상태, 환경, 상황, 조건, 조항",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "solution",
+    "kor": "해결, 해결책, 용액",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "be concerned with",
+    "kor": "~와 관련이 있다, ~에 관심이 있다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defend",
+    "kor": "방어[수비]하다, 변호하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "neural",
+    "kor": "신경 (계통)의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "current",
+    "kor": "현재의, 흐름, 경향, 추세, 전류",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "rise",
+    "kor": "오르다, 올라가다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "circulate",
+    "kor": "순환하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "simulate",
+    "kor": "모의 실험하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "personal",
+    "kor": "개인적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "critical",
+    "kor": "비판적인, 중요한, 중대한, 결정 적인, 위기의",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expire",
+    "kor": "(기한이) 만료되다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
