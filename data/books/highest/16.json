@@ -1,181 +1,181 @@
 [
   {
-    "kor": "소중히 여기다",
-    "eng": "cherish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "서식지",
-    "eng": "habitat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "입증하다",
-    "eng": "demonstrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수분하다",
-    "eng": "pollinate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연속(체)",
-    "eng": "continuum",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분개한",
-    "eng": "resentful",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "억압하다",
-    "eng": "oppress",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명백한",
-    "eng": "pronounced",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상호 간의",
-    "eng": "mutual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통합하다",
-    "eng": "integrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경향",
-    "eng": "inclination",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비밀의",
-    "eng": "confidential",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "암송하다",
-    "eng": "recite",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(방향 등을) 전환하다",
-    "eng": "divert",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "필수 조건",
-    "eng": "prerequisite",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진짜의",
-    "eng": "genuine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "설교하다",
-    "eng": "preach",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(남의 말",
-    "eng": "quote",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(판단 등이) 치우치지 않은",
-    "eng": "impartial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신분이 높은",
-    "eng": "eminent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배치하다",
     "eng": "dispose",
-    "answer_count_kor": 1,
+    "kor": "배치하다, 정리하다; 처리하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "야만스러운",
-    "eng": "barbarous",
-    "answer_count_kor": 1,
+    "eng": "divert",
+    "kor": "전환하다, 바꾸다; 유용하다; 다른 데로 돌리다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "의심하는",
-    "eng": "dubious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(영화",
-    "eng": "protagonist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연민 어린",
     "eng": "compassionate",
+    "kor": "연민 어린, 동정적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resentful",
+    "kor": "분개한, 억울해하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "genuine",
+    "kor": "진짜의, 진품의; 진실한, 참된",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "habitat",
+    "kor": "서식지, 거주지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dubious",
+    "kor": "의심하는, 미심쩍어하는; 불확실한, 모호한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pronounced",
+    "kor": "명백한, 현저한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mutual",
+    "kor": "상호 간의, 서로의; 공동의, 공통의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cherish",
+    "kor": "소중히 여기다; 간직하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전형적인 예",
+    "eng": "demonstrate",
+    "kor": "입증하다, 증명하다; 설명하다, 보여 주다; 표시하다, 내색하다: 시위를 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "paradigm",
+    "kor": "전형적인 예, 패러다임",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preach",
+    "kor": "설교하다, 전도하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pollinate",
+    "kor": "수분하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "칭송하다",
+    "eng": "quote",
+    "kor": "인용하다; 예로 들다; 시세를 매기다: 인용문",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inclination",
+    "kor": "경향, 의향; 기울기, 경사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "acclaim",
+    "kor": "칭송하다, 환호하다; 환호, 갈채, 찬사",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prerequisite",
+    "kor": "필수 조건, 전제 조건",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "oppress",
+    "kor": "억압하다, 탄압하다; 중압감을 주다, 우울하게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impartial",
+    "kor": "치우치지 않은, 공정한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "confidential",
+    "kor": "비밀의, 기밀의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "barbarous",
+    "kor": "야만스러운, 잔혹한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "continuum",
+    "kor": "연속",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "어디에나 있는",
-    "eng": "ubiquitous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 따라",
-    "eng": "in line with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 굴복하다",
     "eng": "give in to",
+    "kor": "~에 굴복하다, ~에 항복하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eminent",
+    "kor": "신분이 높은, 저명한; 탁월한, 뛰어난",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recite",
+    "kor": "암송하다, 낭독하다; 상술하다, 열거하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "integrate",
+    "kor": "통합하다, 통합되다; 차별을 철 폐하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ubiquitous",
+    "kor": "어디에나 있는, 아주 흔한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "in line with",
+    "kor": "~에 따라, ~에 맞춰서; ~와 일 치하는, ~와 비슷한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "protagonist",
+    "kor": "주인공",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
