@@ -1,242 +1,242 @@
 [
   {
-    "kor": "범주",
-    "eng": "category",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 제외하고",
     "eng": "except",
-    "answer_count_kor": 1,
+    "kor": "~을 제외하고, 제외하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "토론하다",
-    "eng": "discuss",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "토론하다",
-    "eng": "debate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "판단",
-    "eng": "judgment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소비하다",
-    "eng": "consume",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "살아 있는",
-    "eng": "alive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소중한",
-    "eng": "valuable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불평하다",
-    "eng": "complain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대체하다",
-    "eng": "replace",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "잠재적인",
-    "eng": "potential",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "표준",
-    "eng": "norm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "표준",
-    "eng": "standard",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "광고하다",
-    "eng": "advertise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진가를 인정하다",
-    "eng": "appreciate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "알고 있는",
-    "eng": "aware",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개념",
-    "eng": "concept",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대답",
-    "eng": "response",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자극하다",
-    "eng": "stimulus",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신용",
-    "eng": "credit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "독",
     "eng": "poison",
-    "answer_count_kor": 1,
+    "kor": "독, 독약, 독을 넣다, 해치다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "우수한",
-    "eng": "excellent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나타내다",
-    "eng": "indicate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주요한",
-    "eng": "primary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "필수의",
-    "eng": "essential",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화학의",
-    "eng": "chemical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "없애다",
-    "eng": "eliminate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "효율적인",
-    "eng": "efficient",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복지",
-    "eng": "welfare",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의견",
-    "eng": "opinion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "두다",
-    "eng": "locate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발명",
-    "eng": "invention",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이상적인",
-    "eng": "ideal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "현실적인",
-    "eng": "realistic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결론을 내리다",
     "eng": "conclude",
-    "answer_count_kor": 1,
+    "kor": "결론을 내리다, 끝내다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "분투하다",
+    "eng": "trial",
+    "kor": "시도, 재판",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "norm",
+    "kor": "표준, 기준, 규범",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "category",
+    "kor": "범주, 부문",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discuss",
+    "kor": "토론하다, 논의하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "advertise",
+    "kor": "광고하다, 알리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infant",
+    "kor": "유아, 젖먹이, 아기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "welfare",
+    "kor": "복지, 행복",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "efficient",
+    "kor": "효율적인, 유능한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eliminate",
+    "kor": "없애다, 제거[배제]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "complain",
+    "kor": "불평[항의]하다, 호소하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "supplement",
+    "kor": "보충하다, 보충(물), 추가(물)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ideal",
+    "kor": "이상적인, 상상의, 이상, 공상",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "debate",
+    "kor": "토론[논의]하다, 숙고하다, 토론, 논쟁",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consume",
+    "kor": "소비[소모]하다, 섭취하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "primary",
+    "kor": "주요한, 최초의, 초등의, 근본적인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "awareness",
+    "kor": "의식, 인식",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concept",
+    "kor": "개념, 생각",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "respond",
+    "kor": "반응하다, 응답하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "replace",
+    "kor": "대체[대신]하다, 교체하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "struggle",
+    "kor": "분투하다, 애쓰다, 싸움, 노력",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "realistic",
+    "kor": "현실적인, 사실주의의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "credit",
+    "kor": "신용, 입금, 학점, 신용하다, (공 로를) ~에게 돌리다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "locate",
+    "kor": "두다, ~의 위치를 알아내다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "run out of",
+    "kor": "~을 다 써 버리다, ~을 바닥내 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alive",
+    "kor": "살아 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유일한",
-    "eng": "unique",
-    "answer_count_kor": 1,
+    "eng": "valuable",
+    "kor": "소중한, 값비싼",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~할 여유가 있다",
-    "eng": "afford",
-    "answer_count_kor": 1,
+    "eng": "opinion",
+    "kor": "의견, 견해",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "적절한",
     "eng": "proper",
+    "kor": "적절한, 올바른",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "standard",
+    "kor": "표준, 기준, 수준, (도덕) 규범, 일 반적인, 표준의",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chemical",
+    "kor": "화학의, 화학 작용의, 화학 약품 [물질]",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "invention",
+    "kor": "발명, 발명품, 날조",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "essential",
+    "kor": "필수의, 중요한, 본질적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unique",
+    "kor": "유일한, 독특한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indicate",
+    "kor": "나타내다, 가리키다, 암시하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "can afford to do",
+    "kor": "~할 여유가 있다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "적절한",
+    "eng": "judgment",
+    "kor": "판단, 판결, 의견",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "appropriate",
-    "answer_count_kor": 1,
+    "kor": "적절한, 적합한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
