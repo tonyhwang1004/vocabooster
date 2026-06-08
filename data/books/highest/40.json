@@ -1,182 +1,182 @@
 [
   {
-    "kor": "꽉 잡다",
-    "eng": "grasp",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "살금살금몰래 가다",
-    "eng": "sneak",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분권화하다",
-    "eng": "decentralize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자기중심적인",
-    "eng": "egocentric",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "휘갈겨 쓰다",
-    "eng": "scribble",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(수도 외의) 지방",
     "eng": "province",
-    "answer_count_kor": 1,
+    "kor": "지방, 시골; 지역, 주; 분야, 영역",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "협동",
+    "eng": "decentralize",
+    "kor": "분권화하다, 분산시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "collaboration",
-    "answer_count_kor": 1,
+    "kor": "협동, 합작",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "수평(선)의",
-    "eng": "horizontal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자발적인",
-    "eng": "spontaneous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "국회",
-    "eng": "congress",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전염병",
-    "eng": "plague",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불합리한",
-    "eng": "absurd",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "성실",
     "eng": "integrity",
-    "answer_count_kor": 1,
+    "kor": "성실, 정직, 진실성; 완전 , 무결",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "변화차이",
-    "eng": "variation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지배하다",
-    "eng": "dominate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "요새화하다",
-    "eng": "fortify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "꾀다",
-    "eng": "lure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "되찾다",
-    "eng": "retrieve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적대감",
-    "eng": "hostility",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "향수(병)",
-    "eng": "nostalgia",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "척추",
-    "eng": "spine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "질식시키다",
-    "eng": "suffocate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유죄를 선고하다",
-    "eng": "convict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기울다",
-    "eng": "tilt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기발한 재주",
-    "eng": "ingenuity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오도하는",
-    "eng": "misleading",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사소한",
     "eng": "petty",
-    "answer_count_kor": 1,
+    "kor": "사소한, 하찮은; 옹졸한, 인색한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "돌파구",
+    "eng": "variation",
+    "kor": "변화, 변동; 변형, 변종; <음악> 변주",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "breakthrough",
+    "kor": "돌파구, 타개 ; 큰 발전, 약진",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dominate",
+    "kor": "지배하다; 우세하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 우선해서",
+    "eng": "grasp",
+    "kor": "꽉 잡다; 이해하다, 파악하다; 꽉 잡기; 통제, 지배; 이해, 파악",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hostility",
+    "kor": "적대감, 적개심; 반대, 대립",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scribble",
+    "kor": "휘갈겨 쓰다, 낙서하다; 휘갈겨 쓴 글씨, 낙서",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "congress",
+    "kor": "국회, 의회; 대회, 회의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spontaneous",
+    "kor": "자발적인; 즉흥적인, 무의식적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lure",
+    "kor": "꾀다, 유혹하다, 유인하다; 유혹, 매력; 미끼",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tilt",
+    "kor": "기울다, 기울이다; 경사, 기울기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "misleading",
+    "kor": "오도하는, 오해의 소지가 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "retrieve",
+    "kor": "되찾다, 회복하다; 상기하다, 기 억하다; 검색하다, 추출하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suffocate",
+    "kor": "질식시키다, 숨이 막히게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "convict",
+    "kor": "유죄를 선고하다; 죄인, 죄수",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "in preference to",
+    "kor": "~에 우선해서, ~보다 우선적으 로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tap into",
+    "kor": "~에 다가가다; ~을 활용하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 다가가다접근하다",
-    "eng": "tap into",
+    "eng": "fortify",
+    "kor": "요새화하다; 강화하다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "egocentric",
+    "kor": "자기중심적인, 이기적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spine",
+    "kor": "척추, 등뼈; 가시 돌기",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sneak",
+    "kor": "살금살금가다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nostalgia",
+    "kor": "향수",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ingenuity",
+    "kor": "기발한 재주, 독창성, 창의력",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "plague",
+    "kor": "전염병; 성가신 사람, 골칫거리; 이상발생; 괴롭히다, 성가시게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "horizontal",
+    "kor": "수평의, 가로의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "absurd",
+    "kor": "불합리한; 어리석은, 터무니없 는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
