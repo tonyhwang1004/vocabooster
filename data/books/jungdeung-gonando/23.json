@@ -1,182 +1,392 @@
 [
   {
-    "kor": "차이; 틈",
-    "eng": "gap",
+    "eng": "atmosphere",
+    "kor": "(지구의) 대기; 공기; 분위기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "atmospheric",
+    "kor": "대기의; 분위기 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cosmetic",
+    "kor": "겉치레의, 표면적인; 화장용[미용]의; 화장품",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "render",
+    "kor": "(어떤 상태가 되게) 하다, 만들다; 주다, 제공하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "neurological",
+    "kor": "신경의, 신경학의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "neurology",
+    "kor": "신경학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인구",
-    "eng": "population",
+    "eng": "neurologist",
+    "kor": "신경학자, 신경과 전문의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "physiology",
+    "kor": "생리학; 생리 (기능)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "physiological",
+    "kor": "생리학의; 생리적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "physiologist",
+    "kor": "생리학자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "충돌",
-    "eng": "crash",
+    "eng": "assemble",
+    "kor": "모이다, 모으다; 조립하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assembly",
+    "kor": "의회, 입법 기관; 집회; (기계 등의) 조립",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "premise",
+    "kor": "(주장의) 전제, 가정; 구내, 건물 부지; 전제로 하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "circulate",
+    "kor": "순환하다[시키다]; 유포하다[되다]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "circulation",
+    "kor": "(혈액) 순환; 유통, 유포",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "circular",
+    "kor": "원형의, 둥근; 순회[순환]하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interior",
+    "kor": "내부; 내부의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "necessitate",
+    "kor": "필요로 하다, 요하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "necessity",
+    "kor": "필요(성); 필수품",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aquatic",
+    "kor": "물속에 사는, 수생의; 수상의, 수중의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ensure",
+    "kor": "확실하게 하다, 보장하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "quest",
+    "kor": "탐구, 탐색, 추구; 모험, 원정",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arctic",
+    "kor": "북극의; 몹시 추운; 북극 (지방)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blueprint",
+    "kor": "청사진, 계획",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "airborne",
+    "kor": "비행 중인, 공중에 떠 있는; 공기로 운반되는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "soar",
+    "kor": "급등하다, 치솟다; 날아오르다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "confront",
+    "kor": "직면하다, 맞서다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "confrontation",
+    "kor": "대치, 대립",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "primate",
+    "kor": "영장류",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(집단 내의) 가장 많은 수[대다수]",
-    "eng": "majority",
+    "eng": "mischievous",
+    "kor": "장난기 많은, 짓궂은; 해를 끼치는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mischief",
+    "kor": "장난, 못된 짓; 피해",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "constraint",
+    "kor": "제약; 제한, 통제",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "constrain",
+    "kor": "강요하다; 제한하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arbitrary",
+    "kor": "임의의; 독단적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arbitrarily",
+    "kor": "임의로; 독단적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sedentary",
+    "kor": "주로 앉아서 하는[지내는]; 정착해 사는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clone",
+    "kor": "복제 생물; 복제품; 복제하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "habitat",
+    "kor": "서식지, 거주지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tragedy",
+    "kor": "비극, 참사; 비극 작품",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tragic",
+    "kor": "비극적인, 비참한; 비극의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tragically",
+    "kor": "비극적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유혹",
-    "eng": "temptation",
+    "eng": "provision",
+    "kor": "공급, 제공; 식량; (법률) 조항",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "provide",
+    "kor": "제공[공급]하다; 규정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "approximately",
+    "kor": "거의, 대략",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "approximate",
+    "kor": "대략의, 근사치의; (수량 등이) ~에 가깝다, 어림잡다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hollow",
+    "kor": "속이 빈; 공허한; 움푹 들어간 곳",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sufficient",
+    "kor": "충분한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "혼란시키다",
-    "eng": "confuse",
+    "eng": "sufficiently",
+    "kor": "충분히",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "면",
-    "eng": "aspect",
+    "eng": "reckless",
+    "kor": "무모한, 신중하지 못한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recklessly",
+    "kor": "무모하게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "폭력적인",
-    "eng": "violent",
+    "eng": "recklessness",
+    "kor": "무모함, 경솔함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deforestation",
+    "kor": "삼림 벌채[파괴]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "장애",
-    "eng": "obstacle",
+    "eng": "obese",
+    "kor": "비만인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고립시키다",
-    "eng": "isolate",
+    "eng": "obesity",
+    "kor": "비만",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "충돌하다; (의견 등이) 일치하지 않다",
-    "eng": "collide",
+    "eng": "vulnerable",
+    "kor": "취약한, 연약한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vulnerability",
+    "kor": "취약성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "부정의; 소극적인",
-    "eng": "negative",
+    "eng": "immune",
+    "kor": "면역(성)의; 영향을 받지 않는; 면제되는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immunity",
+    "kor": "면역(력); 면제",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immunize",
+    "kor": "면역력을 갖게 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "비정상적인",
-    "eng": "abnormal",
-    "answer_count_kor": 1,
+    "eng": "immunization",
+    "kor": "면역 조치, 예방[면역] 접종",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "통합하다",
-    "eng": "unite",
-    "answer_count_kor": 1,
+    "eng": "atypical",
+    "kor": "비전형적인, 이례적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "가난",
-    "eng": "poverty",
-    "answer_count_kor": 1,
+    "eng": "pull back",
+    "kor": "후퇴하다, 물러나다; 철회[취소]하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "남용",
-    "eng": "abuse",
-    "answer_count_kor": 1,
+    "eng": "give off",
+    "kor": "(냄새·빛 등을) 내다, 발산하다; (분위기를) 풍기다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "고통",
-    "eng": "distress",
-    "answer_count_kor": 1,
+    "eng": "fit in",
+    "kor": "~와 어울리다, 조화를 이루다; ~할 시간을 내다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "이혼; 이혼하다",
-    "eng": "divorce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일어나다",
-    "eng": "arise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "퇴보하다",
-    "eng": "degenerate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사건",
-    "eng": "incident",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결점",
-    "eng": "defect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조종하다",
-    "eng": "manipulate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "잘못 인도하다",
-    "eng": "mislead",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "술",
-    "eng": "alcohol",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중독자; (나쁜 버릇에) 빠지게 하다",
-    "eng": "addict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시기상조의",
-    "eng": "premature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "버리다",
-    "eng": "abandon",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 없애다",
-    "eng": "do away with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(~을) 멀리하다",
-    "eng": "keep away (from)",
-    "answer_count_kor": 1,
+    "eng": "be up to",
+    "kor": "~에 달려 있다, ~의 책임이다; 무언가를 하고 있다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
