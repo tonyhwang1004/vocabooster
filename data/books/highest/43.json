@@ -1,181 +1,181 @@
 [
   {
-    "kor": "상품",
-    "eng": "commodity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "면역의",
-    "eng": "immune",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "순전한",
-    "eng": "sheer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(잠에서) 깨우다",
-    "eng": "arouse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보증하다",
-    "eng": "insure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조각",
-    "eng": "patch",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방어적인",
-    "eng": "defensive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위로하다",
-    "eng": "console",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사상적인",
-    "eng": "ideological",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(전후좌우로) 흔들리다흔들다",
-    "eng": "sway",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인과 관계의",
-    "eng": "causal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "밀려듦",
     "eng": "surge",
-    "answer_count_kor": 1,
+    "kor": "밀려듦, 쇄도; 급증, 급등; 치밀어 오름, 동요; 밀려들다, 쇄도하다; 급증하다; 휩싸다",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "상반되는 감정",
-    "eng": "ambivalence",
-    "answer_count_kor": 1,
+    "eng": "sheer",
+    "kor": "순전한, 절대적인; 몹시 가파른; 얇은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(가정에서 사용하는) 기구도구",
-    "eng": "utensil",
-    "answer_count_kor": 1,
+    "eng": "arouse",
+    "kor": "깨우다; 불러일으키다, 자극하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주로 앉아서 하는지내는",
     "eng": "sedentary",
-    "answer_count_kor": 1,
+    "kor": "주로 앉아서 하는; 한 곳에 머물러 사는, 정주하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "정제제련하다",
-    "eng": "refine",
-    "answer_count_kor": 1,
+    "eng": "commodity",
+    "kor": "상품, 물품",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(정보",
-    "eng": "elicit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "순화하다",
-    "eng": "patrol",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "산사태",
-    "eng": "landslide",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기생충균",
-    "eng": "parasite",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(점점) 줄어들다",
-    "eng": "dwindle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(대학) 학부생",
-    "eng": "undergraduate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기다",
     "eng": "creep",
-    "answer_count_kor": 1,
+    "kor": "기다, 포복하다: 천천히 움직이다; 포복, 서행",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "전속력",
-    "eng": "gallop",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "밀렵하다",
-    "eng": "poach",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "침범",
-    "eng": "intrusion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "계산측정하다",
-    "eng": "reckon",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "압축압착하다",
-    "eng": "compress",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 제시제안하다",
     "eng": "put forward",
+    "kor": "~을 제시하다; ~을 지명하다; 앞당기다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "결국 ~이 되다",
+    "eng": "poach",
+    "kor": "밀렵하다: 가로채다, 빼앗다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elicit",
+    "kor": "끌어내다, 유도하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "parasite",
+    "kor": "기생충, 기생 동물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intrusion",
+    "kor": "침범, 침해",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immune",
+    "kor": "면역의, 면역성이 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sway",
+    "kor": "흔들리다; 움직이다; 동요",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "landslide",
+    "kor": "산사태; 압도적인 득표",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defensive",
+    "kor": "방어적인, 수비의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "undergraduate",
+    "kor": "학부생, 대학생; 대학의, 학부의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "console",
+    "kor": "위로하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insure",
+    "kor": "보증하다; 보험에 들다; 보험을 팔다, ~의 보험을 맡다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "patrol",
+    "kor": "순회하다, 순찰하다; 순찰",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "patch",
+    "kor": "조각, 파편, 부분; 작은 땅; 얼룩, 반점; 덧대다, 때우다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "come down to",
+    "kor": "결국 ~이 되다, ~에 이르다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reckon",
+    "kor": "계산하다; 생각하다, 판단하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ideological",
+    "kor": "사상적인, 이념적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "causal",
+    "kor": "인과 관계의, 인과의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dwindle",
+    "kor": "줄어들다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compress",
+    "kor": "압축하다; 요약하다; 압박붕대",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gallop",
+    "kor": "전속력; 전속력으로 달리다, 질 주하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refine",
+    "kor": "정제하다; 개선하다, 세련되게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ambivalence",
+    "kor": "상반되는 감정, 양가성, 양면 가 치",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "utensil",
+    "kor": "기구",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
