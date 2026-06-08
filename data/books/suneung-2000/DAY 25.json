@@ -1,211 +1,31 @@
 [
   {
-    "kor": "경쟁",
-    "eng": "race",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양철",
-    "eng": "tin",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "얻다",
-    "eng": "gain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청사진",
-    "eng": "blueprint",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "살다",
-    "eng": "nest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "완료된",
-    "eng": "complete",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영향력",
-    "eng": "force",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "강탈하다",
-    "eng": "rob",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뒤",
-    "eng": "rear",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갑판",
-    "eng": "deck",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "산출",
-    "eng": "output",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뒤로미루다",
-    "eng": "postpone",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갈채",
-    "eng": "cheer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중대한",
-    "eng": "crucial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "판단",
-    "eng": "assessment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "괴롭히다",
-    "eng": "tease",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "교육과정",
-    "eng": "curriculum",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "싹이트다",
-    "eng": "sprout",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고장",
-    "eng": "breakdown",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "꿰매다",
-    "eng": "sew",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "매개체",
-    "eng": "vehicle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "치료하다",
-    "eng": "cure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구경꾼",
-    "eng": "bystander",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "놀라게하다",
-    "eng": "astound",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "남자다운",
-    "eng": "masculine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "설교",
-    "eng": "sermon",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소책자",
-    "eng": "brochure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "눈살을찌푸리다",
-    "eng": "frown",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
     "kor": "맥락",
     "eng": "context",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공격적인",
-    "eng": "aggressive",
+    "kor": "완벽한, 완료하다",
+    "eng": "complete",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경주, 인종, 경주하다",
+    "eng": "race",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지배하다",
+    "eng": "dominate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "남용",
-    "eng": "abuse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "새기다",
-    "eng": "carve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구술하는사람",
-    "eng": "dictator",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위탁의",
-    "eng": "foster",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변장하다",
-    "eng": "disguise",
+    "kor": "탈것",
+    "eng": "vehicle",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -216,27 +36,207 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "~의결과로여기다",
-    "eng": "attribute",
+    "kor": "브로셔",
+    "eng": "brochure",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지배하다",
-    "eng": "dominate",
+    "kor": "힘, 강요하다",
+    "eng": "force",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "둥지",
+    "eng": "nest",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "심리학자",
-    "eng": "psychologist",
+    "kor": "얻다",
+    "eng": "gain",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "교육 과정",
+    "eng": "curriculum",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "바느질하다",
+    "eng": "sew",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "남자의",
+    "eng": "masculine",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "눈살을 찌푸리다, 찡그린 얼굴",
+    "eng": "frown",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "놀라게 하다",
+    "eng": "astound",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "독재자",
+    "eng": "dictator",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "평가",
+    "eng": "assessment",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중대한, 결정적인",
+    "eng": "crucial",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "kor": "마비",
     "eng": "paralysis",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(배의) 갑판",
+    "eng": "deck",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "환호, 환호하다",
+    "eng": "cheer",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비참한",
+    "eng": "miserable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "괴롭히다",
+    "eng": "tease",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "공격적인",
+    "eng": "aggressive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "치료하다, 치료",
+    "eng": "cure",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~의 결과로 여기다, 속성",
+    "eng": "attribute",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "육성하다",
+    "eng": "foster",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "심리학자",
+    "eng": "phychologist",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "연기하다",
+    "eng": "postpone",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "강탈하다, 훔치다",
+    "eng": "rob",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "남용하다, 학대하다, 남용, 학대",
+    "eng": "abuse",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "실업의",
+    "eng": "unemployed",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고장, 쇠약",
+    "eng": "breakdown",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "숨기다, 변장",
+    "eng": "disguise",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "청사진",
+    "eng": "blueprint",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "뒤의, 뒤, 기르다",
+    "eng": "rear",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "생산량",
+    "eng": "output",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "설교",
+    "eng": "sermon",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "싹이 트다. 싹",
+    "eng": "sprout",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주석, 양철",
+    "eng": "tin",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
