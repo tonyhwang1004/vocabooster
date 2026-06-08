@@ -1,182 +1,422 @@
 [
   {
-    "kor": "감상하다",
+    "eng": "subscription",
+    "kor": "구독(료)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subscribe",
+    "kor": "구독[가입]하다; 서명하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subscriber",
+    "kor": "구독[가입]자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "respondent",
+    "kor": "응답자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "respond",
+    "kor": "응답하다; 반응하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "response",
+    "kor": "응답; 반응",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "automate",
+    "kor": "(일을) 자동화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "automation",
+    "kor": "자동화",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "automatic",
+    "kor": "자동의; 무의식적인, 반사적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "counteract",
+    "kor": "(악영향에) 대응하다, 상쇄하다; (효력 등을) 중화하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "remainder",
+    "kor": "나머지, 잔여; (뺄셈·나눗셈의) 나머지",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mitigation",
+    "kor": "완화, 경감",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mitigate",
+    "kor": "완화[경감]시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assortment",
+    "kor": "모음, 종합",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assorted",
+    "kor": "여러 가지의, 갖은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "customize",
+    "kor": "주문[맞춤] 제작하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "customization",
+    "kor": "(고객) 맞춤화",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "committee",
+    "kor": "위원회",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mechanism",
+    "kor": "(기계) 장치; 방식; (생물의) 구조, 기제",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mechanical",
+    "kor": "기계(상)의; 기계적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "advocate",
+    "kor": "지지하다, 옹호하다; 지지자, 옹호자; 변호사",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "advocacy",
+    "kor": "지지, 옹호",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "questionable",
+    "kor": "의심스러운, 미심쩍은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "implication",
+    "kor": "함축, 암시; 영향, 결과",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "implicate",
+    "kor": "연루시키다; 함축[암시]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impose",
+    "kor": "(세금·의무 등을) 부과하다; (의견 등을) 강요하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imposition",
+    "kor": "시행, 도입; 폐, 부담",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gigantic",
+    "kor": "거대한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pesticide",
+    "kor": "농약, 살충제",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pest",
+    "kor": "해충; 성가신 것[사람]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chronic",
+    "kor": "(병이) 만성적인; (문제 등이) 상습적인, 고질적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chronically",
+    "kor": "만성적으로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "oversee",
+    "kor": "(작업을) 감독하다, 관리하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "oversight",
+    "kor": "실수, 간과; 감독, 감시",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vessel",
+    "kor": "(대형) 선박, 배; 그릇, 용기; 혈관",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "appreciate",
+    "kor": "진가를 알다, 인식하다; 감상하다; 감사하다; (가치 등이) 오르다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appreciation",
+    "kor": "감상; 감사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appreciative",
+    "kor": "고마워하는; 감상을 즐기는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sprint",
+    "kor": "전력 질주하다; 단거리 경주; 전력 질주",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scent",
+    "kor": "냄새, 향기; 냄새로 찾아내다; (기운 등을) 감지하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scented",
+    "kor": "향기로운",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공예(품)",
-    "eng": "craft",
+    "eng": "instruction",
+    "kor": "설명(서); 지시, 명령; 가르침",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "instruct",
+    "kor": "지시하다; 가르치다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dismiss",
+    "kor": "묵살하다; 해고하다; 해산시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dismissal",
+    "kor": "해고; 묵살, 일축; 기각",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hatred",
+    "kor": "증오, 혐오",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conceive",
+    "kor": "생각해 내다; 상상하다; 임신하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conception",
+    "kor": "개념; 구상",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conceivable",
+    "kor": "상상[생각]할 수 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전시하다",
-    "eng": "exhibit",
+    "eng": "joint",
+    "kor": "관절; 연결 부위; 공동의, 합동의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "jointly",
+    "kor": "공동[합동]으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "문학",
-    "eng": "literature",
+    "eng": "commonsense",
+    "kor": "상식적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "번역",
-    "eng": "version",
-    "answer_count_kor": 1,
+    "eng": "spectacle",
+    "kor": "장관, 구경거리; 안경",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "판권",
-    "eng": "copyright",
-    "answer_count_kor": 1,
+    "eng": "spectacular",
+    "kor": "장관의, 극적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "어조; 음색",
-    "eng": "tone",
-    "answer_count_kor": 1,
+    "eng": "prioritize",
+    "kor": "우선순위를 매기다; 우선시하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고귀한",
-    "eng": "noble",
-    "answer_count_kor": 1,
+    "eng": "prior",
+    "kor": "이전의, 사전의; (~에) 우선하는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "지휘하다; 행동하다",
-    "eng": "conduct",
-    "answer_count_kor": 1,
+    "eng": "priority",
+    "kor": "우선 사항; 우선(권)",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조율하다",
-    "eng": "tune",
-    "answer_count_kor": 1,
+    "eng": "offspring",
+    "kor": "자식, 자손; (동물의) 새끼",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "감독",
-    "eng": "director",
-    "answer_count_kor": 1,
+    "eng": "paralyze",
+    "kor": "마비시키다; 무력하게 만들다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주제",
-    "eng": "theme",
-    "answer_count_kor": 1,
+    "eng": "paralysis",
+    "kor": "(신체의) 마비; (기능 등의) 마비",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "합창",
-    "eng": "chorus",
-    "answer_count_kor": 1,
+    "eng": "polish",
+    "kor": "닦다, 광내다; 다듬다; 광택(제); 세련",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "(연극·연주 등의) 막간",
-    "eng": "interval",
-    "answer_count_kor": 1,
+    "eng": "polished",
+    "kor": "윤[광]이 나는; 세련된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(연극·연설·음악의) 예행연습을 하다",
-    "eng": "rehearse",
-    "answer_count_kor": 1,
+    "eng": "imaginary",
+    "kor": "상상의, 가상의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "작곡하다",
-    "eng": "compose",
-    "answer_count_kor": 1,
+    "eng": "imagine",
+    "kor": "상상하다; 생각하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조각(술); 조각하다",
-    "eng": "sculpture",
-    "answer_count_kor": 1,
+    "eng": "stationary",
+    "kor": "움직이지 않는, 정지된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "걸작",
-    "eng": "masterpiece",
-    "answer_count_kor": 1,
+    "eng": "treaty",
+    "kor": "(국가 간의) 조약, 협정",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(예술품이) 일류의; 고전의; 일류 작가",
-    "eng": "classic",
-    "answer_count_kor": 1,
+    "eng": "take down",
+    "kor": "~을 내리다, 철거하다; ~을 받아 적다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "모방하다; 모조하다",
-    "eng": "imitate",
-    "answer_count_kor": 1,
+    "eng": "attend to",
+    "kor": "~을 돌보다, 보살피다; ~을 처리하다; ~에 주의를 기울이다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "전통",
-    "eng": "tradition",
-    "answer_count_kor": 1,
+    "eng": "hang on",
+    "kor": "꼭 붙잡다; 기다리다; 견디다, 버티다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "(감동하여) 외치다",
-    "eng": "exclaim",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "생물",
-    "eng": "creature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다른",
-    "eng": "distinct",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "문맥",
-    "eng": "context",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(극의) 독백",
-    "eng": "monologue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비극 (작품); 재난",
-    "eng": "tragedy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "줄을 서다",
-    "eng": "line up",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(다른 사람의 기대에) 부응하다",
-    "eng": "live up to",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 푹 빠져 있다",
-    "eng": "be into",
-    "answer_count_kor": 1,
+    "eng": "spill out",
+    "kor": "쏟아져 나오다; (감정 등이) 터져 나오다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
