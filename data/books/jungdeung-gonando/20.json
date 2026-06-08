@@ -1,181 +1,433 @@
 [
   {
-    "kor": "선거하다",
-    "eng": "elect",
+    "eng": "arise",
+    "kor": "발생하다, 생기다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impersonal",
+    "kor": "인간미 없는, 비인격적인; 비개인적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impersonally",
+    "kor": "인간미 없게, 냉담하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "certificate",
+    "kor": "자격증, 증명서",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "certify",
+    "kor": "증명하다; 자격증을 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "certification",
+    "kor": "증명",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "선언하다",
-    "eng": "declare",
+    "eng": "incompatible",
+    "kor": "양립[공존]할 수 없는; 호환되지 않는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resume",
+    "kor": "재개하다; 다시 자리를 잡다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "artificial",
+    "kor": "인공의, 인조의; 거짓된, 꾸민",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "artificially",
+    "kor": "인공적으로, 인위적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infancy",
+    "kor": "유아기; 초창기",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infant",
+    "kor": "유아; 유아의; 초창기의, 초기의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recollection",
+    "kor": "기억, 회상; 기억력",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recollect",
+    "kor": "기억해 내다, 회상하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "estimate",
+    "kor": "(가치 등을) 평가하다, 추정하다; 추정(치); 견적서",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "estimated",
+    "kor": "견적의, 추측의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "estimation",
+    "kor": "판단, 평가; 평가치",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intimidate",
+    "kor": "위협하다, 겁주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intimidation",
+    "kor": "협박, 위협",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intimidating",
+    "kor": "위협적인, 겁을 주는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strip",
+    "kor": "옷을 벗다[벗기다]; (껍질 등을) 벗기다; (자격 등을) 박탈하다; 가느다란 조각",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vigorous",
+    "kor": "(논쟁·활동 등이) 활발한, 격렬한; 원기 왕성한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vigor",
+    "kor": "힘, 활기",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vigorously",
+    "kor": "힘차게, 활발하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shrink",
+    "kor": "줄어들다[줄어들게 하다]; 움츠러들다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shrinkage",
+    "kor": "감소, 수축; 감소량",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "liable",
+    "kor": "(법적) 책임이 있는; ~하기 쉬운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "liability",
+    "kor": "법적 책임; 부채; 골칫거리",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "executive",
+    "kor": "(기업의) 경영진, 간부; 행정부; 경영의; 행정의",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eventually",
+    "kor": "결국, 마침내",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eventual",
+    "kor": "최종[궁극]적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "민주주의",
-    "eng": "democracy",
+    "eng": "contradict",
+    "kor": "반박[부정]하다; 모순되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contradiction",
+    "kor": "모순; 반박, 부정",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contradictory",
+    "kor": "모순되는, 상반되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gratitude",
+    "kor": "고마움, 감사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grateful",
+    "kor": "감사하는, 고맙게 여기는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suspend",
+    "kor": "(일시) 중단[유예]하다; 매달다, 걸다; 정직[정학]시키다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suspension",
+    "kor": "보류, 중단; 정직, 정학",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suspense",
+    "kor": "긴장감",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공무원",
-    "eng": "official",
+    "eng": "domain",
+    "kor": "영역, 분야; 소유지, 영토; 도메인",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hygiene",
+    "kor": "위생; 위생학",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hygienic",
+    "kor": "위생적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(선거의) 후보자[출마자]; 지원자",
-    "eng": "candidate",
+    "eng": "inhibit",
+    "kor": "억제하다, 저해하다; 못하게 하다, 금하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inhibition",
+    "kor": "억제, 방해",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dispose",
+    "kor": "처리[처분]하다; 배치하다; ~의 경향을 갖게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disposal",
+    "kor": "처리, 처분",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disposable",
+    "kor": "일회용의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "반대하다",
-    "eng": "oppose",
+    "eng": "linkage",
+    "kor": "연결, 관련(성)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "link",
+    "kor": "연결하다; 관련짓다; 관련(성); 관계, 유대",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consent",
+    "kor": "동의, 허락; 동의하다, 허락하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consensus",
+    "kor": "의견 일치, 합의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rage",
+    "kor": "분노, 격노; 격노하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indispensable",
+    "kor": "필수적인, 없어서는 안 되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stroke",
+    "kor": "타격; 뇌졸중; 수영법; 쓰다듬기; (글씨·그림의) 획; 쓰다듬다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assign",
+    "kor": "맡기다, 배정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assignment",
+    "kor": "과제, 임무; 배정, 배치",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "myriad",
+    "kor": "무수함; 무수한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "genuine",
+    "kor": "진짜의, 진품의; 진실된, 진심 어린",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "genuinely",
+    "kor": "진정으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "즉각적인; 직접적인",
-    "eng": "immediate",
+    "eng": "rhetoric",
+    "kor": "미사여구; 수사법, 수사학",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rhetorical",
+    "kor": "수사적인; 미사여구의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conscience",
+    "kor": "양심; (양심의) 가책",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conscientious",
+    "kor": "양심적인, 성실한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conscious",
+    "kor": "의식하는; 의식이 있는; 의도적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consciousness",
+    "kor": "의식, 자각",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consciously",
+    "kor": "의식적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고집하다",
-    "eng": "insist",
+    "eng": "microbe",
+    "kor": "미생물",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "연합",
-    "eng": "union",
-    "answer_count_kor": 1,
+    "eng": "in light of",
+    "kor": "~에 비추어 볼 때, ~을 고려하여",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "무관심한",
-    "eng": "indifferent",
-    "answer_count_kor": 1,
+    "eng": "live up to",
+    "kor": "(기대·명성 등에) 부응하다, 부합하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "선거 운동",
-    "eng": "campaign",
-    "answer_count_kor": 1,
+    "eng": "let on",
+    "kor": "(비밀 등을) 털어놓다, 발설하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "정당; 파티",
-    "eng": "party",
-    "answer_count_kor": 1,
+    "eng": "show off",
+    "kor": "~을 과시하다, 자랑하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "논쟁; 논쟁하다",
-    "eng": "dispute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연기하다",
-    "eng": "postpone",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(설득하여) 납득시키다.; 확신시키다",
-    "eng": "convince",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "설득하다",
-    "eng": "persuade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추측하다",
-    "eng": "assume",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "찬성하다",
-    "eng": "approve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(국회의) 회기",
-    "eng": "session",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "업적; 행위",
-    "eng": "deed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평판; 명성",
-    "eng": "reputation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보수적인",
-    "eng": "conservative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(군대 등을) 지휘하다; 명령하다; 지휘권; 명령; (언어) 구사 능력",
-    "eng": "command",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적대적인",
-    "eng": "hostile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "권위",
-    "eng": "authority",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(정치) 내각; 장식장",
-    "eng": "cabinet",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연방의",
-    "eng": "federal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통일하다",
-    "eng": "unify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 입후보하다",
-    "eng": "run for",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 대변하다",
-    "eng": "speak for",
+    "eng": "pull over",
+    "kor": "차를 길가에 대다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
