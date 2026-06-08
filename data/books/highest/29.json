@@ -1,182 +1,182 @@
 [
   {
-    "kor": "제한하다",
-    "eng": "restrict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(건물의) 정면전면",
-    "eng": "facade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "받아쓰게 하다",
-    "eng": "dictate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연금",
-    "eng": "pension",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(동물을) 길들이다",
-    "eng": "domesticate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "끼워 넣다",
-    "eng": "insert",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(문서를) 위조하다",
-    "eng": "falsify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "엄격하게",
-    "eng": "sternly",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의회",
-    "eng": "assembly",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "증발하다",
-    "eng": "evaporate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조정조절하다",
-    "eng": "adjust",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(공중) 위생의",
-    "eng": "sanitary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "하수",
-    "eng": "sewage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부분",
-    "eng": "fraction",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "물러나다",
-    "eng": "withdraw",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청원탄원(서)",
-    "eng": "petition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(토끼 등의) 굴",
-    "eng": "burrow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "재산",
-    "eng": "property",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제거하다",
     "eng": "eliminate",
+    "kor": "제거하다, 없애다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adjust",
+    "kor": "조정하다; 적응하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "길을 찾다",
-    "eng": "navigate",
+    "eng": "pension",
+    "kor": "연금, 보조금",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "burrow",
+    "kor": "굴; 굴을 파다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "알을 품음",
-    "eng": "incubation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자격권한을 주다",
-    "eng": "qualify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "혜성",
-    "eng": "comet",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "퓨즈",
-    "eng": "fuse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "잘못 두다",
-    "eng": "misplace",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "강수",
     "eng": "precipitation",
-    "answer_count_kor": 1,
+    "kor": "강수, 강수량",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "뚫다",
-    "eng": "pierce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의무필수적인",
     "eng": "mandatory",
+    "kor": "의무적인, 명령의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "comet",
+    "kor": "혜성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 설명하다",
-    "eng": "account for",
+    "eng": "withdraw",
+    "kor": "물러나다, 철수하다; 철회하다, 취소하다; 인출하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "misplace",
+    "kor": "잘못 두다, 둔 곳을 잊다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "petition",
+    "kor": "청원; 청원하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 쫓아서",
+    "eng": "assembly",
+    "kor": "의회, 입법 기관; 모임, 집회; 조립",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "falsify",
+    "kor": "위조하다, 조작하다; 거짓임을 입증하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "restrict",
+    "kor": "제한하다, 통제하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fraction",
+    "kor": "부분, 일부; <수학> 분수, 비",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evaporate",
+    "kor": "증발하다; 사라지다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "in pursuit of",
+    "kor": "~을 쫓아서, ~을 추구하여",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "domesticate",
+    "kor": "길들이다, 사육하다; 재배하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incubation",
+    "kor": "알을 품음, 부화 ; 배양; 잠복",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "qualify",
+    "kor": "자격을 주다; 자격을 얻다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "facade",
+    "kor": "정면; 표면, 외관",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fuse",
+    "kor": "퓨즈; 도화선, 기폭장치; 융합되 다; 녹다, 녹이다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "navigate",
+    "kor": "길을 찾다, 방향을 읽다; 항해하 다; 돌아다니다, 탐색하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dictate",
+    "kor": "받아쓰게 하다; 명령하다; 좌우 하다, 영향을 주다; 명령, 규칙",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "account for",
+    "kor": "~을 설명하다, ~의 이유가 되 다; ~을 차지하다, ~에 달하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sanitary",
+    "kor": "위생의; 위생적인, 청결한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pierce",
+    "kor": "뚫다, 관통하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sternly",
+    "kor": "엄격하게, 준엄하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "property",
+    "kor": "재산, 소유물; 부동산; 속성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sewage",
+    "kor": "하수, 오물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insert",
+    "kor": "끼워 넣다, 삽입하다; 삽입물",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
