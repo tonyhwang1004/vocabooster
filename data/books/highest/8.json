@@ -1,182 +1,182 @@
 [
   {
-    "kor": "최선의",
-    "eng": "optimal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "단골로 삼다",
-    "eng": "patronize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위생",
-    "eng": "hygiene",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적자",
-    "eng": "deficit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명료함",
-    "eng": "clarity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(원의) 지름",
-    "eng": "diameter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(짐승 등이) 포효하다",
-    "eng": "roar",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무생물의",
-    "eng": "inanimate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방사성방사능이 있는",
-    "eng": "radioactive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지루한",
-    "eng": "tedious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "휘젓기",
     "eng": "stir",
-    "answer_count_kor": 1,
+    "kor": "휘젓기; 동요, 충격; 휘젓다, 뒤섞다; 움직이다; 자극하다, 일으키다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "관점",
-    "eng": "perspective",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(판단",
-    "eng": "criterion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "튼튼한",
-    "eng": "sturdy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "종양",
-    "eng": "tumor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "칭찬",
-    "eng": "compliment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "널리 퍼진",
-    "eng": "diffuse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "침식풍화시키다",
-    "eng": "erode",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "노력하다",
-    "eng": "strive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중립적인",
-    "eng": "neutral",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동시에 발생하다움직이다",
-    "eng": "synchronize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "천문학(상)의",
-    "eng": "astronomical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경멸",
-    "eng": "disdain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자만심",
-    "eng": "conceit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고고학",
-    "eng": "archaeology",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기술서술적인",
-    "eng": "descriptive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무정부 상태",
-    "eng": "anarchy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "직감적인",
     "eng": "intuitive",
-    "answer_count_kor": 1,
+    "kor": "직감적인, 직관적인; 이해하기 쉬운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~의 권리자격가 있다",
-    "eng": "be entitled to",
-    "answer_count_kor": 1,
+    "eng": "optimal",
+    "kor": "최선의, 최상의, 최적의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 희생하여",
+    "eng": "astronomical",
+    "kor": "천문학의; 천문학적인, 방대한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "at the expense of",
+    "kor": "~을 희생하여; ~의 비용으로",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disdain",
+    "kor": "경멸, 업신여김; 경멸하다, 업신여기다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "roar",
+    "kor": "포효하다, 고함치다, 굉음을 내다; 포효, 고함, 굉음",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hygiene",
+    "kor": "위생, 청결",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "erode",
+    "kor": "침식시키다, 침식되다; 약화되다, 약화시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diffuse",
+    "kor": "널리 퍼진, 분산된; 산만한, 장황한; 분산시키다, 분산되다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tumor",
+    "kor": "종양",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "anarchy",
+    "kor": "무정부 상태, 무질서, 혼란",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perspective",
+    "kor": "관점, 시각; 원근법; 전망",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "archaeology",
+    "kor": "고고학",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "descriptive",
+    "kor": "기술적인, 묘사하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "neutral",
+    "kor": "중립적인; 중간의, 이도저도 아 닌; 중성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "criterion",
+    "kor": "기준, 표준, 규범, 척도",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clarity",
+    "kor": "명료함, 명확성; 투명함, 투명도",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deficit",
+    "kor": "적자, 부족; 결함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sturdy",
+    "kor": "튼튼한, 견고한; 확고한, 단호한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tedious",
+    "kor": "지루한, 따분한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inanimate",
+    "kor": "무생물의, 생명이 없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "radioactive",
+    "kor": "방사성이 있는, 방사성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "synchronize",
+    "kor": "동시에 발생하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conceit",
+    "kor": "자만심",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "be entitled to",
+    "kor": "~의 권리가 있다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compliment",
+    "kor": "칭찬, 찬사; 칭찬하다, 경의를 표하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strive",
+    "kor": "노력하다, 분투하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diameter",
+    "kor": "지름, 직경; ~배",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "patronize",
+    "kor": "단골로 삼다, 애용하다; 후원하 다; 아랫사람 대하듯 하다, 생색 내다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
