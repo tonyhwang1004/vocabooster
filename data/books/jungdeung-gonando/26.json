@@ -1,181 +1,421 @@
 [
   {
-    "kor": "이전의",
-    "eng": "previous",
+    "eng": "fatal",
+    "kor": "치명적인; 결정적인, 중대한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fatality",
+    "kor": "사망자 (수); 치사율; 숙명",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fatally",
+    "kor": "치명적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이전의",
-    "eng": "prior",
-    "answer_count_kor": 1,
+    "eng": "definite",
+    "kor": "명확한, 확고한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "10년간",
-    "eng": "decade",
-    "answer_count_kor": 1,
+    "eng": "definitely",
+    "kor": "분명히, 확실히",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전기",
-    "eng": "biography",
-    "answer_count_kor": 1,
+    "eng": "definitive",
+    "kor": "확정적인, 최종적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "바치다",
-    "eng": "devote",
-    "answer_count_kor": 1,
+    "eng": "abide",
+    "kor": "(규칙 등을) 준수하다; 참다, 견디다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "신념",
-    "eng": "faith",
-    "answer_count_kor": 1,
+    "eng": "intense",
+    "kor": "극심한, 강렬한; 치열한; 열정적인",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "소수",
-    "eng": "minority",
-    "answer_count_kor": 1,
+    "eng": "intensive",
+    "kor": "집중적인; 철저한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "미라",
-    "eng": "mummy",
-    "answer_count_kor": 1,
+    "eng": "intensely",
+    "kor": "강렬하게; 열정적으로",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "유해",
-    "eng": "remains",
-    "answer_count_kor": 1,
+    "eng": "abnormal",
+    "kor": "비정상적인, 이상한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "제거하다; 자유롭게 하다",
-    "eng": "rid",
-    "answer_count_kor": 1,
+    "eng": "abnormally",
+    "kor": "비정상적으로, 이상하게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "기원",
-    "eng": "origin",
-    "answer_count_kor": 1,
+    "eng": "abnormality",
+    "kor": "기형, 이상",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "문명",
-    "eng": "civilization",
-    "answer_count_kor": 1,
+    "eng": "outlaw",
+    "kor": "불법화하다, 금지하다; 무법자, 도망자",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "혁명",
-    "eng": "revolution",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "왕의",
-    "eng": "royal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유산",
     "eng": "heritage",
+    "kor": "(문화)유산, 전통",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bilingual",
+    "kor": "두 개 언어를 할 줄 아는; 두 개 언어의; 두 개 언어를 하는 사람",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "internal",
+    "kor": "내부의, 내적인; 체내의; 국내의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "internally",
+    "kor": "내부로, 내적으로; 국내에서",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decay",
+    "kor": "부패, 부식; 쇠퇴; 부패하다, 썩다; 쇠퇴하다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "piecemeal",
+    "kor": "단편적인, 조금씩 하는; 조금씩, 점차로",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discriminate",
+    "kor": "차별하다; 식별[구별]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discrimination",
+    "kor": "차별; 식별(력)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discriminatory",
+    "kor": "차별적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "선교사",
-    "eng": "missionary",
+    "eng": "expertise",
+    "kor": "전문 지식[기술]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "설교",
-    "eng": "sermon",
+    "eng": "expert",
+    "kor": "전문가; 전문가의, 숙련된",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "convict",
+    "kor": "유죄를 선고하다; 죄수, 수감자",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conviction",
+    "kor": "유죄 선고[판결]; 확신, 신념",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fierce",
+    "kor": "사나운, 험악한; 격렬한, 맹렬한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fiercely",
+    "kor": "맹렬[격렬]하게; 사납게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bombard",
+    "kor": "포격[폭격]하다; (질문·비난 등을) 퍼붓다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bombardment",
+    "kor": "포격, 폭격",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tissue",
+    "kor": "조직; 화장지, 얇은 종이",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "norm",
+    "kor": "표준, 일반적인 것; 규범",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "normal",
+    "kor": "보통의, 정상의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "normally",
+    "kor": "보통, 정상적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "normalize",
+    "kor": "정상화되다[하다]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "정착하다; 해결하다",
-    "eng": "settle",
+    "eng": "import",
+    "kor": "수입하다; 수입, 수입품; 중요성",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "asymmetry",
+    "kor": "비대칭; 불균형",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "asymmetric(al)",
+    "kor": "비대칭의; 불균형한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blast",
+    "kor": "폭발; 강한 바람, 돌풍; 폭파하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interfere",
+    "kor": "간섭[참견]하다; 방해하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interference",
+    "kor": "간섭, 방해",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sovereign",
+    "kor": "주권을 가진, 자주적인; 최고 권력의; 군주, 국왕",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sovereignty",
+    "kor": "통치권, 자주권",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unify",
+    "kor": "통합[통일]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대신하다",
-    "eng": "replace",
-    "answer_count_kor": 1,
+    "eng": "unification",
+    "kor": "통일, 통합",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "의미하다",
-    "eng": "signify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보존하다",
-    "eng": "conserve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평가하다",
     "eng": "evaluate",
+    "kor": "평가하다, 판단하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evaluation",
+    "kor": "평가, 감정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enforce",
+    "kor": "(법률 등을) 시행[집행]하다; 강요하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enforcement",
+    "kor": "(법률의) 시행, 집행; 강제",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flaw",
+    "kor": "결점, 결함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flawed",
+    "kor": "흠[결함]이 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "계통을 잇다",
-    "eng": "descend",
+    "eng": "flawless",
+    "kor": "흠이 없는, 완벽한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "astray",
+    "kor": "길을 잃고, 탈선하여",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "explode",
+    "kor": "폭발[폭파]하다; (감정을) 터뜨리다; 급격히 증가하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "explosion",
+    "kor": "폭발; (감정의) 폭발; 폭발적 증가",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "explosive",
+    "kor": "폭발성의, 폭발적인; 폭발물, 폭약",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "affluent",
+    "kor": "부유한, 풍족한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "affluence",
+    "kor": "풍요, 부유함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "parallel",
+    "kor": "평행한; 유사한; 유사한[상응하는] 것; 평행선; (~와) 유사하다; (~와) 평행하다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unparalleled",
+    "kor": "비할 데 없는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사라지다",
-    "eng": "disappear",
+    "eng": "choke",
+    "kor": "숨이 막히다, 질식시키다; (감정 등으로) 목이 메다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "premium",
+    "kor": "보험료; 할증료; 고급의, 아주 높은",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "memorable",
+    "kor": "기억할 만한, 인상적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "memorial",
+    "kor": "기념비, 기념물; 기념의; 추모의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pollen",
+    "kor": "꽃가루",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "순서",
-    "eng": "sequence",
-    "answer_count_kor": 1,
+    "eng": "put up with",
+    "kor": "~을 참다, 참고 견디다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "점차적인",
-    "eng": "gradual",
-    "answer_count_kor": 1,
+    "eng": "back off",
+    "kor": "뒤로 물러나다; (간섭하지 않고) 물러서다, 그만두다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "신성한",
-    "eng": "sacred",
-    "answer_count_kor": 1,
+    "eng": "take over",
+    "kor": "~을 넘겨받다, 인수하다; (정권 등을) 장악하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(화재·전쟁 등이) 발생하다",
-    "eng": "break out",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에서 유래하다",
-    "eng": "derive from",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 전하다",
-    "eng": "hand down",
+    "eng": "convince A of B",
+    "kor": "A에게 B를 납득시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
