@@ -1,391 +1,433 @@
 [
   {
-    "kor": "(시골의) 작은 집",
-    "eng": "cottage",
+    "eng": "elusive",
+    "kor": "이해[규정]하기 어려운; 잡히지 않는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reinforce",
+    "kor": "강화하다, 보강하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reinforcement",
+    "kor": "강화, 보강",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eternal",
+    "kor": "영원한, 끝없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eternity",
+    "kor": "영원, 영구",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eternally",
+    "kor": "영원히",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "값을 매길 수 없는",
-    "eng": "priceless",
+    "eng": "encompass",
+    "kor": "포함하다, 아우르다; 둘러싸다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prevail",
+    "kor": "이기다, 승리하다; 만연[팽배]하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prevalence",
+    "kor": "널리 퍼짐, 유행",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prevalent",
+    "kor": "널리 퍼진, 유행하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prevailing",
+    "kor": "우세한, 지배적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exemplary",
+    "kor": "모범적인, 본이 되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exemplar",
+    "kor": "모범, 전형",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "parliament",
+    "kor": "의회, 국회",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "parliamentary",
+    "kor": "의회의; 의회에서 제정한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "restrain",
+    "kor": "저지[제지]하다; 억누르다, 참다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "restraint",
+    "kor": "억제, 자제; 제한, 규제",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exemplify",
+    "kor": "전형적인 예를 보여 주다; 예를 들다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tendency",
+    "kor": "경향, 추세; 성향",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intent",
+    "kor": "강한 관심을 보이는, 몰두하는; 작정한; 의도, 목적",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intention",
+    "kor": "의도, 목적",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intentional",
+    "kor": "의도적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "값을 매길 수 없는",
-    "eng": "valuable",
+    "eng": "lament",
+    "kor": "한탄하다; 애도하다; 애가; 한탄",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alien",
+    "kor": "외국(인)의; 생경한; 외계의; 외국인; 외계인",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alienate",
+    "kor": "소원하게[멀어지게] 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "쓸모없는",
-    "eng": "worthless",
+    "eng": "sacred",
+    "kor": "성스러운, 신성한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "feat",
+    "kor": "위업, 공적; (뛰어난) 솜씨, 재주",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mount",
+    "kor": "오르다, 올라타다; 증가하다; 시작[착수]하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "via",
+    "kor": "~을 경유하여[거쳐]; ~을 통하여",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dismal",
+    "kor": "음울한, 우울한; 형편없는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "worship",
+    "kor": "예배하다, 숭배하다; 예배, 숭배",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reputation",
+    "kor": "평판, 명성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reputable",
+    "kor": "평판이 좋은",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(수도 등의) 꼭지",
-    "eng": "tap",
+    "eng": "eligible",
+    "kor": "자격이 있는, 적격[적임]의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eligibility",
+    "kor": "적격, 적임",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obligation",
+    "kor": "의무, 책임",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "oblige",
+    "kor": "(~할) 의무를 지우다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수도꼭지를 틀다[잠그다]",
-    "eng": "turn on[off] the tap faucet",
+    "eng": "obligatory",
+    "kor": "의무적인, 필수의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "timber",
+    "kor": "목재, 재목",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "forge",
+    "kor": "(관계 등을) 구축하다; 위조하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "forgery",
+    "kor": "위조(죄); 위조물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "forger",
+    "kor": "위조범",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경보기; 자명종; 놀람",
-    "eng": "alarm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "도난경보기",
-    "eng": "burglar alarm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "어질러진 것",
-    "eng": "mess",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "어질러진 것",
-    "eng": "litter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "단정함",
-    "eng": "neatness",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "어질러진",
-    "eng": "messy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평소의",
-    "eng": "usual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평소의",
-    "eng": "habitual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평소에는",
-    "eng": "usually",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "여느 때보다 많이",
-    "eng": "more than usual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "판에 박힌 일",
-    "eng": "routine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "믿다",
-    "eng": "rely",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "믿다",
-    "eng": "depend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의지",
-    "eng": "reliance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "먼지를 털다; 먼지",
-    "eng": "dust",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "먼지",
-    "eng": "dirt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "먼지투성이의",
-    "eng": "dusty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "펴다",
-    "eng": "spread",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세척하다",
-    "eng": "cleanse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세척하다",
-    "eng": "wash",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "깨끗한",
-    "eng": "clean",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(그릇·화장실 등을 닦는) 세제",
-    "eng": "cleanser",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "닦다",
-    "eng": "wipe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "닦다",
-    "eng": "rub",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(대걸레로) 닦다; 대걸레",
-    "eng": "mop",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "서랍; (항상 복수형) 장롱",
-    "eng": "drawer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(보통 복수형) 계단",
-    "eng": "stair",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(보통 복수형) 계단",
-    "eng": "step",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "쓰레기",
-    "eng": "rubbish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "쓰레기",
-    "eng": "garbage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "쓰레기",
-    "eng": "trash",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "처리하다",
-    "eng": "dispose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "처리하다",
-    "eng": "throw away",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "처분할 수 있는",
-    "eng": "disposable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 처분하다",
-    "eng": "dispose of",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(불필요한 것을) 버리다",
-    "eng": "discard",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보유하다",
-    "eng": "retain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(가정용) 기구",
-    "eng": "appliance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 기구를 설치하다; 적용하다",
-    "eng": "apply",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가전제품",
-    "eng": "household[home] appliance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "넓은",
-    "eng": "spacious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "넓은",
-    "eng": "roomy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공간",
-    "eng": "space",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(집안의) 자질구레한 일",
-    "eng": "chore",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "닦다",
-    "eng": "polish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(물·액체 등으로) 씻어 내리다; (얼굴을) 붉히다",
-    "eng": "flush",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(물·액체 등으로) 씻어 내리다",
-    "eng": "wash out",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(얼굴을) 붉히다",
-    "eng": "blush",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "낮잠",
-    "eng": "nap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "선잠을 자다",
-    "eng": "doze",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "낮잠을 자다",
-    "eng": "take[have] a nap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "코드 구멍",
-    "eng": "outlet",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "코드 구멍",
-    "eng": "socket",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다듬다",
-    "eng": "trim",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "깨지다",
     "eng": "crack",
+    "kor": "깨다[깨지다], 금이 가다; 해결하다, 풀다; (갈라진) 틈, 금",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cracked",
+    "kor": "금이 간, 갈라진; (목이) 쉰",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evaporate",
+    "kor": "증발하다[시키다]; (감정·희망 등이) 사라지다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evaporation",
+    "kor": "증발 (작용); (희망 등의) 소멸",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "undertake",
+    "kor": "(책임 등을) 떠맡다, 착수하다; 약속하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "undertaking",
+    "kor": "(중요한) 일; 약속, 동의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rational",
+    "kor": "이성적인, 합리적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rationality",
+    "kor": "합리성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "새어나옴",
-    "eng": "leak",
+    "eng": "rationalize",
+    "kor": "합리화하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 다 써 버리다",
-    "eng": "run out of",
+    "eng": "rationally",
+    "kor": "이성적으로, 합리적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "medieval",
+    "kor": "중세의, 중세풍의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fragile",
+    "kor": "부서지기[깨지기] 쉬운; 취약한, 허약한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fragility",
+    "kor": "부서지기 쉬움, 허약",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "provoke",
+    "kor": "(반응 등을) 유발하다; 화나게 하다, 도발하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "provocation",
+    "kor": "도발, 자극",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "optimistic",
+    "kor": "낙관[낙천]적인, 낙관주의의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "optimism",
+    "kor": "낙관[낙천]주의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 다 써 버리다",
-    "eng": "use up",
+    "eng": "optimist",
+    "kor": "낙천주의자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 걸다[매달다]; 전화를 끊다",
-    "eng": "hang up",
+    "eng": "pessimistic",
+    "kor": "비관적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pessimism",
+    "kor": "비관주의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pessimist",
+    "kor": "비관주의자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hospitality",
+    "kor": "환대, 후한 대접",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hospitable",
+    "kor": "환대하는; 쾌적한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hostility",
+    "kor": "적대감, 적개심",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hostile",
+    "kor": "적대적인; 적(군)의; (환경이) 부적합한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "antibiotic",
+    "kor": "항생제, 항생 물질",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "come through",
+    "kor": "살아남다, 극복하다; (약속대로) 해내다; (정보 등이) 들어오다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "step up",
+    "kor": "~을 강화하다, 올리다; (책임 등을) 맡다, 나서다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cut off",
+    "kor": "~을 잘라 내다; (공급 등을) 끊다; 고립시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "come down with",
+    "kor": "(병에) 걸리다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
