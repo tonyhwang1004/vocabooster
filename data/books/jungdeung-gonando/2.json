@@ -1,182 +1,470 @@
 [
   {
-    "kor": "모양",
-    "eng": "shape",
+    "eng": "innate",
+    "kor": "타고난, 선천적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "innately",
+    "kor": "선천적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "출현",
-    "eng": "appearance",
+    "eng": "advance",
+    "kor": "진보, 발전; 전진; 진보[발전]하다; 전진하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "advanced",
+    "kor": "진보한; 고급의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "advancement",
+    "kor": "발전, 진보; 승진",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "limb",
+    "kor": "팔다리, 사지; 나뭇가지",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "breed",
+    "kor": "번식하다; 사육하다, 재배하다; 초래하다; 품종",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "breeding",
+    "kor": "번식; 사육",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "foundation",
+    "kor": "토대, 기반; 설립; 재단",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "found",
+    "kor": "설립하다; ~에 기반을 두다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pervade",
+    "kor": "만연하다, 스며들다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pervasive",
+    "kor": "만연하는, 스며드는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regard",
+    "kor": "여기다; 고려, 관심; 존경; 안부 인사",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regarding",
+    "kor": "~에 관하여",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성격",
-    "eng": "personality",
+    "eng": "pressure",
+    "kor": "압력, 압박(감); 기압; 압력을 가하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "press",
+    "kor": "누르다; 압박을 가하다; 언론, 신문",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rehearse",
+    "kor": "리허설하다, 예행연습하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rehearsal",
+    "kor": "리허설, 예행연습",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nutrition",
+    "kor": "영양 (섭취); 영양학",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nutrient",
+    "kor": "영양소, 영양분",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nutritional",
+    "kor": "영양(상)의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성별",
-    "eng": "gender",
+    "eng": "nutritious",
+    "kor": "영양분이 풍부한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인상; 감동",
-    "eng": "impression",
+    "eng": "cluster",
+    "kor": "무리, 송이; 무리를 이루다, 모이다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "statement",
+    "kor": "진술(서), 성명(서); 명세서",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "state",
+    "kor": "상태; 국가, 주; 말하다, 진술하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "efficacy",
+    "kor": "(약이나 치료의) 효험, 효능",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "continuous",
+    "kor": "끊임없는, 계속되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "continuously",
+    "kor": "계속해서, 끊임없이",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "facility",
+    "kor": "시설, 설비; 기능; 재능",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blur",
+    "kor": "흐릿해지다, 흐릿하게 하다; 흐릿한 것",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blurry",
+    "kor": "흐릿한, 모호한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "convince",
+    "kor": "납득[확신]시키다; 설득하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "convinced",
+    "kor": "확신하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전형적인",
-    "eng": "typical",
+    "eng": "convincing",
+    "kor": "설득력 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유능한; ~할 능력이 있는",
-    "eng": "capable",
+    "eng": "command",
+    "kor": "명령하다; (존경 등을) 받다; (경치 등을) 내려다보다; 명령; 통솔, 지휘(권)",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commander",
+    "kor": "사령관, 지휘관",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defect",
+    "kor": "결함, 결점",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defective",
+    "kor": "결함이 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "매력적인; 사람을 끄는",
-    "eng": "attractive",
+    "eng": "evidence",
+    "kor": "증거, 근거; 증언",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evident",
+    "kor": "명백한, 분명한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evidently",
+    "kor": "분명히; 듣기로는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "particular",
+    "kor": "특정한; 특별한; 까다로운",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "particularly",
+    "kor": "특히, 특별히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "implicit",
+    "kor": "암묵적인, 내포된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "implicitly",
+    "kor": "은연중에",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "적극적인",
-    "eng": "active",
+    "eng": "efficient",
+    "kor": "효율적인, 능률적인; 유능한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "efficiency",
+    "kor": "효율(성), 능률",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "efficiently",
+    "kor": "효율적으로, 능률적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commit",
+    "kor": "(범죄 등을) 저지르다; 약속하다; 전념[헌신]하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commitment",
+    "kor": "약속; 전념, 헌신",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attentive",
+    "kor": "주의를 기울이는; 배려하는, 신경을 쓰는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attentively",
+    "kor": "조심스럽게, 신경 써서",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intensify",
+    "kor": "심해지다, 심화시키다, 강화하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intense",
+    "kor": "극심한; 치열한; 열정적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intensity",
+    "kor": "강렬함; 강도",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "navigate",
+    "kor": "길을 찾다; 항해하다, 비행하다; (힘든 일을) 처리하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "navigation",
+    "kor": "항해(술), 비행(술)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "navigator",
+    "kor": "항해사, 조종사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stock",
+    "kor": "재고(품), 비축(물); 주식; 가축; (상품의 재고를) 갖추다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stockholder",
+    "kor": "주주",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소극적인",
-    "eng": "passive",
+    "eng": "caterpillar",
+    "kor": "애벌레",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "근면 성실한",
-    "eng": "diligent",
+    "eng": "consequence",
+    "kor": "결과; 중요성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consequent",
+    "kor": "결과의, 결과로 일어나는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consequently",
+    "kor": "그 결과, 따라서",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contaminate",
+    "kor": "오염시키다; 악영향을 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contamination",
+    "kor": "오염",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대담한",
-    "eng": "bold",
+    "eng": "contaminant",
+    "kor": "오염 물질",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "자신만만한; 확신하는",
-    "eng": "confident",
-    "answer_count_kor": 1,
+    "eng": "collective",
+    "kor": "집단의, 공동의; 집단, 공동체",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "성급한",
-    "eng": "impatient",
-    "answer_count_kor": 1,
+    "eng": "collectively",
+    "kor": "집단으로, 총체적으로",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "야망이 있는",
-    "eng": "ambitious",
-    "answer_count_kor": 1,
+    "eng": "citizenship",
+    "kor": "시민권; 시민의 신분, 시민정신",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "훌륭한",
-    "eng": "brilliant",
-    "answer_count_kor": 1,
+    "eng": "citizen",
+    "kor": "시민; 국민",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "우아한",
-    "eng": "elegant",
-    "answer_count_kor": 1,
+    "eng": "assent",
+    "kor": "동의, 찬성; 동의하다, 찬성하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "겸손한; 초라한",
-    "eng": "humble",
-    "answer_count_kor": 1,
+    "eng": "surrender",
+    "kor": "항복[굴복]하다; (권리 등을) 넘겨주다; 항복, 굴복; 양도",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "오만한",
-    "eng": "arrogant",
-    "answer_count_kor": 1,
+    "eng": "celestial",
+    "kor": "하늘의, 천체의, 천상의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "공격적인; 매우 적극적인",
-    "eng": "aggressive",
-    "answer_count_kor": 1,
+    "eng": "tiresome",
+    "kor": "성가신, 귀찮은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "사나운",
-    "eng": "fierce",
-    "answer_count_kor": 1,
+    "eng": "bring about",
+    "kor": "~을 유발하다, 초래하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "친절",
-    "eng": "kindness",
-    "answer_count_kor": 1,
+    "eng": "set forth",
+    "kor": "~을 설명[제시]하다; (여행을) 떠나다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "타원형의",
-    "eng": "oval",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이상한",
-    "eng": "odd",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이마",
-    "eng": "forehead",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무지한",
-    "eng": "ignorant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주름; 주름지게 하다",
-    "eng": "wrinkle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "욕심",
-    "eng": "greed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 닮다",
-    "eng": "take after",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "눈에 띄다",
-    "eng": "stand out",
-    "answer_count_kor": 1,
+    "eng": "account for",
+    "kor": "~을 설명하다; (부분·비율을) 차지하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
