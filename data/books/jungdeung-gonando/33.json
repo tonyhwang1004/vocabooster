@@ -1,505 +1,379 @@
 [
   {
-    "kor": "기분",
-    "eng": "mood",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변덕스러운",
-    "eng": "moody",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "슬픔",
-    "eng": "sorrow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "슬픔",
-    "eng": "grief",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "슬픈",
-    "eng": "sorrowful",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감정",
-    "eng": "emotion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감정",
-    "eng": "feeling",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감정적인",
-    "eng": "emotional",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불안해하는",
-    "eng": "anxious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불안해하는",
-    "eng": "uneasy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갈망하는",
-    "eng": "eager",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "걱정; 갈망",
-    "eng": "anxiety",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부끄러워하는",
-    "eng": "ashamed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자랑스러워하는",
-    "eng": "proud",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 부끄러워 하다",
-    "eng": "be ashamed of(at)",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "우울; 불경기",
-    "eng": "depression",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "우울한; 불경기의",
-    "eng": "depressed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "울다",
-    "eng": "weep",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "울다",
-    "eng": "cry",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거짓 눈물을 흘리다",
-    "eng": "weep crocodile tears",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "짜증 나게 하다",
-    "eng": "annoy",
-    "answer_count_kor": 1,
+    "eng": "alongside",
+    "kor": "~ 옆에, 나란히; ~와 함께, 동시에",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "짜증 나게 하다",
-    "eng": "bother",
-    "answer_count_kor": 1,
+    "eng": "tribal",
+    "kor": "부족의, 종족의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "화가 난",
-    "eng": "annoyed",
-    "answer_count_kor": 1,
+    "eng": "tribe",
+    "kor": "부족, 종족",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 화가 나다",
-    "eng": "be annoyed with(at)",
-    "answer_count_kor": 1,
+    "eng": "bribe",
+    "kor": "뇌물; 뇌물을 주다, 매수하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "완화하다",
-    "eng": "relieve",
+    "eng": "bribery",
+    "kor": "뇌물 수수",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "안심",
-    "eng": "relief",
-    "answer_count_kor": 1,
+    "eng": "ingenuity",
+    "kor": "독창성, 창의력",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라게 하다",
-    "eng": "amaze",
-    "answer_count_kor": 1,
+    "eng": "ingenious",
+    "kor": "독창적인, 기발한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라게 하다",
-    "eng": "surprise",
-    "answer_count_kor": 1,
+    "eng": "redundant",
+    "kor": "불필요한, 쓸모없는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀랄 만한",
-    "eng": "amazing",
+    "eng": "redundancy",
+    "kor": "불필요한 중복[반복]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라서",
-    "eng": "in amazement",
+    "eng": "interpersonal",
+    "kor": "대인 관계의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "감정",
-    "eng": "sentiment",
-    "answer_count_kor": 1,
+    "eng": "outset",
+    "kor": "착수, 시작, 발단",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "감정",
-    "eng": "emotion",
-    "answer_count_kor": 1,
+    "eng": "downturn",
+    "kor": "(경기 등의) 침체, 하락",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "감정[정서]적인",
-    "eng": "sentimental",
-    "answer_count_kor": 1,
+    "eng": "interrupt",
+    "kor": "방해하다, 중단시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "부러워하다; 부러움",
-    "eng": "envy",
-    "answer_count_kor": 1,
+    "eng": "interruption",
+    "kor": "중단, 방해(물)",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "부러워하는",
-    "eng": "jealous",
-    "answer_count_kor": 1,
+    "eng": "marital",
+    "kor": "결혼 (생활)의, 부부의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "부러워하는",
-    "eng": "envious",
-    "answer_count_kor": 1,
+    "eng": "substitute",
+    "kor": "대용품, 대리인; 대체[대신]하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "매우 부러워하다",
-    "eng": "be (turn) green with envy",
+    "eng": "substitution",
+    "kor": "대체(품)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 질투하다",
-    "eng": "be jealous of",
-    "answer_count_kor": 1,
+    "eng": "fabricate",
+    "kor": "조작[날조]하다; 제작[조립]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "신경; 용기",
-    "eng": "nerve",
-    "answer_count_kor": 1,
+    "eng": "fabrication",
+    "kor": "날조, 위조; 제작",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "긴장한",
-    "eng": "nervous",
-    "answer_count_kor": 1,
+    "eng": "impartial",
+    "kor": "공정한, 치우치지 않은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~할 용기가 있다",
-    "eng": "have the nerve to v",
+    "eng": "impartiality",
+    "kor": "공정함",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성질",
-    "eng": "temper",
-    "answer_count_kor": 1,
+    "eng": "waterproof",
+    "kor": "방수의; 방수 처리를 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "화를 내다",
-    "eng": "resent",
-    "answer_count_kor": 1,
+    "eng": "resort",
+    "kor": "(부득이하게) 의지하다; 휴양지, 리조트; 수단, 방편; 의지, 호소",
+    "answer_count_kor": 7,
     "answer_count_eng": 1
   },
   {
-    "kor": "화내다",
-    "eng": "get into a temper",
-    "answer_count_kor": 1,
+    "eng": "predominate",
+    "kor": "지배하다, 우위를 차지하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "화내다",
-    "eng": "lose one’s temper",
-    "answer_count_kor": 1,
+    "eng": "predominant",
+    "kor": "두드러진; 우세한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "분개한",
-    "eng": "resentful",
-    "answer_count_kor": 1,
+    "eng": "predominance",
+    "kor": "우위, 우세",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "필사적인",
-    "eng": "desperate",
-    "answer_count_kor": 1,
+    "eng": "psychic",
+    "kor": "초자연적인; 정신의; 심령술사, 초능력자",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "지독한",
-    "eng": "awful",
-    "answer_count_kor": 1,
+    "eng": "psyche",
+    "kor": "마음, 정신, 심령",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "지독한",
-    "eng": "terrible",
+    "eng": "emperor",
+    "kor": "황제",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "엄청",
-    "eng": "awfully",
-    "answer_count_kor": 1,
+    "eng": "fatigue",
+    "kor": "(심신의) 피로, 피곤",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비참한",
-    "eng": "miserable",
-    "answer_count_kor": 1,
+    "eng": "fatigued",
+    "kor": "(심신이) 지친, 피로한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비참한",
-    "eng": "unhappy",
-    "answer_count_kor": 1,
+    "eng": "clutter",
+    "kor": "잡동사니, 어수선함; 어지럽히다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "비참함",
-    "eng": "misery",
-    "answer_count_kor": 1,
+    "eng": "mandatory",
+    "kor": "법에 정해진, 의무적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "역겹게 하다; 반감",
-    "eng": "disgust",
-    "answer_count_kor": 1,
+    "eng": "mandate",
+    "kor": "권한; 명령, 지시; 위임 통치; 권한을 주다; 명령하다",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "역겨운",
-    "eng": "disgusting",
+    "eng": "likewise",
+    "kor": "마찬가지로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 넌더리가 나다",
-    "eng": "feel disgusted at[by, with]",
-    "answer_count_kor": 1,
-    "answer_count_eng": 2
   },
   {
-    "kor": "놀라게 하다",
-    "eng": "astound",
-    "answer_count_kor": 1,
+    "eng": "whereby",
+    "kor": "(그것에 의하여) ~하는, 그로써",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라게 하다",
-    "eng": "amaze",
-    "answer_count_kor": 1,
+    "eng": "prosecute",
+    "kor": "기소하다, 공소를 제기하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라게 하다",
-    "eng": "surprise",
-    "answer_count_kor": 1,
+    "eng": "prosecution",
+    "kor": "기소, 공소",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 몹시 놀라다",
-    "eng": "be astounded at[by]",
-    "answer_count_kor": 1,
+    "eng": "prosecutor",
+    "kor": "검찰관, 검사, 기소자",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "겁먹게 하다",
-    "eng": "frighten",
-    "answer_count_kor": 1,
+    "eng": "worthwhile",
+    "kor": "가치 있는, 보람 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "겁먹게 하다",
-    "eng": "scare",
-    "answer_count_kor": 1,
+    "eng": "equality",
+    "kor": "평등, 균등",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "공포",
-    "eng": "fright",
-    "answer_count_kor": 1,
+    "eng": "equal",
+    "kor": "같은, 동일한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "무서워 죽을 것 같은",
-    "eng": "frightened to death",
+    "eng": "equally",
+    "kor": "동등하게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "당황하다",
-    "eng": "panic",
-    "answer_count_kor": 1,
+    "eng": "antisocial",
+    "kor": "반사회적인; 비사교적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "당황",
-    "eng": "horror",
-    "answer_count_kor": 1,
+    "eng": "barren",
+    "kor": "척박한; 열매를 맺지 못하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비명; 소리 지르다",
-    "eng": "scream",
-    "answer_count_kor": 1,
+    "eng": "monument",
+    "kor": "기념비; 기념비적인[역사적인] 건축물",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "도와달라고 소리치다",
-    "eng": "scream for help",
-    "answer_count_kor": 1,
+    "eng": "monumental",
+    "kor": "기념비적인, 대단한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "동정",
-    "eng": "sympathy",
+    "eng": "reptile",
+    "kor": "파충류",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "동정심이 있는",
-    "eng": "sympathetic",
-    "answer_count_kor": 1,
+    "eng": "plantation",
+    "kor": "(대규모) 농장, 플랜테이션",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 공감하여",
-    "eng": "in sympathy with",
-    "answer_count_kor": 1,
+    "eng": "nominal",
+    "kor": "명목상의, 이름뿐인; 아주 적은, 하찮은",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "비웃다",
-    "eng": "ridicule",
+    "eng": "eminent",
+    "kor": "저명한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "우스운",
-    "eng": "ridiculous",
+    "eng": "eminence",
+    "kor": "명성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "마음이 따뜻한",
-    "eng": "warm-hearted",
-    "answer_count_kor": 1,
+    "eng": "imminent",
+    "kor": "임박한, 곧 닥칠",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "마음이 따뜻한",
-    "eng": "kind",
-    "answer_count_kor": 1,
+    "eng": "attribute",
+    "kor": "결과[탓/덕분]로 보다; 속성, 특성",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "갑자기 ~을 터뜨리다",
-    "eng": "burst into",
-    "answer_count_kor": 1,
+    "eng": "contribute",
+    "kor": "기여하다; 기부[기증]하다; (~의) 원인이 되다; 기고하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "웃음을 터뜨리다",
-    "eng": "burst into laughter[a smile]",
-    "answer_count_kor": 1,
+    "eng": "contribution",
+    "kor": "기여; 기부(금); 기고",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 싫증이 나다",
-    "eng": "be tired of",
-    "answer_count_kor": 1,
+    "eng": "contributor",
+    "kor": "기부자; 기고자",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 싫증이 나다",
-    "eng": "be sick and tired of",
-    "answer_count_kor": 1,
+    "eng": "bureaucracy",
+    "kor": "관료제, 관료(조직)",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 참다",
-    "eng": "put up with",
+    "eng": "bureaucrat",
+    "kor": "(정부) 관료",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 참다",
-    "eng": "tolerate",
+    "eng": "bureaucratic",
+    "kor": "관료(주의)적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 참다",
-    "eng": "endure",
-    "answer_count_kor": 1,
+    "eng": "tell on",
+    "kor": "~을 고자질하다; ~에 (안 좋은) 영향을 미치다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 참다",
-    "eng": "bear",
-    "answer_count_kor": 1,
+    "eng": "spell out",
+    "kor": "철자를 하나하나 말하다[쓰다]; ~을 분명히 설명하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 참다",
-    "eng": "stand",
+    "eng": "deprive A of B",
+    "kor": "A에게서 B를 빼앗다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
