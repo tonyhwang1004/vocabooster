@@ -1,20 +1,20 @@
 [
   {
-    "kor": "(가치, 지위를) 떨어뜨리다 타락하다",
+    "kor": "(가치, 지위를) 떨어뜨리다, 타락하다",
     "eng": "degrade",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가리키다, 나타내다 지명하다, 임명하다",
-    "eng": "designate",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "받아쓰게 하다, 구술하다 명령하다, 명령, 규칙, 요구",
+    "kor": "가리키다, 나타내다, 지명하다, 임명하다",
+    "eng": "designate",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "받아쓰게 하다, 구술하다, 명령하다, 명령, 규칙, 요구",
     "eng": "dictate",
-    "answer_count_kor": 5,
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
@@ -54,9 +54,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "어느덧 지나가는 순식간의, 덧없는",
+    "kor": "어느덧 지나가는, 순식간의, 덧없는",
     "eng": "fleeting",
-    "answer_count_kor": 2,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -66,9 +66,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "면역이 된, 면역의, 면제된 영향을 받지 않는",
+    "kor": "면역이 된, 면역의, 면제된, 영향을 받지 않는",
     "eng": "immune",
-    "answer_count_kor": 3,
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
