@@ -1,182 +1,182 @@
 [
   {
-    "kor": "세련된",
-    "eng": "sophisticated",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개입하다",
-    "eng": "intervene",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비만의",
-    "eng": "obese",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일시적인",
-    "eng": "transient",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "흠뻑 적시다",
-    "eng": "saturate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인용하다",
-    "eng": "cite",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "속도",
-    "eng": "velocity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(협조 등을) 얻다",
-    "eng": "enlist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조각",
-    "eng": "shred",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사상자",
-    "eng": "casualty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(법률",
-    "eng": "abolition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수증기",
-    "eng": "vapor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평판",
-    "eng": "reputation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추측짐작하다",
-    "eng": "speculate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유아기",
-    "eng": "infancy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(기계 등의) 고장",
-    "eng": "breakdown",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지지하다",
-    "eng": "endorse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오해",
-    "eng": "misconception",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경멸",
-    "eng": "contempt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분자의",
-    "eng": "molecular",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가장자리",
-    "eng": "verge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유명한",
-    "eng": "celebrated",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "싹이 트다",
-    "eng": "germinate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "난파",
-    "eng": "wreck",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중독자",
-    "eng": "addict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가려운",
-    "eng": "itchy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "타협",
-    "eng": "compromise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변상하다",
     "eng": "reimburse",
+    "kor": "변상하다, 배상하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "velocity",
+    "kor": "속도",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "A에게 B를 기대하다기대다",
+    "eng": "abolition",
+    "kor": "폐지, 폐기",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "speculate",
+    "kor": "추측하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sophisticated",
+    "kor": "세련된, 교양 있는; 정교한, 복잡한, 고도로 발달한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "look to A for B",
+    "kor": "A에게 B를 기대하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "반대로",
-    "eng": "the other way around",
+    "eng": "infancy",
+    "kor": "유아기; 초창기",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cite",
+    "kor": "인용하다, 예로 들다; 언급하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "celebrated",
+    "kor": "유명한, 저명한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compromise",
+    "kor": "타협, 화해, 양보; 절충안; 타협하다, 화해하다; 손상시키다, 위태롭게 하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "casualty",
+    "kor": "사상자; 피해자, 희생자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "addict",
+    "kor": "중독자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "breakdown",
+    "kor": "고장, 손상; 붕괴, 몰락; 분해",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "endorse",
+    "kor": "지지하다, 보증하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "molecular",
+    "kor": "분자의, 분자로 된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "verge",
+    "kor": "가장자리, 경계",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enlist",
+    "kor": "얻다; 입대하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "misconception",
+    "kor": "오해, 잘못된 생각",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "saturate",
+    "kor": "흠뻑 적시다; 포화시키다, 포화 상태로 만들다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transient",
+    "kor": "일시적인, 순간적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shred",
+    "kor": "조각, 단편; 갈기갈기 찢다, 채 를 썰다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "germinate",
+    "kor": "싹이 트다, 발아하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wreck",
+    "kor": "난파, 조난, 파괴; 잔해; 난파시 키다; 망가뜨리다, 파괴하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vapor",
+    "kor": "수증기, 증기",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "the other way around",
+    "kor": "반대로, 거꾸로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reputation",
+    "kor": "평판, 명성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "itchy",
+    "kor": "가려운",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contempt",
+    "kor": "경멸, 멸시",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intervene",
+    "kor": "개입하다, 중재하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obese",
+    "kor": "비만의, 뚱뚱한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
