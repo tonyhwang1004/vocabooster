@@ -1,182 +1,404 @@
 [
   {
-    "kor": "생물학",
-    "eng": "biology",
+    "eng": "dynamics",
+    "kor": "역학 (관계); 동력, 원동력",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dynamic",
+    "kor": "역동적인, 활발한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ignorance",
+    "kor": "무지, 무식",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ignorant",
+    "kor": "무지한, 무식한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "naive",
+    "kor": "순진한, 천진난만한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "naively",
+    "kor": "순진하게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "화학",
-    "eng": "chemistry",
+    "eng": "naivety",
+    "kor": "순진함",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "요소",
-    "eng": "element",
+    "eng": "expel",
+    "kor": "퇴학시키다, 제명하다; 추방하다, 내쫓다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expulsion",
+    "kor": "추방; 퇴학, 제명",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flee",
+    "kor": "달아나다, 도망치다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scheme",
+    "kor": "계획, 제도; 음모, 책략; 도식, 분류표; 계략을 꾸미다",
+    "answer_count_kor": 7,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "edible",
+    "kor": "먹을 수 있는, 식용의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adverse",
+    "kor": "부정적인, 불리한; 반대의, 거스르는",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adversely",
+    "kor": "부정적으로, 불리하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "errand",
+    "kor": "심부름, 볼일",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spectator",
+    "kor": "(특히 스포츠 행사의) 관중, 구경꾼",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "keen",
+    "kor": "열망하는; 열정적인; 예리한, 예민한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "comet",
+    "kor": "혜성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "[화학] 산; 산(성)의",
-    "eng": "acid",
+    "eng": "victim",
+    "kor": "희생자, 피해자; 제물, 희생물",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "victimize",
+    "kor": "희생시키다, 부당하게 괴롭히다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cohesion",
+    "kor": "화합, 결속력, 응집력",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cohesive",
+    "kor": "응집력 있는, 결속된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "negotiate",
+    "kor": "협상[교섭]하다; 성사시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "negotiation",
+    "kor": "협상, 교섭",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "negotiator",
+    "kor": "협상가",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "저장",
-    "eng": "storage",
+    "eng": "negotiable",
+    "kor": "협상할 여지가 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "증기",
-    "eng": "steam",
+    "eng": "abstract",
+    "kor": "추상적인; 추상 (개념); 개요, 요약; 추출하다; 요약하다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abstraction",
+    "kor": "추상적 개념",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유전자",
-    "eng": "gene",
+    "eng": "enrich",
+    "kor": "풍요롭게 하다; (질·가치 등을) 높이다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enrichment",
+    "kor": "풍부, 강화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "revive",
+    "kor": "소생[회복]시키다, 소생[회복]하다, 부흥시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "revival",
+    "kor": "회복, 부활; 부흥, 재유행",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wrestle",
+    "kor": "몸싸움을 벌이다; (문제 등과) 씨름하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fling",
+    "kor": "내던지다, 내팽개치다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ideology",
+    "kor": "이데올로기, 이념, 관념",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ideological",
+    "kor": "사상적인, 이념적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "predetermine",
+    "kor": "미리 결정하다, 예정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "predetermined",
+    "kor": "미리 결정된, 예정된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "predetermination",
+    "kor": "미리 결정함, 예정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spectrum",
+    "kor": "(빛 등의) 스펙트럼; 범위, 영역",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "portion",
+    "kor": "부분, 일부; (음식의) 1인분; 몫",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "widespread",
+    "kor": "광범위한, 널리 퍼진",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mend",
+    "kor": "수선하다, 고치다; (상황·관계 등을) 해결하다, 개선하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elastic",
+    "kor": "탄력 있는, 탄성의; 융통성 있는; 고무 밴드",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elasticity",
+    "kor": "탄성, 신축성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wilderness",
+    "kor": "황야, 황무지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "affordable",
+    "kor": "가격이 알맞은, 감당할 수 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "afford",
+    "kor": "~할 여유가 있다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "포유동물",
-    "eng": "mammal",
+    "eng": "affordability",
+    "kor": "감당 가능성, 감당할 수 있는 비용",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "despise",
+    "kor": "경멸하다, 혐오하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "despicable",
+    "kor": "비열한, 야비한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unprecedented",
+    "kor": "전례 없는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "녹다",
-    "eng": "melt",
+    "eng": "unprecedentedly",
+    "kor": "전례 없이",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "세포; 작은 방",
-    "eng": "cell",
+    "eng": "contagious",
+    "kor": "전염되는, 전염성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contagion",
+    "kor": "(접촉) 전염[감염]; 전염병",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "successive",
+    "kor": "연속적인, 연이은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "successively",
+    "kor": "연속하여, 잇따라",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "succession",
+    "kor": "연속; 계승",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "undermine",
+    "kor": "(자신감·권위 등을) 약화시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "현미경",
-    "eng": "microscope",
-    "answer_count_kor": 1,
+    "eng": "underlie",
+    "kor": "(~의) 기초가 되다; (~의) 아래에 있다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "번식하다; 재생[재현]하다; 복제하다",
-    "eng": "reproduce",
-    "answer_count_kor": 1,
+    "eng": "underlying",
+    "kor": "근본적인; (다른 것의) 밑에 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "진화",
-    "eng": "evolution",
-    "answer_count_kor": 1,
+    "eng": "wholeheartedly",
+    "kor": "전적으로, 진심으로",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "멸종된",
-    "eng": "extinct",
-    "answer_count_kor": 1,
+    "eng": "wholehearted",
+    "kor": "전폭적인, 전적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "복제하다; 복제 생물",
-    "eng": "clone",
-    "answer_count_kor": 1,
+    "eng": "leave out",
+    "kor": "~을 빼놓다, 제외[생략]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "동일한",
-    "eng": "identical",
-    "answer_count_kor": 1,
+    "eng": "break away",
+    "kor": "(~에서) 달아나다, 벗어나다; (정당·국가 등에서) 독립하다, 탈퇴하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "살아 있는",
-    "eng": "animate",
-    "answer_count_kor": 1,
+    "eng": "see about",
+    "kor": "~을 알아보다, 처리하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "탄소",
-    "eng": "carbon",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "혼합물",
-    "eng": "mixture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "물질",
-    "eng": "substance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "액체; 액체의",
-    "eng": "liquid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거르다",
-    "eng": "filter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "흡수하다; 열중시키다",
-    "eng": "absorb",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유독한",
-    "eng": "toxic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "빛",
-    "eng": "ray",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화합물; 혼합[복합/합성]물",
-    "eng": "compound",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "떼어 놓다",
-    "eng": "detach",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "A를 B로 바꾸다[변하게 하다]",
-    "eng": "turn A into B",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 구별하다[구분하다]",
-    "eng": "tell from",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(냄새·열·빛 등을) 내다",
-    "eng": "give off",
-    "answer_count_kor": 1,
+    "eng": "settle down",
+    "kor": "정착하다; 진정하다[되다]",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
