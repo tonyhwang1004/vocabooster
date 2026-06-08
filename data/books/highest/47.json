@@ -1,182 +1,182 @@
 [
   {
-    "kor": "확신납득시키다",
-    "eng": "convince",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "포만(감)",
-    "eng": "satiety",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반항저항하다",
-    "eng": "defy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "취약한",
-    "eng": "vulnerable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조직화편성하다",
-    "eng": "coordinate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사람 간의",
-    "eng": "interpersonal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분류",
-    "eng": "classification",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평형",
-    "eng": "equilibrium",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무언의",
-    "eng": "mute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "버리다",
-    "eng": "abandon",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "궤도",
     "eng": "orbit",
-    "answer_count_kor": 1,
+    "kor": "궤도; 영향권, 범위; 궤도를 돌다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "분배하다",
-    "eng": "distribute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "닻",
-    "eng": "anchor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복수",
-    "eng": "revenge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "술 취하지 않은",
-    "eng": "sober",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(마음이) 누그러지다",
-    "eng": "relent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "합병통합하다",
-    "eng": "merge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "원주민의",
-    "eng": "aboriginal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실행수행하다",
     "eng": "execute",
+    "kor": "실행하다, 해내다; 처형하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "satiety",
+    "kor": "포만",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(너무 엄청나서)  충격적인",
-    "eng": "staggering",
-    "answer_count_kor": 1,
+    "eng": "classification",
+    "kor": "분류, 구분; 유형, 범주",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "견본",
-    "eng": "specimen",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추론추정하다",
-    "eng": "deduce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "투덜거리다",
-    "eng": "grumble",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "잡아채다",
-    "eng": "snatch",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뽑아냄",
-    "eng": "extraction",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양도포기하다",
-    "eng": "relinquish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부도덕한",
     "eng": "vicious",
-    "answer_count_kor": 1,
+    "kor": "부도덕한, 악덕의; 사나운, 포악한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "자석 같은",
+    "eng": "anchor",
+    "kor": "닻, 고정 장치; 정신적 지주; 닻을 내리다, 정박하다: 고정시키다; 기반을 두다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "equilibrium",
+    "kor": "평형, 균형; 평정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vulnerable",
+    "kor": "취약한, 연약한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extraction",
+    "kor": "뽑아냄, 추출; 가문, 혈통",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "magnetic",
+    "kor": "자석 같은, 자성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "convince",
+    "kor": "확신시키다, 설득하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "revenge",
+    "kor": "복수, 보복; 복수하다, 원수를 갚다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deduce",
+    "kor": "추론하다, 연역하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distribute",
+    "kor": "분배하다, 나누어 주다; 유통시키다, 배포하다; 분포시키다, 퍼뜨리다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "snatch",
+    "kor": "잡아채다; 강탈하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 비추다밝히다",
-    "eng": "shed light on",
-    "answer_count_kor": 1,
+    "eng": "sober",
+    "kor": "술 취하지 않은, 맑은 정신의; 냉철한, 진지한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "더 나아가",
+    "eng": "specimen",
+    "kor": "견본, 표본",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mute",
+    "kor": "무언의, 말 없는; 소리를 줄이 다; 소리를 죽이다; 약화하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "relinquish",
+    "kor": "양도하다, 내주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "by extension",
+    "kor": "더 나아가, 확장해서; 결과적으 로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coordinate",
+    "kor": "조직화하다, 조정하다; 잘 어울 리다, 조화되다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defy",
+    "kor": "반항하다, 무시하다; 좌절시키 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "staggering",
+    "kor": "충격적인, 어마어마한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "merge",
+    "kor": "합병하다, 합치다; 녹아들다, 어 우러지다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aboriginal",
+    "kor": "원주민의, 토착의; 원주민",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abandon",
+    "kor": "버리다, 유기하다; 그만두다, 포 기하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interpersonal",
+    "kor": "사람 간의, 대인 관계의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shed light on",
+    "kor": "~을 비추다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grumble",
+    "kor": "투덜거리다, 불평하다; 우르릉 거리다; 불만사항; 우르릉거리 는 소리",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "relent",
+    "kor": "누그러지다, 풀리다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
