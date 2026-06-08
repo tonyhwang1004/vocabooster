@@ -1,416 +1,398 @@
 [
   {
-    "kor": "통찰력",
-    "eng": "insight",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통찰력 있는",
-    "eng": "insightful",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "학업의",
-    "eng": "academic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전문학교; 학회",
-    "eng": "academy",
-    "answer_count_kor": 1,
+    "eng": "ingrained",
+    "kor": "뿌리 깊은, 몸에 깊이 밴",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "본질",
-    "eng": "essence",
-    "answer_count_kor": 1,
+    "eng": "minimal",
+    "kor": "아주 적은, 최소의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "본질적인",
-    "eng": "essential",
-    "answer_count_kor": 1,
+    "eng": "minimize",
+    "kor": "최소화하다; 축소하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "본질적으로",
-    "eng": "in essence",
-    "answer_count_kor": 1,
+    "eng": "minimum",
+    "kor": "최소(한도), 최저; 최저의, 최소한의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "지능",
-    "eng": "intelligence",
-    "answer_count_kor": 1,
+    "eng": "glimpse",
+    "kor": "언뜻 봄; 언뜻 보다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "어리석음",
-    "eng": "stupidity",
-    "answer_count_kor": 1,
+    "eng": "profess",
+    "kor": "공언하다; 주장하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "지적인",
-    "eng": "intelligent",
-    "answer_count_kor": 1,
+    "eng": "profession",
+    "kor": "직업, 전문직; 공언",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "인공 지능",
-    "eng": "AI (artificial intelligence)",
-    "answer_count_kor": 1,
+    "eng": "salient",
+    "kor": "핵심적인, 두드러진",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "풀다",
-    "eng": "solve",
-    "answer_count_kor": 1,
+    "eng": "salience",
+    "kor": "두드러짐; 중요성",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "해답",
-    "eng": "solution",
-    "answer_count_kor": 1,
+    "eng": "aggregate",
+    "kor": "합계, 총액; 총계의; 종합하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "격려하다",
-    "eng": "inspire",
-    "answer_count_kor": 1,
+    "eng": "aggregation",
+    "kor": "집합, 총합",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "격려하다",
-    "eng": "motivate",
-    "answer_count_kor": 1,
+    "eng": "invariably",
+    "kor": "변함없이, 언제나",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "영감",
-    "eng": "inspiration",
-    "answer_count_kor": 1,
+    "eng": "regain",
+    "kor": "회복하다, 되찾다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "언급하다",
-    "eng": "refer",
-    "answer_count_kor": 1,
+    "eng": "bulletin",
+    "kor": "게시, 공고; 뉴스 단신",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "언급",
-    "eng": "reference",
-    "answer_count_kor": 1,
+    "eng": "pragmatic",
+    "kor": "실용적인, 현실적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "복습하다",
-    "eng": "review",
+    "eng": "pragmatism",
+    "kor": "실용주의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "언어학",
-    "eng": "linguistics",
-    "answer_count_kor": 1,
+    "eng": "presuppose",
+    "kor": "전제로 하다, 가정하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "언어학자; 수개 국어에 능통한 사람",
-    "eng": "linguist",
-    "answer_count_kor": 1,
+    "eng": "presupposition",
+    "kor": "전제 (조건), 가정",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "향상시키다",
-    "eng": "improve",
-    "answer_count_kor": 1,
+    "eng": "chronological",
+    "kor": "연대순의, 시간순의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "악화시키다",
-    "eng": "worsen",
-    "answer_count_kor": 1,
+    "eng": "chronology",
+    "kor": "연대순, 연대표",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "향상",
-    "eng": "improvement",
-    "answer_count_kor": 1,
+    "eng": "litter",
+    "kor": "쓰레기; 어지럽히다; (쓰레기 등을) 버리다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "내용",
-    "eng": "content",
+    "eng": "factual",
+    "kor": "사실에 기반한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "목차",
-    "eng": "table of contents",
-    "answer_count_kor": 1,
+    "eng": "latitude",
+    "kor": "위도; (위도상의) 지역; (행동 등의) 자유, 재량권",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "그림; 수치; (사람의) 모습",
-    "eng": "figure",
-    "answer_count_kor": 1,
+    "eng": "distribute",
+    "kor": "나누어 주다, 분배하다; 유통시키다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "이해하다; 계산해서 합계를 내다",
-    "eng": "figure out",
-    "answer_count_kor": 1,
+    "eng": "distribution",
+    "kor": "분배, 배급; 분포; 유통",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "학자",
-    "eng": "scholar",
+    "eng": "distributor",
+    "kor": "배급[유통]업자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "학자의",
-    "eng": "scholarly",
+    "eng": "distributive",
+    "kor": "분배의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "장학금",
-    "eng": "scholarship",
-    "answer_count_kor": 1,
+    "eng": "perpetual",
+    "kor": "끊임없는; 영구적인, 종신의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "개념",
-    "eng": "concept",
-    "answer_count_kor": 1,
+    "eng": "perpetually",
+    "kor": "영원히; 끊임없이",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "개념",
-    "eng": "idea",
+    "eng": "perpetuate",
+    "kor": "영속시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "원리",
-    "eng": "principle",
-    "answer_count_kor": 1,
+    "eng": "temper",
+    "kor": "(화를 잘 내는) 성질, 기질; 화, 분노; 완화하다",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "원칙적으로는",
-    "eng": "in principle",
-    "answer_count_kor": 1,
+    "eng": "improvise",
+    "kor": "(연주 등을) 즉흥적으로 하다; 임시로 만들다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "노출시키다",
-    "eng": "expose",
+    "eng": "improvisation",
+    "kor": "즉흥 연기[연주]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "노출시키다",
-    "eng": "uncover",
+    "eng": "improvised",
+    "kor": "즉흥의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "숨기다",
-    "eng": "hide",
-    "answer_count_kor": 1,
+    "eng": "prone",
+    "kor": "~하기 쉬운; 엎드린",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "노출; 폭로",
-    "eng": "exposure",
-    "answer_count_kor": 1,
+    "eng": "tuition",
+    "kor": "수업료, 등록금",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 노출되다",
-    "eng": "be exposed to",
-    "answer_count_kor": 1,
+    "eng": "accumulate",
+    "kor": "축적하다[되다], 모으다[모이다]",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이론",
-    "eng": "theory",
-    "answer_count_kor": 1,
+    "eng": "accumulation",
+    "kor": "축적, 누적",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이론적인",
-    "eng": "theoretical",
+    "eng": "biosphere",
+    "kor": "생물권 (생물이 살 수 있는 지표면과 대기권)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이론적으로는",
-    "eng": "in theory",
-    "answer_count_kor": 1,
+    "eng": "analogy",
+    "kor": "비유, 유추; 유사점",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "정의하다",
-    "eng": "define",
+    "eng": "analogous",
+    "kor": "유사한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보여 주다",
-    "eng": "demonstrate",
-    "answer_count_kor": 1,
+    "eng": "seize",
+    "kor": "붙잡다, 포착하다; 장악[점령]하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "정의",
-    "eng": "definition",
-    "answer_count_kor": 1,
+    "eng": "seizure",
+    "kor": "압수, 몰수; 장악, 점령; 발작",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "증명",
-    "eng": "demonstration",
+    "eng": "influential",
+    "kor": "영향력 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "끝내다",
-    "eng": "conclude",
-    "answer_count_kor": 1,
+    "eng": "nuisance",
+    "kor": "성가신 사람[일], 골칫거리; 방해 행위",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "결론",
-    "eng": "conclusion",
-    "answer_count_kor": 1,
+    "eng": "component",
+    "kor": "(구성) 요소, 부품; 구성하는, 성분의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "결정적인",
-    "eng": "conclusive",
-    "answer_count_kor": 1,
+    "eng": "deserted",
+    "kor": "사람이 없는, 텅 빈; 버려진",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "끝으로",
-    "eng": "in conclusion",
-    "answer_count_kor": 1,
+    "eng": "desert",
+    "kor": "사막; 버리다, 떠나다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "통계학",
-    "eng": "statistics",
-    "answer_count_kor": 1,
+    "eng": "submission",
+    "kor": "제출; 복종, 항복, 굴복",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "물리학",
-    "eng": "physics",
-    "answer_count_kor": 1,
+    "eng": "submit",
+    "kor": "제출하다; 항복[굴복]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "물리학자",
-    "eng": "physicist",
+    "eng": "submissive",
+    "kor": "순종적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지질학",
-    "eng": "geology",
-    "answer_count_kor": 1,
+    "eng": "terrain",
+    "kor": "지형, 지역",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "지질학자",
-    "eng": "geologist",
-    "answer_count_kor": 1,
+    "eng": "longevity",
+    "kor": "장수; 오래 지속됨",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "지름",
-    "eng": "diameter",
+    "eng": "extrovert",
+    "kor": "외향적인 사람",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "직경이 ~인",
-    "eng": "in diameter",
+    "eng": "extroverted",
+    "kor": "외향적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "글자 그대로의",
-    "eng": "literal",
+    "eng": "introvert",
+    "kor": "내성[내향]적인 사람",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "글자 그대로",
-    "eng": "literally",
+    "eng": "introverted",
+    "kor": "내성[내향]적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "문맹의",
-    "eng": "illiterate",
-    "answer_count_kor": 1,
+    "eng": "ancestor",
+    "kor": "조상, 선조; (기계의) 원형, 전신",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "읽고 쓸 줄 앎",
-    "eng": "literacy",
+    "eng": "ancestral",
+    "kor": "조상의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "읽고 쓸 줄 아는",
-    "eng": "literate",
-    "answer_count_kor": 1,
+    "eng": "ancestry",
+    "kor": "가계, 혈통",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "컴퓨터를 잘 다루는",
-    "eng": "computer-literate",
-    "answer_count_kor": 1,
+    "eng": "descendant",
+    "kor": "자손, 후손; 유래한 것",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(말·글이) 유창한",
-    "eng": "fluent",
-    "answer_count_kor": 1,
+    "eng": "descend",
+    "kor": "내려오다, 내려가다; (어둠 등이) 내려앉다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "유창성",
-    "eng": "fluency",
+    "eng": "sermon",
+    "kor": "설교",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 점검[검토]하다",
-    "eng": "go over",
-    "answer_count_kor": 1,
+    "eng": "get over",
+    "kor": "~을 극복하다; ~에서 회복하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(사전·컴퓨터 등에서 정보를) 찾아보다",
-    "eng": "look up",
-    "answer_count_kor": 1,
+    "eng": "slip out",
+    "kor": "(말이) 무심코 튀어나오다; 몰래 빠져나가다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 깊이 생각하다",
-    "eng": "dwell on",
-    "answer_count_kor": 1,
+    "eng": "live with",
+    "kor": "(어려움·불안 등을) 감수하다, 안고 살다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
