@@ -1,110 +1,110 @@
 [
   {
-    "kor": "교착 상태",
+    "kor": "교착상태, 막다른 골목 교착상태가 되다",
     "eng": "deadlock",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "생략",
+    "kor": "생략, 빠뜨림, 태만",
     "eng": "omission",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "전술작전",
+    "kor": "전술, 작전, 병법, 술책",
     "eng": "tactic",
-    "answer_count_kor": 1,
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "토착의",
+    "kor": "토착의, 원주민의, 원래의",
     "eng": "aboriginal",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "분개한",
+    "kor": "분개한, 성난",
     "eng": "indignant",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "우선시키다",
+    "kor": "우선시키다 우선순위를 매기다",
     "eng": "prioritize",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "저버리다",
+    "kor": "저버리다, 도망가다, 방치하다",
     "eng": "desert",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "속이는",
+    "kor": "속이는, 현혹시키는",
     "eng": "deceptive",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "체류체재하다",
+    "kor": "체류하다, 묵다 체류, 체재, 기숙",
     "eng": "sojourn",
-    "answer_count_kor": 1,
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "자랑하다",
+    "kor": "자랑하다, 뽐내다. 자랑, 허풍",
     "eng": "brag",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "비통한",
+    "kor": "비통한, 슬픈, 심한, 가혹한",
     "eng": "grievous",
-    "answer_count_kor": 1,
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "조급성급함",
+    "kor": "조급함, 참을 수 없음",
     "eng": "impatience",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "코를 골다",
+    "kor": "코를 골다, 코 골기",
     "eng": "snore",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "환대",
+    "kor": "환대, 수용",
     "eng": "hospitality",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "포로의",
+    "kor": "포로의, 사로잡힌, 포로",
     "eng": "captive",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "관료화하다",
+    "kor": "관료화하다 관료 체제로 만들다",
     "eng": "bureaucratize",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "농축압축",
+    "kor": "농축하다, 요약하다, 간추리다",
     "eng": "condense",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "이끌어 내다",
+    "kor": "이끌어 내다, 유도해내다",
     "eng": "elicit",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -114,9 +114,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "떨리다",
+    "kor": "떨리다, 진동, 떨림",
     "eng": "quiver",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
