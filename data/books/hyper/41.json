@@ -18,7 +18,7 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "공예가, 장인[기능공]",
+    "kor": "공예가, 장인(기능공)",
     "eng": "artisan",
     "answer_count_kor": 2,
     "answer_count_eng": 1
@@ -36,21 +36,21 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "새것으로 만들다 수리하다, 혁신하다",
+    "kor": "새것으로 만들다, 수리하다, 혁신하다",
     "eng": "renovate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "충분히 만족시키다, 물리게 하다",
+    "eng": "satiate",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "충분히 만족시키다 물리게 하다",
-    "eng": "satiate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진술, 주장, 명제 제의, 일, 문제",
+    "kor": "진술, 주장, 명제, 제의, 일, 문제",
     "eng": "proposition",
-    "answer_count_kor": 5,
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
@@ -60,9 +60,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "틀렸음을 입증하다 반증하다, 반박하다",
+    "kor": "틀렸음을 입증하다, 반증하다, 반박하다",
     "eng": "disprove",
-    "answer_count_kor": 2,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -72,9 +72,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "부분, 조각, 단편 나누다, 분할하다",
+    "kor": "부분, 조각, 단편, 나누다, 분할하다",
     "eng": "segment",
-    "answer_count_kor": 4,
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
