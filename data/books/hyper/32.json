@@ -1,120 +1,120 @@
 [
   {
-    "kor": "상술하다",
+    "kor": "상술하다, 명기하다 구체적으로 말하다",
     "eng": "specify",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "길들이다",
+    "kor": "길들이다, 복종시키다 길들인, 온순한",
     "eng": "tame",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "도달할 수 없는",
+    "kor": "도달할 수 없는 달성할 수 없는",
     "eng": "unattainable",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "받을 자격이 없는",
+    "kor": "받을 자격이 없는, 부당한",
     "eng": "undeserved",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비할견줄 데 없는",
+    "kor": "비할 데 없는, 견줄 데 없는 유례없는",
     "eng": "unparalleled",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "많이 있다",
+    "kor": "많이 있다, 풍부하다",
     "eng": "abound",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이용하다",
+    "kor": "이용하다, 활용하다",
     "eng": "utilize",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "자만심허영심이 강한",
+    "kor": "자만심이 강한 헛된, 효과 없는",
     "eng": "vain",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "예시실증하다",
+    "kor": "예시하다, ~의 좋은 예가 되다",
     "eng": "exemplify",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "일치하다",
+    "kor": "일치하다, 조화되다 일치, 합의, 주다, 수여하다",
     "eng": "accord",
-    "answer_count_kor": 1,
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "중독성의",
+    "kor": "중독성의, 습관성의",
     "eng": "addictive",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "권한을 부여하다",
+    "kor": "권한을 부여하다 허가하다, 인정하다",
     "eng": "authorize",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "과소평가하다",
+    "kor": "과소평가하다 경시하다, 얕보다",
     "eng": "belittle",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "둘러싸다",
+    "kor": "둘러싸다, 포위하다, 공격하다",
     "eng": "besiege",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "양립할 수 있는",
+    "kor": "양립할 수 있는, 호환이 되는 일치하는, 모순 없는",
     "eng": "compatible",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "만성적인",
+    "kor": "만성적인, 습관적인 장기간에 걸친",
     "eng": "chronic",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "임상(臨床)적인",
+    "kor": "임상적인, 임상 치료의 분석적인, 냉정한",
     "eng": "clinical",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "비밀의",
+    "kor": "비밀의, 숨겨진, 은밀한",
     "eng": "covert",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "억지로 쑤셔 넣다",
+    "kor": "억지로 쑤셔 넣다 벼락치기 공부를 하다",
     "eng": "cram",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전례선례가 없는",
+    "kor": "전례가 없는",
     "eng": "unprecedented",
     "answer_count_kor": 1,
     "answer_count_eng": 1
