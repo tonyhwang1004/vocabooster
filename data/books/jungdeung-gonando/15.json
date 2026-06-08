@@ -1,182 +1,416 @@
 [
   {
-    "kor": "운송",
-    "eng": "transport",
+    "eng": "atom",
+    "kor": "원자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "승객",
-    "eng": "passenger",
+    "eng": "atomic",
+    "kor": "원자의; 원자력의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chamber",
+    "kor": "회의실; ~실, 방",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sneak",
+    "kor": "살금살금[몰래] 가다; 몰래 ~하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concord",
+    "kor": "화합, 조화; (문법적) 일치",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "optimal",
+    "kor": "최선의, 최적의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sphere",
+    "kor": "구, 구체; 범위, 분야, 영역",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spherical",
+    "kor": "구 모양의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(英) 지하철; 지하의",
-    "eng": "underground",
+    "eng": "standard",
+    "kor": "기준, 표준; 표준의, 일반적인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "standardize",
+    "kor": "표준화[규격화]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(배·기차·비행기 등에) 탄",
-    "eng": "aboard",
+    "eng": "standardization",
+    "kor": "표준화",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "출발하다",
-    "eng": "depart",
+    "eng": "glow",
+    "kor": "빛나다, 타다; 상기되다; 불빛; 홍조",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glowing",
+    "kor": "빛나는; 극찬하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infection",
+    "kor": "감염; 전염병",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infect",
+    "kor": "감염시키다; 오염시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infectious",
+    "kor": "전염성의, 전염병의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "graze",
+    "kor": "(가축이) 풀을 뜯다; 방목하다; (피부를) 긁히게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grazing",
+    "kor": "목초지, 방목지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "landmark",
+    "kor": "주요 지형지물; 획기적인 사건[발견]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transplant",
+    "kor": "(기관·조직 등을) 이식하다; 옮겨 심다; 이식",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transplantation",
+    "kor": "이식 (수술)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관광",
-    "eng": "sightseeing",
+    "eng": "stun",
+    "kor": "놀라게 하다; 기절시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stunned",
+    "kor": "깜짝 놀란",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "도심의; 도심지에",
-    "eng": "downtown",
+    "eng": "stunning",
+    "kor": "굉장히 아름다운[멋진]; 깜짝 놀랄",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consistent",
+    "kor": "일관된, 한결같은; 일치하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consistently",
+    "kor": "일관되게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(말·탈것 등을) 타다; (탈것을) 타기",
-    "eng": "ride",
+    "eng": "consistency",
+    "kor": "일관성; 농도, 밀도",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "corporation",
+    "kor": "(큰 규모의) 기업, 법인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "corporate",
+    "kor": "기업[법인]의; 공동의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transaction",
+    "kor": "거래, 매매; 처리 (과정)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transact",
+    "kor": "거래하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "해외로",
-    "eng": "abroad",
+    "eng": "transactional",
+    "kor": "거래의, 업무적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "naughty",
+    "kor": "개구쟁이의, 버릇없는, 말을 안 듣는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reunion",
+    "kor": "재회, 재결합; 모임, 동창회",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "uncover",
+    "kor": "(비밀 등을) 알아내다, 폭로하다; 덮개를 벗기다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "uncovered",
+    "kor": "아무것도 덮여 있지 않은",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(배·비행기 여행의) 수하물",
-    "eng": "baggage",
+    "eng": "mainstream",
+    "kor": "주류, 대세; 주류의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discrete",
+    "kor": "별개의, 분리된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discretely",
+    "kor": "개별적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(배·비행기의) 선실",
-    "eng": "cabin",
+    "eng": "discreteness",
+    "kor": "분리됨, 개별성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "domesticate",
+    "kor": "(동물을) 길들이다, 사육하다; (작물을) 재배하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "domestication",
+    "kor": "길들이기, 사육",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "domestic",
+    "kor": "국내의; 가정의; (동물이) 길들여진",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interdependent",
+    "kor": "상호 의존적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(호텔의) 퇴실",
-    "eng": "check-out",
+    "eng": "interdependence",
+    "kor": "상호 의존",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사례금",
-    "eng": "tip",
+    "eng": "embed",
+    "kor": "(단단히) 박다, 끼워 넣다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "verify",
+    "kor": "(정보·신원 등을) 확인하다, 입증[검증]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "verification",
+    "kor": "확인, 검증",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "verifiable",
+    "kor": "입증[검증]할 수 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "목적지",
-    "eng": "destination",
+    "eng": "embark",
+    "kor": "(배 등에) 승선하다[시키다]; 시작[착수]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compost",
+    "kor": "퇴비, 혼합 비료",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transparent",
+    "kor": "투명한; (의도 등이) 명백한; (정보 등이) 명료한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transparency",
+    "kor": "투명(도), 투명성; 명백함",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expire",
+    "kor": "(기간이) 만료되다, 끝나다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expiration",
+    "kor": "만료, 만기",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infrastructure",
+    "kor": "사회[공공] 기반 시설",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이용 가능한; 입수 가능한",
-    "eng": "available",
-    "answer_count_kor": 1,
+    "eng": "banquet",
+    "kor": "연회, 만찬",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "지연시키다; 지연",
-    "eng": "delay",
-    "answer_count_kor": 1,
+    "eng": "shortcut",
+    "kor": "지름길; 손쉬운 방법",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "갈아타다; 이동하다",
-    "eng": "transfer",
-    "answer_count_kor": 1,
+    "eng": "superficial",
+    "kor": "얄팍한, 피상적인; 표면의, 외관상의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "탈것",
-    "eng": "vehicle",
-    "answer_count_kor": 1,
+    "eng": "superficially",
+    "kor": "피상적으로, 표면적으로",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고속 도로",
-    "eng": "highway",
-    "answer_count_kor": 1,
+    "eng": "assume",
+    "kor": "추정하다; (책임 등을) 떠맡다; (태도 등을) 취하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(물건·승객 등을) 나르다; 전달하다",
-    "eng": "convey",
-    "answer_count_kor": 1,
+    "eng": "assumption",
+    "kor": "가정, 추정; 인수",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "수용하다",
-    "eng": "accommodate",
-    "answer_count_kor": 1,
+    "eng": "exterminate",
+    "kor": "근절하다, 몰살하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "크루즈",
-    "eng": "cruise",
-    "answer_count_kor": 1,
+    "eng": "extermination",
+    "kor": "근절, 몰살",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(배·비행기·열차 등의) 승무원",
-    "eng": "crew",
-    "answer_count_kor": 1,
+    "eng": "outright",
+    "kor": "완전한, 전면적인; 노골적인; 노골적으로; 완전히",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "항해하다",
-    "eng": "navigate",
-    "answer_count_kor": 1,
+    "eng": "pass by",
+    "kor": "~을 그냥 지나치다; (시간이) 흐르다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(어떤 장소에) 정하다",
-    "eng": "locate",
-    "answer_count_kor": 1,
+    "eng": "get across",
+    "kor": "(생각 등을) 전달하다, 이해시키다; ~을 건너다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "여행",
-    "eng": "journey",
-    "answer_count_kor": 1,
+    "eng": "bring forth",
+    "kor": "~을 낳다, 불러일으키다; (증거 등을) 제시하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(인상적인) 광경",
-    "eng": "spectacle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(우연히) 마주치다",
-    "eng": "come across",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~로 향해 가다",
-    "eng": "head for",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "차를 길 한쪽에 대다",
-    "eng": "pull over",
-    "answer_count_kor": 1,
+    "eng": "point out",
+    "kor": "~을 가리키다; (사실·실수 등을) 지적하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
