@@ -1,182 +1,182 @@
 [
   {
-    "kor": "살다",
-    "eng": "reside",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방",
-    "eng": "chamber",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(어떤 지역) 원산의",
-    "eng": "indigenous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기념비",
-    "eng": "monument",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "암호화부호화하다",
     "eng": "encode",
+    "kor": "암호화하다; 표현하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "충분한",
-    "eng": "adequate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실수",
-    "eng": "blunder",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "못된",
-    "eng": "wicked",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변경하다",
-    "eng": "revise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "아주 많다",
-    "eng": "abound",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뚫고 들어가다",
-    "eng": "penetrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "야만적인",
-    "eng": "savage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "쫓아내다",
-    "eng": "expel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전환변환하다",
-    "eng": "convert",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "움직이지 않는",
-    "eng": "stationary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무딘",
-    "eng": "blunt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보호하다",
-    "eng": "preserve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "저장소",
-    "eng": "repository",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부족의",
-    "eng": "tribal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "호의적인",
     "eng": "favorable",
-    "answer_count_kor": 1,
+    "kor": "호의적인, 승낙의; 유리한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "신중한",
-    "eng": "prudent",
-    "answer_count_kor": 1,
+    "eng": "abound",
+    "kor": "아주 많다, 풍부하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "떼다",
-    "eng": "detach",
-    "answer_count_kor": 1,
+    "eng": "adequate",
+    "kor": "충분한, 적절한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(진행을) 지연시키다",
-    "eng": "impede",
-    "answer_count_kor": 1,
+    "eng": "expel",
+    "kor": "쫓아내다, 추방하다; 퇴학시키다, 제명하다; 방출하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "빗나가게 하다",
-    "eng": "deflect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "범람",
-    "eng": "deluge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영원",
     "eng": "eternity",
+    "kor": "영원; 오랜 시간",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "방해하다",
-    "eng": "interrupt",
-    "answer_count_kor": 1,
+    "eng": "blunder",
+    "kor": "실수, 실책; 실수를 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "존중",
+    "eng": "convert",
+    "kor": "전환하다; 개종자, 전향자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "deference",
+    "kor": "존중, 경의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impede",
+    "kor": "지연시키다, 방해하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reside",
+    "kor": "살다, 거주하다; 존재하다, 있다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "repository",
+    "kor": "저장소",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "연속적으로",
+    "eng": "chamber",
+    "kor": "방, 실; 실내악의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prudent",
+    "kor": "신중한, 분별 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deflect",
+    "kor": "빗나가게 하다, 방향을 바꾸다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "in light of",
+    "kor": "~에 비추어, ~을 고려하여",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "penetrate",
+    "kor": "뚫고 들어가다, 침투하다; 간파 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stationary",
+    "kor": "움직이지 않는, 정지된; 변동이 없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indigenous",
+    "kor": "원산의, 토착의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "in succession",
-    "answer_count_kor": 1,
+    "kor": "연속적으로, 계속하여",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 비추어",
-    "eng": "in (the) light of",
-    "answer_count_kor": 1,
+    "eng": "preserve",
+    "kor": "보호하다, 지키다; 보존하다, 유 지하다: 소금에 절여 보관하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blunt",
+    "kor": "무딘, 뭉툭한; 무뚝뚝한, 퉁명스 러운; 둔화시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "revise",
+    "kor": "변경하다, 수정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wicked",
+    "kor": "못된, 사악한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "savage",
+    "kor": "야만적인, 미개한; 잔인한, 사나 운; 맹렬히 공격하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interrupt",
+    "kor": "방해하다, 차단하다; 중단하다, 중단시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "detach",
+    "kor": "떼다, 분리하다; 파견하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tribal",
+    "kor": "부족의, 종족의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deluge",
+    "kor": "범람, 호우; 쇄도, 폭주; 범람시 키다; 쇄도시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "monument",
+    "kor": "기념비, 기념물",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
