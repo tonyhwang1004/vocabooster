@@ -1,392 +1,434 @@
 [
   {
-    "kor": "감상하다",
-    "eng": "appreciate",
-    "answer_count_kor": 1,
+    "eng": "console",
+    "kor": "위로하다, 위안을 주다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "감상",
-    "eng": "appreciation",
-    "answer_count_kor": 1,
+    "eng": "consolation",
+    "kor": "위로, 위안",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "공예(품)",
-    "eng": "craft",
-    "answer_count_kor": 1,
+    "eng": "unruly",
+    "kor": "다루기 힘든, 제멋대로 구는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "장인",
-    "eng": "craftsman",
-    "answer_count_kor": 1,
+    "eng": "courteous",
+    "kor": "예의 바른, 정중한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전시하다",
-    "eng": "exhibit",
-    "answer_count_kor": 1,
+    "eng": "courtesy",
+    "kor": "공손함, 정중함",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전시하다",
-    "eng": "display",
-    "answer_count_kor": 1,
+    "eng": "courteously",
+    "kor": "예의 바르게, 공손하게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전시",
-    "eng": "exhibition",
+    "eng": "cumulative",
+    "kor": "누적되는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전시되어",
-    "eng": "on exhibit",
+    "eng": "cumulatively",
+    "kor": "누적적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "문학",
-    "eng": "literature",
-    "answer_count_kor": 1,
+    "eng": "invade",
+    "kor": "침입[침략]하다; 침해하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "문학의",
-    "eng": "literary",
-    "answer_count_kor": 1,
+    "eng": "invasion",
+    "kor": "침입, 침략; 침해",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "번역",
-    "eng": "version",
-    "answer_count_kor": 1,
+    "eng": "invader",
+    "kor": "침입자, 침략자",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "판권",
-    "eng": "copyright",
-    "answer_count_kor": 1,
+    "eng": "invasive",
+    "kor": "침습적인; (병 등이) 급속히 퍼지는; 침해하는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "저작권을 소유하다",
-    "eng": "hold[own] a copyright",
-    "answer_count_kor": 1,
+    "eng": "deference",
+    "kor": "존경, 경의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "어조; 음색",
-    "eng": "tone",
-    "answer_count_kor": 1,
+    "eng": "deferential",
+    "kor": "경의를 표하는, 공손한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "음색",
-    "eng": "sound",
-    "answer_count_kor": 1,
+    "eng": "savage",
+    "kor": "야만적인, 매우 사나운; (비판 등이) 맹렬한; 야만인",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "고귀한",
-    "eng": "noble",
-    "answer_count_kor": 1,
+    "eng": "savagery",
+    "kor": "야만성, 흉포성; 야만적 행위, 만행",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "천한",
-    "eng": "ignoble",
-    "answer_count_kor": 1,
+    "eng": "patch",
+    "kor": "부분, 조각; 텃밭; 덧대다, 수선하다",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "고귀함; 귀족",
-    "eng": "nobility",
-    "answer_count_kor": 1,
+    "eng": "thread",
+    "kor": "실; (이야기 등의) 줄거리, 맥락; (실 등을) 꿰다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "지휘하다; 행동하다",
-    "eng": "conduct",
-    "answer_count_kor": 1,
+    "eng": "specialist",
+    "kor": "전문가, 전공자; 전문의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "지휘자",
-    "eng": "conductor",
-    "answer_count_kor": 1,
+    "eng": "curb",
+    "kor": "억제[제한]하다; 억제[제한](책); (도로의) 연석",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "조율하다",
-    "eng": "tune",
-    "answer_count_kor": 1,
+    "eng": "feminine",
+    "kor": "여자의, 여성의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "곡조",
-    "eng": "melody",
-    "answer_count_kor": 1,
+    "eng": "diffuse",
+    "kor": "분산[확산]시키다, 퍼지다; 분산된, 널리 퍼진",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "감독",
-    "eng": "director",
-    "answer_count_kor": 1,
+    "eng": "diffusion",
+    "kor": "발산; 보급, 전파",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "감독",
-    "eng": "leader",
-    "answer_count_kor": 1,
+    "eng": "respiratory",
+    "kor": "호흡의, 호흡기의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "연출하다",
-    "eng": "direct",
+    "eng": "respiration",
+    "kor": "호흡",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "감독의",
-    "eng": "directorial",
-    "answer_count_kor": 1,
+    "eng": "kinetic",
+    "kor": "운동의, 운동에 의해 생기는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주제",
-    "eng": "theme",
-    "answer_count_kor": 1,
+    "eng": "examine",
+    "kor": "조사[검토]하다; 검사[진찰]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주제",
-    "eng": "subject",
-    "answer_count_kor": 1,
+    "eng": "examination",
+    "kor": "시험; 조사, 검토; 검사, 검진",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "합창",
-    "eng": "chorus",
+    "eng": "forbid",
+    "kor": "금지하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "합창으로",
-    "eng": "in chorus",
+    "eng": "forbidden",
+    "kor": "금지된",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(연극·연주 등의) 막간",
-    "eng": "interval",
-    "answer_count_kor": 1,
+    "eng": "evacuate",
+    "kor": "대피하다[시키다]; (건물 등을) 비우다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(연극·연설·음악의) 예행연습을 하다",
-    "eng": "rehearse",
-    "answer_count_kor": 1,
+    "eng": "evacuation",
+    "kor": "대피, 피난; 철수",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "예행연습",
-    "eng": "rehearsal",
+    "eng": "civilization",
+    "kor": "문명 (사회)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "작곡하다",
-    "eng": "compose",
-    "answer_count_kor": 1,
+    "eng": "testify",
+    "kor": "(법정에서) 증언[진술]하다; 증명하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "구성하다",
-    "eng": "make up",
-    "answer_count_kor": 1,
+    "eng": "testimony",
+    "kor": "증언; 증거",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "작곡가",
-    "eng": "composer",
-    "answer_count_kor": 1,
+    "eng": "utilize",
+    "kor": "활용하다, 이용하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "작곡",
-    "eng": "composition",
-    "answer_count_kor": 1,
+    "eng": "utilization",
+    "kor": "활용, 이용",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조각(술); 조각하다",
-    "eng": "sculpture",
-    "answer_count_kor": 1,
+    "eng": "condense",
+    "kor": "응결[농축]되다[시키다]; 요약하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조각가",
-    "eng": "sculptor",
-    "answer_count_kor": 1,
+    "eng": "condensation",
+    "kor": "응결; 물방울, 응결된 것; 요약",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "걸작",
-    "eng": "masterpiece",
-    "answer_count_kor": 1,
+    "eng": "condensed",
+    "kor": "응결한, 농축된; 요약한, 간결한",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "(예술품이) 일류의; 고전의; 일류 작가",
-    "eng": "classic",
-    "answer_count_kor": 1,
+    "eng": "prosper",
+    "kor": "번영하다, 번창하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "모방하다; 모조하다",
-    "eng": "imitate",
-    "answer_count_kor": 1,
+    "eng": "prosperity",
+    "kor": "번영, 번창",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "모조하다",
-    "eng": "copy",
+    "eng": "prosperous",
+    "kor": "번영[번창]한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "모방",
-    "eng": "imitation",
-    "answer_count_kor": 1,
+    "eng": "compromise",
+    "kor": "타협(안), 절충(안); 타협하다; 위태롭게 하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "전통",
-    "eng": "tradition",
-    "answer_count_kor": 1,
+    "eng": "evade",
+    "kor": "피하다, 모면하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전통적인",
-    "eng": "traditional",
-    "answer_count_kor": 1,
+    "eng": "evasion",
+    "kor": "회피, 모면",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(감동하여) 외치다",
-    "eng": "exclaim",
-    "answer_count_kor": 1,
+    "eng": "evasive",
+    "kor": "회피하는, 얼버무리는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "외침",
-    "eng": "exclamation",
-    "answer_count_kor": 1,
+    "eng": "deviant",
+    "kor": "(정상에서) 벗어난, 일탈적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "생물",
-    "eng": "creature",
-    "answer_count_kor": 1,
+    "eng": "deviate",
+    "kor": "(진로·원칙 등에서) 벗어나다, 일탈하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "창조하다",
-    "eng": "create",
-    "answer_count_kor": 1,
+    "eng": "deviance",
+    "kor": "일탈, 탈선",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "다른",
-    "eng": "distinct",
-    "answer_count_kor": 1,
+    "eng": "bouquet",
+    "kor": "부케, 꽃다발",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "다른",
-    "eng": "different",
-    "answer_count_kor": 1,
+    "eng": "debris",
+    "kor": "잔해, 파편; 쓰레기",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "별개의",
-    "eng": "individual",
-    "answer_count_kor": 1,
+    "eng": "preach",
+    "kor": "설교하다; (지루하게) 훈계하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와는 다르다",
-    "eng": "be distinct from",
-    "answer_count_kor": 1,
+    "eng": "preacher",
+    "kor": "전도사, 설교자, 목사",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "문맥",
-    "eng": "context",
-    "answer_count_kor": 1,
+    "eng": "utter",
+    "kor": "(입 밖에) 내다, 말하다; 완전한, 전적인",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "문맥의",
-    "eng": "contextual",
-    "answer_count_kor": 1,
+    "eng": "utterance",
+    "kor": "발언, 입 밖에 냄",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "문맥을 무시하고",
-    "eng": "out of context",
-    "answer_count_kor": 1,
+    "eng": "utterly",
+    "kor": "완전히, 전적으로",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(극의) 독백",
-    "eng": "monologue",
-    "answer_count_kor": 1,
+    "eng": "devour",
+    "kor": "게걸스럽게 먹다; 몰두하여 읽다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비극 (작품); 재난",
-    "eng": "tragedy",
-    "answer_count_kor": 1,
+    "eng": "export",
+    "kor": "수출하다; 수출, 수출품",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "희극",
-    "eng": "comedy",
-    "answer_count_kor": 1,
+    "eng": "thrive",
+    "kor": "번창[번영]하다; 잘 자라다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비극의",
-    "eng": "tragic",
+    "eng": "thriving",
+    "kor": "번창[번영]하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄을 서다",
-    "eng": "line up",
+    "eng": "aristocrat",
+    "kor": "귀족",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄을 서다",
-    "eng": "stand in line",
-    "answer_count_kor": 1,
+    "eng": "aristocratic",
+    "kor": "귀족의, 귀족적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "underestimate",
+    "kor": "과소평가하다; (값 등을) 너무 적게 잡다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(다른 사람의 기대에) 부응하다",
-    "eng": "live up to",
+    "eng": "underestimation",
+    "kor": "과소평가",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overestimate",
+    "kor": "과대평가하다; (값 등을) 너무 높게 잡다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 푹 빠져 있다",
-    "eng": "be into",
+    "eng": "overestimation",
+    "kor": "과대평가",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fraud",
+    "kor": "사기(죄), 기만; 사기꾼",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fraudulent",
+    "kor": "사기의, 사기를 치는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tone down",
+    "kor": "(표현 등을) 누그러뜨리다, 완화하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "give away",
+    "kor": "(무료로) 나누어 주다; (비밀 등을) 누설하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pull out of",
+    "kor": "(사업 등에서) 손을 떼다, 철수하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
