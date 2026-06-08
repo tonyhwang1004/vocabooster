@@ -1,380 +1,368 @@
 [
   {
-    "kor": "보도하다",
-    "eng": "report",
+    "eng": "distort",
+    "kor": "일그러뜨리다, 비틀다; (사실 등을) 왜곡하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distortion",
+    "kor": "비틀림; 왜곡(된 사실)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indeed",
+    "kor": "실제로, 사실은; 정말, 참으로",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "patent",
+    "kor": "특허(권); 특허의; 명백한, 뻔한; 특허를 받다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "magnify",
+    "kor": "확대하다; 과장하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "magnification",
+    "kor": "확대; 확대율, 배율",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nasty",
+    "kor": "불쾌한, 역겨운; 못된, 심술궂은",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insert",
+    "kor": "삽입하다, 끼워 넣다; 삽입물, 삽입 광고",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insertion",
+    "kor": "삽입, 끼워 넣기; 삽입된 것",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "demolish",
+    "kor": "철거하다, 파괴하다; (이론 등을) 뒤집다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "demolition",
+    "kor": "철거, 파괴",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "troop",
+    "kor": "군대, 병력; 무리, 떼; 무리 지어 이동하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "province",
+    "kor": "주, 도; 지방; 분야",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "provincial",
+    "kor": "주[도]의; 지방의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inexcusable",
+    "kor": "변명의 여지가 없는, 용서[용납]할 수 없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gaze",
+    "kor": "응시하다, 바라보다; 응시",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "orbit",
+    "kor": "궤도; 영향권, 세력권; 궤도를 돌다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "orbital",
+    "kor": "궤도(상)의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보도하다",
-    "eng": "inform",
+    "eng": "dispel",
+    "kor": "(근심 등을) 떨쳐 버리다, 없애다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reform",
+    "kor": "개혁하다, 개선하다; 개혁, 개선",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reformation",
+    "kor": "개혁, 개선",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reformer",
+    "kor": "개혁가",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보도할 수 있는",
-    "eng": "reportable",
+    "eng": "disobedient",
+    "kor": "반항하는, 거역하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disobey",
+    "kor": "거역하다, 불복종하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disobedience",
+    "kor": "불복종, 반항",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resign",
+    "kor": "사임[사직]하다; 체념[단념]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resignation",
+    "kor": "사임, 사직(서); 체념",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indubitable",
+    "kor": "의심할 여지가 없는, 명백한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shield",
+    "kor": "방패; 보호 장치; 보호하다, 막다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "celebrity",
+    "kor": "유명 인사, 연예인; 명성",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "municipal",
+    "kor": "지방 자치(제)의, 시의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "delegate",
+    "kor": "대표(자); (권한 등을) 위임하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "delegation",
+    "kor": "대표단; 위임",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "await",
+    "kor": "기다리다, 대기하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glorify",
+    "kor": "미화하다; (신 등을) 찬미[찬양]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glorification",
+    "kor": "미화; 찬미, 찬양",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glorious",
+    "kor": "영광스러운; 장엄한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "retreat",
+    "kor": "후퇴하다, 물러나다; 후퇴, 철수; 도피; 휴식처",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "idle",
+    "kor": "게으른; (기계·사람이) 일이 없는, 놀고 있는; 빈둥거리다; 공회전하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "foretell",
+    "kor": "예언하다, 예지하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "anatomy",
+    "kor": "해부학; (해부학적) 구조",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "anatomical",
+    "kor": "해부(학)의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "신문",
-    "eng": "press",
+    "eng": "stain",
+    "kor": "얼룩, 자국; 얼룩지게 하다, 더럽히다[더러워지다]",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "facade",
+    "kor": "(건물의) 정면, 전면; 겉모습, 허울",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "install",
+    "kor": "설치[설비]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기자 회견",
-    "eng": "press conference",
+    "eng": "installation",
+    "kor": "설치, 설비; 장치",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dwindle",
+    "kor": "(점차) 줄어들다, 감소하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "simultaneously",
+    "kor": "동시에",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(신문·잡지의) 기사",
-    "eng": "article",
+    "eng": "simultaneous",
+    "kor": "동시에 일어나는, 동시의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spontaneous",
+    "kor": "자발적인; 즉흥적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spontaneously",
+    "kor": "자발적으로; 즉흥적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spontaneity",
+    "kor": "자발성, 즉흥성; 자연스러움",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "invaluable",
+    "kor": "매우 유용한, 매우 귀중한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "valueless",
+    "kor": "무가치한, 쓸모없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regress",
+    "kor": "퇴보[퇴행]하다, 회귀하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regression",
+    "kor": "퇴행, 퇴보",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regressive",
+    "kor": "퇴보[퇴행]하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "잡지",
-    "eng": "journal",
-    "answer_count_kor": 1,
+    "eng": "work on",
+    "kor": "~을 작업하다; (개선·설득 등을 위해) 애쓰다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "보도 기자",
-    "eng": "journalist",
-    "answer_count_kor": 1,
+    "eng": "carry over",
+    "kor": "(다른 상황에도) 계속 이어지다; ~을 넘기다, 이월하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "방송하다",
-    "eng": "broadcast",
-    "answer_count_kor": 1,
+    "eng": "leak out",
+    "kor": "(비밀·정보 등이) 누설되다, 유출되다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "방송하다",
-    "eng": "air",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방송국",
-    "eng": "broadcasting station",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(안내문 등을) 게시[공고]하다; 게시글",
-    "eng": "post",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(사진 등을 위한) 자세를 취하다; 자세",
-    "eng": "pose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자세",
-    "eng": "posture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(연극·영화의) 장면",
-    "eng": "scene",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무대 장치의",
-    "eng": "scenic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조사",
-    "eng": "survey",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대중",
-    "eng": "mass",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대중 매체",
-    "eng": "mass communication[media]",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사실의",
-    "eng": "factual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "허구의",
-    "eng": "fictitious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사실",
-    "eng": "fact",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명성",
-    "eng": "fame",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명성",
-    "eng": "reputation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유명한",
-    "eng": "famous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "투표",
-    "eng": "poll",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "채널; 수로",
-    "eng": "channel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비판하다",
-    "eng": "criticize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "칭찬하다",
-    "eng": "praise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비평가",
-    "eng": "critic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비난",
-    "eng": "criticism",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "칭찬",
-    "eng": "compliment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "칭찬의",
-    "eng": "complimentary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연속물",
-    "eng": "series",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연속물",
-    "eng": "sequence",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(신문·잡지 등의) 연재 기사",
-    "eng": "feature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기사",
-    "eng": "feature story",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(방송의) 대본",
-    "eng": "script",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보고",
-    "eng": "bulletin",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "게시판",
-    "eng": "bulletin board",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(영화의) 시사회",
-    "eng": "preview",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(영화의) 시사회",
-    "eng": "trailer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비평",
-    "eng": "review",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신문의 칸",
-    "eng": "column",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "칼럼니스트",
-    "eng": "columnist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(레코드를) 발매하다",
-    "eng": "release",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(뉴스를) 발표하다",
-    "eng": "issue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(공식 발표 등의) 보도 자료",
-    "eng": "release copy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "알리다",
-    "eng": "announce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "알리다",
-    "eng": "declare",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "아나운서",
-    "eng": "announcer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공시",
-    "eng": "public announcement",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "드러내다",
-    "eng": "reveal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "드러내다",
-    "eng": "disclose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청중",
-    "eng": "audience",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청중",
-    "eng": "spectator",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청중",
-    "eng": "crowd",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시청률 조사",
-    "eng": "audience research",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "패널",
-    "eng": "panel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공개 토론회(여러 명의 전문가나 대표자가 청중앞에서 진행하는 토론)",
-    "eng": "panel discussion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "초점을 맞추다",
-    "eng": "focus",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 두고 논쟁하다",
-    "eng": "argue over",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 생각해 내다",
-    "eng": "come up with",
-    "answer_count_kor": 1,
+    "eng": "keep off",
+    "kor": "~에 가까이 가지 않다, 가까이 못 오게 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
