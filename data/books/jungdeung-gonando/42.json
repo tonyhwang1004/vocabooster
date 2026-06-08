@@ -1,476 +1,410 @@
 [
   {
-    "kor": "다양성",
-    "eng": "variety",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바뀌다",
-    "eng": "vary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바뀔 수 있는",
-    "eng": "variable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다양한",
-    "eng": "a variety of",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정사각형; 제곱; 광장; 정사각형의",
-    "eng": "square",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연약한",
-    "eng": "delicate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "편평한; (英) 플랫",
-    "eng": "flat",
-    "answer_count_kor": 1,
+    "eng": "nuclear",
+    "kor": "원자력의; 핵(무기)의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "편평한",
-    "eng": "level",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "울퉁불퉁한",
-    "eng": "uneven",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(美) 아파트",
-    "eng": "apartment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평평하게 하다",
-    "eng": "flatten",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바람 빠진 타이어",
-    "eng": "flat (tire)",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "폭 넓은",
-    "eng": "broad",
-    "answer_count_kor": 1,
+    "eng": "nucleus",
+    "kor": "원자핵; 세포핵; 핵심",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "폭 넓은",
-    "eng": "wide",
-    "answer_count_kor": 1,
+    "eng": "sacrifice",
+    "kor": "희생하다; 제물로 바치다; 희생(물); 제물",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "소형의",
-    "eng": "compact",
-    "answer_count_kor": 1,
+    "eng": "sacrificial",
+    "kor": "희생적인; 제물의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "좁은",
-    "eng": "narrow",
-    "answer_count_kor": 1,
+    "eng": "presumably",
+    "kor": "아마, 짐작건대",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "간단한",
-    "eng": "brief",
+    "eng": "presume",
+    "kor": "추정[가정]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "간단히 말해서",
-    "eng": "in brief",
-    "answer_count_kor": 1,
+    "eng": "recharge",
+    "kor": "(배터리 등을) 충전하다; (에너지 등을) 재충전하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "날카로운; 급격한; 예리한",
-    "eng": "sharp",
+    "eng": "altruistic",
+    "kor": "이타적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "날카로운",
-    "eng": "keen",
-    "answer_count_kor": 1,
+    "eng": "altruism",
+    "kor": "이타주의, 이타심",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "무딘",
-    "eng": "dull",
-    "answer_count_kor": 1,
+    "eng": "acclaim",
+    "kor": "찬사, 호평; 칭송하다, 환호를 보내다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "날카롭게 하다",
-    "eng": "sharpen",
-    "answer_count_kor": 1,
+    "eng": "acclamation",
+    "kor": "환호, 갈채",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "소중한",
-    "eng": "precious",
-    "answer_count_kor": 1,
+    "eng": "retrospect",
+    "kor": "회상, 회고, 추억",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "소중한",
-    "eng": "valuable",
-    "answer_count_kor": 1,
+    "eng": "retrospective",
+    "kor": "회상하는; 소급 적용되는; (화가의) 회고전",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "귀중함",
-    "eng": "preciousness",
-    "answer_count_kor": 1,
+    "eng": "convergence",
+    "kor": "(의견·목표 등의) 수렴, 일치; (기술 등의) 융합",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "인공적인; 가짜의",
-    "eng": "artificial",
-    "answer_count_kor": 1,
+    "eng": "converge",
+    "kor": "모여들다; 수렴하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "자연적인",
-    "eng": "natural",
+    "eng": "convergent",
+    "kor": "수렴하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "진짜의",
-    "eng": "authentic",
-    "answer_count_kor": 1,
+    "eng": "colony",
+    "kor": "식민지; 집단, 군집",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "거인 같은",
-    "eng": "gigantic",
-    "answer_count_kor": 1,
+    "eng": "colonial",
+    "kor": "식민(지)의; 식민지 주민",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "작은",
-    "eng": "tiny",
+    "eng": "colonization",
+    "kor": "식민지화",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "거인; 거대한",
-    "eng": "giant",
-    "answer_count_kor": 1,
+    "eng": "aviation",
+    "kor": "항공(술), 비행(술)",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "엄청난",
-    "eng": "enormous",
-    "answer_count_kor": 1,
+    "eng": "yield",
+    "kor": "산출[생산]하다; 굴복하다; 양보하다; 산출[수확]량; 수익",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "궁극적인",
-    "eng": "ultimate",
-    "answer_count_kor": 1,
+    "eng": "tread",
+    "kor": "밟다, 디디다; 발소리; 걸음걸이; (타이어의) 접지면",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "궁극적인",
-    "eng": "final",
-    "answer_count_kor": 1,
+    "eng": "unsuited",
+    "kor": "부적합한, 어울리지 않는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "희미한",
-    "eng": "faint",
-    "answer_count_kor": 1,
+    "eng": "proactive",
+    "kor": "상황을 앞서서 주도하는, 선제적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "희미한",
-    "eng": "dim",
-    "answer_count_kor": 1,
+    "eng": "studious",
+    "kor": "열심히 공부하는, 학구적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "명확한",
-    "eng": "clear",
-    "answer_count_kor": 1,
+    "eng": "sprawl",
+    "kor": "팔다리를 쭉 뻗고 눕다[앉다]; (도시 등이) 무질서하게 퍼지다; 난개발",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "가파른",
-    "eng": "steep",
-    "answer_count_kor": 1,
+    "eng": "uniformity",
+    "kor": "획일성, 균일성",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "가파른 상승",
-    "eng": "steep rise",
-    "answer_count_kor": 1,
+    "eng": "uniform",
+    "kor": "제복; 획일적인, 균일한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "근본[기본]적인",
-    "eng": "fundamental",
-    "answer_count_kor": 1,
+    "eng": "uniformly",
+    "kor": "획일적으로, 균일하게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "근본[기본]적인",
-    "eng": "basic",
-    "answer_count_kor": 1,
+    "eng": "disposable",
+    "kor": "일회용의; (자유롭게) 이용[처분] 가능한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "근본[기본]적인",
-    "eng": "essential",
-    "answer_count_kor": 1,
+    "eng": "extinguish",
+    "kor": "(불을) 끄다; (희망 등을) 없애다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "얕은",
-    "eng": "shallow",
+    "eng": "extinguisher",
+    "kor": "소화기",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "깊은",
-    "eng": "deep",
-    "answer_count_kor": 1,
+    "eng": "disprove",
+    "kor": "틀렸음을 입증하다, 반증하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "얕음",
-    "eng": "shallowness",
-    "answer_count_kor": 1,
+    "eng": "disproof",
+    "kor": "반증, 논박",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "상징적인",
-    "eng": "symbolic",
-    "answer_count_kor": 1,
+    "eng": "polarization",
+    "kor": "양극화, 분열, 대립",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "상징",
-    "eng": "symbol",
+    "eng": "polarize",
+    "kor": "양극화되다[시키다]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "적당한",
-    "eng": "appropriate",
-    "answer_count_kor": 1,
+    "eng": "enlarge",
+    "kor": "확대하다[되다], 확장하다[되다]",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "적당한",
-    "eng": "proper",
-    "answer_count_kor": 1,
+    "eng": "enlargement",
+    "kor": "확대, 확장",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "부적당한",
-    "eng": "inappropriate",
+    "eng": "pollinate",
+    "kor": "수분하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "극단의",
-    "eng": "extreme",
+    "eng": "pollination",
+    "kor": "수분 (작용)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "중간 정도의",
-    "eng": "moderate",
+    "eng": "pollinator",
+    "kor": "(곤충 등의) 꽃가루 매개자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "알맞음",
-    "eng": "moderation",
+    "eng": "tersely",
+    "kor": "간결하게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "중재자",
-    "eng": "moderator",
+    "eng": "terse",
+    "kor": "간결한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유연성 있는",
-    "eng": "flexible",
-    "answer_count_kor": 1,
+    "eng": "accommodation",
+    "kor": "숙박 시설; 편의; 화해, 합의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "융통성 없는",
-    "eng": "inflexible",
-    "answer_count_kor": 1,
+    "eng": "accommodate",
+    "kor": "(사람을) 수용하다; 편의를 제공하다; (요구·상황 등에) 맞추다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "유연성",
-    "eng": "flexibility",
-    "answer_count_kor": 1,
+    "eng": "savor",
+    "kor": "맛보다, 음미하다; (경험 등을) 즐기다; 맛, 풍미",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "단조로운",
-    "eng": "monotonous",
-    "answer_count_kor": 1,
+    "eng": "savory",
+    "kor": "풍미 있는; 짭짤한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "단조로운",
-    "eng": "boring",
-    "answer_count_kor": 1,
+    "eng": "intelligible",
+    "kor": "(쉽게) 이해할 수 있는, 명료한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "다양한",
-    "eng": "varied",
-    "answer_count_kor": 1,
+    "eng": "intelligibility",
+    "kor": "이해하기 쉬움, 명료함",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "단조로움",
-    "eng": "monotone",
-    "answer_count_kor": 1,
+    "eng": "synonymous",
+    "kor": "(밀접한 관계가 있어) 동의어와 같은; 동의어[유의어]인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "애매한",
-    "eng": "unclear",
-    "answer_count_kor": 1,
+    "eng": "synonym",
+    "kor": "동의어, 유의어",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "불분명",
-    "eng": "obscurity",
-    "answer_count_kor": 1,
+    "eng": "compatible",
+    "kor": "양립할 수 있는; 호환되는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "애매한",
-    "eng": "obscure",
-    "answer_count_kor": 1,
+    "eng": "compatibility",
+    "kor": "양립[공존] 가능성; 호환성",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "결점",
-    "eng": "drawback",
-    "answer_count_kor": 1,
+    "eng": "tranquil",
+    "kor": "평온한, 고요한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "결점",
-    "eng": "disadvantage",
-    "answer_count_kor": 1,
+    "eng": "tranquility",
+    "kor": "평온, 고요함",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "역설",
-    "eng": "paradox",
-    "answer_count_kor": 1,
+    "eng": "sanction",
+    "kor": "제재, 처벌; 승인, 인가; 승인[인가]하다; 제재[처벌]하다",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "역설적인",
-    "eng": "paradoxical",
-    "answer_count_kor": 1,
+    "eng": "momentary",
+    "kor": "순간적인, 잠깐의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "묘사하다",
-    "eng": "describe",
-    "answer_count_kor": 1,
+    "eng": "momentarily",
+    "kor": "잠시; 곧, 금방",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "묘사",
-    "eng": "description",
-    "answer_count_kor": 1,
+    "eng": "momentous",
+    "kor": "중대한, 중요한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "묘사적인",
-    "eng": "descriptive",
-    "answer_count_kor": 1,
+    "eng": "considerable",
+    "kor": "상당한, 많은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라운 일; 놀라다",
-    "eng": "marvel",
-    "answer_count_kor": 1,
+    "eng": "considerably",
+    "kor": "상당히, 꽤",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라다",
-    "eng": "wonder",
-    "answer_count_kor": 1,
+    "eng": "considerate",
+    "kor": "사려 깊은, 배려하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라운",
-    "eng": "marvelous",
-    "answer_count_kor": 1,
+    "eng": "consideration",
+    "kor": "사려, 숙고; 고려 사항; 배려",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "반짝이다; 반짝거림",
-    "eng": "glitter",
-    "answer_count_kor": 1,
+    "eng": "peasant",
+    "kor": "소작농, 농민",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와 다르다",
-    "eng": "differ from",
-    "answer_count_kor": 1,
+    "eng": "face up to",
+    "kor": "(어려움 등을) 받아들이다, 직시하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 상징하다",
-    "eng": "stand for",
+    "eng": "let in on",
+    "kor": "(비밀 등을) 알려 주다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 상징하다",
-    "eng": "represent",
-    "answer_count_kor": 1,
+    "eng": "reach for",
+    "kor": "~에 손을 뻗다; (목표 등을) 추구하다, 시도하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 옹호[찬성]하다",
-    "eng": "advocate",
-    "answer_count_kor": 1,
+    "eng": "pass out",
+    "kor": "의식을 잃다, 기절하다; ~을 나누어 주다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
