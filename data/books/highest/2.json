@@ -1,182 +1,182 @@
 [
   {
-    "kor": "당황하게 하다",
-    "eng": "bewilder",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(식품 등이) 신선하지 않은",
-    "eng": "stale",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "계몽된",
-    "eng": "enlightened",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정맥",
-    "eng": "vein",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "악화",
-    "eng": "deterioration",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제초제",
-    "eng": "herbicide",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비행 중인",
-    "eng": "airborne",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "찾기규정하기/달성하기 힘든",
-    "eng": "elusive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "산수",
-    "eng": "arithmetic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "냄새",
-    "eng": "scent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "도구",
-    "eng": "implement",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소작농",
-    "eng": "peasant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "묵살하다",
-    "eng": "dismiss",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "합성의",
-    "eng": "compound",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자식",
-    "eng": "offspring",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "들러붙다",
-    "eng": "adhere",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "미생물",
-    "eng": "microbe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기다",
     "eng": "crawl",
+    "kor": "기다, 기어가다; 기어가기, 서행",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compound",
+    "kor": "합성의, 복합의; 혼합물, 합성물; 섞다, 혼합하다; ~으로 구성되다; 악화시키다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elusive",
+    "kor": "찾기힘든",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "은유",
-    "eng": "metaphor",
+    "eng": "implement",
+    "kor": "도구, 기구; 시행하다, 이행하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dismiss",
+    "kor": "묵살하다, 일축하다; 해고하다, 해산시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vein",
+    "kor": "정맥, 혈관; 잎맥; 방식, 태도, 맥락",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arithmetic",
+    "kor": "산수, 산술, 계산; 산수의, 산술의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "herbicide",
+    "kor": "제초제",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기근",
-    "eng": "famine",
-    "answer_count_kor": 1,
+    "eng": "enlightened",
+    "kor": "계몽된, 현명한, 정통한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "기구",
-    "eng": "apparatus",
-    "answer_count_kor": 1,
+    "eng": "with regard to",
+    "kor": "~에 관해서, ~과 관련하여",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "중앙",
-    "eng": "midst",
-    "answer_count_kor": 1,
+    "eng": "peasant",
+    "kor": "소작농, 농민",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이전하다",
-    "eng": "relocate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "체포하다",
-    "eng": "apprehend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대의",
-    "eng": "adverse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "회전하다",
     "eng": "rotate",
-    "answer_count_kor": 1,
+    "kor": "회전하다, 회전시키다; 교대로 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(가축을) 풀을 먹다",
-    "eng": "graze",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "꾸미다",
-    "eng": "adorn",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 관해서",
-    "eng": "within regard to",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에게 양보하다",
     "eng": "give way to",
+    "kor": "~에게 양보하다; ~에게 항복하다; ~로 바뀌다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "metaphor",
+    "kor": "은유, 비유",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stale",
+    "kor": "신선하지 않은, 퀴퀴한; 진부한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bewilder",
+    "kor": "당황하게 하다, 어리둥절하게 만들다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adorn",
+    "kor": "꾸미다, 장식하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adhere",
+    "kor": "들러붙다, 고수하다, 신봉하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "apprehend",
+    "kor": "체포하다: 파악하다, 이해하다; 우려하다, 염려하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adverse",
+    "kor": "반대의, 거스르는; 부정적인, 해 로운; 불리한, 불운한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "microbe",
+    "kor": "미생물, 세균",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "graze",
+    "kor": "풀을 먹다; 방목하다; 까지게하 다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "relocate",
+    "kor": "이전하다, 이동하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "midst",
+    "kor": "중앙, 가운데",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scent",
+    "kor": "냄새, 향기; 냄새를 맡다, 냄새 로 찾아내다; 알아채다, 감지하 다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deterioration",
+    "kor": "악화, 저하, 퇴화",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "famine",
+    "kor": "기근, 기아; 고갈, 결핍, 부족",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "apparatus",
+    "kor": "기구, 장치; 기관; 조직체, 기구",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "airborne",
+    "kor": "비행 중인, 공중에 떠 있는; 공 기로 운반되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "offspring",
+    "kor": "자식, 자손, 새끼; 파생물, 결과, 산물",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   }
 ]
