@@ -1,181 +1,421 @@
 [
   {
-    "kor": "온라인의",
-    "eng": "online",
+    "eng": "immediately",
+    "kor": "즉시, 바로; 바로 옆에, 가까이에",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immediate",
+    "kor": "즉각적인; 당면한; 바로 옆의, 직접적인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "propel",
+    "kor": "나아가게 하다, 추진하다; (사람을) 몰아대다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pillar",
+    "kor": "기둥, 기념비; (조직·제도 등의) 핵심",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "propaganda",
+    "kor": "(정치적·사회적) 선전",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "데이터베이스(관련 데이터를 축적하여 이용할 수 있게 한 것)",
-    "eng": "database",
+    "eng": "propagate",
+    "kor": "전파[선전]하다; 번식시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "curriculum",
+    "kor": "교육[교과] 과정, 커리큘럼",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "curricular",
+    "kor": "교육 과정의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(이미지 등을) 포착하다",
-    "eng": "capture",
+    "eng": "affiliate",
+    "kor": "제휴하다, 연계하다; 가입하다; 계열사, 지부",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "affiliation",
+    "kor": "가입, 소속; 제휴",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "democratize",
+    "kor": "민주화하다; 대중화하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "democratization",
+    "kor": "민주화",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(컴퓨터) 도구",
-    "eng": "tool",
+    "eng": "dictate",
+    "kor": "받아쓰게 하다; 지시[명령]하다; 영향을 주다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dictation",
+    "kor": "받아쓰기, 구술; 명령",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dictator",
+    "kor": "독재자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "폐물",
-    "eng": "junk",
+    "eng": "boundary",
+    "kor": "경계(선); 한계, 범위",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regime",
+    "kor": "정권; 제도, 체제",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "internalize",
+    "kor": "(신념·가치 등을) 내면화[내재화]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "삭제하다",
-    "eng": "delete",
+    "eng": "internalization",
+    "kor": "내면화, 내재화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assure",
+    "kor": "장담하다, 보증하다; 확실하게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assurance",
+    "kor": "보증, 확언; 확신",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assured",
+    "kor": "자신 있는; 확실한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strategy",
+    "kor": "전략, 계획",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strategic",
+    "kor": "전략적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의사소통하다",
-    "eng": "communicate",
+    "eng": "pinpoint",
+    "kor": "정확히 찾아내다[지적하다]; 정확한, 정밀한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enclose",
+    "kor": "둘러싸다, 에워싸다; 동봉하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enclosure",
+    "kor": "(울타리로) 둘러쌈; 동봉(한 것)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "laden",
+    "kor": "잔뜩 실은, 가득한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preoccupy",
+    "kor": "마음을 빼앗다, 몰두하게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preoccupied",
+    "kor": "몰두한, 정신이 팔린",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preoccupation",
+    "kor": "몰두; 집착",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recreate",
+    "kor": "되살리다, 재현하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "turmoil",
+    "kor": "혼란, 소란, 동요",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insolvent",
+    "kor": "파산한, 지급 불능의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insolvency",
+    "kor": "지급 불능, 파산",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agriculture",
+    "kor": "농업, 농사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agricultural",
+    "kor": "농업[농사]의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "검색하다",
-    "eng": "browse",
+    "eng": "combustion",
+    "kor": "연소, 불이 탐",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "probe",
+    "kor": "캐묻다, 조사하다; 탐사하다; 조사; (우주) 탐사선",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "probing",
+    "kor": "속을 캐보는, 철저히 조사하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "secure",
+    "kor": "확보[획득]하다; 안전하게 하다; 안전한; 확실한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "security",
+    "kor": "보안, 경비; 보장",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "securely",
+    "kor": "안전하게; 확실하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dispute",
+    "kor": "논쟁, 분쟁; 반박하다; 다투다, 논쟁하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consult",
+    "kor": "상담하다; 상의하다; 참고하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consultation",
+    "kor": "상의, 협의; 상담, 진찰",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consultant",
+    "kor": "상담가, 컨설턴트",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enroll",
+    "kor": "등록하다[시키다], 입학하다[시키다]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enrollment",
+    "kor": "등록, 입학; 등록자 수",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "terrestrial",
+    "kor": "지구상의; 육지에 사는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transform",
+    "kor": "변형시키다, 완전히 바꾸다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transformation",
+    "kor": "(완전한) 변화, 변형",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "parasitic",
+    "kor": "기생하는; 기생충의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "parasite",
+    "kor": "기생 동물[식물], 기생충",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pictogram",
+    "kor": "그림 문자, 그림 그래프",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "projection",
+    "kor": "(비용·규모 등의) 예상, 추정; 투영, 투사",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "project",
+    "kor": "계획, 프로젝트; 계획하다; 예상[추정]하다; 투영[투사]하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "literacy",
+    "kor": "읽고 쓰는 능력; (특정 분야의) 역량",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "literate",
+    "kor": "읽고 쓸 줄 아는; (특정 분야의) 지식이 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intelligent",
+    "kor": "똑똑한, 지적인; 지능이 있는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intelligence",
+    "kor": "지능, 사고력, 이해력; 첩보, (기밀) 정보",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intellectual",
+    "kor": "지적인, 지성의; 지식인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intellect",
+    "kor": "지성, 사고력",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intellectually",
+    "kor": "지적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "링크",
-    "eng": "link",
+    "eng": "persecution",
+    "kor": "(종교적·정치적) 박해, 탄압",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "persecute",
+    "kor": "박해하다; 귀찮게[못살게]굴다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "step in",
+    "kor": "(문제 해결을 위해) 개입하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "구두의",
-    "eng": "oral",
+    "eng": "carry through",
+    "kor": "~을 완수하다, 해내다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "put A into B",
+    "kor": "A를 B에 들이다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "편집하다; 교정하다",
-    "eng": "edit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경고하다",
-    "eng": "warn",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(인터넷의) 닷",
-    "eng": "dot",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시각의",
-    "eng": "visual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "프로필",
-    "eng": "profile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "접근",
-    "eng": "access",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보급시키다",
-    "eng": "circulate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "활성화하다",
-    "eng": "activate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(인터넷상의) 정보를 찾아다니다; 파도타기를 하다",
-    "eng": "surf",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "요청",
-    "eng": "request",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방해하다",
-    "eng": "interrupt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(이야기·행동 등의 일시적) 중단; 잠시 멈추다",
-    "eng": "pause",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "응답",
-    "eng": "response",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "토론",
-    "eng": "debate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비논리적인",
-    "eng": "illogical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주저하다",
-    "eng": "hesitate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가정하다",
-    "eng": "suppose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결합시키다",
-    "eng": "combine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 접촉[연락]을 유지하다; (특정 분야에서 일어나는 일을) 계속 접하다[알다]",
-    "eng": "keep in touch with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "남의 대화에 끼어들다",
-    "eng": "cut in",
+    "eng": "live out",
+    "kor": "(예전에 생각만 하던 것을) 실현하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
