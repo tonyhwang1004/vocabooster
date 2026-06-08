@@ -1,181 +1,511 @@
 [
   {
-    "kor": "(시골의) 작은 집",
-    "eng": "cottage",
+    "eng": "reference",
+    "kor": "언급; 참조, 참고; 추천서",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refer",
+    "kor": "언급하다; 참조[참고]하다; 나타내다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "range",
+    "kor": "범위; 다양성; 산맥; (범위가 ~에) 이르다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "applaud",
+    "kor": "박수갈채하다; 칭찬하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "applause",
+    "kor": "박수(갈채)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "값을 매길 수 없는",
-    "eng": "priceless",
+    "eng": "exert",
+    "kor": "(힘·능력 등을) 쓰다, 행사하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exertion",
+    "kor": "노력, 분투; (영향력의) 행사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mutual",
+    "kor": "상호 간의, 서로의; 공통의, 공동의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mutually",
+    "kor": "서로, 공통으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interpret",
+    "kor": "(의미를) 해석하다, 이해하다; 통역하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interpreter",
+    "kor": "통역사",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(수도 등의) 꼭지",
-    "eng": "tap",
+    "eng": "interpretation",
+    "kor": "해석, 이해",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rotate",
+    "kor": "회전하다[시키다]; 교대로 근무하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rotation",
+    "kor": "회전, 자전; 순환; 교대",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rotary",
+    "kor": "회전하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경보기; 자명종; 놀람",
-    "eng": "alarm",
+    "eng": "clinical",
+    "kor": "임상의, 임상적인; 냉담한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clinically",
+    "kor": "임상적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "어질러진 것",
-    "eng": "mess",
+    "eng": "ecosystem",
+    "kor": "생태계",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "평소의",
-    "eng": "usual",
+    "eng": "sustain",
+    "kor": "유지[지속]하다; 지탱하다; (피해 등을) 입다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sustainable",
+    "kor": "지속 가능한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "판에 박힌 일",
-    "eng": "routine",
+    "eng": "sustainability",
+    "kor": "지속 가능성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "믿다",
-    "eng": "rely",
+    "eng": "sustained",
+    "kor": "지속적인, 일관된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cuisine",
+    "kor": "(특별한) 요리(법)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "먼지를 털다; 먼지",
-    "eng": "dust",
+    "eng": "astronomy",
+    "kor": "천문학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "펴다",
-    "eng": "spread",
+    "eng": "astronomer",
+    "kor": "천문학자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "세척하다",
-    "eng": "cleanse",
+    "eng": "astronomical",
+    "kor": "천문학의; (수량이) 천문학적인, 엄청난",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interact",
+    "kor": "소통[교류]하다; 상호 작용을 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interaction",
+    "kor": "상호 작용",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "닦다",
-    "eng": "wipe",
+    "eng": "interactive",
+    "kor": "상호적인, 상호 작용을 하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "universal",
+    "kor": "보편적인, 일반적인; 전 세계적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "universally",
+    "kor": "보편적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(대걸레로) 닦다; 대걸레",
-    "eng": "mop",
+    "eng": "universality",
+    "kor": "보편성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "서랍; (항상 복수형) 장롱",
-    "eng": "drawer",
+    "eng": "acquaintance",
+    "kor": "지인; 친분",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acquainted",
+    "kor": "정통한; 안면이 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "variation",
+    "kor": "변화, 차이; 변형; 변주곡",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vary",
+    "kor": "바꾸다; 서로 다르다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "variance",
+    "kor": "변화[변동](량)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(보통 복수형) 계단",
-    "eng": "stair",
+    "eng": "toll",
+    "kor": "통행료; 사상자 수; 종소리; 종이 울리다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dedicate",
+    "kor": "바치다, 헌신[전념]하다; 헌정하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dedicated",
+    "kor": "전념하는, 헌신적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dedication",
+    "kor": "전념, 헌신",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "associate",
+    "kor": "연상하다, 관련짓다; 교제하다; 동료",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "association",
+    "kor": "협회; 유대; 연관(성)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "withdraw",
+    "kor": "철수하다; 철회[취소]하다; 인출하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "withdrawal",
+    "kor": "철수, 탈퇴; 철회, 취소; 인출",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "equity",
+    "kor": "공평, 공정; 자기 자본, 순자산",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "equitable",
+    "kor": "공정한, 공평한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humiliate",
+    "kor": "굴욕감을 주다, 창피를 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humiliation",
+    "kor": "창피, 굴욕",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humiliating",
+    "kor": "굴욕적인, 창피한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extraordinary",
+    "kor": "비범한, 대단한; 이상한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "document",
+    "kor": "서류, 문서; 기록하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "documentary",
+    "kor": "다큐멘터리, 기록물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "documentation",
+    "kor": "기록, 문서화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "barrier",
+    "kor": "장애물, 장벽",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "canal",
+    "kor": "수로, 운하",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "license",
+    "kor": "면허(증), 인가(증); 허가하다, 면허를 주다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "licensed",
+    "kor": "허가를 받은, 면허를 받은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "craft",
+    "kor": "(수)공예; 기술; 배, 비행기, 우주선; 공들여 만들다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crafty",
+    "kor": "술수가 뛰어난, 교활한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intrude",
+    "kor": "침입[침범]하다; 방해하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intrusion",
+    "kor": "침범, 침해; (무단) 침입",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intruder",
+    "kor": "침입자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "쓰레기",
-    "eng": "rubbish",
+    "eng": "intrusive",
+    "kor": "거슬리는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "처리하다",
-    "eng": "dispose",
+    "eng": "authentic",
+    "kor": "정통의; 진짜의, 진품의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "authenticity",
+    "kor": "진짜임",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(불필요한 것을) 버리다",
-    "eng": "discard",
+    "eng": "mutation",
+    "kor": "돌연변이; 변화, 변형",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mutate",
+    "kor": "돌연변이가 되다; 변형되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mutant",
+    "kor": "돌연변이의; 돌연변이체, 변종",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wander",
+    "kor": "돌아다니다, 헤매다; (주의가) 산만해지다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wandering",
+    "kor": "돌아다니는; 산만한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "literary",
+    "kor": "문학의, 문학적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "literature",
+    "kor": "문학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(가정용) 기구",
-    "eng": "appliance",
+    "eng": "expand",
+    "kor": "확장[확대]하다, 늘리다; 자세히 설명하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expansion",
+    "kor": "확장, 확대, 팽창",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expansive",
+    "kor": "광활한; 포괄적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expend",
+    "kor": "(많은 돈·시간·에너지를) 소비하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "넓은",
-    "eng": "spacious",
+    "eng": "expense",
+    "kor": "지출, 비용",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expenditure",
+    "kor": "지출; 소비, 소모",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "capitalism",
+    "kor": "자본주의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(집안의) 자질구레한 일",
-    "eng": "chore",
+    "eng": "capitalist",
+    "kor": "자본주의자; 자본가",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "call forth",
+    "kor": "(반응·감정 등을) 불러일으키다, 유발하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "get by",
+    "kor": "그럭저럭 살아가다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "닦다",
-    "eng": "polish",
-    "answer_count_kor": 1,
+    "eng": "bring over",
+    "kor": "~을 가지고 오다, 데리고 오다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(물·액체 등으로) 씻어 내리다; (얼굴을) 붉히다",
-    "eng": "flush",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "낮잠",
-    "eng": "nap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "코드 구멍",
-    "eng": "outlet",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다듬다",
-    "eng": "trim",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "깨지다",
-    "eng": "crack",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "새어나옴",
-    "eng": "leak",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 다 써 버리다",
-    "eng": "run out of",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 걸다[매달다]; 전화를 끊다",
-    "eng": "hang up",
+    "eng": "look down on",
+    "kor": "~을 업신여기다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
