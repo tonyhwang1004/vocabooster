@@ -1,68 +1,134 @@
 [
   {
+    "kor": "후회하다, 후회",
+    "eng": "regret",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관",
+    "eng": "coffin",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신성한",
+    "eng": "divine",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수익",
+    "eng": "revenue",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부패한, 타락한, 부패하다, 타락하다",
+    "eng": "corrupt",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조사하다, 연구하다, 조사",
+    "eng": "probe",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "실제의",
+    "eng": "factual",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "늪, 습지",
+    "eng": "swamp",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "탐험",
+    "eng": "expedition",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이상한, 비정상의",
+    "eng": "abnormal",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "저장소, 저장",
+    "eng": "storage",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "kor": "되살아나다",
     "eng": "revive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "저장",
-    "eng": "storage",
+    "kor": "(등받이 없는) 의자",
+    "eng": "stool",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "편리",
-    "eng": "convenience",
+    "kor": "방해하다",
+    "eng": "hinder",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "겸손한",
-    "eng": "humble",
+    "kor": "아첨",
+    "eng": "flattery",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "흔적",
-    "eng": "trace",
+    "kor": "미덕",
+    "eng": "virtue",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "몸짓",
+    "kor": "기한, 마감시간",
+    "eng": "deadline",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "n.적도",
+    "eng": "equator",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인식의",
+    "eng": "cognitive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "운동, 동작, 동작을 해 보이다",
     "eng": "motion",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "한탄하다",
-    "eng": "regret",
-    "answer_count_kor": 1,
+    "kor": "겸손한, 비천한",
+    "eng": "humble",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "갑자기일어나다",
-    "eng": "rush",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다가오는",
-    "eng": "upcoming",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "아주멋진",
-    "eng": "gorgeous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "맥박",
-    "eng": "pulse",
-    "answer_count_kor": 1,
+    "kor": "튀어 오르다, 깡충깡충 뛰다, (공이) 튀다",
+    "eng": "bounce",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -78,45 +144,75 @@
     "answer_count_eng": 1
   },
   {
+    "kor": "위생, 위생학",
+    "eng": "hygiene",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "다가오는",
+    "eng": "upcoming",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자취, 흔적, 추적하다, 밝혀내다",
+    "eng": "trace",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "맥박",
+    "eng": "pulse",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "논쟁, 언쟁, 논란",
+    "eng": "controversy",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(장소를) 찾아내다, -에 위치하다",
+    "eng": "locate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "특허, 특허를 받은, 특허권을 얻다",
+    "eng": "patent",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "n.가사",
+    "eng": "lyric",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "편의, 편리, 편의시설",
+    "eng": "convenience",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "돌진하다, 급하게 가다, 돌진, 혼잡",
+    "eng": "rush",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
     "kor": "탄소",
     "eng": "carbon",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "논란",
-    "eng": "controversy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "아첨",
-    "eng": "flattery",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~으로여기다",
-    "eng": "regard",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오염시키다",
+    "kor": "오염시키다, 더럽히다",
     "eng": "contaminate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "떼",
-    "eng": "herd",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에위치하다",
-    "eng": "locate",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -126,117 +222,21 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "튀다",
-    "eng": "bounce",
-    "answer_count_kor": 1,
+    "kor": "떼, 무리, 떼를 짓다",
+    "eng": "herd",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "실제의",
-    "eng": "factual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "늪",
-    "eng": "swamp",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "탐험",
-    "eng": "expedition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "언급하다",
-    "eng": "mention",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복종시키다",
-    "eng": "submit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신의",
-    "eng": "divine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부정한",
-    "eng": "corrupt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비정상적인",
-    "eng": "abnormal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "산수",
-    "eng": "arithmetic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모순이없는",
-    "eng": "consistent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방해하다",
-    "eng": "hinder",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "특허",
-    "eng": "patent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "미덕",
-    "eng": "virtue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적도",
-    "eng": "equator",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분배하다",
+    "kor": "할당하다, 배분하다",
     "eng": "allocate",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "인식의",
-    "eng": "cognitive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위생",
-    "eng": "hygiene",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수익",
-    "eng": "revenue",
-    "answer_count_kor": 1,
+    "kor": "아주 멋진, 화려한",
+    "eng": "gorgeous",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
