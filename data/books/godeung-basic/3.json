@@ -1,242 +1,242 @@
 [
   {
-    "kor": "더하다",
-    "eng": "add",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지식",
-    "eng": "knowledge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "용기를 북돋우다",
-    "eng": "encourage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "낙담시키다",
-    "eng": "discourage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세부 사항",
-    "eng": "detail",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결심",
-    "eng": "resolution",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "있을 법한",
-    "eng": "probable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "성격",
-    "eng": "character",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "특성",
-    "eng": "trait",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "특징",
-    "eng": "feature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감독하다",
-    "eng": "direct",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거리",
-    "eng": "distance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수입",
-    "eng": "income",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개정하다",
-    "eng": "revise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "표시하다",
-    "eng": "mark",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부정적인",
-    "eng": "negative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공식적인",
-    "eng": "official",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "찾다",
-    "eng": "search",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이익",
-    "eng": "benefit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이익",
-    "eng": "profit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "손상",
     "eng": "damage",
-    "answer_count_kor": 1,
+    "kor": "손상, 피해, 손상을 입히다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라게 하다",
-    "eng": "amaze",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기회",
-    "eng": "opportunity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무시하다",
-    "eng": "ignore",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "접촉하다",
-    "eng": "contact",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다양한",
-    "eng": "various",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다양한",
-    "eng": "diverse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공연",
-    "eng": "performance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "포함하다",
     "eng": "contain",
-    "answer_count_kor": 1,
+    "kor": "포함하다, 억누르다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "포함하다",
-    "eng": "involve",
-    "answer_count_kor": 1,
+    "eng": "income",
+    "kor": "수입, 소득",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "집중하다",
-    "eng": "concentrate",
-    "answer_count_kor": 1,
+    "eng": "discourage",
+    "kor": "낙담시키다, 방해하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "방해하다",
-    "eng": "disturb",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "균형",
-    "eng": "balance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의존하다",
-    "eng": "depend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "만기가 된",
-    "eng": "due",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조사하다",
-    "eng": "examine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조사하다",
-    "eng": "investigate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연구하다",
-    "eng": "research",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "재료",
     "eng": "material",
+    "kor": "재료, 자료, 물질, 물질의, 육체적인",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "benefit",
+    "kor": "이익, 혜택, 자선 행사, 이롭다, 이익을 얻다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pursue",
+    "kor": "추구하다, 추적하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ignore",
+    "kor": "무시하다, 모르는 체하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "official",
+    "kor": "공식적인, 공무의, 정식의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "investigate",
+    "kor": "조사하다, 연구하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "performance",
+    "kor": "공연, 성과, 수행",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "amaze",
+    "kor": "(대단히) 놀라게 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의학의",
+    "eng": "due",
+    "kor": "만기가 된, ~을 하기로 되어 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "medical",
-    "answer_count_kor": 1,
+    "kor": "의학의, 의료의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "opportunity",
+    "kor": "기회, 가망",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "encourage",
+    "kor": "용기를 북돋우다, 격려하다, 장려하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "according to",
+    "kor": "~에 따라서, ~에 따르면",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "profit",
+    "kor": "이익, 수익, 이윤, 이익을 얻다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "examine",
+    "kor": "조사하다, 검진하다, 시험하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alter",
+    "kor": "바꾸다, 변경하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resolution",
+    "kor": "해결, 결심, 결의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "participate in",
+    "kor": "~에 참여하다, ~에 참가하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "probable",
+    "kor": "있을 법한, 예상되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contact",
+    "kor": "접촉하다, 연락하다, 접촉, 연락",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "research",
+    "kor": "연구[조사]하다, 연구, 조사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "various",
+    "kor": "다양한, 여러 가지의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "detail",
+    "kor": "세부 사항, 상세",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "involve",
+    "kor": "포함[수반]하다, 관련시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "trait",
+    "kor": "특성, 특색",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "search",
+    "kor": "찾다, 검색하다, 수색, 검색",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diverse",
+    "kor": "다양한, 다른",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concentrate",
+    "kor": "집중하다, 전력을 기울이다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "direct",
+    "kor": "감독하다, (길을) 안내하다, 직접 적인, 직행의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "revise",
+    "kor": "개정하다, 정정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mark",
+    "kor": "표시하다, 채점하다, 표시, 흔적",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disturb",
+    "kor": "방해하다, 어지럽히다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "knowledge",
+    "kor": "지식, 알고 있음",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "negative",
+    "kor": "부정적인, 음성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "look into",
+    "kor": "~을 조사하다, ~을 주의 깊게 살피다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distance",
+    "kor": "거리, 간격",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
