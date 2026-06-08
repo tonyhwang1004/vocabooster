@@ -1,181 +1,415 @@
 [
   {
-    "kor": "챔피언",
-    "eng": "champion",
+    "eng": "proficient",
+    "kor": "능숙한, 숙달된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proficiency",
+    "kor": "능숙, 숙달",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prolong",
+    "kor": "연장하다, 늘이다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prolonged",
+    "kor": "오래 계속되는, 장기적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tackle",
+    "kor": "(문제 등을) 다루다; 태클하다; 맞붙다; 태클; 도구",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refrain",
+    "kor": "삼가다; 자주 반복되는 말[불평]; 후렴",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defense",
+    "kor": "방어(물); 변호; 수비",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defend",
+    "kor": "방어하다; 변호하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defensive",
+    "kor": "방어의; 방어적인; 수비의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "budget",
+    "kor": "예산(안); 예산을 세우다; 저렴한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nominate",
+    "kor": "지명[추천]하다; 임명하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nomination",
+    "kor": "지명, 추천; 수상 후보작[후보자]",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rigid",
+    "kor": "(규칙 등이) 엄격한; (사람이) 융통성 없는; 뻣뻣한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rigidity",
+    "kor": "단단함, 경직(성); 엄격",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rigidly",
+    "kor": "엄격하게; 완고하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "metabolism",
+    "kor": "신진대사, 물질대사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "metabolic",
+    "kor": "신진대사의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경기; ~와 대결하다; ~에 어울리다",
-    "eng": "match",
+    "eng": "suburb",
+    "kor": "교외, 근교",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suburban",
+    "kor": "교외의, 교외에 사는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "soothe",
+    "kor": "달래다, 진정시키다; (통증 등을) 완화하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "soothing",
+    "kor": "달래는, 진정시키는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deplete",
+    "kor": "고갈시키다, 격감시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "depletion",
+    "kor": "(자원 등의) 고갈, 소모",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prejudice",
+    "kor": "편견; 편견을 갖게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prejudiced",
+    "kor": "편견이 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "토너먼트",
-    "eng": "tournament",
+    "eng": "shatter",
+    "kor": "(물체·희망 등이) 산산이 부서지다[부수다]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경쟁자",
-    "eng": "rival",
+    "eng": "shattered",
+    "kor": "엄청난 충격을 받은; 산산이 조각난",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gourmet",
+    "kor": "미식가; (음식·식당 등이) 고급의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "novelty",
+    "kor": "새로움, 참신함; 새로운[신기한] 것",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "novel",
+    "kor": "소설; 기발한, 참신한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obsolete",
+    "kor": "더는 쓸모가 없는, 구식의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bias",
+    "kor": "편견, 편향; 성향; 편견을 갖게 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "biased",
+    "kor": "편향된, 편견을 가진",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unbiased",
+    "kor": "편견 없는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(순위를) 매기다; 순위",
-    "eng": "rank",
+    "eng": "obscure",
+    "kor": "모호한; 무명의; 가리다; 모호하게 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obscurity",
+    "kor": "무명; 모호함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "draft",
+    "kor": "원고, 초안; 징병, 징집; 초안을 쓰다; 징집하다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "represent",
+    "kor": "대표하다; 대변하다; 표현하다, 나타내다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "representative",
+    "kor": "대표(자); 대리인; 대표하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "representation",
+    "kor": "묘사, 표현; 대표",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strain",
+    "kor": "부담, 압박; 염좌; (근육 등을) 혹사하다; 애쓰다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strained",
+    "kor": "긴장한; 껄끄러운; 부자연스러운",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shiver",
+    "kor": "(추위·공포 등으로) 떨다; 떨림, 전율",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vacuum",
+    "kor": "진공; 공백; 진공청소기로 청소하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obstacle",
+    "kor": "장애(물), 방해(물)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "readily",
+    "kor": "손쉽게; 기꺼이, 선뜻",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accord",
+    "kor": "일치, 합의; 일치하다; (권위 등을) 부여하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accordance",
+    "kor": "일치, 조화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accordingly",
+    "kor": "따라서",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(스포츠 팀의) 코치",
-    "eng": "coach",
+    "eng": "concrete",
+    "kor": "구체적인; 콘크리트로 된; 콘크리트",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concretely",
+    "kor": "구체적으로, 명확하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vertebrate",
+    "kor": "척추동물",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공을 서브하다; (식당·상점에서) 손님을 응대하다",
-    "eng": "serve",
+    "eng": "vertebra",
+    "kor": "척추뼈",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "미끄러지다",
-    "eng": "glide",
+    "eng": "fluid",
+    "kor": "유체, 유동체; 유동적인, 가변적인; 유동성의, 유체의",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fluidity",
+    "kor": "유동성, 가변성; 부드러움",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compliment",
+    "kor": "칭찬, 찬사; 칭찬하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "complimentary",
+    "kor": "무료의; 칭찬하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "complement",
+    "kor": "보완[보충]하다; 보완물, 보충물",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "complementary",
+    "kor": "상호 보완적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이기다; 심장이 뛰다",
-    "eng": "beat",
-    "answer_count_kor": 1,
+    "eng": "principle",
+    "kor": "원리, 원칙; 신념, 주의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "경쟁하다",
-    "eng": "compete",
-    "answer_count_kor": 1,
+    "eng": "principal",
+    "kor": "주요한, 주된; 교장",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "능력",
-    "eng": "ability",
-    "answer_count_kor": 1,
+    "eng": "insulate",
+    "kor": "절연[단열/방음]하다; (~로부터) 보호[격리]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "여가",
-    "eng": "leisure",
-    "answer_count_kor": 1,
+    "eng": "insulation",
+    "kor": "절연 (처리), 단열(재)",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "취미",
-    "eng": "pastime",
-    "answer_count_kor": 1,
+    "eng": "ragged",
+    "kor": "(옷이) 다 해진, 누더기의; (표면 등이) 고르지 못한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "야외의",
-    "eng": "outdoor",
-    "answer_count_kor": 1,
+    "eng": "rag",
+    "kor": "해진 천, 누더기",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "패배; 패배시키다",
-    "eng": "defeat",
-    "answer_count_kor": 1,
+    "eng": "come up to",
+    "kor": "~에 다가가다; (기대 등에) 부합하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "아마추어",
-    "eng": "amateur",
-    "answer_count_kor": 1,
+    "eng": "be anxious for",
+    "kor": "~을 갈망하다, 매우 하고 싶어 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(투수의) 마운드",
-    "eng": "mound",
-    "answer_count_kor": 1,
+    "eng": "look to",
+    "kor": "~에게 (도움 등을) 기대하다, ~에 기대다; ~을 고려하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "운동 경기의",
-    "eng": "athletic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적수",
-    "eng": "opponent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(경기·시합의) 심판",
-    "eng": "referee",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공평한",
-    "eng": "fair",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(스포츠 경기에서) 벌칙",
-    "eng": "penalty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반칙하다",
-    "eng": "foul",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "눈에 띄는",
-    "eng": "outstanding",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "참여하다",
-    "eng": "participate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "박수 치다",
-    "eng": "applaud",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "용기를 북돋다",
-    "eng": "encourage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "극단적인",
-    "eng": "extreme",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 취소하다",
-    "eng": "call off",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개최되다",
-    "eng": "take place",
+    "eng": "carry out",
+    "kor": "~을 수행[이행]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
