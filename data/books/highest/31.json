@@ -1,182 +1,182 @@
 [
   {
-    "kor": "에워싸다",
-    "eng": "enclose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "풍자",
-    "eng": "satire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "강제",
-    "eng": "compulsion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "친사회적인",
-    "eng": "prosocial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비평한 글",
-    "eng": "critique",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "헐떡거리다",
-    "eng": "gasp",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "안심시키다",
-    "eng": "reassure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "쐐기돌",
-    "eng": "keystone",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(많은 시간과 노력을 요하는) 힘든",
-    "eng": "laborious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "출현",
     "eng": "advent",
-    "answer_count_kor": 1,
+    "kor": "출현, 도래",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(병 등이) 전염성의",
-    "eng": "epidemic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "악취를 풍기다",
-    "eng": "stink",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진압억압하다",
-    "eng": "suppress",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(국가",
     "eng": "heritage",
-    "answer_count_kor": 1,
+    "kor": "유산, 전통",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "화물",
-    "eng": "freight",
-    "answer_count_kor": 1,
+    "eng": "laborious",
+    "kor": "힘든, 어려운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "몹시 슬퍼하다",
-    "eng": "grieve",
-    "answer_count_kor": 1,
+    "eng": "suppress",
+    "kor": "진압하다; 억누르다, 억제하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(연회 등에) 음식물을 공급하다",
-    "eng": "cater",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "살충제",
-    "eng": "pesticide",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "안개",
-    "eng": "mist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "친밀한",
-    "eng": "intimate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청소년의",
-    "eng": "juvenile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "담그다",
-    "eng": "soak",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추방하다",
-    "eng": "banish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변호사",
-    "eng": "attorney",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(토지를) 비옥하게 하다",
-    "eng": "fertilize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명망 있는",
-    "eng": "prestigious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "국가 재정의",
-    "eng": "fiscal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "응답자",
     "eng": "respondent",
+    "kor": "응답자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "결코절대 ~이 아닌",
+    "eng": "satire",
+    "kor": "풍자, 비꼼",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prosocial",
+    "kor": "친사회적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gasp",
+    "kor": "헐떡거리다, 숨이 막히다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "keystone",
+    "kor": "쐐기돌; 핵심, 근본 원리",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "epidemic",
+    "kor": "전염성의; 유행하는, 널리 퍼진; 전염병; 보급, 유행",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pesticide",
+    "kor": "살충제, 농약",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "freight",
+    "kor": "화물; 운송, 수송; 화물을 보내다, 운송하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prestigious",
+    "kor": "명망 있는, 일류의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "critique",
+    "kor": "비평한 글, 평론; 비평하다, 평론을 쓰다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attorney",
+    "kor": "변호사, 법적 대리인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mist",
+    "kor": "안개, 연무; 안개가 끼다, 흐리 게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cater",
+    "kor": "음식물을 공급하다; 만족시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grieve",
+    "kor": "몹시 슬퍼하다, 비통해하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intimate",
+    "kor": "친밀한, 친숙한; 사적인; 친한 친구",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fiscal",
+    "kor": "국가 재정의; 재정상의, 회계의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "soak",
+    "kor": "담그다, 흠뻑 적시다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enclose",
+    "kor": "에워싸다, 둘러싸다; 동봉하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "by no means",
+    "kor": "결코~이 아닌",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 관한 한",
-    "eng": "asso far as ~ is concerned",
+    "eng": "reassure",
+    "kor": "안심시키다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stink",
+    "kor": "악취를 풍기다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fertilize",
+    "kor": "비옥하게 하다, 비료를 주다; 수 정시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "juvenile",
+    "kor": "청소년의, 어린; 유치한, 미성숙 한; 청소년",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compulsion",
+    "kor": "강제, 강요; 충동",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "is concerned",
+    "kor": "~에 관한 한 as far as ~",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "banish",
+    "kor": "추방하다, 유배를 보내다; 떨쳐 버리다, 제거하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
