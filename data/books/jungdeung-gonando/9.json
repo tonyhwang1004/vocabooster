@@ -1,182 +1,422 @@
 [
   {
-    "kor": "(대량으로 상품을) 제조[생산]하다; (이야기 등을) 지어내다; (상품의 대량) 제조[생산]",
-    "eng": "manufacture",
+    "eng": "biodiversity",
+    "kor": "생물 다양성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경영[관리]하다",
-    "eng": "manage",
+    "eng": "rigorous",
+    "kor": "(시험 등이) 철저한; (태도·규율 등이) 엄격한, 혹독한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rigorously",
+    "kor": "엄격히, 철저히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rigor",
+    "kor": "엄격함; 혹독함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "postpone",
+    "kor": "연기하다, 미루다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sake",
+    "kor": "(~을 위한) 목적, 이익",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ditch",
+    "kor": "배수로, 도랑; 버리다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "underlying",
+    "kor": "근본적인; (다른 것의) 밑에 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preconceived",
+    "kor": "사전에 형성된, 선입견을 가진",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preconception",
+    "kor": "예상; 선입견",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reluctant",
+    "kor": "꺼리는, 마지못해 하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reluctantly",
+    "kor": "마지못해",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관리하다",
-    "eng": "operate",
+    "eng": "reluctance",
+    "kor": "꺼림, 마지못해 함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "timely",
+    "kor": "시기적절한, 때맞춘",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "theoretical",
+    "kor": "이론의, 이론적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "theory",
+    "kor": "이론, 학설",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "theoretically",
+    "kor": "이론적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전문가",
-    "eng": "expert",
+    "eng": "tariff",
+    "kor": "관세",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "선임의",
-    "eng": "senior",
+    "eng": "impair",
+    "kor": "손상시키다, 악화시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impairment",
+    "kor": "장애",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "심리학자",
-    "eng": "psychologist",
+    "eng": "impaired",
+    "kor": "손상된; 장애가 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compression",
+    "kor": "압축, 압박",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compress",
+    "kor": "압축하다, 꾹 누르다; 요약하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "breakthrough",
+    "kor": "돌파구, 획기적인 발전",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overlook",
+    "kor": "간과하다; 눈감아 주다; 내려다보다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imagery",
+    "kor": "심상, 이미지, 형상화",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "penetrate",
+    "kor": "관통하다; (시장 등에) 침투하다; 간파하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "penetration",
+    "kor": "관통; 침투",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "penetrating",
+    "kor": "꿰뚫어 보는 듯한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전 직원",
-    "eng": "personnel",
+    "eng": "division",
+    "kor": "분할; 분열; 분과; 나눗셈",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "divide",
+    "kor": "나누다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이발사",
-    "eng": "barber",
+    "eng": "divisive",
+    "kor": "분열[불화]을 일으키는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지도 교사",
-    "eng": "counselor",
+    "eng": "comprise",
+    "kor": "~로 구성되다; 구성[차지]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "solitary",
+    "kor": "혼자의, 혼자 하는; 외딴, 고립된",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "solitude",
+    "kor": "고독, 외로움",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pioneer",
+    "kor": "개척자, 선구자; 개척[선도]하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pioneering",
+    "kor": "개척적인, 선구적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "storage",
+    "kor": "저장, 보관; 저장소, 보관소",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "patron",
+    "kor": "후원자; 단골손님, 고객",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "patronage",
+    "kor": "후원; 단골 거래, 애용",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "auditorium",
+    "kor": "객석, 강당",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shortcoming",
+    "kor": "결점, 단점",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "persuade",
+    "kor": "설득하다; 납득시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "persuasive",
+    "kor": "설득력 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보상",
-    "eng": "reward",
+    "eng": "persuasion",
+    "kor": "설득",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "임금",
-    "eng": "wage",
+    "eng": "descend",
+    "kor": "내려오다, 내려가다; (어둠 등이) 내려앉다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "descendant",
+    "kor": "자손, 후손; 유래한 것",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "descent",
+    "kor": "하강; 내리막",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "escalate",
+    "kor": "(갈등·비용 등이 점차) 확대되다[하다], 증가하다[시키다]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "escalation",
+    "kor": "확대, 증가",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "institute",
+    "kor": "기관, 협회; (제도·정책 등을) 도입하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "institution",
+    "kor": "기관, 시설; (사회) 제도",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "institutional",
+    "kor": "기관의, 제도의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discern",
+    "kor": "알아차리다; 식별[분간]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discernible",
+    "kor": "인식[식별]할 수 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "교체",
-    "eng": "shift",
-    "answer_count_kor": 1,
+    "eng": "attach",
+    "kor": "붙이다, 첨부하다; (가치 등을) 부여하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "퇴직하다",
-    "eng": "retire",
-    "answer_count_kor": 1,
+    "eng": "attachment",
+    "kor": "애착; 부착(물); 첨부 파일",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "감독하다",
-    "eng": "supervise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "달성하다",
-    "eng": "accomplish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "건축가",
-    "eng": "architect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비서; 장관",
-    "eng": "secretary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경험이 있는",
-    "eng": "experienced",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "행상하다",
-    "eng": "vend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "필요조건",
-    "eng": "requirement",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상사",
     "eng": "superior",
+    "kor": "(~보다) 우수한, 우세한; 상급의; 윗사람, 상사",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "superiority",
+    "kor": "우월(성), 우세",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inferior",
+    "kor": "(~보다) 못한, 열등한; 하급의, 하위의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inferiority",
+    "kor": "열등, 열세",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hemisphere",
+    "kor": "(지구·뇌 등의) 반구",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경력",
-    "eng": "career",
-    "answer_count_kor": 1,
+    "eng": "conversely",
+    "kor": "정반대로, 역으로",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "직업",
-    "eng": "profession",
-    "answer_count_kor": 1,
+    "eng": "converse",
+    "kor": "정반대; 반대의; 대화하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "신청서",
-    "eng": "application",
-    "answer_count_kor": 1,
+    "eng": "stake",
+    "kor": "말뚝; 지분, 이해관계; (내기 등에) 건 돈",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "봉급",
-    "eng": "salary",
-    "answer_count_kor": 1,
+    "eng": "stakeholder",
+    "kor": "이해 당사자, 주주",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "노동",
-    "eng": "labor",
-    "answer_count_kor": 1,
+    "eng": "sign up for",
+    "kor": "~에 등록하다, ~을 신청하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "익숙한",
-    "eng": "proficient",
-    "answer_count_kor": 1,
+    "eng": "give out",
+    "kor": "~을 나누어 주다; (빛·열 등을) 내다, 발산하다; (기계 등이) 멈추다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "신속한; 시간을 엄수하는",
-    "eng": "prompt",
-    "answer_count_kor": 1,
+    "eng": "tip over",
+    "kor": "뒤집다, 뒤집히다, 넘어지다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 주장하다",
-    "eng": "insist on",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거절하다",
-    "eng": "turn down",
-    "answer_count_kor": 1,
+    "eng": "wind up",
+    "kor": "(모임 등을) 마무리 짓다; 결국 ~하게 되다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
