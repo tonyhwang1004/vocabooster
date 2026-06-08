@@ -1,242 +1,242 @@
 [
   {
-    "kor": "명백한",
-    "eng": "obvious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분명한",
-    "eng": "apparent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고집하다",
-    "eng": "persist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일시적인",
-    "eng": "temporary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영구적인",
-    "eng": "permanent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구조하다",
-    "eng": "rescue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "받아들이다",
-    "eng": "embrace",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "떨다",
-    "eng": "tremble",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조상",
-    "eng": "ancestor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조심스러운",
-    "eng": "cautious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명확히 하다",
-    "eng": "clarify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "끌다",
-    "eng": "drag",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수평선의",
-    "eng": "horizontal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수직의",
-    "eng": "vertical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주목할 만한",
-    "eng": "remarkable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개인",
-    "eng": "individual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "암기하다",
-    "eng": "memorize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "퇴직하다",
-    "eng": "retire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "운동선수",
-    "eng": "athlete",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "희생",
-    "eng": "victim",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "타고",
-    "eng": "aboard",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "출발",
-    "eng": "departure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "넓어지다",
-    "eng": "broaden",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "넓히다",
-    "eng": "extend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "희생",
     "eng": "sacrifice",
-    "answer_count_kor": 1,
+    "kor": "희생, 제물, 희생하다, 제물로 바치다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "고안하다",
-    "eng": "devise",
-    "answer_count_kor": 1,
+    "eng": "retire",
+    "kor": "퇴직하다, 철수하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전기",
-    "eng": "electricity",
-    "answer_count_kor": 1,
+    "eng": "remarkable",
+    "kor": "주목할 만한, 놀랄 만한, 훌륭한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "멸종한",
-    "eng": "extinct",
-    "answer_count_kor": 1,
+    "eng": "ancestor",
+    "kor": "조상, 선조",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고정시키다",
-    "eng": "fix",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "논리적인",
-    "eng": "logical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "물려받다",
-    "eng": "inherit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "길이",
     "eng": "length",
+    "kor": "길이, 시간",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "electricity",
+    "kor": "전기",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "처음의",
-    "eng": "initial",
-    "answer_count_kor": 1,
+    "eng": "horizontal",
+    "kor": "수평(선)의, 가로의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "자격 자질",
-    "eng": "qualification",
-    "answer_count_kor": 1,
+    "eng": "persist",
+    "kor": "고집하다, 지속되다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "개혁하다",
-    "eng": "reform",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통제하다",
-    "eng": "regulate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "섬세한",
     "eng": "delicate",
-    "answer_count_kor": 1,
+    "kor": "섬세한, 연약한, 정교한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "저항하다",
+    "eng": "tremble",
+    "kor": "떨다, 흔들리다, 걱정하다, 떨림",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "resist",
+    "kor": "저항하다, 견디다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "athlete",
+    "kor": "운동선수",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "제한하다",
-    "eng": "restrict",
-    "answer_count_kor": 1,
+    "eng": "qualified",
+    "kor": "자격 있는, 적임의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "소유하다",
+    "eng": "temporary",
+    "kor": "일시적인, 임시의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contribute to",
+    "kor": "~에 기여하다, ~의 원인이 되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "logical",
+    "kor": "논리적인, 타당한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regulate",
+    "kor": "통제하다, 조절하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aboard",
+    "kor": "(배·항공기 등을) 타고, (배·항공기 등의) 안으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "memorize",
+    "kor": "암기하다, 기억하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inherit",
+    "kor": "물려받다, 이어받다, 상속받다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "drag",
+    "kor": "끌다, 끌리다, 끌기, 장애물",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reform",
+    "kor": "개혁하다, 개선하다, 개혁, 개선",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "individual",
+    "kor": "개인, 개개의, 개인적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "embrace",
+    "kor": "받아들이다, 수용하다, 포옹하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "apparent",
+    "kor": "분명한, 외관상의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "victim",
+    "kor": "희생, 희생자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vertical",
+    "kor": "수직의, 세로의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "possess",
-    "answer_count_kor": 1,
+    "kor": "소유하다, 지니다, 사로잡다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extend",
+    "kor": "넓히다, 연장하다, 뻗다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "departure",
+    "kor": "출발, 출항",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "permanent",
+    "kor": "영구적인, 영원한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rescue",
+    "kor": "구조하다, 구조, 구출",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "devise",
+    "kor": "고안하다, 발명하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "initial",
+    "kor": "처음의, 초기의, 머리글자",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cautious",
+    "kor": "조심스러운, 신중한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "be related to",
+    "kor": "~와 관계가 있다, ~와 연관되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "restrict",
+    "kor": "제한하다, 한정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "broaden",
+    "kor": "넓어지다, 넓히다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clarify",
+    "kor": "명확히[분명히] 하다, 정화하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obvious",
+    "kor": "명백한, 분명한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
