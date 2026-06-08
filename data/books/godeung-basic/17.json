@@ -1,241 +1,241 @@
 [
   {
-    "kor": "정복하다",
-    "eng": "conquer",
-    "answer_count_kor": 1,
+    "eng": "humanity",
+    "kor": "인류, 인간성, 인간애",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "유산",
-    "eng": "heritage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "역설",
-    "eng": "irony",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인공의",
-    "eng": "artificial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전통적인",
-    "eng": "conventional",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "식민지의",
-    "eng": "colonial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "귀족의",
-    "eng": "noble",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오르다",
-    "eng": "ascend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "내려오다",
-    "eng": "descend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "철학",
-    "eng": "philosophy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "심오한",
-    "eng": "profound",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "얕은",
-    "eng": "shallow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "목사",
-    "eng": "minister",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "예언하다",
-    "eng": "foretell",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대하다",
-    "eng": "oppose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정신",
-    "eng": "spirit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의식",
     "eng": "ritual",
-    "answer_count_kor": 1,
+    "kor": "의식, 의식의, 의례적인",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "물질",
-    "eng": "substance",
-    "answer_count_kor": 1,
+    "eng": "conquer",
+    "kor": "정복하다, 극복하다, 이기다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "영원한",
-    "eng": "eternal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영원한",
-    "eng": "everlasting",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "궁극적인",
-    "eng": "ultimate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "절대적인",
-    "eng": "absolute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "초안",
     "eng": "draft",
+    "kor": "초안, 밑그림, 초안을 작성하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "colonial",
+    "kor": "식민지의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "철자를 말하다",
-    "eng": "spell",
-    "answer_count_kor": 1,
+    "eng": "prejudice",
+    "kor": "편견, 편견을 갖게 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "수정하다",
-    "eng": "modify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "문자 그대로의",
-    "eng": "literal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "희극의",
-    "eng": "comic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비극의",
-    "eng": "tragic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "암송하다",
-    "eng": "recite",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "단순화하다",
-    "eng": "simplify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모방하다",
-    "eng": "imitate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신화",
-    "eng": "myth",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "함축하다",
-    "eng": "imply",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "맥락",
-    "eng": "context",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "내재하는",
-    "eng": "inherent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "윤곽을 그리다",
-    "eng": "outline",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "번역하다",
-    "eng": "translate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연속",
     "eng": "series",
-    "answer_count_kor": 1,
+    "kor": "연속, 시리즈",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄거리",
+    "eng": "ultimate",
+    "kor": "궁극적인, 최고의, 최후의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "plot",
+    "kor": "줄거리, 음모, 음모를 꾸미다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "profound",
+    "kor": "심오한, 깊은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "myth",
+    "kor": "신화, (근거 없는) 사회적 통념",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "philosophy",
+    "kor": "철학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "역설",
-    "eng": "paradox",
+    "eng": "oppose",
+    "kor": "반대하다, 방해하다, 대항하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outline",
+    "kor": "윤곽을 그리다, 개요를 말하다, 개요, 윤곽",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ironically",
+    "kor": "반어적으로, 역설적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bias",
+    "kor": "편견, 편향, 편견[선입견]을 갖게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ascend",
+    "kor": "오르다, 올라가다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "noble",
+    "kor": "귀족의, 고귀한, 귀족",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "be derived from",
+    "kor": "~에서 유래하다, ~에서 파생되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "substance",
+    "kor": "물질, 실체, 본질",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "comic",
+    "kor": "희극의, 웃기는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conventional",
+    "kor": "전통적인, 관습적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inherent",
+    "kor": "내재하는, 고유의, 타고난",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "absolute",
+    "kor": "절대적인, 완전한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tragic",
+    "kor": "비극의, 비참한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "take ~ into account",
+    "kor": "~을 고려[참작]하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "metaphor",
+    "kor": "비유, 은유",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "heritage",
+    "kor": "유산",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "translate",
+    "kor": "번역하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "artificial",
+    "kor": "인공의, 인위적인, 인조의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fiction",
+    "kor": "소설, 허구",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spell",
+    "kor": "철자를 말하다[쓰다], 마법, 한동 안[잠깐]",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "modify",
+    "kor": "수정하다, 변형하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "context",
+    "kor": "(글의) 맥락, (사건의) 정황",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imply",
+    "kor": "함축하다, 암시하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "simplify",
+    "kor": "단순화하다, 간소화하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shallow",
+    "kor": "얕은, 피상적인, 천박한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empower",
+    "kor": "권능을 주다, 권한을 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spirit",
+    "kor": "정신, 영혼",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "paradoxically",
+    "kor": "역설적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
