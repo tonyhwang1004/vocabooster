@@ -1,182 +1,416 @@
 [
   {
-    "kor": "(훗날을 위하여) 남겨[떼어] 두다",
-    "eng": "reserve",
+    "eng": "decline",
+    "kor": "감소[하락]하다, 쇠퇴하다; 거절하다; 감소, 하락, 쇠퇴",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "upstream",
+    "kor": "상류로; 상류의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enhance",
+    "kor": "(질·가치 등을) 높이다, 향상하다, 강화하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enhancement",
+    "kor": "향상, 강화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vain",
+    "kor": "헛된, 소용없는; 허영심이 많은, 자만하는",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vanity",
+    "kor": "허영심, 자만심",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sewage",
+    "kor": "하수, 오물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consecutive",
+    "kor": "연속적인, 잇따른",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consecutively",
+    "kor": "연속적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경우; 특별한 일",
-    "eng": "occasion",
+    "eng": "nourish",
+    "kor": "영양분을 공급하다, 기르다; (감정·생각 등을) 키우다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nourishment",
+    "kor": "(영양가 있는) 음식물, 영양(분), 자양분",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nourishing",
+    "kor": "영양가 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지역의; 지방민",
-    "eng": "local",
+    "eng": "modify",
+    "kor": "수정[변경]하다; 수식하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "modification",
+    "kor": "변경, 수정; 수식",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inseparable",
+    "kor": "분리할 수 없는, 불가분의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inseparably",
+    "kor": "밀접하게, 뗄 수 없게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "separate",
+    "kor": "분리하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "시민의; 국내의",
-    "eng": "civil",
+    "eng": "notify",
+    "kor": "알리다, 통지하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "notification",
+    "kor": "통지, 알림",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mastery",
+    "kor": "숙달, 통달; 지배(력), 통제(력)",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contrary",
+    "kor": "반대의, 상반되는; 반대(되는 것)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "makeup",
+    "kor": "구성, 조합; 화장, 분장; 보충, 보강",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "figurative",
+    "kor": "비유적인; 구상[조형]의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "figuratively",
+    "kor": "비유적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "내부의",
-    "eng": "inner",
+    "eng": "reproduce",
+    "kor": "재생[재현]하다; 복제[복사]하다; 번식하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reproduction",
+    "kor": "생식, 번식; 복사, 복제; 재생, 재현",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reproductive",
+    "kor": "생식의, 번식의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intersection",
+    "kor": "교차로, 교차 지점",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intersect",
+    "kor": "교차하다; 가로지르다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cram",
+    "kor": "(억지로) 밀어 넣다; 벼락치기 공부를 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "devastate",
+    "kor": "황폐시키다, 완전히 파괴하다; 엄청난 충격을 주다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "devastating",
+    "kor": "파괴적인; 충격적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "devastation",
+    "kor": "황폐 (상태)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "세금",
-    "eng": "tax",
+    "eng": "devastated",
+    "kor": "엄청난 충격을 받은",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "항구",
-    "eng": "harbor",
+    "eng": "literally",
+    "kor": "문자[말] 그대로; (강조하여) 정말로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "literal",
+    "kor": "문자 그대로의; 직역의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "illustrate",
+    "kor": "(예를 들어) 설명하다, 분명히 보여 주다; 삽화를 넣다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "illustration",
+    "kor": "삽화; 실례",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "illustrator",
+    "kor": "삽화가",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "같은",
-    "eng": "equal",
+    "eng": "systematize",
+    "kor": "체계화하다, 조직화하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "systematic",
+    "kor": "체계적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~할 작정이다",
-    "eng": "intend",
+    "eng": "systematization",
+    "kor": "조직화, 체계화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "articulate",
+    "kor": "분명히 표현하다; 또렷이 말하다; 분명히 표현하는; 또렷한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "articulation",
+    "kor": "명확한 표현; 또렷한 발음",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reconcile",
+    "kor": "(두 가지 이상의 생각 등을) 조화시키다; 화해시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reconciliation",
+    "kor": "화해; 조화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elicit",
+    "kor": "(반응·감정을) 이끌어 내다, 유도하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elicitation",
+    "kor": "끌어내기, 유도",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "monetary",
+    "kor": "통화의, 화폐의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shortage",
+    "kor": "부족, 결핍",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "kinship",
+    "kor": "친족 (관계); 연대감, 유대감",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "kin",
+    "kor": "친족, 친척",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "misfortune",
+    "kor": "불운, 불행",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "competence",
+    "kor": "능력, 능숙도, 역량",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "competent",
+    "kor": "능숙한, 유능한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "envision",
+    "kor": "마음속에 그리다, 상상하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empower",
+    "kor": "권한을 주다; 자율권을 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empowerment",
+    "kor": "권한 부여",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소진시키다",
-    "eng": "exhaust",
-    "answer_count_kor": 1,
+    "eng": "electronic",
+    "kor": "전자의, 전자 공학의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "세계화하다",
-    "eng": "globalize",
-    "answer_count_kor": 1,
+    "eng": "electrical",
+    "kor": "전기의; 전기를 이용하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "독립",
-    "eng": "independence",
-    "answer_count_kor": 1,
+    "eng": "absolute",
+    "kor": "절대적인, 완전한; 확실한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "영역",
-    "eng": "territory",
-    "answer_count_kor": 1,
+    "eng": "absolutely",
+    "kor": "절대적으로, 완전히",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "거주하다",
-    "eng": "reside",
-    "answer_count_kor": 1,
+    "eng": "relative",
+    "kor": "상대적인; 관련된; 친척",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "국내의; 가정의",
-    "eng": "domestic",
-    "answer_count_kor": 1,
+    "eng": "relatively",
+    "kor": "상대적으로, 비교적",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이주해 들어오다",
-    "eng": "immigrate",
-    "answer_count_kor": 1,
+    "eng": "pension",
+    "kor": "연금, 생활 보조금",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "타국으로 이주하다",
-    "eng": "emigrate",
-    "answer_count_kor": 1,
+    "eng": "take on",
+    "kor": "(일 등을) 떠맡다; ~을 고용하다; (특질·모습을) 띠다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "풍습; (pl.) 관세",
-    "eng": "custom",
-    "answer_count_kor": 1,
+    "eng": "come out",
+    "kor": "출시[출간]되다; (사실 등이) 알려지다, 드러나다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "부족",
-    "eng": "tribe",
-    "answer_count_kor": 1,
+    "eng": "go around",
+    "kor": "(병·소문 등이) 퍼지다; 모두에게 돌아가다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "인종의",
-    "eng": "racial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "특성",
-    "eng": "trait",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "민족의",
-    "eng": "ethnic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시도; 시도하다",
-    "eng": "attempt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지배하다; ~보다 우세하다",
-    "eng": "dominate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "저항하다",
-    "eng": "resist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "침입하다",
-    "eng": "invade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "협동하다",
-    "eng": "cooperate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 (바꾸지 않고) 고수하다[지키다]",
-    "eng": "hold on to",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 갈망하다[그리워하다]",
-    "eng": "long for",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~로 구성되다",
-    "eng": "consist of",
-    "answer_count_kor": 1,
+    "eng": "set about",
+    "kor": "~을 시작하다, ~에 착수하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
