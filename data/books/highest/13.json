@@ -1,182 +1,182 @@
 [
   {
-    "kor": "서로 다른",
-    "eng": "divergent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가능용이하게 하다",
-    "eng": "facilitate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보수적인",
-    "eng": "conservative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "슬퍼하다",
-    "eng": "mourn",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실현 가능한",
-    "eng": "feasible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(범죄 등을) 저지르다",
-    "eng": "commit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불필요한",
     "eng": "redundant",
-    "answer_count_kor": 1,
+    "kor": "불필요한, 여분의; 정리 해고당한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "애원하다",
-    "eng": "plead",
-    "answer_count_kor": 1,
+    "eng": "feasible",
+    "kor": "실현 가능한; 그럴듯한, 있음직한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "응축되다시키다",
-    "eng": "condense",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "촉진하다",
-    "eng": "foster",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의회",
-    "eng": "parliament",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "매우 귀중한",
-    "eng": "invaluable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거의 없는",
-    "eng": "scant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감정기분을 상하게 하다",
-    "eng": "offend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "찬미하다",
-    "eng": "glorify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "빼다",
-    "eng": "subtract",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(꽃",
-    "eng": "cluster",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적",
-    "eng": "foe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "늪",
-    "eng": "swamp",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고의의",
-    "eng": "deliberate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주다",
-    "eng": "grant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "당뇨병",
-    "eng": "diabetes",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "환대",
-    "eng": "hospitality",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(매출 등의) 감소하락",
-    "eng": "downturn",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "그다음의",
-    "eng": "subsequent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정반대의",
-    "eng": "inverse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "밀다",
-    "eng": "thrust",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "스며들다",
-    "eng": "permeate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반드시 ~하도록 (조처)하다",
     "eng": "see to it that",
+    "kor": "반드시 ~하도록 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 관하여",
-    "eng": "within respect to",
+    "eng": "divergent",
+    "kor": "서로 다른, 나뉘는; 벗어난, 일탈한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "invaluable",
+    "kor": "매우 귀중한",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subtract",
+    "kor": "빼다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "offend",
+    "kor": "감정을 상하게 하다; 범죄를 저지르다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "downturn",
+    "kor": "감소; 침체",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commit",
+    "kor": "저지르다; 맡기다; 약속하다; 충실하다, 전념하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "parliament",
+    "kor": "의회, 국회",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diabetes",
+    "kor": "당뇨병",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "condense",
+    "kor": "응축되다, 농축되다; 요약하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "foster",
+    "kor": "촉진하다, 조성하다; 기르다, 양육하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mourn",
+    "kor": "슬퍼하다, 애도하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "foe",
+    "kor": "적, 반대자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cluster",
+    "kor": "송이; 무리; 무리를 이루다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "facilitate",
+    "kor": "가능하게 하다, 촉진하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conservative",
+    "kor": "보수적인, 전통적인; 보수주의 자, 보수파",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "plead",
+    "kor": "애원하다, 간청하다; 변호하다, 변론하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hospitality",
+    "kor": "환대",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "thrust",
+    "kor": "밀다, 밀치다; 찌르다; 밀침, 찌 르기; 요점, 취지; 추진력",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subsequent",
+    "kor": "그다음의, 차후의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glorify",
+    "kor": "찬미하다; 미화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scant",
+    "kor": "거의 없는, 부족한, 빈약한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "with respect to",
+    "kor": "~에 관하여, ~에 대하여",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "swamp",
+    "kor": "늪, 습지; 압도하다, 쇄도하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grant",
+    "kor": "주다, 수여하다; 승인하다, 허가 하다; 승인, 허가; 보조금, 기부 금",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "permeate",
+    "kor": "스며들다, 침투하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inverse",
+    "kor": "정반대의, 역의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deliberate",
+    "kor": "고의의, 의도적인; 신중한; 숙고 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
