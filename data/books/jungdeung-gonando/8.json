@@ -1,182 +1,446 @@
 [
   {
-    "kor": "교육하다",
-    "eng": "educate",
+    "eng": "equilibrium",
+    "kor": "균형, 평형 (상태); (마음의) 평정",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "integrate",
+    "kor": "통합하다, 통합되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "integration",
+    "kor": "통합",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "교육하다",
-    "eng": "instruct",
+    "eng": "integrative",
+    "kor": "통합적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "강의; 훈계; 강의하다; 훈계하다",
-    "eng": "lecture",
+    "eng": "summon",
+    "kor": "소환하다, 호출하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "summons",
+    "kor": "(법원) 소환장",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기일이 다 된",
-    "eng": "due",
+    "eng": "dominate",
+    "kor": "지배하다; 우위를 차지하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dominant",
+    "kor": "지배적인, 우세한; 우성의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dominance",
+    "kor": "지배, 우위",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "factor",
+    "kor": "요소, 요인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gradually",
+    "kor": "점차적으로, 서서히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gradual",
+    "kor": "점진적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "학기; 기간; 용어",
-    "eng": "term",
+    "eng": "overlap",
+    "kor": "겹치다, 중복되다; 겹침, 중복",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "surge",
+    "kor": "밀려들다; 급등[급증]하다; 급증, 급등; 동요",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "displace",
+    "kor": "대신[대체]하다; 쫓아내다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "displacement",
+    "kor": "(강제에 의한) 이동, 추방; 바꾸어 놓기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "derive",
+    "kor": "(이익 등을) 얻다; 유래[파생]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "derivative",
+    "kor": "파생어[물]; 모방한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "derivation",
+    "kor": "어원",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(지식·자격 등을) 시험하다; 검사[조사]하다; 진찰하다",
-    "eng": "examine",
+    "eng": "supplement",
+    "kor": "보충(물), 보완(물); 부록; 보충[보완]하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "supplementary",
+    "kor": "보충의, 추가의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collide",
+    "kor": "충돌하다, 부딪치다; (의견 등이) 상충하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collision",
+    "kor": "충돌 (사고); 상충",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nurture",
+    "kor": "키우다, 양육하다; 육성[양성]하다; 양육; 양성",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "foster",
+    "kor": "촉진하다, 조성하다; 위탁 양육하다; 위탁의, 양의",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conform",
+    "kor": "(규칙 등에) 따르다, 순응하다; 일치하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conformity",
+    "kor": "(관습·체제 등에 대한) 순응",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상; 상을 주다",
-    "eng": "award",
+    "eng": "skeptical",
+    "kor": "회의적인, 의심 많은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "skeptic",
+    "kor": "회의론자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "곱하다; 증식하다",
-    "eng": "multiply",
+    "eng": "skepticism",
+    "kor": "회의론",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "계산하다",
-    "eng": "calculate",
+    "eng": "aggressive",
+    "kor": "공격적인; 매우 적극적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aggression",
+    "kor": "공격성; 침략, 공격",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aggressively",
+    "kor": "공격적으로; 적극적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "token",
+    "kor": "(화폐 대용의) 토큰; 표시, 징표",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perspective",
+    "kor": "관점, 시각; 원근법",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unity",
+    "kor": "통합, 결속; 통일성; 일치",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unite",
+    "kor": "연합하다; 통합[결속]시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hazard",
+    "kor": "위험 (요소); 위태롭게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hazardous",
+    "kor": "위험한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기억하다",
-    "eng": "memorize",
+    "eng": "context",
+    "kor": "(어떤 일의) 전후 관계, 맥락; 문맥",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contextual",
+    "kor": "전후 관계상의; 문맥상의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prestige",
+    "kor": "위신, 명성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prestigious",
+    "kor": "명망 있는, 일류의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abrupt",
+    "kor": "돌연한, 갑작스러운; 퉁명스러운",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abruptly",
+    "kor": "갑자기, 불쑥; 퉁명스럽게",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinct",
+    "kor": "뚜렷한, 분명한; 뚜렷이 다른, 별개의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinction",
+    "kor": "차이, 대조; 뛰어남",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinctive",
+    "kor": "독특한, 특유의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinctly",
+    "kor": "뚜렷이",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(교육·연구 등을 위한) 협회",
-    "eng": "institute",
+    "eng": "paradox",
+    "kor": "역설, 역설적인 것",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "paradoxical",
+    "kor": "역설적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "실험실",
-    "eng": "laboratory",
+    "eng": "paradoxically",
+    "kor": "역설적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기숙사",
-    "eng": "dormitory",
+    "eng": "offset",
+    "kor": "상쇄[벌충]하다; 상쇄하는 것",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incentive",
+    "kor": "장려(책), 유인(책), 보상물",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "profound",
+    "kor": "(영향 등이) 엄청난; 깊은, 심오한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "profoundly",
+    "kor": "깊이, 심오하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "brutal",
+    "kor": "잔혹한, 야만적인; 인정사정없는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "brutality",
+    "kor": "잔혹성, 잔인성; 만행",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "brutally",
+    "kor": "잔혹하게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(학교 등의) 장; 주된",
-    "eng": "principal",
+    "eng": "haul",
+    "kor": "(힘들여) 끌다, 운반하다; 많은 양; 거리, 여정",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distract",
+    "kor": "(주의 등을) 흐트러뜨리다, 산만하게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distracted",
+    "kor": "주의가 산만해진",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(교실·극장·버스 등의) 통로",
-    "eng": "aisle",
-    "answer_count_kor": 1,
+    "eng": "distraction",
+    "kor": "집중을 방해하는 것; 오락",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "학기",
-    "eng": "semester",
-    "answer_count_kor": 1,
+    "eng": "conceal",
+    "kor": "감추다, 숨기다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "결석한",
-    "eng": "absent",
-    "answer_count_kor": 1,
+    "eng": "reveal",
+    "kor": "(비밀 등을) 밝히다, 폭로하다; (모습을) 드러내다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "출석",
-    "eng": "attendance",
-    "answer_count_kor": 1,
+    "eng": "revelation",
+    "kor": "폭로; 드러냄",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "동기를 부여하다",
-    "eng": "motivate",
-    "answer_count_kor": 1,
+    "eng": "temporal",
+    "kor": "시간의, 한시적인; 세속적인, 현세의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "태도",
-    "eng": "attitude",
-    "answer_count_kor": 1,
+    "eng": "acoustic",
+    "kor": "청각의, 음향의; 전자 장치를 쓰지 않는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "열성적인",
-    "eng": "eager",
-    "answer_count_kor": 1,
+    "eng": "occupy",
+    "kor": "(공간·시간을) 차지하다; 점령하다; 전념하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "입학; 입장; 입구",
-    "eng": "entrance",
-    "answer_count_kor": 1,
+    "eng": "occupation",
+    "kor": "직업; 점령; 점거",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "제출하다; (어쩔 수 없이) 따르다",
-    "eng": "submit",
-    "answer_count_kor": 1,
+    "eng": "occupied",
+    "kor": "사용 중인; 바쁜",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(그림·사진 등의) 작품 모음",
-    "eng": "portfolio",
-    "answer_count_kor": 1,
+    "eng": "root out",
+    "kor": "~을 뿌리 뽑다, 근절하다; (원인을) 찾아내다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(나이·신분 등이) 동등한 사람",
-    "eng": "peer",
-    "answer_count_kor": 1,
+    "eng": "turn down",
+    "kor": "~을 거절하다; (소리·온도 등을) 낮추다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "장학금",
-    "eng": "scholarship",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장학금; 주다; 허가하다",
-    "eng": "grant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 잘 지내다",
-    "eng": "get along with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(정도나 수준이 앞선 것을) 따라잡다",
-    "eng": "catch up with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중퇴하다; 빠지다",
-    "eng": "drop out (of)",
-    "answer_count_kor": 1,
+    "eng": "cut in",
+    "kor": "끼어들다, 가로막다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
