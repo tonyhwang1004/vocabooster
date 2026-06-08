@@ -1,434 +1,362 @@
 [
   {
-    "kor": "(대량으로 상품을) 제조[생산]하다; (이야기 등을) 지어내다; (상품의 대량) 제조[생산]",
-    "eng": "manufacture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제조자[사]",
-    "eng": "manufacturer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경영[관리]하다",
-    "eng": "manage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경영",
-    "eng": "management",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관리하다",
-    "eng": "operate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "작동",
-    "eng": "operation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전문가",
-    "eng": "expert",
-    "answer_count_kor": 1,
+    "eng": "intermittent",
+    "kor": "간헐적인, 간간이 일어나는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전문가",
-    "eng": "specialist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전문적 기술[지식]",
-    "eng": "expertise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "선임의",
-    "eng": "senior",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "손아래의",
-    "eng": "junior",
-    "answer_count_kor": 1,
+    "eng": "intermittently",
+    "kor": "간간이, 간헐적으로",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "손아래의",
-    "eng": "subordinate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "심리학자",
-    "eng": "psychologist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "심리학",
-    "eng": "psychology",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전 직원",
-    "eng": "personnel",
-    "answer_count_kor": 1,
+    "eng": "swap",
+    "kor": "교환하다, 맞바꾸다; 교환, 교체",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "전 직원",
-    "eng": "staff",
-    "answer_count_kor": 1,
+    "eng": "hardship",
+    "kor": "어려움, 고난",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이발사",
-    "eng": "barber",
-    "answer_count_kor": 1,
+    "eng": "pirate",
+    "kor": "해적; 저작권 침해자; 저작권을 침해하다, 불법 복제하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "지도 교사",
-    "eng": "counselor",
-    "answer_count_kor": 1,
+    "eng": "piracy",
+    "kor": "해적 행위; 저작권 침해, 불법 복제",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(전문가에 의한) 조언[충고]; 상담을 하다",
-    "eng": "counsel",
-    "answer_count_kor": 1,
+    "eng": "stumble",
+    "kor": "발이 걸리다; 비틀거리다; 말을 더듬다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "보상",
-    "eng": "reward",
-    "answer_count_kor": 1,
+    "eng": "showcase",
+    "kor": "전시[진열]하다, 선보이다; 공개 행사; 진열장",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "벌",
-    "eng": "penalty",
-    "answer_count_kor": 1,
+    "eng": "recession",
+    "kor": "불경기, 불황; 후퇴, 물러남",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "임금",
-    "eng": "wage",
-    "answer_count_kor": 1,
+    "eng": "recede",
+    "kor": "멀어지다, 물러나다; 희미해지다, 약해지다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "임금",
-    "eng": "pay",
+    "eng": "superstition",
+    "kor": "미신",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "교체",
-    "eng": "shift",
-    "answer_count_kor": 1,
+    "eng": "superstitious",
+    "kor": "미신을 믿는, 미신적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "야간 근무",
-    "eng": "night shift",
-    "answer_count_kor": 1,
+    "eng": "scribble",
+    "kor": "휘갈겨 쓰다, 낙서하다; 휘갈겨 쓴 글씨, 낙서",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "퇴직하다",
-    "eng": "retire",
-    "answer_count_kor": 1,
+    "eng": "shelter",
+    "kor": "피신(처); 보호소; 주거, 집; 보호하다; 피하다",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "퇴직",
-    "eng": "retirement",
-    "answer_count_kor": 1,
+    "eng": "socialize",
+    "kor": "(사람들과) 어울리다, 사귀다; 사회화하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "감독하다",
-    "eng": "supervise",
+    "eng": "socialization",
+    "kor": "사회화",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "감독하다",
-    "eng": "keep an eye on",
-    "answer_count_kor": 1,
+    "eng": "contract",
+    "kor": "계약(서); (병에) 걸리다; 계약하다; 수축하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "관리자",
-    "eng": "supervisor",
-    "answer_count_kor": 1,
+    "eng": "contractor",
+    "kor": "계약자, 도급업자",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "감독",
-    "eng": "supervision",
-    "answer_count_kor": 1,
+    "eng": "contraction",
+    "kor": "수축, 축소",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "달성하다",
-    "eng": "accomplish",
+    "eng": "contractual",
+    "kor": "계약(상)의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "달성하다",
-    "eng": "achieve",
-    "answer_count_kor": 1,
+    "eng": "playback",
+    "kor": "(녹음·녹화의) 재생, 재생된 내용",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "완성",
-    "eng": "accomplishment",
-    "answer_count_kor": 1,
+    "eng": "skim",
+    "kor": "훑어보다; (액체에서) 걷어 내다; (표면을) 스쳐 지나가다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "건축가",
-    "eng": "architect",
-    "answer_count_kor": 1,
+    "eng": "merchandise",
+    "kor": "물품, 상품; 판매하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "건축가",
-    "eng": "designer",
-    "answer_count_kor": 1,
+    "eng": "merchant",
+    "kor": "상인, 무역상",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "건축",
-    "eng": "architecture",
-    "answer_count_kor": 1,
+    "eng": "decompose",
+    "kor": "부패하다[시키다]; 분해하다[되다]",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비서; 장관",
-    "eng": "secretary",
-    "answer_count_kor": 1,
+    "eng": "decomposition",
+    "kor": "분해, 해체; 부패",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "경험이 있는",
-    "eng": "experienced",
-    "answer_count_kor": 1,
+    "eng": "subtract",
+    "kor": "빼다, 공제하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경험이 있는",
-    "eng": "skilled",
-    "answer_count_kor": 1,
+    "eng": "subtraction",
+    "kor": "빼기, 공제; 뺄셈",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "미숙한",
-    "eng": "inexperienced",
+    "eng": "parental",
+    "kor": "부모의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경험",
-    "eng": "experience",
-    "answer_count_kor": 1,
+    "eng": "segregation",
+    "kor": "차별 (정책); 분리, 격리",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "행상하다",
-    "eng": "vend",
-    "answer_count_kor": 1,
+    "eng": "segregate",
+    "kor": "(인종 등에 따라) 차별하다; 분리[격리]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "행상인",
-    "eng": "vendor",
-    "answer_count_kor": 1,
+    "eng": "tedious",
+    "kor": "지루한, 지겨운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "자동판매기",
-    "eng": "vending machine",
-    "answer_count_kor": 1,
+    "eng": "plunge",
+    "kor": "뛰어들다, 추락하다; 급락하다; 급락, 낙하; 돌진",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "필요조건",
-    "eng": "requirement",
-    "answer_count_kor": 1,
+    "eng": "territory",
+    "kor": "지역, 영토; 영역, 분야",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "필요하다",
-    "eng": "require",
+    "eng": "territorial",
+    "kor": "영토의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상사",
-    "eng": "superior",
-    "answer_count_kor": 1,
+    "eng": "submerge",
+    "kor": "물속에 넣다[잠기다], 잠수하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "열등한",
-    "eng": "inferior",
-    "answer_count_kor": 1,
+    "eng": "mound",
+    "kor": "흙더미, 언덕; 더미",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "우위",
-    "eng": "superiority",
-    "answer_count_kor": 1,
+    "eng": "venture",
+    "kor": "벤처 사업, (사업상의) 모험; (위험을 무릅쓰고) 가다, 하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "직속상관",
-    "eng": "immediate superior",
-    "answer_count_kor": 1,
+    "eng": "renowned",
+    "kor": "유명한, 명성 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경력",
-    "eng": "career",
-    "answer_count_kor": 1,
+    "eng": "sturdy",
+    "kor": "견고한; 건장한; 단호한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "직업",
-    "eng": "profession",
-    "answer_count_kor": 1,
+    "eng": "transmit",
+    "kor": "전송[송신]하다; 전염시키다; (열·전기 등을) 전도하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "직업",
-    "eng": "occupation",
-    "answer_count_kor": 1,
+    "eng": "transmission",
+    "kor": "전달, 전송, 송신; 전염",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "전문적인; 전문가",
-    "eng": "professional",
-    "answer_count_kor": 1,
+    "eng": "recite",
+    "kor": "암송하다, 낭독하다; 열거하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "신청서",
-    "eng": "application",
-    "answer_count_kor": 1,
+    "eng": "recital",
+    "kor": "연주회, 발표회",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "지원하다",
-    "eng": "apply",
-    "answer_count_kor": 1,
+    "eng": "recitation",
+    "kor": "암송, 낭독; 열거",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "입사 지원서",
-    "eng": "job application",
-    "answer_count_kor": 1,
+    "eng": "stride",
+    "kor": "성큼성큼 걷다; 큰 걸음; 진보, 진전",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "봉급",
-    "eng": "salary",
-    "answer_count_kor": 1,
+    "eng": "stereotype",
+    "kor": "고정 관념; 고정 관념을 형성하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "봉급",
-    "eng": "income",
-    "answer_count_kor": 1,
+    "eng": "stereotypical",
+    "kor": "고정 관념적인, 정형화된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "연봉",
-    "eng": "annual salary",
-    "answer_count_kor": 1,
+    "eng": "aptitude",
+    "kor": "소질, 적성",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "노동",
-    "eng": "labor",
-    "answer_count_kor": 1,
+    "eng": "altitude",
+    "kor": "(해발) 고도; 고지, 높은 곳",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "노동력",
-    "eng": "labor force",
-    "answer_count_kor": 1,
+    "eng": "eliminate",
+    "kor": "없애다, 제거하다; 탈락시키다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "익숙한",
-    "eng": "proficient",
-    "answer_count_kor": 1,
+    "eng": "elimination",
+    "kor": "제거; (경쟁에서의) 탈락",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "능숙(도)",
-    "eng": "proficiency",
-    "answer_count_kor": 1,
+    "eng": "illuminate",
+    "kor": "비추다, 밝게 하다; 분명히 하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "신속한; 시간을 엄수하는",
-    "eng": "prompt",
-    "answer_count_kor": 1,
+    "eng": "illumination",
+    "kor": "(불)빛, 조명",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "신속한",
-    "eng": "quick",
-    "answer_count_kor": 1,
+    "eng": "abbreviation",
+    "kor": "축약(형), 약어",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "즉시",
-    "eng": "promptly",
-    "answer_count_kor": 1,
+    "eng": "abbreviate",
+    "kor": "줄여 쓰다, 축약하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 주장하다",
-    "eng": "insist on",
-    "answer_count_kor": 1,
+    "eng": "lose out",
+    "kor": "손해를 보다, (기회 등을) 놓치다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "거절하다",
-    "eng": "turn down",
-    "answer_count_kor": 1,
+    "eng": "break off",
+    "kor": "(관계 등을) 끊다; (말 등을) 멈추다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "거절하다",
-    "eng": "refuse",
-    "answer_count_kor": 1,
+    "eng": "brush up",
+    "kor": "(배운 것을) 다시 익히다, 복습하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "거절하다",
-    "eng": "reject",
-    "answer_count_kor": 1,
+    "eng": "take in",
+    "kor": "~을 이해[수용]하다; ~을 섭취[흡수]하다; ~을 속이다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
