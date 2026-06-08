@@ -1,242 +1,242 @@
 [
   {
-    "kor": "~하는 경향이 있다",
-    "eng": "tend to do",
-    "answer_count_kor": 1,
+    "eng": "pressure",
+    "kor": "압력, 압박(감)",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 처리하다",
-    "eng": "deal with",
-    "answer_count_kor": 1,
+    "eng": "wire",
+    "kor": "철사, 전선, (전선을) 연결하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 가리키다",
-    "eng": "refer to",
-    "answer_count_kor": 1,
+    "eng": "available",
+    "kor": "이용할[얻을] 수 있는, 시간이 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "막 ~하려고 하다",
-    "eng": "be about to do",
-    "answer_count_kor": 1,
+    "eng": "ingredient",
+    "kor": "(요리의) 재료, 성분, 구성 요소",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 생각해 내다",
-    "eng": "come up with",
-    "answer_count_kor": 1,
+    "eng": "multiple",
+    "kor": "다수의, 많은, 복합적인",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~하기 어렵다",
-    "eng": "have difficulty ~ing",
-    "answer_count_kor": 1,
+    "eng": "negotiate",
+    "kor": "협상[교섭]하다, 타결하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 명심하다",
-    "eng": "keep ~in mind",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~으로 이어지다",
-    "eng": "lead to",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동시에",
-    "eng": "at the same time",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~때문에",
-    "eng": "due to",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~의 관점에서",
-    "eng": "in terms of",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 버리다",
-    "eng": "throw away",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 겪다",
     "eng": "go through",
+    "kor": "~을 겪다, ~을 거치다, ~을 조사하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "analogy",
+    "kor": "비유, 유사, 유추",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "biological",
+    "kor": "생물학의, 생(물)체의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accuse",
+    "kor": "고발하다, 비난하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "restore",
+    "kor": "회복시키다, 복원하다, 되찾다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "capacity",
+    "kor": "용량, 수용력, 능력",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consequence",
+    "kor": "결과, 영향(력), 중요함",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outstanding",
+    "kor": "뛰어난, 눈에 띄는, 현저한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "election",
+    "kor": "선거, 당선",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cognitive",
+    "kor": "인식의, 인지의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adversity",
+    "kor": "역경, 불운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ability",
+    "kor": "능력, 재능",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reference",
+    "kor": "언급, 참조, 추천서, 참고 문헌",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cause",
+    "kor": "원인이 되다, 야기[초래]하다, 원인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "massive",
+    "kor": "거대한, 대량의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disclose",
+    "kor": "밝히다, 폭로하다, 드러내다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exotic",
+    "kor": "외국의, 이국적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discover",
+    "kor": "발견하다, 알아내다, 발굴하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "foster",
+    "kor": "양육하다, 육성하다, 촉진하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scatter",
+    "kor": "(흩)뿌리다, 흩어지다[흩어지게 하다]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conflict",
+    "kor": "갈등, 충돌, 충돌[대립]하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "have difficulty in ~ing",
+    "kor": "~하는 데 어려움을 겪다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~대신에",
-    "eng": "instead of",
+    "eng": "carbon",
+    "kor": "탄소",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 이해하다",
-    "eng": "make sense of",
-    "answer_count_kor": 1,
+    "eng": "trace",
+    "kor": "추적하다, 추적하여 찾아내다, 자취, 흔적",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "직접",
-    "eng": "in person",
-    "answer_count_kor": 1,
+    "eng": "population",
+    "kor": "인구, 주민, 개체군",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 차지하다",
-    "eng": "take over",
-    "answer_count_kor": 1,
+    "eng": "wound",
+    "kor": "상처를 입히다, 감정을 상하게 하다, 상처, 부상",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 떠맡다",
-    "eng": "take on",
-    "answer_count_kor": 1,
+    "eng": "conversation",
+    "kor": "대화, 대담",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 알다",
-    "eng": "be aware of",
-    "answer_count_kor": 1,
+    "eng": "nurture",
+    "kor": "양육하다, 육성하다, 양육, 교육",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 자랑으로 여기다",
-    "eng": "be proud of",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 의존하다",
-    "eng": "depend on",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 참여하다",
-    "eng": "participate in",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 유의하다",
-    "eng": "pay attention to",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 집중하다",
-    "eng": "concentrate on",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 잘 지내다",
-    "eng": "get along with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실현되다",
-    "eng": "come true",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 기여하다",
-    "eng": "contribute to",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~이 ?하는 것을 막다",
-    "eng": "keep ~from -ing",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "급히 떠나다",
-    "eng": "take off",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "덧붙여",
-    "eng": "in addition (to)",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 영향을 미치다",
-    "eng": "have an effect on",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 구성하다",
-    "eng": "make up",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 진정시키다",
-    "eng": "calm down",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~으로 간주되다",
     "eng": "be regarded as",
+    "kor": "~으로 간주되다[여겨지다]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 당연하게 여기다",
-    "eng": "take ~for granted",
-    "answer_count_kor": 1,
+    "eng": "split",
+    "kor": "나누다[나뉘다], 분열되다, 갈라 지다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 고려하다",
-    "eng": "take ~into account",
-    "answer_count_kor": 1,
+    "eng": "friction",
+    "kor": "마찰, 갈등",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 집다",
-    "eng": "pick up",
-    "answer_count_kor": 1,
+    "eng": "asset",
+    "kor": "자산, 재산",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 야기하다",
-    "eng": "bring about",
-    "answer_count_kor": 1,
+    "eng": "intelligent",
+    "kor": "지적인, 지성을 갖춘",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "많은",
-    "eng": "plenty of",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 이용하다",
-    "eng": "take advantage of",
-    "answer_count_kor": 1,
+    "eng": "professional",
+    "kor": "직업의, 전문적인, 전문가, 프로 (선수)",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   }
 ]
