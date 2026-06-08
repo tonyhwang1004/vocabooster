@@ -1,241 +1,241 @@
 [
   {
-    "kor": "가르치다",
-    "eng": "instruct",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "학업의",
-    "eng": "academic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감사",
-    "eng": "gratitude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "우연히 만나다",
-    "eng": "encounter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "학생",
-    "eng": "pupil",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "등록하다",
-    "eng": "enroll",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "훈육하다",
-    "eng": "discipline",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "엄격한",
-    "eng": "strict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상호 작용하다",
-    "eng": "interact",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주장하다",
-    "eng": "argue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "괴롭히다",
     "eng": "bother",
-    "answer_count_kor": 1,
+    "kor": "괴롭히다, 성가시게 하다, 성가심",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "명성",
-    "eng": "prestige",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지적인",
-    "eng": "intelligent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지도",
-    "eng": "guidance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "집단의",
-    "eng": "collective",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "존경하다",
-    "eng": "admire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평가하다",
-    "eng": "evaluate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "범위",
-    "eng": "range",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발표",
-    "eng": "presentation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "받아쓰게 하다",
-    "eng": "dictate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공식적인",
-    "eng": "formal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중간의",
-    "eng": "intermediate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시도하다",
-    "eng": "attempt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "돕다",
-    "eng": "assist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "돕다",
-    "eng": "aid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장학금",
-    "eng": "scholarship",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수여하다",
-    "eng": "grant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수여하다",
-    "eng": "award",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전형적인",
-    "eng": "typical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "피할 수 없는",
-    "eng": "inevitable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정책",
-    "eng": "policy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방아쇠를 당기다",
     "eng": "trigger",
+    "kor": "방아쇠를 당기다, 유발하다, 방아쇠",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evaluate",
+    "kor": "평가하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위장하다",
-    "eng": "disguise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고립시키다",
-    "eng": "isolate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "침략하다",
-    "eng": "invade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사로잡힌",
-    "eng": "captive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "파견하다",
-    "eng": "detach",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "붙이다",
-    "eng": "attach",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모집하다",
     "eng": "recruit",
+    "kor": "모집하다, 징집하다, 신병, 신입사원",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "score",
+    "kor": "악보, 점수, 득점하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "formal",
+    "kor": "공식적인, 형식적인, 정규적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "argue",
+    "kor": "주장하다, 논쟁하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collective",
+    "kor": "집단의, 공동의, 집단",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disguise",
+    "kor": "위장하다, 변장하다, 위장",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assist",
+    "kor": "돕다, 조력",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "voluntary",
+    "kor": "자발적인, 자원봉사의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "explanation",
+    "kor": "설명, 해명",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "command",
+    "kor": "명령하다, 지휘하다, 명령, 통솔",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enroll",
+    "kor": "등록하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "자발적인",
-    "eng": "voluntary",
+    "eng": "invade",
+    "kor": "침략하다, 침입하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "policy",
+    "kor": "정책, 방침",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "range",
+    "kor": "범위, 폭, 영역, (~에) 이르다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "award",
+    "kor": "수여하다, 상, 상금",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intellectual",
+    "kor": "지적인, 지성의, 지식인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "typical",
+    "kor": "전형적인, 보통의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "guidance",
+    "kor": "지도, 안내",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inevitable",
+    "kor": "피할 수 없는, 당연한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "result from",
+    "kor": "~에서 기인하다, ~에서 비롯되 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "instruct",
+    "kor": "가르치다, 지시하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assess",
+    "kor": "평가하다, 산정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interact",
+    "kor": "상호 작용하다, 교류하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intermediate",
+    "kor": "중간의, 중급의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "get rid of",
+    "kor": "~을 제거하다, ~을 처리하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "captive",
+    "kor": "사로잡힌, 감금된, 포로",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "academic",
+    "kor": "학업의, 학구적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gratitude",
+    "kor": "감사",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discipline",
+    "kor": "훈육하다, 규율, 훈육, 학과",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pupil",
+    "kor": "학생, 눈동자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "isolate",
+    "kor": "고립시키다, 격리하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attempt",
+    "kor": "시도하다, 시도",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "presentation",
+    "kor": "발표, 설명, 제출",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grant",
+    "kor": "수여하다, 인정하다, 보조금",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "admire",
+    "kor": "존경하다, 감탄하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aid",
+    "kor": "돕다, 조력하다, 지원, 도움",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strict",
+    "kor": "엄격한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
