@@ -1,182 +1,386 @@
 [
   {
-    "kor": "분명한",
-    "eng": "evident",
+    "eng": "backfire",
+    "kor": "역효과를 낳다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "체포하다",
-    "eng": "arrest",
+    "eng": "circumstance",
+    "kor": "상황, 환경; (경제적) 형편, 처지",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "circumstantial",
+    "kor": "정황적인; 부수적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "carrier",
+    "kor": "항공사, 운송 회사; 보균자; 항공모함",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "liberate",
+    "kor": "해방시키다, 자유롭게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "liberty",
+    "kor": "자유",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "용의자; 의심하다",
-    "eng": "suspect",
+    "eng": "liberation",
+    "kor": "해방, 석방",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "misconception",
+    "kor": "오해",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유죄의",
-    "eng": "guilty",
+    "eng": "lengthen",
+    "kor": "길게 하다, 늘이다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "length",
+    "kor": "길이; 기간",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mimic",
+    "kor": "흉내 내다, 모방하다; 모방자, 흉내쟁이",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mimicry",
+    "kor": "흉내",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "덫",
-    "eng": "trap",
+    "eng": "visualize",
+    "kor": "마음속에 그리다, 상상하다; 시각화하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "visualization",
+    "kor": "시각화",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "강도",
-    "eng": "robber",
+    "eng": "outspoken",
+    "kor": "거침없이 말하는, 솔직한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "governance",
+    "kor": "통치 (방식), 관리, 지배",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "govern",
+    "kor": "통치하다; (행동 등을) 결정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nutrient",
+    "kor": "영양소, 영양분",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nutrition",
+    "kor": "영양 (섭취)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "범인",
-    "eng": "criminal",
+    "eng": "nutritional",
+    "kor": "영양(상)의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "막다",
-    "eng": "prevent",
+    "eng": "nutritious",
+    "kor": "영양분이 많은",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의도적인",
-    "eng": "intentional",
+    "eng": "emphasize",
+    "kor": "강조하다, 역설하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emphasis",
+    "kor": "강조, 역점",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emphatic",
+    "kor": "강한, 단호한; 강조하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "afloat",
+    "kor": "물에 뜬; (사업 등이) 빚은 안 질 정도의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perception",
+    "kor": "지각, 인식",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perceive",
+    "kor": "감지[인지]하다; 여기다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rainforest",
+    "kor": "열대 우림",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "제한하다",
-    "eng": "restrict",
+    "eng": "outbreak",
+    "kor": "(전쟁·질병 등의) 발생, 발발",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precede",
+    "kor": "(~에) 앞서다, 선행하다; (~의) 앞에 가다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precedent",
+    "kor": "전례, 선례",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preceding",
+    "kor": "이전의, 앞선",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "orient",
+    "kor": "지향하게 하다; 자기 위치를 알다; 적응시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "orientation",
+    "kor": "방향, 지향; 예비 교육",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vanish",
+    "kor": "사라지다, 소멸되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tuck",
+    "kor": "밀어 넣다, 집어넣다, 끼워 넣다; 접힌 단[주름]",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "embody",
+    "kor": "구체화[구현]하다, 상징하다; 포함하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "embodiment",
+    "kor": "구체화, 구현; 전형, 화신",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conflict",
+    "kor": "갈등, 충돌; 싸움, 전투; 충돌[상충]하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overstate",
+    "kor": "과장하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "규제하다",
-    "eng": "regulate",
+    "eng": "overstatement",
+    "kor": "과장",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "금하다",
-    "eng": "forbid",
+    "eng": "status",
+    "kor": "지위, 신분; 상태, 상황",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mindset",
+    "kor": "사고방식",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "판결",
-    "eng": "sentence",
+    "eng": "pasture",
+    "kor": "목초지, 목장; 방목하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "involuntary",
+    "kor": "자기도 모르게 하는, 비자발적인; 원치 않는, 본의 아닌",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "involuntarily",
+    "kor": "무의식적으로, 무심결에",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vein",
+    "kor": "정맥; (식물의) 잎맥; 방식, 태도",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arithmetic",
+    "kor": "산수, 산술, 계산",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arithmetical",
+    "kor": "산수[산술]의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인정하다",
-    "eng": "admit",
+    "eng": "arithmetically",
+    "kor": "산술적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "배심원단; 심사위원단",
-    "eng": "jury",
+    "eng": "duration",
+    "kor": "지속 기간[시간]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "속이다",
-    "eng": "deceive",
+    "eng": "workforce",
+    "kor": "(전체) 노동자, 직원; 노동 인구, 노동력",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pave",
+    "kor": "(도로 등을) 포장하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고소하다",
-    "eng": "sue",
+    "eng": "pavement",
+    "kor": "포장도로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(죄·과실 등을) 범하다",
-    "eng": "commit",
+    "eng": "sophisticated",
+    "kor": "세련된, 교양 있는; 정교한, 복잡한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sophistication",
+    "kor": "세련됨, 교양; 정교함",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sociable",
+    "kor": "사교적인, 붙임성 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humanitarian",
+    "kor": "인도주의적인; 인도주의자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nostalgia",
+    "kor": "향수, 그리움",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nostalgic",
+    "kor": "향수를 불러일으키는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위반하다",
-    "eng": "violate",
+    "eng": "chew over",
+    "kor": "~을 심사숙고하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기분을 상하게 하다",
-    "eng": "offend",
-    "answer_count_kor": 1,
+    "eng": "count out",
+    "kor": "~을 제외하다; (하나씩) 세다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조사하다",
-    "eng": "investigate",
-    "answer_count_kor": 1,
+    "eng": "go with",
+    "kor": "~와 어울리다; ~을 선택하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조사하다; 묻다",
-    "eng": "inquire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모욕하다; 모욕",
-    "eng": "insult",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(신원 등을) 확인하다",
-    "eng": "identify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자백하다",
-    "eng": "confess",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유죄를 선고하다",
-    "eng": "convict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "항소[상고]하다; 간청하다; 호소하다",
-    "eng": "appeal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(열거나 하기 위해) ~을 부수다; 고장 나다",
-    "eng": "break down",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "A를 B의 혐의로 고소[비난]하다",
-    "eng": "accuse A of B",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(나쁜 행동 등을 하고도) 처벌을 모면하다[그냥 넘어가다]",
-    "eng": "get away with",
-    "answer_count_kor": 1,
+    "eng": "get through",
+    "kor": "(힘든 시기 등을) 극복하다; (일 등을) 끝내다; (전화가) 연결되다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
