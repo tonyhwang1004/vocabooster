@@ -30,7 +30,7 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "사려분별, 신중함, 재량,",
+    "kor": "사려분별, 신중함, 재량",
     "eng": "discretion",
     "answer_count_kor": 3,
     "answer_count_eng": 1
@@ -42,15 +42,15 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "당황하게 하다 어리둥절하게 하다",
+    "kor": "당황하게 하다, 어리둥절하게 하다",
     "eng": "bewilder",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비틀거리다, 흔들리다 깜짝 놀라게 하다",
+    "kor": "비틀거리다, 흔들리다, 깜짝 놀라게 하다",
     "eng": "stagger",
-    "answer_count_kor": 2,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -78,21 +78,21 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "상쇄하다, 벌충하다 상쇄, 벌충, 보충",
+    "kor": "상쇄하다, 벌충하다, 상쇄, 벌충, 보충",
     "eng": "offset",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "불법화하다, 금지하다, 무법자, 상습범",
+    "eng": "outlaw",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "불법화하다, 금지하다 무법자, 상습범",
-    "eng": "outlaw",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뚱뚱한, 비만한 튼튼한, 강한, 단호한, 용감한",
+    "kor": "뚱뚱한, 비만한, 튼튼한, 강한, 단호한, 용감한",
     "eng": "stout",
-    "answer_count_kor": 5,
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
@@ -108,9 +108,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "발부리가 걸리다, 비틀거리다 더듬다,  우연히 발견하다,",
+    "kor": "발부리가 걸리다, 비틀거리다, 더듬다, 우연히 발견하다",
     "eng": "stumble",
-    "answer_count_kor": 3,
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
