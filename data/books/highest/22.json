@@ -1,182 +1,182 @@
 [
   {
-    "kor": "(지식 등이) 깊은",
-    "eng": "profound",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전통적인",
-    "eng": "conventional",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자랑하다",
-    "eng": "brag",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "억제하다",
-    "eng": "inhibit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유전(학)의",
-    "eng": "genetic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이상화하다",
-    "eng": "idealize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "착수",
-    "eng": "outset",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "선반",
-    "eng": "rack",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상호적인",
-    "eng": "reciprocal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정권",
-    "eng": "regime",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "끌어내다",
-    "eng": "derive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "삼가다",
     "eng": "refrain",
-    "answer_count_kor": 1,
+    "kor": "삼가다, 자제하다; 자주 반복되는 말; 후렴",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경험적인",
-    "eng": "empirical",
-    "answer_count_kor": 1,
+    "eng": "brag",
+    "kor": "자랑하다, 허풍떨다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "오래 머물다남다",
-    "eng": "linger",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "<음악> 전주곡",
-    "eng": "prelude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "항생 물질",
-    "eng": "antibiotic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(유령 등이) 출몰하다",
-    "eng": "haunt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나쁜 운명",
-    "eng": "doom",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "외향성이 강한",
-    "eng": "extroverted",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "열의",
-    "eng": "thermal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주된",
-    "eng": "predominant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "아는 사람",
     "eng": "acquaintance",
-    "answer_count_kor": 1,
+    "kor": "아는 사람, 지인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "새기다",
     "eng": "engrave",
-    "answer_count_kor": 1,
+    "kor": "새기다, 조각하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "통풍",
+    "eng": "antibiotic",
+    "kor": "항생물질, 항생제; 항생 의, 항생물질의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extroverted",
+    "kor": "외향성이 강한, 외향적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "ventilation",
-    "answer_count_kor": 1,
+    "kor": "통풍, 환기",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "억지로 시키다",
-    "eng": "constrain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "꺼리는",
-    "eng": "reluctant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "단언하다",
-    "eng": "allege",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일치하는",
-    "eng": "congruent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "미래에",
-    "eng": "down the line",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "마찬가지로",
     "eng": "by the same token",
+    "kor": "마찬가지로, 같은 이유로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "profound",
+    "kor": "깊은, 심오한; 엄청난",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outset",
+    "kor": "착수, 시초, 발단",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regime",
+    "kor": "정권; 제도, 체제",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "down the line",
+    "kor": "미래에, 나중에; 완전히, 철저하게",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "linger",
+    "kor": "오래 머물다, 계속되다; 어슬렁거리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inhibit",
+    "kor": "억제하다, 제지하다; 금하다, 못하게 막다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "doom",
+    "kor": "나쁜 운명, 비운; 파멸, 죽음; 불행한 운명을 맞게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prelude",
+    "kor": "<음악> 전주곡, 서곡; 전조, 서 막",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conventional",
+    "kor": "전통적인, 종래의, 관습적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "haunt",
+    "kor": "출몰하다, 나타나다; 계속 떠오 르다, 괴롭히다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reluctant",
+    "kor": "꺼리는, 주저하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "genetic",
+    "kor": "유전의",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reciprocal",
+    "kor": "상호적인, 서로 간의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "constrain",
+    "kor": "억지로 시키다, 강요하다; 제한 하다, 감금하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rack",
+    "kor": "선반, 걸이: 괴롭히다, 시달리게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "predominant",
+    "kor": "주된, 현저한, 우세한, 지배적인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "thermal",
+    "kor": "열의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "derive",
+    "kor": "끌어내다, 얻다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "congruent",
+    "kor": "일치하는, 조화된; <수학> 합동 의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empirical",
+    "kor": "경험적인, 경험상의, 실증적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "idealize",
+    "kor": "이상화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "allege",
+    "kor": "단언하다, 주장하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
