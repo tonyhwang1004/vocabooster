@@ -1,571 +1,421 @@
 [
   {
-    "kor": "모양",
-    "eng": "shape",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모양",
-    "eng": "form",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~모양의",
-    "eng": "shaped",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(건강·몸 상태 등이) 좋은",
-    "eng": "in (good) shape",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "출현",
-    "eng": "appearance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "외관",
-    "eng": "look",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나타나다; ~인 것같이 보이다",
-    "eng": "appear",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보기에는",
-    "eng": "in appearance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "성격",
-    "eng": "personality",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개성",
-    "eng": "individuality",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개인의",
-    "eng": "personal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "성별",
-    "eng": "gender",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인상; 감동",
-    "eng": "impression",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인상을 주다",
-    "eng": "impress",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "강한 인상을 주는",
-    "eng": "impressive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전형적인",
-    "eng": "typical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "종류",
-    "eng": "type",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유능한; ~할 능력이 있는",
-    "eng": "capable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유능한",
-    "eng": "able",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~할 수 없는",
-    "eng": "incapable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "능력",
-    "eng": "capability",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "매력적인; 사람을 끄는",
-    "eng": "attractive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "매력적인",
-    "eng": "charming",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사람을 끄는",
-    "eng": "appealing",
-    "answer_count_kor": 1,
+    "eng": "soak",
+    "kor": "흠뻑 적시다; 담그다, 담기다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "끌어당기다",
-    "eng": "attract",
-    "answer_count_kor": 1,
+    "eng": "acquisition",
+    "kor": "습득; 취득(물); 인수",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "인기 관광지",
-    "eng": "tourist attraction",
-    "answer_count_kor": 1,
+    "eng": "acquire",
+    "kor": "얻다, 습득하다; 취득하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "적극적인",
-    "eng": "active",
-    "answer_count_kor": 1,
+    "eng": "overturn",
+    "kor": "뒤집다, 뒤집히다; (결정·체제 등을) 뒤엎다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "적극적인",
-    "eng": "lively",
-    "answer_count_kor": 1,
+    "eng": "confirm",
+    "kor": "(증거를 들어) 확인해 주다; (예약 등을) 확인[확정]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "적극적인",
-    "eng": "energetic",
-    "answer_count_kor": 1,
+    "eng": "confirmation",
+    "kor": "확인, 확정",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "소극적인",
-    "eng": "passive",
-    "answer_count_kor": 1,
+    "eng": "adjacent",
+    "kor": "인접한, 가까운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "행동하다",
-    "eng": "act",
-    "answer_count_kor": 1,
+    "eng": "accompany",
+    "kor": "동행[동반]하다; 수반하다; 반주하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "활동",
-    "eng": "activity",
-    "answer_count_kor": 1,
+    "eng": "accompanying",
+    "kor": "수반하는; 동봉[첨부]한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "소극적인",
-    "eng": "passive",
+    "eng": "candid",
+    "kor": "솔직한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소극적인",
-    "eng": "inactive",
-    "answer_count_kor": 1,
+    "eng": "sympathy",
+    "kor": "동정, 연민; 공감, 지지",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "근면 성실한",
-    "eng": "diligent",
-    "answer_count_kor": 1,
+    "eng": "sympathetic",
+    "kor": "동정하는; 호의적인, 공감하는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "게으른",
-    "eng": "lazy",
-    "answer_count_kor": 1,
+    "eng": "sympathize",
+    "kor": "동정하다; 지지하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "근면함",
-    "eng": "diligence",
-    "answer_count_kor": 1,
+    "eng": "deficit",
+    "kor": "적자; 부족(액), 결핍",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "대담한",
-    "eng": "bold",
-    "answer_count_kor": 1,
+    "eng": "deficient",
+    "kor": "부족한, 결핍된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "대담한",
-    "eng": "brave",
+    "eng": "sociology",
+    "kor": "사회학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대담한",
-    "eng": "daring",
+    "eng": "sociologist",
+    "kor": "사회학자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "자신만만한; 확신하는",
-    "eng": "confident",
-    "answer_count_kor": 1,
+    "eng": "sociological",
+    "kor": "사회학의; 사회 문제의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "배짱",
-    "eng": "boldness",
-    "answer_count_kor": 1,
+    "eng": "casualty",
+    "kor": "사상자, 피해자",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "자신만만한",
-    "eng": "positive",
-    "answer_count_kor": 1,
+    "eng": "confess",
+    "kor": "(죄 등을) 자백하다; (감정·사실 등을) 인정[고백]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
-  },
-  {
-    "kor": "확신하는",
-    "eng": "sure, convinced",
-    "answer_count_kor": 1,
-    "answer_count_eng": 2
   },
   {
-    "kor": "자신감",
-    "eng": "confidence",
-    "answer_count_kor": 1,
+    "eng": "confession",
+    "kor": "자백, 고백",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 확신하다",
-    "eng": "be confident of",
-    "answer_count_kor": 1,
+    "eng": "span",
+    "kor": "기간, 시간; 폭, 범위; (기간·범위 등에) 걸치다",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "성급한",
-    "eng": "impatient",
-    "answer_count_kor": 1,
+    "eng": "disparity",
+    "kor": "격차, 불균형",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "참을성 있는",
-    "eng": "patient",
-    "answer_count_kor": 1,
+    "eng": "disparate",
+    "kor": "서로 전혀 다른, 이질적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "성급함",
-    "eng": "impatience",
-    "answer_count_kor": 1,
+    "eng": "sentiment",
+    "kor": "정서, 감정; 감상",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "성급하게",
-    "eng": "impatiently",
-    "answer_count_kor": 1,
+    "eng": "sentimental",
+    "kor": "정서적인, 감상적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "야망이 있는",
-    "eng": "ambitious",
-    "answer_count_kor": 1,
+    "eng": "verse",
+    "kor": "시, 운문; (시의) 연, (노래의) 절",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "야망이 없는",
-    "eng": "unambitious",
+    "eng": "conceit",
+    "kor": "자만심",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "야망",
-    "eng": "ambition",
-    "answer_count_kor": 1,
+    "eng": "conceited",
+    "kor": "자만하는, 우쭐한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "훌륭한",
-    "eng": "brilliant",
-    "answer_count_kor": 1,
+    "eng": "fiber",
+    "kor": "섬유, 섬유질",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "훌륭한",
-    "eng": "bright",
-    "answer_count_kor": 1,
+    "eng": "external",
+    "kor": "외부의, 밖의; 대외적인",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "훌륭한",
-    "eng": "intelligent",
+    "eng": "externally",
+    "kor": "외부적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "빛나는",
-    "eng": "glittering",
+    "eng": "externalize",
+    "kor": "(생각·감정을) 표면화[구체화]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "탁월함",
-    "eng": "brilliance",
-    "answer_count_kor": 1,
+    "eng": "morale",
+    "kor": "사기, 의욕",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "훌륭한 생각",
-    "eng": "brilliant idea",
-    "answer_count_kor": 1,
+    "eng": "obstruct",
+    "kor": "(진로·일의 진행 등을) 막다, 방해하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "우아한",
-    "eng": "elegant",
-    "answer_count_kor": 1,
+    "eng": "obstruction",
+    "kor": "방해(물), 장애(물)",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "우아",
-    "eng": "elegance",
+    "eng": "obstructive",
+    "kor": "방해하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "겸손한; 초라한",
-    "eng": "humble",
-    "answer_count_kor": 1,
+    "eng": "protest",
+    "kor": "항의, 반대, 시위; 항의[반대]하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "겸손한",
-    "eng": "modest",
+    "eng": "protester",
+    "kor": "시위자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "겸손",
-    "eng": "humbleness",
-    "answer_count_kor": 1,
+    "eng": "discrepancy",
+    "kor": "차이, 불일치",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "오만한",
-    "eng": "arrogant",
-    "answer_count_kor": 1,
+    "eng": "counterpart",
+    "kor": "상대, 대응물",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
-  },
-  {
-    "kor": "오만한",
-    "eng": "proud, haughty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 2
   },
   {
-    "kor": "오만",
-    "eng": "arrogance",
-    "answer_count_kor": 1,
+    "eng": "diplomatic",
+    "kor": "외교(상)의; 외교에 능한, 요령 있는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "공격적인; 매우 적극적인",
-    "eng": "aggressive",
+    "eng": "diplomat",
+    "kor": "외교관",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공격적인",
-    "eng": "offensive",
+    "eng": "diplomacy",
+    "kor": "외교(술)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "매우 적극적인",
-    "eng": "active",
-    "answer_count_kor": 1,
+    "eng": "betrayal",
+    "kor": "배신, 배반",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "공격",
-    "eng": "aggression",
+    "eng": "betray",
+    "kor": "배신[배반]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사나운",
-    "eng": "fierce",
-    "answer_count_kor": 1,
+    "eng": "invert",
+    "kor": "뒤집다, 도치시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "격렬한",
-    "eng": "intense",
+    "eng": "inverse",
+    "kor": "역[반대]의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사납게",
-    "eng": "fiercely",
-    "answer_count_kor": 1,
+    "eng": "inversion",
+    "kor": "전도, 도치",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "격렬한 고통",
-    "eng": "fierce pain",
-    "answer_count_kor": 1,
+    "eng": "commodity",
+    "kor": "상품, 원자재; 유용한 것",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "친절",
-    "eng": "kindness",
-    "answer_count_kor": 1,
+    "eng": "blossom",
+    "kor": "(특히 과실수의) 꽃; 꽃이 피다; (형편 등이) 좋아지다, 발전하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "타원형의",
-    "eng": "oval",
-    "answer_count_kor": 1,
+    "eng": "disdain",
+    "kor": "업신여기다, 경멸하다; 업신여김, 경멸",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "타원형의",
-    "eng": "egg-shaped",
-    "answer_count_kor": 1,
+    "eng": "disdainful",
+    "kor": "업신여기는, 경멸하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이상한",
-    "eng": "odd",
-    "answer_count_kor": 1,
+    "eng": "recruit",
+    "kor": "모집하다; 징집하다; 신입 사원; 신병",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "이상한",
-    "eng": "strange",
+    "eng": "recruitment",
+    "kor": "신규 모집[채용]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이상한",
-    "eng": "peculiar",
-    "answer_count_kor": 1,
+    "eng": "contempt",
+    "kor": "경멸, 멸시",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "짝수의",
-    "eng": "even",
-    "answer_count_kor": 1,
+    "eng": "contemptuous",
+    "kor": "경멸하는, 업신여기는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이마",
-    "eng": "forehead",
-    "answer_count_kor": 1,
+    "eng": "tempt",
+    "kor": "유혹하다, 꾀다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이마",
-    "eng": "brow",
+    "eng": "temptation",
+    "kor": "유혹(적인 것)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "무지한",
-    "eng": "ignorant",
-    "answer_count_kor": 1,
+    "eng": "tempting",
+    "kor": "유혹적인, 구미가 당기는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(정보가 없어) 모르는",
-    "eng": "uninformed",
-    "answer_count_kor": 1,
+    "eng": "ethnic",
+    "kor": "민족의, 인종의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "무지",
-    "eng": "ignorance",
+    "eng": "ethnicity",
+    "kor": "민족성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "주름; 주름지게 하다",
-    "eng": "wrinkle",
-    "answer_count_kor": 1,
+    "eng": "ethical",
+    "kor": "도덕상의, 윤리적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주름",
-    "eng": "line",
-    "answer_count_kor": 1,
+    "eng": "ethics",
+    "kor": "윤리학; 도덕, 윤리",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "주름지게 하다",
-    "eng": "crease",
+    "eng": "ethically",
+    "kor": "윤리[도덕]적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "욕심",
-    "eng": "greed",
+    "eng": "autobiography",
+    "kor": "자서전",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "탐욕스러운",
-    "eng": "greedy",
-    "answer_count_kor": 1,
+    "eng": "scale up",
+    "kor": "(규모·양 등을) 확대하다, 늘리다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 닮다",
-    "eng": "take after",
-    "answer_count_kor": 1,
+    "eng": "put across",
+    "kor": "(생각·의견 등을) 전달하다, 이해시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 닮다",
-    "eng": "resemble",
+    "eng": "give in",
+    "kor": "굴복[항복]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "눈에 띄다",
-    "eng": "stand out",
+    "eng": "track down",
+    "kor": "~을 (추적하여) 찾아내다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
