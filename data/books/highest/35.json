@@ -1,182 +1,182 @@
 [
   {
-    "kor": "덮개를 벗기다",
-    "eng": "uncover",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조상의",
-    "eng": "ancestral",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(연주 등을) 즉흥적으로 하다",
-    "eng": "improvise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "확대증대하다",
-    "eng": "magnify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(연구",
-    "eng": "scope",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상호 의존적인",
-    "eng": "interdependent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "확실한",
-    "eng": "definite",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "익명의",
-    "eng": "anonymous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "횃대",
-    "eng": "perch",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화물",
-    "eng": "cargo",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세심히 살피다",
-    "eng": "scrutinize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연속적인",
-    "eng": "consecutive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "충동적인",
-    "eng": "impulsive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "종속된",
     "eng": "subordinate",
+    "kor": "종속된, 하급의; 부수적인; 하급자, 부하 직원; 아래에 두다, 경시하다; 복종시키다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consecutive",
+    "kor": "연속적인, 계속되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perch",
+    "kor": "횃대; 높은 자리; 앉다, 자리잡다; 놓다, 앉히다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "improvise",
+    "kor": "즉흥적으로 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "되돌아가다",
     "eng": "regress",
-    "answer_count_kor": 1,
+    "kor": "되돌아가다, 퇴행하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "빚이 있는",
-    "eng": "indebted",
-    "answer_count_kor": 1,
+    "eng": "scrutinize",
+    "kor": "세심히 살피다, 면밀히 조사하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "시작하다",
     "eng": "commence",
+    "kor": "시작하다, 개시하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "magnify",
+    "kor": "확대하다; 과장하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "저당",
-    "eng": "mortgage",
-    "answer_count_kor": 1,
+    "eng": "cargo",
+    "kor": "화물, 무거운 짐",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "두려워하다",
-    "eng": "dread",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발현",
-    "eng": "manifestation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(실 등을) 짜다",
-    "eng": "weave",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감촉",
-    "eng": "texture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방해",
-    "eng": "disturbance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "문학의",
-    "eng": "literary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다산의",
-    "eng": "prolific",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "아첨하다",
     "eng": "flatter",
+    "kor": "아첨하다, 치켜세우다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "texture",
+    "kor": "감촉, 질감",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "manifestation",
+    "kor": "발현, 징후",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impulsive",
+    "kor": "충동적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관점",
-    "eng": "outlook",
-    "answer_count_kor": 1,
+    "eng": "literary",
+    "kor": "문학의, 문학적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "치료의",
     "eng": "therapeutic",
-    "answer_count_kor": 1,
+    "kor": "치료의, 치료법의; 건강에 도움이 되는, 치료 효과가 있는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 즐기다",
-    "eng": "thrive on",
-    "answer_count_kor": 1,
+    "eng": "mortgage",
+    "kor": "저당, 담보 대출; 저당 잡히다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "A에게서 B를 빼앗다박탈하다",
+    "eng": "outlook",
+    "kor": "관점, 세계관; 조망, 경치; 예측, 전망",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prolific",
+    "kor": "다산의, 다작하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indebted",
+    "kor": "빚이 있는, 신세를 진",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "weave",
+    "kor": "짜다, 엮다; 엮어 맞추다, 구성 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disturbance",
+    "kor": "방해, 교란; 장애",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scope",
+    "kor": "범위, 영역; 기회, 여지",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "anonymous",
+    "kor": "익명의, 신원 불명의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "deprive A of B",
+    "kor": "A에게서 B를 빼앗다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "definite",
+    "kor": "확실한, 분명한; 한정된, 일정한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interdependent",
+    "kor": "상호 의존적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "thrive on",
+    "kor": "~을 즐기다; ~을 잘 해내다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ancestral",
+    "kor": "조상의, 대대의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dread",
+    "kor": "두려워하다, 걱정하다; 공포, 불 안, 우려",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "uncover",
+    "kor": "덮개를 벗기다, 노출하다; 알아 내다, 폭로하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
