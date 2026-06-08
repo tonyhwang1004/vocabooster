@@ -1,182 +1,182 @@
 [
   {
-    "kor": "보행자",
-    "eng": "pedestrian",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "초목",
-    "eng": "vegetation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소질",
-    "eng": "aptitude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가장하다",
-    "eng": "simulate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전설적인",
-    "eng": "legendary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영구화하다",
-    "eng": "perpetuate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "활발한",
-    "eng": "vigorous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~할 운명인",
-    "eng": "destined",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "내구성이 있는",
     "eng": "durable",
-    "answer_count_kor": 1,
+    "kor": "내구성이 있는, 오래가는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경건한",
-    "eng": "pious",
-    "answer_count_kor": 1,
+    "eng": "destined",
+    "kor": "~할 운명인, 예정된; ~로 향하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주입하다",
-    "eng": "infuse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "억누르다",
-    "eng": "withhold",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경청하는",
-    "eng": "attentive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "착수금",
-    "eng": "deposit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "존중",
-    "eng": "esteem",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "계속해서이어서 진행하다",
-    "eng": "proceed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구별하다",
-    "eng": "discriminate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제한하다",
-    "eng": "confine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의미하다",
-    "eng": "signify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "치유할 수 없는",
-    "eng": "incurable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~의 탓공으로 돌리다",
-    "eng": "ascribe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "권한을 부여하다",
-    "eng": "authorize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(근심 등을) 떨쳐 버리다",
-    "eng": "dispel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "충돌하다",
     "eng": "collide",
-    "answer_count_kor": 1,
+    "kor": "충돌하다, 부딪치다; 일치하지 않다, 상충하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "수의",
-    "eng": "numerical",
-    "answer_count_kor": 1,
+    "eng": "vegetation",
+    "kor": "초목, 식물",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "헛된",
-    "eng": "futile",
-    "answer_count_kor": 1,
+    "eng": "aptitude",
+    "kor": "소질, 적성, 재능",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(상품",
-    "eng": "monopoly",
-    "answer_count_kor": 1,
+    "eng": "legendary",
+    "kor": "전설적인, 아주 유명한; 전설상의, 전설 속의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "설득하다",
-    "eng": "induce",
-    "answer_count_kor": 1,
+    "eng": "attentive",
+    "kor": "경청하는, 귀를 기울이는; 주의 깊은, 세심한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "대체로",
+    "eng": "vigorous",
+    "kor": "활발한, 격렬한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infuse",
+    "kor": "주입하다, 스며들게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "signify",
+    "kor": "의미하다, 나타내다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perpetuate",
+    "kor": "영구화하다, 영속시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dispel",
+    "kor": "떨쳐 버리다, 없애다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deposit",
+    "kor": "착수금, 보증금; 예금; 퇴적물; 놓다, 쌓다; 퇴적시키다; 예금하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "by and large",
+    "kor": "대체로, 전반적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "be inclined to do",
+    "kor": "~하는 경향이 있다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~하는 경향이 있다",
-    "eng": "be inclined to do",
+    "eng": "numerical",
+    "kor": "수의, 수와 관련된, 숫자로 나타 낸",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pedestrian",
+    "kor": "보행자; 보행자의; 평범한, 단조 로운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pious",
+    "kor": "경건한, 독실한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "simulate",
+    "kor": "가장하다, 흉내 내다; 모의실험 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incurable",
+    "kor": "치유할 수 없는, 불치의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "monopoly",
+    "kor": "독점",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "futile",
+    "kor": "헛된, 소용없는, 무익한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "induce",
+    "kor": "설득하다, 유도하다; 유발하다, 초래하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discriminate",
+    "kor": "구별하다, 식별하다; 차별하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proceed",
+    "kor": "계속해서진행하다; 나아가다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "confine",
+    "kor": "제한하다, 한정하다; 가두다, 감 금하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ascribe",
+    "kor": "~의 탓으로 돌리다, ~에게 돌 리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "authorize",
+    "kor": "권한을 부여하다, 위임하다; 정 식으로 허가하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "esteem",
+    "kor": "존중, 존경; 존경하다, 높이 평 가하다; 생각하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "withhold",
+    "kor": "억누르다, 억제하다; 보류하다, 주지 않고 두다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
