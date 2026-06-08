@@ -1,182 +1,182 @@
 [
   {
-    "kor": "날아오르다",
-    "eng": "soar",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "솔직한",
-    "eng": "candid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관심",
-    "eng": "intrigue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상징적인",
-    "eng": "iconic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전투",
-    "eng": "combat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "멸종된",
-    "eng": "extinct",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "빛",
-    "eng": "glow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "최고의",
-    "eng": "supreme",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "압도하다",
     "eng": "overwhelm",
-    "answer_count_kor": 1,
+    "kor": "압도하다, 어쩔 줄 모르게 만들다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(사회",
-    "eng": "underprivileged",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "물물 교환하다",
-    "eng": "barter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기질",
-    "eng": "temperament",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구독하다",
-    "eng": "subscribe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불길한",
-    "eng": "ominous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(마음을) 달래다진정시키다",
-    "eng": "soothe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "축약(형)",
-    "eng": "abbreviation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(대단히) 충격적인",
-    "eng": "traumatic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "혼합(물)",
-    "eng": "blend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위엄",
-    "eng": "dignity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "더 이상 쓸모가 없는",
-    "eng": "obsolete",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비참한",
     "eng": "miserable",
+    "kor": "비참한, 불행한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abbreviation",
+    "kor": "축약, 약어",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "barter",
+    "kor": "물물 교환하다; 물물 교환",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(특정 지역의) 주민서식 동물",
-    "eng": "inhabitant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상쇄하다",
-    "eng": "offset",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연약한",
     "eng": "frail",
+    "kor": "연약한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위조의",
     "eng": "counterfeit",
-    "answer_count_kor": 1,
+    "kor": "위조의, 가짜의; 모조품, 위조물; 위조하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "걸려 넘어지다",
-    "eng": "stumble",
-    "answer_count_kor": 1,
+    "eng": "offset",
+    "kor": "상쇄하다, 벌충하다; 상쇄하는 것, 벌충",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "상속 (재산)",
-    "eng": "inheritance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(나쁜 것의) 원인임을 보여 주다",
-    "eng": "implicate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~하는 것이 좋다",
     "eng": "may as well do",
+    "kor": "~하는 것이 좋다, ~하는 편이 낫다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inhabitant",
+    "kor": "주민",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~의 책임이다",
-    "eng": "be down to",
+    "eng": "obsolete",
+    "kor": "더 이상 쓸모가 없는, 구식의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "soothe",
+    "kor": "달래다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inheritance",
+    "kor": "상속 , 유산; 유전적 특성, 유전",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "combat",
+    "kor": "전투, 싸움; 싸우다; 방지하다, 대처하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "candid",
+    "kor": "솔직한, 숨김없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "temperament",
+    "kor": "기질",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ominous",
+    "kor": "불길한, 험악한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blend",
+    "kor": "혼합, 조합; 섞다, 혼합하다; 조 화되다, 어울리다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subscribe",
+    "kor": "구독하다, 가입하다; 기부하다; 동의하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "implicate",
+    "kor": "원인임을 보여 주다, 관련시키 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "be down to",
+    "kor": "~의 책임이다, ~ 때문이다; ~ 만 남다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stumble",
+    "kor": "걸려 넘어지다, 비틀거리며 걷 다; 더듬거리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glow",
+    "kor": "빛, 백열; 고조, 흥분; 빛나다, 타 다; 가슴이 뿌듯하다, 북받치다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dignity",
+    "kor": "위엄, 품위, 존엄",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "underprivileged",
+    "kor": "혜택을 못 받는, 소외 계층의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "iconic",
+    "kor": "상징적인, ~의 상징이 되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "soar",
+    "kor": "날아오르다; 급증하다, 치솟다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extinct",
+    "kor": "멸종된, 소멸한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "supreme",
+    "kor": "최고의, 최상의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "traumatic",
+    "kor": "충격적인, 힘겨운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intrigue",
+    "kor": "관심, 흥미; 흥미를 불러일으키 다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
