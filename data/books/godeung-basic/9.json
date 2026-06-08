@@ -1,242 +1,242 @@
 [
   {
-    "kor": "처벌하다",
-    "eng": "punish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "문명",
-    "eng": "civilization",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "건설하다",
-    "eng": "construct",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "생각나게 하다",
-    "eng": "remind",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기억해 내다",
-    "eng": "recall",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "점차적으로",
-    "eng": "gradually",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지연",
-    "eng": "delay",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유전적인",
-    "eng": "genetic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지속 가능한",
-    "eng": "sustainable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "등록하다",
-    "eng": "register",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "회전",
-    "eng": "rotation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "선언하다",
-    "eng": "declare",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평판",
-    "eng": "reputation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "해결하다",
-    "eng": "settle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대리인",
-    "eng": "agent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유죄의",
-    "eng": "guilty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무죄인",
-    "eng": "innocent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분석하다",
-    "eng": "analyze",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위기",
     "eng": "crisis",
+    "kor": "위기",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "분석하다",
-    "eng": "revolution",
-    "answer_count_kor": 1,
+    "eng": "settle",
+    "kor": "해결하다, 정착하다, 안정시키다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "저지르다",
-    "eng": "commit",
-    "answer_count_kor": 1,
+    "eng": "genetic",
+    "kor": "유전적인, 유전학의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "논평",
-    "eng": "comment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "편집하다",
-    "eng": "edit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장비를 갖추다",
-    "eng": "equip",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "천재성",
-    "eng": "genius",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적당한",
-    "eng": "adequate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공격적인",
-    "eng": "aggressive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "짐",
-    "eng": "load",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제조하다",
     "eng": "manufacture",
-    "answer_count_kor": 1,
+    "kor": "제조하다, 생산하다, 제조, 제품",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "인정하다",
-    "eng": "acknowledge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부인하다",
-    "eng": "deny",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "행동",
     "eng": "behavior",
-    "answer_count_kor": 1,
+    "kor": "행동, 태도",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "성숙한",
-    "eng": "mature",
-    "answer_count_kor": 1,
+    "eng": "delay",
+    "kor": "미루다, 연기하다, 지체하게 하다, 지연, 연기",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "밀다",
+    "eng": "edit",
+    "kor": "편집하다, 교정하다, 사설, 논설",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sustainable",
+    "kor": "지속 가능한, 견딜 수 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "thrust",
+    "kor": "밀다, 찌르다, 끼어들다, 밀기, 추진력",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "civilization",
+    "kor": "문명",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기업의",
-    "eng": "corporate",
+    "eng": "rotate",
+    "kor": "회전하다, 교대로 하다, 자전하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deny",
+    "kor": "부인하다, 거부하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acknowledge",
+    "kor": "인정하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "심각한",
-    "eng": "severe",
-    "answer_count_kor": 1,
+    "eng": "register",
+    "kor": "등록하다, 기록하다, 등록",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "기민한",
-    "eng": "alert",
-    "answer_count_kor": 1,
+    "eng": "declare",
+    "kor": "선언하다, 발표하다, (과세품을) 신고하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "폭력적인",
-    "eng": "violent",
-    "answer_count_kor": 1,
+    "eng": "punish",
+    "kor": "(처)벌하다, 응징하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "빛나다",
+    "eng": "recall",
+    "kor": "기억해 내다, 상기시키다, 회수하다, 회상, 회수",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "construct",
+    "kor": "건설하다, 구성하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "genius",
+    "kor": "천재성, 천재",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "guilty",
+    "kor": "유죄의, 죄책감을 느끼는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "glow",
+    "kor": "빛나다, 타다, 상기되다, 불빛, 홍 조",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mature",
+    "kor": "성숙한, 숙성한, 자라다, 성숙하 다, 완성되다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reputation",
+    "kor": "평판, 명성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "guarantee",
+    "kor": "보증하다, 보증, 담보",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "analyze",
+    "kor": "분석하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보증하다",
-    "eng": "guarantee",
+    "eng": "alert",
+    "kor": "기민한, 경계하는, 경계경보, 경 계 (태세), 알리다, 경보를 발하다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "innocent",
+    "kor": "무죄인, 악의 없는, 순수한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "corporate",
+    "kor": "기업[회사]의, 법인의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adequate",
+    "kor": "적당한, 충분한, 적임인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "severe",
+    "kor": "심각한, 엄격한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "equip",
+    "kor": "장비를 갖추다, 채비를 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "load",
+    "kor": "짐, 부담, (짐을) 싣다, 장전하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commit",
+    "kor": "(죄·과실 등을) 저지르다, 전념하 다, 약속하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "be based on",
+    "kor": "~에 바탕을 두다, ~에 근거하다, ~에 기초하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aggressive",
+    "kor": "공격적인, 매우 적극적인, 침략 적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gradually",
+    "kor": "점차(적으로), 서서히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "comment",
+    "kor": "논평, 언급, 의견, 논평하다, 의견 을 말하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agent",
+    "kor": "대리인, 중개인, (공공 기관의) 직 원",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "remind A of B",
+    "kor": "A에게 B를 상기시키다[생각나게 하다]",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "violent",
+    "kor": "폭력적인, 격렬한, 심한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
