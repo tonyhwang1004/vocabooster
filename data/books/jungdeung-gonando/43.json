@@ -1,476 +1,398 @@
 [
   {
-    "kor": "상품",
-    "eng": "goods",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상품",
-    "eng": "merchandise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "꼬리표",
-    "eng": "label",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "꼬리표",
-    "eng": "tag",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가격표",
-    "eng": "price tag",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감싸다",
-    "eng": "wrap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "포장을 풀다",
-    "eng": "unwrap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "싼 물건; 값싼 물건의",
-    "eng": "bargain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "염가 판매 (싼값으로 판매하는 것)",
-    "eng": "bargain sale",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사다; 구입",
-    "eng": "purchase",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사다",
-    "eng": "buy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구매자",
-    "eng": "purchaser",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 구입하다",
-    "eng": "make a purchase of",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "합계",
-    "eng": "total",
-    "answer_count_kor": 1,
+    "eng": "immature",
+    "kor": "미숙한, 미성숙한; 다 자라지 못한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "합계",
-    "eng": "sum",
-    "answer_count_kor": 1,
+    "eng": "immaturity",
+    "kor": "미숙, 미성숙",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "일부",
-    "eng": "part",
-    "answer_count_kor": 1,
+    "eng": "censor",
+    "kor": "검열하다; 검열관",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "일부의",
-    "eng": "partial",
+    "eng": "censorship",
+    "kor": "검열 (제도)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "질; 특성; 양질의",
-    "eng": "quality",
-    "answer_count_kor": 1,
+    "eng": "solidarity",
+    "kor": "연대, 결속",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "특성",
-    "eng": "characteristic",
-    "answer_count_kor": 1,
+    "eng": "explicit",
+    "kor": "명백[명확]한, 명시적인; 노골적인",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에게 자격을 주다",
-    "eng": "qualify",
-    "answer_count_kor": 1,
+    "eng": "explicitly",
+    "kor": "명확하게; 노골적으로",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "양질의 시간",
-    "eng": "quality time",
+    "eng": "foreseeable",
+    "kor": "예측[예견]할 수 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가치 있게 여기다",
-    "eng": "value",
+    "eng": "foresee",
+    "kor": "예견하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가치가 있는",
-    "eng": "valuable",
-    "answer_count_kor": 1,
+    "eng": "apt",
+    "kor": "~하기 쉬운, ~하는 경향이 있는; 적절한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄이다",
-    "eng": "reduce",
+    "eng": "aptly",
+    "kor": "적절히",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "축소",
-    "eng": "reduction",
-    "answer_count_kor": 1,
+    "eng": "fraught",
+    "kor": "(문제·위험 등이) 따르는, 가득한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "유행; 경향",
-    "eng": "trend",
-    "answer_count_kor": 1,
+    "eng": "exterior",
+    "kor": "외부; (사람의) 겉모습; 외부[겉면]의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "유행",
-    "eng": "fashion",
+    "eng": "breathtaking",
+    "kor": "(아름답거나 놀라워서) 숨이 막히는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유행",
-    "eng": "vogue",
-    "answer_count_kor": 1,
+    "eng": "breathtakingly",
+    "kor": "숨이 턱 막힐 듯이, 놀랄 만큼",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경향",
-    "eng": "tendency",
-    "answer_count_kor": 1,
+    "eng": "bewildered",
+    "kor": "당황한, 어리둥절한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "최신 유행의",
-    "eng": "trendy",
+    "eng": "bewilder",
+    "kor": "어리둥절하게 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "양",
-    "eng": "quantity",
-    "answer_count_kor": 1,
+    "eng": "bewilderment",
+    "kor": "당황, 어리둥절함",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "양",
-    "eng": "amount",
+    "eng": "legislate",
+    "kor": "법률을 제정하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "질",
-    "eng": "quality",
-    "answer_count_kor": 1,
+    "eng": "legislation",
+    "kor": "(제정된) 법률, 법령; 법률 제정, 입법 행위",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "양을 측정하다",
-    "eng": "quantify",
+    "eng": "legislative",
+    "kor": "입법(부)의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소매",
-    "eng": "retail",
-    "answer_count_kor": 1,
+    "eng": "legislator",
+    "kor": "입법자, 국회의원",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "도매",
-    "eng": "wholesale",
-    "answer_count_kor": 1,
+    "eng": "aggravate",
+    "kor": "악화시키다; 화나게 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "소매상",
-    "eng": "retailer",
+    "eng": "aggravation",
+    "kor": "악화(시키는 것)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상품",
-    "eng": "merchandise",
-    "answer_count_kor": 1,
+    "eng": "restructure",
+    "kor": "구조 조정[개혁]을 하다, 재구성하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "상품",
-    "eng": "goods",
-    "answer_count_kor": 1,
+    "eng": "phase",
+    "kor": "단계, 국면, 양상; (달의) 상[모습]; 단계적으로 실행하다",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "판매자",
-    "eng": "merchandiser",
-    "answer_count_kor": 1,
+    "eng": "versatile",
+    "kor": "다재다능한; 다용도[다목적]의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "집어넣다",
-    "eng": "insert",
+    "eng": "versatility",
+    "kor": "다재다능함",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "주입",
-    "eng": "insertion",
-    "answer_count_kor": 1,
+    "eng": "fortify",
+    "kor": "요새화하다; 강화하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "필요(성); 필수품",
-    "eng": "necessity",
-    "answer_count_kor": 1,
+    "eng": "fortification",
+    "kor": "방어 시설; 요새화",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "필수품",
-    "eng": "essential",
-    "answer_count_kor": 1,
+    "eng": "fort",
+    "kor": "요새, 보루",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "사치품",
-    "eng": "luxury",
-    "answer_count_kor": 1,
+    "eng": "irrigation",
+    "kor": "관개, (땅에) 물 대기",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "필수적인",
-    "eng": "necessary",
-    "answer_count_kor": 1,
+    "eng": "irrigate",
+    "kor": "관개하다, (땅에) 물을 대다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "호화",
-    "eng": "luxury",
-    "answer_count_kor": 1,
+    "eng": "fictive",
+    "kor": "상상의, 허구의; 소설의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "호화",
-    "eng": "extravagance",
-    "answer_count_kor": 1,
+    "eng": "futile",
+    "kor": "헛된, 소용없는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "사치스러운",
-    "eng": "luxurious",
-    "answer_count_kor": 1,
+    "eng": "futility",
+    "kor": "쓸모없음, 헛됨",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경매에서 팔다; 경매",
-    "eng": "auction",
-    "answer_count_kor": 1,
+    "eng": "vow",
+    "kor": "맹세[서약]하다; 맹세, 서약",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "영수증; 받음",
-    "eng": "receipt",
-    "answer_count_kor": 1,
+    "eng": "domestic",
+    "kor": "국내의; 가정의; (동물이) 길들여진",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "영수증",
-    "eng": "sales slip",
-    "answer_count_kor": 1,
+    "eng": "agony",
+    "kor": "(극심한) 고통, 고뇌",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "받다",
-    "eng": "receive",
+    "eng": "agonize",
+    "kor": "고뇌[고민]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "환불(액); 환불하다",
-    "eng": "refund",
-    "answer_count_kor": 1,
+    "eng": "fabulous",
+    "kor": "굉장한, 아주 멋진",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "교환하다; 교환(물)",
-    "eng": "exchange",
-    "answer_count_kor": 1,
+    "eng": "fabulously",
+    "kor": "엄청나게, 굉장히",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와 교환으로",
-    "eng": "in exchange for",
-    "answer_count_kor": 1,
+    "eng": "commonplace",
+    "kor": "평범한, 아주 흔한; 평범한[흔한] 일",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "요구하다; 주장하다; 요구; 주장",
-    "eng": "claim",
-    "answer_count_kor": 1,
+    "eng": "deceive",
+    "kor": "속이다, 기만하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "요구하다",
-    "eng": "demand",
-    "answer_count_kor": 1,
+    "eng": "deception",
+    "kor": "속임(수), 기만, 사기",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "만족시키다; (조건을) 충족시키다",
-    "eng": "satisfy",
-    "answer_count_kor": 1,
+    "eng": "deceptive",
+    "kor": "기만적인, 현혹하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "불만을 느끼게 하다",
-    "eng": "dissatisfy",
-    "answer_count_kor": 1,
+    "eng": "eradicate",
+    "kor": "근절하다, 뿌리 뽑다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(조건을) 충족시키다",
-    "eng": "meet",
-    "answer_count_kor": 1,
+    "eng": "eradication",
+    "kor": "근절, 박멸",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "만족",
-    "eng": "satisfaction",
-    "answer_count_kor": 1,
+    "eng": "enormous",
+    "kor": "막대한, 거대한, 엄청난",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "만족스러운",
-    "eng": "satisfactory",
-    "answer_count_kor": 1,
+    "eng": "enormously",
+    "kor": "엄청나게, 대단히",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "보증(서); 보증하다",
-    "eng": "guarantee",
-    "answer_count_kor": 1,
+    "eng": "commonality",
+    "kor": "공통점, 공통성",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "보증(서)",
-    "eng": "warranty",
-    "answer_count_kor": 1,
+    "eng": "dangle",
+    "kor": "매달리다, 매달다, 달랑거리다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "보증하다",
-    "eng": "ensure",
-    "answer_count_kor": 1,
+    "eng": "lean",
+    "kor": "기대다, 의지하다; 기울(이)다; 마른",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "환불 보증",
-    "eng": "money-back guarantee",
-    "answer_count_kor": 1,
+    "eng": "blunder",
+    "kor": "(어리석은) 실수; 실수하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "배제하다",
-    "eng": "exclude",
-    "answer_count_kor": 1,
+    "eng": "blundering",
+    "kor": "실수하는, 서투른",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "포함하다",
-    "eng": "include",
-    "answer_count_kor": 1,
+    "eng": "observance",
+    "kor": "(법률 등의) 준수; (전통·종교) 의식, 행사",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "합리적인",
-    "eng": "reasonable",
-    "answer_count_kor": 1,
+    "eng": "observation",
+    "kor": "관찰, 관측; (관찰에 따른) 논평, 의견",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "이유",
-    "eng": "reason",
-    "answer_count_kor": 1,
+    "eng": "comprehensible",
+    "kor": "이해할 수 있는, 알기 쉬운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "적당한 가격에",
-    "eng": "at a reasonable price",
-    "answer_count_kor": 1,
+    "eng": "comprehend",
+    "kor": "이해하다, 파악하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "안정된",
-    "eng": "steady",
+    "eng": "comprehension",
+    "kor": "이해(력)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "불안정한",
-    "eng": "unsteady",
-    "answer_count_kor": 1,
+    "eng": "comprehensive",
+    "kor": "포괄적인, 종합적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "대금을 지불하다; ~의 대가를 치르다",
-    "eng": "pay for",
-    "answer_count_kor": 1,
+    "eng": "kin",
+    "kor": "친척, 친족",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 빠뜨리다",
-    "eng": "leave out",
-    "answer_count_kor": 1,
+    "eng": "get down",
+    "kor": "내려오다; ~을 적다, 기록하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 빠뜨리다",
-    "eng": "exclude",
-    "answer_count_kor": 1,
+    "eng": "tap into",
+    "kor": "~을 활용[이용]하다; (감정·상황 등에) 접근하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 빠뜨리다",
-    "eng": "omit",
-    "answer_count_kor": 1,
+    "eng": "bring in",
+    "kor": "(법안 등을) 도입하다; (수익 등을) 벌어들이다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "합산하다",
-    "eng": "add up",
-    "answer_count_kor": 1,
+    "eng": "cut back",
+    "kor": "(비용·자원 등을) 줄이다, 삭감하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
