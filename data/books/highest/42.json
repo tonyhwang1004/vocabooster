@@ -1,182 +1,182 @@
 [
   {
-    "kor": "개념",
-    "eng": "notion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명령하다",
-    "eng": "command",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "서로 대립 관계에 있는",
-    "eng": "adversarial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장인 정신",
-    "eng": "craftsmanship",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "탐사",
-    "eng": "exploration",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "파내다",
-    "eng": "unearth",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상호 보완적인",
-    "eng": "complementary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유목의",
-    "eng": "nomadic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "능가하다",
-    "eng": "surpass",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통과",
-    "eng": "transit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주된",
-    "eng": "staple",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "간헐적인",
-    "eng": "intermittent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실용적인",
-    "eng": "pragmatic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평온평정",
-    "eng": "tranquility",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부패한",
-    "eng": "corrupt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일관성 있는",
-    "eng": "coherent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주장하다",
-    "eng": "contend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조약",
     "eng": "treaty",
+    "kor": "조약",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "직물",
-    "eng": "textile",
-    "answer_count_kor": 1,
+    "eng": "corrupt",
+    "kor": "부패한, 타락한; 부패하게 만들다, 타락시키다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "터무니없는",
-    "eng": "outrageous",
-    "answer_count_kor": 1,
+    "eng": "coherent",
+    "kor": "일관성 있는, 논리 정연한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "공표하다",
-    "eng": "publicize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(액체",
-    "eng": "outlet",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사기(꾼)",
-    "eng": "fraud",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "삼가다",
-    "eng": "abstain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주다",
-    "eng": "bestow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전문 용어",
-    "eng": "terminology",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "교차하다",
-    "eng": "intersect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "현저한",
     "eng": "salient",
+    "kor": "현저한, 두드러진, 가장 중요한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "publicize",
+    "kor": "공표하다, 광고하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abstain",
+    "kor": "삼가다, 자제하다; 기권하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pragmatic",
+    "kor": "실용적인, 실용주의의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "surpass",
+    "kor": "능가하다, 뛰어넘다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exploration",
+    "kor": "탐사, 답사, 탐험; 탐구, 조사",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nomadic",
+    "kor": "유목의, 유목민의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intermittent",
+    "kor": "간헐적인, 간간이 일어나는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tranquility",
+    "kor": "평온",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 고려참작하다",
-    "eng": "take ~ into account",
+    "eng": "take into account",
+    "kor": "~을 고려하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 관한 한",
     "eng": "when it comes to",
+    "kor": "~에 관한 한, ~에 관해서라면",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unearth",
+    "kor": "파내다, 발굴하다; 찾다, 밝혀내다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "notion",
+    "kor": "개념, 관념, 생각",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fraud",
+    "kor": "사기",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outlet",
+    "kor": "출구; 배출구, 표현 수단; 소매 점, 할인점; 콘센트",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "terminology",
+    "kor": "전문 용어",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transit",
+    "kor": "통과, 통행, 환승; 운송, 수송, 교 통",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contend",
+    "kor": "주장하다, 논쟁하다; 다투다, 겨 루다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "complementary",
+    "kor": "상호 보완적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "craftsmanship",
+    "kor": "장인 정신, 숙련, 솜씨",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "staple",
+    "kor": "주된, 주요한; 주식; 주요소, 주 성분; 스테이플러로 고정하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outrageous",
+    "kor": "터무니없는, 충격적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bestow",
+    "kor": "주다, 수여하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intersect",
+    "kor": "교차하다, 가로지르다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "command",
+    "kor": "명령하다; 지휘하다, 통솔하다; 받다; 차지하다, 장악하다; 명령 ; 지휘; 능력",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "textile",
+    "kor": "직물, 섬유; 직물의, 방직된",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adversarial",
+    "kor": "서로 대립 관계에 있는, 적대적 인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
