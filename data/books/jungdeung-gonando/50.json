@@ -1,470 +1,368 @@
 [
   {
-    "kor": "선거하다",
-    "eng": "elect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "선거",
-    "eng": "election",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "선거의",
-    "eng": "elective",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "선언하다",
-    "eng": "declare",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "선언하다",
-    "eng": "announce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "선언",
-    "eng": "declaration",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "민주주의",
-    "eng": "democracy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공무원",
-    "eng": "official",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사무실; 공직",
-    "eng": "office",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공무를 수행하다",
-    "eng": "officiate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(선거의) 후보자[출마자]; 지원자",
-    "eng": "candidate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대하다",
-    "eng": "oppose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대하다",
-    "eng": "resist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대편의",
-    "eng": "opposite",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "즉각적인; 직접적인",
-    "eng": "immediate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "즉각적인",
-    "eng": "instant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "직접적인",
-    "eng": "nearest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "즉시; 직접",
-    "eng": "immediately",
-    "answer_count_kor": 1,
+    "eng": "starvation",
+    "kor": "굶주림, 기아",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고집하다",
-    "eng": "insist",
-    "answer_count_kor": 1,
+    "eng": "starve",
+    "kor": "굶주리다[굶기다], 굶어 죽다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고집하다",
-    "eng": "demand",
-    "answer_count_kor": 1,
+    "eng": "stern",
+    "kor": "근엄한, 엄격한, 단호한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "강요하는",
-    "eng": "insistent",
-    "answer_count_kor": 1,
+    "eng": "sternly",
+    "kor": "엄격하게, 단호하게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "끈질기게",
-    "eng": "with insistence",
-    "answer_count_kor": 1,
+    "eng": "subside",
+    "kor": "가라앉다, 진정되다; (땅·건물이) 내려앉다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "연합",
-    "eng": "union",
-    "answer_count_kor": 1,
+    "eng": "slant",
+    "kor": "기울다, 기울이다; 편향되게 제시하다; 경사, 기울기; (편향된) 관점",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "연합하다",
-    "eng": "unionize",
-    "answer_count_kor": 1,
+    "eng": "slanted",
+    "kor": "비스듬한; 편파적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "무관심한",
-    "eng": "indifferent",
-    "answer_count_kor": 1,
+    "eng": "impoverish",
+    "kor": "가난[빈곤]하게 하다; (질을) 저하시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "무관심한",
-    "eng": "unconcerned",
-    "answer_count_kor": 1,
+    "eng": "impoverished",
+    "kor": "빈곤한; (질적으로) 저하된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "무관심",
-    "eng": "indifference",
-    "answer_count_kor": 1,
+    "eng": "thrust",
+    "kor": "밀다, 밀치다; 찌르다; 요점; 밀침, 찌름; 추진력",
+    "answer_count_kor": 7,
     "answer_count_eng": 1
   },
   {
-    "kor": "선거 운동",
-    "eng": "campaign",
-    "answer_count_kor": 1,
+    "eng": "slavery",
+    "kor": "노예 (신분); 노예 제도",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "정당; 파티",
-    "eng": "party",
-    "answer_count_kor": 1,
+    "eng": "slave",
+    "kor": "노예; 노예처럼[고되게] 일하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "논쟁; 논쟁하다",
-    "eng": "dispute",
-    "answer_count_kor": 1,
+    "eng": "laborious",
+    "kor": "힘든, 고된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "논쟁",
-    "eng": "argument",
-    "answer_count_kor": 1,
+    "eng": "dilemma",
+    "kor": "딜레마, 진퇴양난, 궁지",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "논쟁하다",
-    "eng": "argue",
-    "answer_count_kor": 1,
+    "eng": "tilt",
+    "kor": "기울다, 기울이다; 경사, 기울기",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "연기하다",
-    "eng": "postpone",
-    "answer_count_kor": 1,
+    "eng": "scorn",
+    "kor": "경멸하다, 멸시하다; 경멸, 멸시",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "연기하다",
-    "eng": "put off",
-    "answer_count_kor": 1,
+    "eng": "scornful",
+    "kor": "경멸하는, 멸시하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "연기하다",
-    "eng": "delay",
-    "answer_count_kor": 1,
+    "eng": "weary",
+    "kor": "지친, 피곤한; 싫증이 난; 지치게 하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "(설득하여) 납득시키다.; 확신시키다",
-    "eng": "convince",
-    "answer_count_kor": 1,
+    "eng": "weariness",
+    "kor": "피로, 권태",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "확신시키다",
-    "eng": "assure",
-    "answer_count_kor": 1,
+    "eng": "massive",
+    "kor": "거대한, 대규모[대량]의; (정도가) 심한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "확신",
-    "eng": "conviction",
-    "answer_count_kor": 1,
+    "eng": "relish",
+    "kor": "즐기다, 좋아하다; 큰 즐거움",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "설득하다",
-    "eng": "persuade",
-    "answer_count_kor": 1,
+    "eng": "unveil",
+    "kor": "(신제품 등을) 발표[공개]하다; (덮개를) 벗기다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "설득",
-    "eng": "persuasion",
+    "eng": "sophomore",
+    "kor": "(고교·대학의) 2학년생",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "추측하다",
-    "eng": "assume",
-    "answer_count_kor": 1,
+    "eng": "revenue",
+    "kor": "수입, 수익, 세입",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "추측하다",
-    "eng": "suppose",
-    "answer_count_kor": 1,
+    "eng": "stagnant",
+    "kor": "(물·공기 등이) 고여 있는; (경기 등이) 침체된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "가정",
-    "eng": "assumption",
-    "answer_count_kor": 1,
+    "eng": "stagnate",
+    "kor": "침체되다; (물이) 고이다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~라고 가정하면",
-    "eng": "assuming[supposing] that",
-    "answer_count_kor": 1,
+    "eng": "stagnation",
+    "kor": "침체, 정체",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "찬성하다",
-    "eng": "approve",
-    "answer_count_kor": 1,
+    "eng": "satirical",
+    "kor": "풍자적인, 비꼬는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "찬성하다",
-    "eng": "allow",
+    "eng": "satire",
+    "kor": "풍자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "찬성",
-    "eng": "approval",
-    "answer_count_kor": 1,
+    "eng": "monitor",
+    "kor": "관찰하다, 감시하다; 모니터[화면], 감시 장치",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "(국회의) 회기",
-    "eng": "session",
-    "answer_count_kor": 1,
+    "eng": "sterile",
+    "kor": "불모의, 메마른; 살균한, 소독한",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "개정 중의",
-    "eng": "sessional",
+    "eng": "sterilize",
+    "kor": "살균[소독]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "업적; 행위",
-    "eng": "deed",
-    "answer_count_kor": 1,
+    "eng": "setback",
+    "kor": "좌절, 차질",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "업적",
-    "eng": "achievement",
-    "answer_count_kor": 1,
+    "eng": "framework",
+    "kor": "(건물 등의) 뼈대, 골조; (결정 등을 위한) 틀; 체제, 체계",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "행위",
-    "eng": "action",
-    "answer_count_kor": 1,
+    "eng": "solemn",
+    "kor": "엄숙한, 진지한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "행위",
-    "eng": "conduct",
-    "answer_count_kor": 1,
+    "eng": "solemnly",
+    "kor": "엄숙하게, 진지하게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "평판; 명성",
-    "eng": "reputation",
+    "eng": "solemnity",
+    "kor": "엄숙함",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "명성",
-    "eng": "fame",
+    "eng": "uphold",
+    "kor": "(법·원칙 등을) 수호[옹호]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "명성의",
-    "eng": "reputational",
-    "answer_count_kor": 1,
+    "eng": "discharge",
+    "kor": "방출하다[되다]; 퇴원시키다, 제대시키다, 석방하다; 방출, 배출; 퇴원, 제대, 석방",
+    "answer_count_kor": 9,
     "answer_count_eng": 1
   },
   {
-    "kor": "보수적인",
-    "eng": "conservative",
-    "answer_count_kor": 1,
+    "eng": "sprain",
+    "kor": "(발목·손목 등을) 삐다, 접질리다; 염좌",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "진보적인",
-    "eng": "progressive",
-    "answer_count_kor": 1,
+    "eng": "sue",
+    "kor": "고소하다, 소송을 제기하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "보수주의",
-    "eng": "conservatism",
-    "answer_count_kor": 1,
+    "eng": "differentiate",
+    "kor": "구별하다, 구분 짓다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(군대 등을) 지휘하다; 명령하다; 지휘권; 명령; (언어) 구사 능력",
-    "eng": "command",
-    "answer_count_kor": 1,
+    "eng": "differentiation",
+    "kor": "차별, 구별",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(군대 등을) 지휘하다",
-    "eng": "lead",
-    "answer_count_kor": 1,
+    "eng": "remnant",
+    "kor": "남은 부분, 나머지; 자투리",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "명령하다",
-    "eng": "order",
-    "answer_count_kor": 1,
+    "eng": "sculpture",
+    "kor": "조각품; 조각, 조소",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "지휘관",
-    "eng": "commander",
+    "eng": "sculpt",
+    "kor": "조각하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "적대적인",
-    "eng": "hostile",
+    "eng": "sculptor",
+    "kor": "조각가",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "적대적인",
-    "eng": "unfriendly",
-    "answer_count_kor": 1,
+    "eng": "vacant",
+    "kor": "비어 있는; (일자리가) 공석인; (표정이) 멍한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "친절한",
-    "eng": "friendly",
-    "answer_count_kor": 1,
+    "eng": "vacancy",
+    "kor": "빈자리, 공석; 빈방; 멍함",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "적의",
-    "eng": "hostility",
-    "answer_count_kor": 1,
+    "eng": "proclaim",
+    "kor": "선언하다, 선포하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "권위",
-    "eng": "authority",
-    "answer_count_kor": 1,
+    "eng": "proclamation",
+    "kor": "선언서; 선언, 선포",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "권위",
-    "eng": "power",
-    "answer_count_kor": 1,
+    "eng": "exclaim",
+    "kor": "소리치다, 외치다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(정치) 내각; 장식장",
-    "eng": "cabinet",
-    "answer_count_kor": 1,
+    "eng": "exclamation",
+    "kor": "외침; 감탄(사)",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "각료 회의",
-    "eng": "cabinet council",
-    "answer_count_kor": 1,
+    "eng": "substantial",
+    "kor": "상당한; 본질[실질]적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "연방의",
-    "eng": "federal",
-    "answer_count_kor": 1,
+    "eng": "substantially",
+    "kor": "상당히; 주로, 대체로",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(미국) 연방 정부",
-    "eng": "Federal Government",
-    "answer_count_kor": 1,
+    "eng": "subsequent",
+    "kor": "그 다음의, 이후의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "통일하다",
-    "eng": "unify",
-    "answer_count_kor": 1,
+    "eng": "subsequently",
+    "kor": "그 후에, 이어서",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "나누다",
-    "eng": "divide",
-    "answer_count_kor": 1,
+    "eng": "detest",
+    "kor": "몹시 싫어하다, 혐오하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "나누다",
-    "eng": "split",
+    "eng": "single out",
+    "kor": "~을 선발[선정]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 입후보하다",
-    "eng": "run for",
-    "answer_count_kor": 1,
+    "eng": "go over",
+    "kor": "~을 검토하다, 복습하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 대변하다",
-    "eng": "speak for",
-    "answer_count_kor": 1,
+    "eng": "work out",
+    "kor": "운동하다; (문제를) 해결하다; (일이) 잘 풀리다, 진행되다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   }
 ]
