@@ -1,182 +1,182 @@
 [
   {
-    "kor": "엄격한",
-    "eng": "rigid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "돌다",
-    "eng": "revolve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감시",
-    "eng": "surveillance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가까움",
-    "eng": "proximity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(정부",
-    "eng": "revenue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "순진한",
-    "eng": "naive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "해적",
-    "eng": "pirate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(밀접한) 연관성상관관계이 있다",
-    "eng": "correlate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "꼼꼼한",
     "eng": "meticulous",
-    "answer_count_kor": 1,
+    "kor": "꼼꼼한, 세심한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조각하다",
-    "eng": "sculpt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "심미적인",
     "eng": "aesthetic",
-    "answer_count_kor": 1,
+    "kor": "심미적인, 미학적인; 미학",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조사연구하다",
     "eng": "investigate",
+    "kor": "조사하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "계급",
-    "eng": "hierarchy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거대한",
-    "eng": "gigantic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(흩)뿌리다",
-    "eng": "scatter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "냉소적인",
-    "eng": "cynical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~이 가득한",
-    "eng": "fraught",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(통일 조상의) 씨족",
-    "eng": "clan",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연달아 일어남",
-    "eng": "sequence",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이중 언어의",
-    "eng": "bilingual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영토의",
-    "eng": "territorial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동의하다",
-    "eng": "concur",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "미신을 믿는",
-    "eng": "superstitious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시체",
-    "eng": "corpse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의복",
-    "eng": "garment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모호한",
     "eng": "obscure",
+    "kor": "모호한, 이해하기 힘든; 무명의; 가리다, 숨기다; 흐리게하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concur",
+    "kor": "동의하다, 일치하다; 동시에 일어나다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pirate",
+    "kor": "해적; 저작권 침해자, 해적 행위자: 저작권을 침해하다, 불법 복제하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "garment",
+    "kor": "의복, 옷",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "correlate",
+    "kor": "연관성이 있다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "메마른",
+    "eng": "revenue",
+    "kor": "수익",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sculpt",
+    "kor": "조각하다, 형상을 만들다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "infertile",
-    "answer_count_kor": 1,
+    "kor": "메마른, 불모의; 불임의, 생식력이 없는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "책임",
+    "eng": "sequence",
+    "kor": "연달아 일어남, 연속; 순서, 차례",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "liability",
+    "kor": "책임, 의무; 부채, 채무",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "territorial",
+    "kor": "영토의, 영역의; 세력권을 주장하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bilingual",
+    "kor": "이중 언어의, 2개 국어를 구사하는; 이중 언어사용자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fraught",
+    "kor": "~이 가득한, ~ 투성이의; 걱정 스러운, 긴장하여",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proximity",
+    "kor": "가까움, 근접",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gigantic",
+    "kor": "거대한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(병에) 걸리다",
-    "eng": "come down with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 줄이다",
     "eng": "cut back on",
+    "kor": "~을 줄이다, ~을 삭감하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hierarchy",
+    "kor": "계급, 계층, 서열",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "come down with",
+    "kor": "걸리다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "naive",
+    "kor": "순진한, 경험이 없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "revolve",
+    "kor": "돌다, 회전하다; 전개되다, 초점 을 맞추다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scatter",
+    "kor": "뿌리다; 흩어지다, 흩어지게 만 들다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rigid",
+    "kor": "엄격한, 융통성 없는; 굳은, 경 직된, 딱딱한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "surveillance",
+    "kor": "감시, 감독",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "superstitious",
+    "kor": "미신을 믿는, 미신적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clan",
+    "kor": "씨족, 일가, 집단",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cynical",
+    "kor": "냉소적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "corpse",
+    "kor": "시체, 송장",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
