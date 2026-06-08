@@ -1,182 +1,182 @@
 [
   {
-    "kor": "온전한",
-    "eng": "intact",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "절약",
-    "eng": "thrift",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "확대",
-    "eng": "extension",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연금술",
-    "eng": "alchemy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "격리하다",
-    "eng": "isolate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사려 깊은",
-    "eng": "considerate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "격차",
-    "eng": "disparity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "새끼를 낳다",
-    "eng": "breed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "맛",
-    "eng": "savor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사법재판의",
-    "eng": "judicial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구식의",
-    "eng": "outdated",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "미묘한",
-    "eng": "subtle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "흩어지다",
-    "eng": "disperse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "친척",
-    "eng": "kin",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(법률 등을) 시행하다",
-    "eng": "enforce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "눈부시게 빛나다",
-    "eng": "glare",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "별개의",
-    "eng": "discrete",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기업의",
-    "eng": "corporate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(보트의) 노",
-    "eng": "paddle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "능숙한",
     "eng": "proficient",
-    "answer_count_kor": 1,
+    "kor": "능숙한, 숙련된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "격노",
-    "eng": "rage",
-    "answer_count_kor": 1,
+    "eng": "breed",
+    "kor": "새끼를 낳다, 번식하다; 사육하다, 양육하다; 일으키다; 종류, 품종",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "같은 뜻의",
-    "eng": "synonymous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배수 (시설)",
-    "eng": "drainage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소행성",
     "eng": "asteroid",
+    "kor": "소행성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고문",
-    "eng": "torture",
-    "answer_count_kor": 1,
+    "eng": "discrete",
+    "kor": "별개의, 분리된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비롯되다",
-    "eng": "originate",
-    "answer_count_kor": 1,
+    "eng": "alchemy",
+    "kor": "연금술, 비법",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "분비(물)",
-    "eng": "secretion",
-    "answer_count_kor": 1,
+    "eng": "intact",
+    "kor": "온전한, 손상되지 않은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "움켜쥠",
-    "eng": "clutch",
-    "answer_count_kor": 1,
+    "eng": "considerate",
+    "kor": "사려 깊은, 배려하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 일으키다",
+    "eng": "isolate",
+    "kor": "격리하다, 고립시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subtle",
+    "kor": "미묘한, 포착하기 어려운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "savor",
+    "kor": "맛, 풍미; 맛보다, 음미하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "give rise to",
+    "kor": "~을 일으키다, ~이 생기게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glare",
+    "kor": "눈부시게 빛나다; 노려보다; 눈부신 빛, 섬광; 노려봄",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extension",
+    "kor": "확대, 확장; 연장; 내선",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outdated",
+    "kor": "구식의, 시대에 뒤떨어진",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "corporate",
+    "kor": "기업의, 법인의; 단체의, 집합적인, 공동의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "secretion",
+    "kor": "분비",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "쓸모가 있다",
-    "eng": "come in handy",
+    "eng": "drainage",
+    "kor": "배수",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "synonymous",
+    "kor": "같은 뜻의, 동의어의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rage",
+    "kor": "격노, 분노; 몹시 화를 내다; 맹 렬히 계속되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "thrift",
+    "kor": "절약, 검약",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "torture",
+    "kor": "고문, 심한 고통; 고문하다, 괴 롭히다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "originate",
+    "kor": "비롯되다, 유래하다; 고안하다, 발명하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "paddle",
+    "kor": "노; 노를 젓다; 첨벙거리다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "judicial",
+    "kor": "사법의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disperse",
+    "kor": "흩어지다, 퍼뜨리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "kin",
+    "kor": "친척, 친족",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enforce",
+    "kor": "시행하다, 집행하다; 강요하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "come in handy",
+    "kor": "쓸모가 있다, 도움이 되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clutch",
+    "kor": "움켜쥔; 손아귀; 움켜잡다, 붙들 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disparity",
+    "kor": "격차, 불균형",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
