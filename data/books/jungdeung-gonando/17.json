@@ -1,182 +1,464 @@
 [
   {
-    "kor": "건강 상태",
-    "eng": "condition",
+    "eng": "available",
+    "kor": "구할[이용할] 수 있는; (~에 응할) 시간이 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "availability",
+    "kor": "이용 가능성; 시간을 낼 수 있음",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disgust",
+    "kor": "혐오감을 주다, 역겹게 하다; 혐오감, 역겨움",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disgusting",
+    "kor": "역겨운, 메스꺼운; 혐오스러운",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "catastrophe",
+    "kor": "재앙, 참사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "catastrophic",
+    "kor": "큰 재앙의; 비극적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outrage",
+    "kor": "격분, 분노; 난폭 행위, 만행; 격분하게 하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outrageous",
+    "kor": "충격적인; 터무니없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hypothesis",
+    "kor": "가설; 추정, 가정",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hypothesize",
+    "kor": "가설을 세우다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "화학 물질; 화학의",
-    "eng": "chemical",
+    "eng": "hypothetical",
+    "kor": "가설의, 가정의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "substance",
+    "kor": "물질; 본질, 핵심; 실체",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "substantial",
+    "kor": "상당한; 본질[실질]적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "substantive",
+    "kor": "실질적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소화하다",
-    "eng": "digest",
+    "eng": "harvest",
+    "kor": "수확(기), 추수(기); 수확량; 수확하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "potent",
+    "kor": "강력한, 효과적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "potency",
+    "kor": "힘, 효능",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "potential",
+    "kor": "잠재적인; 잠재력, 가능성",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "neglect",
+    "kor": "방치하다, 소홀히 하다; 무시[경시]하다; 방치; 무시, 경시",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "negligence",
+    "kor": "태만, 부주의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "irrational",
+    "kor": "비이성적인, 비합리적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "archive",
+    "kor": "기록 보관소; 기록 자료; (기록 보관소 등에) 보관하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "utilitarian",
+    "kor": "실용적인; 공리주의의; 공리주의자",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "utilitarianism",
+    "kor": "공리주의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(가벼운) 병",
-    "eng": "disorder",
+    "eng": "utility",
+    "kor": "공익사업; 유용성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "phenomenon",
+    "kor": "현상; 경이로운 사람[것]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "phenomenal",
+    "kor": "놀랄 만한, 경이로운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "revolve",
+    "kor": "(축을 중심으로) 돌다, 회전하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "revolution",
+    "kor": "혁명; (행성의) 공전; 회전",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "revolving",
+    "kor": "회전하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "악화되다",
-    "eng": "worsen",
+    "eng": "contour",
+    "kor": "(사물·얼굴 등의) 윤곽; 등고선; 윤곽을 그리다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gauge",
+    "kor": "측정하다, 판단하다; 계량기, 측정기; 기준, 척도",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sensation",
+    "kor": "감각; 느낌; 센세이션, 돌풍",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sensational",
+    "kor": "선풍적인; 선정적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "posture",
+    "kor": "(몸의) 자세; 태도, 입장",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "postural",
+    "kor": "자세의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "치아의",
-    "eng": "dental",
+    "eng": "wicked",
+    "kor": "못된, 사악한; 짓궂은",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exclude",
+    "kor": "제외[배제]하다; 거부[차단]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exclusion",
+    "kor": "제외; 차단",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exclusive",
+    "kor": "독점적인; 배타적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flourish",
+    "kor": "번창[번성]하다; (동식물이) 잘 자라다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flourishing",
+    "kor": "번창하는, 번성하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "leisurely",
+    "kor": "느긋하게, 유유히; 한가한, 느긋한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "leisure",
+    "kor": "여가, 자유 시간",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "straightforward",
+    "kor": "간단한, 쉬운; 솔직한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "straightforwardly",
+    "kor": "솔직하게; 간단하게, 쉽게",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "progress",
+    "kor": "진보, 진전, 발전; 진전되다, 나아가다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "progressive",
+    "kor": "진보적인; 점진적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "progression",
+    "kor": "진전, 진행",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "margin",
+    "kor": "(책의) 여백; (득표수 등의) 차이; 마진, 이윤; 여유, 여지",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "marginal",
+    "kor": "미미한; 주변부의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "itinerary",
+    "kor": "여행 일정(표), 여정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fascinating",
+    "kor": "매혹적인, 흥미로운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fascinate",
+    "kor": "매료시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의학의",
-    "eng": "medical",
-    "answer_count_kor": 1,
+    "eng": "fascinated",
+    "kor": "매료된, 매혹된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "정신의",
-    "eng": "mental",
-    "answer_count_kor": 1,
+    "eng": "fascination",
+    "kor": "매력, 매혹",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "회복하다",
-    "eng": "recover",
-    "answer_count_kor": 1,
+    "eng": "intermediate",
+    "kor": "중급의, 중간의; 중급자",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "비상사태",
-    "eng": "emergency",
-    "answer_count_kor": 1,
+    "eng": "reign",
+    "kor": "통치 (기간); 통치[군림]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "알레르기",
-    "eng": "allergy",
-    "answer_count_kor": 1,
+    "eng": "reigning",
+    "kor": "군림하는; (스포츠에서) 현 챔피언인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "관절",
-    "eng": "joint",
-    "answer_count_kor": 1,
+    "eng": "manipulate",
+    "kor": "(교묘하게) 조종[조작]하다; (능숙하게) 다루다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "척추",
-    "eng": "spine",
-    "answer_count_kor": 1,
+    "eng": "manipulation",
+    "kor": "(교묘한) 조종, 조작",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "시각",
-    "eng": "sight",
-    "answer_count_kor": 1,
+    "eng": "manipulative",
+    "kor": "(교묘하게) 조종하는; 손으로 다루는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "맥박",
-    "eng": "pulse",
-    "answer_count_kor": 1,
+    "eng": "apparatus",
+    "kor": "기구, 장치; (정부 등의) 조직체, 기관",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "감염",
-    "eng": "infection",
-    "answer_count_kor": 1,
+    "eng": "capability",
+    "kor": "능력, 역량",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "위생의",
-    "eng": "sanitary",
-    "answer_count_kor": 1,
+    "eng": "capable",
+    "kor": "~할 수 있는; 유능한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "징후",
-    "eng": "symptom",
-    "answer_count_kor": 1,
+    "eng": "capacity",
+    "kor": "수용력, 용량; 능력",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "장애를 입은",
-    "eng": "disabled",
-    "answer_count_kor": 1,
+    "eng": "confidential",
+    "kor": "비밀[기밀]의; 신뢰받는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주사하다",
-    "eng": "inject",
-    "answer_count_kor": 1,
+    "eng": "confidentially",
+    "kor": "비밀리에; 은밀하게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "처방하다",
-    "eng": "prescribe",
-    "answer_count_kor": 1,
+    "eng": "confidentiality",
+    "kor": "비밀, 비밀리",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "알약",
-    "eng": "tablet",
-    "answer_count_kor": 1,
+    "eng": "procrastinate",
+    "kor": "(해야 할 일을) 미루다, 질질 끌다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "상처",
-    "eng": "wound",
-    "answer_count_kor": 1,
+    "eng": "procrastination",
+    "kor": "꾸물거림; 지연",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "상처를 입히다",
-    "eng": "injure",
-    "answer_count_kor": 1,
+    "eng": "triumph",
+    "kor": "승리, 업적; 승리감; 승리하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "치유되다",
-    "eng": "heal",
-    "answer_count_kor": 1,
+    "eng": "triumphant",
+    "kor": "크게 승리한; 의기양양한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "면역의",
-    "eng": "immune",
-    "answer_count_kor": 1,
+    "eng": "depart from",
+    "kor": "~에서 출발하다; ~에서 벗어나다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "긴장",
-    "eng": "strain",
-    "answer_count_kor": 1,
+    "eng": "get away with",
+    "kor": "처벌을 모면하다, 그냥 넘어가다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "멍",
-    "eng": "bruise",
-    "answer_count_kor": 1,
+    "eng": "rule out",
+    "kor": "~을 배제하다, 제외하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~의 병에 걸리다",
-    "eng": "come down with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "누그러지다",
-    "eng": "ease off",
-    "answer_count_kor": 1,
+    "eng": "turn up",
+    "kor": "도착하다, 나타나다; 발견하다[되다]; (소리 등을) 높이다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   }
 ]
