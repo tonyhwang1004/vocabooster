@@ -1,181 +1,181 @@
 [
   {
-    "kor": "만면하다",
-    "eng": "pervade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대하다",
-    "eng": "oppose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "금(지)하다",
-    "eng": "prohibit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비",
-    "eng": "ratio",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지출",
-    "eng": "expenditure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상업",
-    "eng": "commerce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구경꾼",
-    "eng": "bystander",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결정 요인",
-    "eng": "determinant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "천연 그대로의",
-    "eng": "crude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사회 기반 시설",
-    "eng": "infrastructure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "얻다",
-    "eng": "attain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영양소",
-    "eng": "nutrient",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "게걸스레 먹다",
-    "eng": "devour",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "굳어지다",
     "eng": "solidify",
-    "answer_count_kor": 1,
+    "kor": "굳어지다, 굳히다; 확고히 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "돌연변이",
-    "eng": "mutation",
-    "answer_count_kor": 1,
+    "eng": "expenditure",
+    "kor": "지출, 비용; 소비, 소모",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "자기도 모르게 하는",
-    "eng": "involuntary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실망",
-    "eng": "dismay",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "만족감희열(을 주는 것)",
     "eng": "gratification",
+    "kor": "만족감",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의심 많은",
-    "eng": "skeptical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(기간이) 만료되다",
-    "eng": "expire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전달하다",
-    "eng": "transmit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(정보",
-    "eng": "impart",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부분 집합",
-    "eng": "subset",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "새기다",
     "eng": "inscribe",
+    "kor": "새기다; 헌정하다, 증정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nutrient",
+    "kor": "영양소, 영양분",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crude",
+    "kor": "천연 그대로의, 가공하지 않은; 대충의, 조잡한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infrastructure",
+    "kor": "사회 기반 시설",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "동의",
-    "eng": "assent",
-    "answer_count_kor": 1,
+    "eng": "expire",
+    "kor": "만료되다, 끝나다; 숨을 거두다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(한 치의 오차 없이) 정확한",
+    "eng": "devour",
+    "kor": "게걸스레 먹다, 먹어 치우다; 탐독하다, 흡수하다; 삼켜 버리다, 파괴하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mutation",
+    "kor": "돌연변이; 변화, 변형",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "pinpoint",
-    "answer_count_kor": 1,
+    "kor": "정확한; 핀 끝, 뾰족한 것; 정확하게 찾아내다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "무수함",
-    "eng": "myriad",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경시하다",
     "eng": "downplay",
+    "kor": "경시하다, 대단치 않게 생각하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prohibit",
+    "kor": "금하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~하는 한",
-    "eng": "to the extent that",
+    "eng": "assent",
+    "kor": "동의, 찬성, 승인; 동의하다, 찬성하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attain",
+    "kor": "얻다, 달성하다; 이르다, 도달하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dismay",
+    "kor": "실망, 경악; 경악하게 만들다, 크게 실망시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "skeptical",
+    "kor": "의심 많은, 회의적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pervade",
+    "kor": "만연하다, 스며들다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commerce",
+    "kor": "상업, 교역",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impart",
+    "kor": "전하다; 주다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 전혀 고려하지 않다",
+    "eng": "myriad",
+    "kor": "무수함; 무수히 많은",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subset",
+    "kor": "부분 집합",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transmit",
+    "kor": "전달하다, 전송하다; 옮기다; 전 도하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "involuntary",
+    "kor": "자기도 모르게 하는, 자발적이 지 않은; 본의 아닌, 마음이 내 키지 않는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ratio",
+    "kor": "비, 비율",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "have no regard for",
+    "kor": "~을 전혀 고려하지 않다, ~을 대수롭지 않게 여기다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "oppose",
+    "kor": "반대하다; 대립하다, 적대하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bystander",
+    "kor": "구경꾼, 방관자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "determinant",
+    "kor": "결정 요인; 결정적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "to the extent that",
+    "kor": "~하는 한; ~할 정도까지",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
