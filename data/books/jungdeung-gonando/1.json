@@ -1,182 +1,542 @@
 [
   {
-    "kor": "세대",
-    "eng": "generation",
+    "eng": "additional",
+    "kor": "추가의, 부가적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "additionally",
+    "kor": "게다가",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
+    "eng": "addition",
+    "kor": "첨가, 추가(된 것); 덧셈",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adhere",
+    "kor": "들러붙다; 고수하다, 충실하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adherence",
+    "kor": "고수, 집착",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adhesion",
+    "kor": "접착(력)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adherent",
     "kor": "지지자",
-    "eng": "supporter",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조카딸",
-    "eng": "niece",
+    "eng": "adhesive",
+    "kor": "접착제; 잘 들러붙는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ambitious",
+    "kor": "야심 찬, 야망 있는; (계획 등이) 야심적인, 대대적인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ambition",
+    "kor": "야심, 야망, 포부",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ambitiously",
+    "kor": "야심차게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "약혼시키다(to); 약속하다",
-    "eng": "engage",
+    "eng": "identify",
+    "kor": "(신원 등을) 확인[식별]하다; 동일시하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "identity",
+    "kor": "신원, 정체; 독자성",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "identification",
+    "kor": "신분 증명(서), 신원 확인; 동일시",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aesthetic",
+    "kor": "미학적인, 미적인; 미적 특징; 미학",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aesthetically",
+    "kor": "미적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기념하다",
-    "eng": "celebrate",
+    "eng": "animate",
+    "kor": "생기를 불어넣다; 만화 영화로 만들다; 살아 있는, 생물인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "animation",
+    "kor": "생기; 만화 영화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "animated",
+    "kor": "활기찬",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기념일",
-    "eng": "anniversary",
+    "eng": "accomplish",
+    "kor": "성취하다, 해내다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accomplishment",
+    "kor": "성취; 업적; 기량",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accomplished",
+    "kor": "기량이 뛰어난",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "운명",
-    "eng": "fate",
+    "eng": "autonomy",
+    "kor": "자치권; 자주성, 자율성",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "autonomous",
+    "kor": "자치의, 자주적인; 자율적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "marginalize",
+    "kor": "하찮게 만들다, 소외시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "marginalization",
+    "kor": "주변화, 소외",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fossil",
+    "kor": "화석",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "충고하다",
-    "eng": "advise",
+    "eng": "fossilize",
+    "kor": "화석화하다[되다]; 고착되다[시키다]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glacier",
+    "kor": "빙하",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "일생",
-    "eng": "lifetime",
+    "eng": "glacial",
+    "kor": "빙하(기)의; 몹시 추운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bizarre",
+    "kor": "기이한, 특이한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "notable",
+    "kor": "주목할 만한, 유명한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "notably",
+    "kor": "특히; 현저히, 명백히",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "capture",
+    "kor": "붙잡다; (마음을) 사로잡다; (장면 등을) 포착하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "biological",
+    "kor": "생물학의, 생물학적인; 생물체의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "biology",
+    "kor": "생물학; 생명 작용, 생태",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "biologist",
+    "kor": "생물학자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "나이가 위인",
-    "eng": "elder",
+    "eng": "cognitive",
+    "kor": "인식[인지]의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "부모의",
-    "eng": "parental",
+    "eng": "cognition",
+    "kor": "인식, 인지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cognitively",
+    "kor": "인지적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(동물이) 새끼를 낳다; 기르다; 품종",
-    "eng": "breed",
+    "eng": "bystander",
+    "kor": "구경꾼, 행인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incline",
+    "kor": "(마음이) 내키게 하다, 내키다; 경사지다; 경사, 비탈",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inclination",
+    "kor": "경향, 성향; 경사(도)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appliance",
+    "kor": "(가정용) 기기, 전기 제품",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "organism",
+    "kor": "생물, 유기체; 유기적 조직체",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clarity",
+    "kor": "명료성, 명확성; 선명도, 투명도",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clarify",
+    "kor": "명확하게 하다, 분명히 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clarification",
+    "kor": "설명, 해명",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ambiguous",
+    "kor": "애매한, 모호한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ambiguity",
+    "kor": "모호함, 애매함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ambiguously",
+    "kor": "모호하게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "순종하는",
-    "eng": "obedient",
+    "eng": "commerce",
+    "kor": "상업, 무역",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commercial",
+    "kor": "상업의; 상업적인; 광고 방송",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commercialize",
+    "kor": "상업화하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "다루다",
-    "eng": "treat",
+    "eng": "innovate",
+    "kor": "혁신하다, 쇄신하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "innovation",
+    "kor": "혁신, 쇄신",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "innovative",
+    "kor": "혁신적인, 획기적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infinite",
+    "kor": "무한한, 한계가 없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infinity",
+    "kor": "무한성; 무한대",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infinitely",
+    "kor": "무한히; 대단히, 매우",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinguish",
+    "kor": "구별하다, 식별하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinguished",
+    "kor": "유명한, 성공한; 기품 있는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinction",
+    "kor": "차이, 대조; 뛰어남",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concern",
+    "kor": "걱정; 관심사; 관계; 걱정시키다; 관련되다; 관심을 가지다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concerned",
+    "kor": "걱정하는; 관련된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concerning",
+    "kor": "~에 관한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상호작용 하다",
-    "eng": "interact",
+    "eng": "fertilizer",
+    "kor": "비료",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "연락; 접촉; ~와 연락하다",
-    "eng": "contact",
+    "eng": "fertile",
+    "kor": "비옥한; 생식력 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fertility",
+    "kor": "비옥함; 생식력",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "term",
+    "kor": "용어; 기간, 임기; 조건, 조항; 학기",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "occasion",
+    "kor": "(특정한) 때, 경우; 특별한 행사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "occasional",
+    "kor": "때때로의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관계",
-    "eng": "relationship",
+    "eng": "occasionally",
+    "kor": "가끔, 때때로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subconscious",
+    "kor": "잠재의식의; 잠재의식",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subconsciously",
+    "kor": "잠재의식적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "장례식",
-    "eng": "funeral",
+    "eng": "retrieval",
+    "kor": "회복, 만회, 복구; 검색",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "retrieve",
+    "kor": "회수하다, 되찾다; 검색하다; (사태를) 수습하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "quantity",
+    "kor": "양, 수량; 다량",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "quantify",
+    "kor": "수량화하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "행동하다",
-    "eng": "behave",
+    "eng": "quantitative",
+    "kor": "양적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "형제자매",
-    "eng": "sibling",
+    "eng": "fluctuate",
+    "kor": "(가격·수치 등이) 변동하다, 오르내리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fluctuation",
+    "kor": "변동, 오르내림",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stabilize",
+    "kor": "안정되다, 안정시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stable",
+    "kor": "안정된; 차분한; 마구간",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stabilization",
+    "kor": "안정(화)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와 닮다",
-    "eng": "resemble",
-    "answer_count_kor": 1,
+    "eng": "breakdown",
+    "kor": "고장; 붕괴, 실패; 분해",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "(환경적·문화적) 배경",
-    "eng": "background",
-    "answer_count_kor": 1,
+    "eng": "break in",
+    "kor": "침입하다; (대화 중에) 끼어들다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "탁아소의",
-    "eng": "daycare",
-    "answer_count_kor": 1,
+    "eng": "appeal to",
+    "kor": "~에게 호소[간청]하다; ~의 흥미를 끌다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "임신한",
-    "eng": "pregnant",
-    "answer_count_kor": 1,
+    "eng": "stand up for",
+    "kor": "~을 옹호하다, 지지하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "양육하다",
-    "eng": "nurture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동행하다",
-    "eng": "accompany",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "성숙한",
-    "eng": "mature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배우자",
-    "eng": "spouse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 기르다",
-    "eng": "bring up",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 헤어지다",
-    "eng": "break up with",
-    "answer_count_kor": 1,
+    "eng": "set out",
+    "kor": "출발하다, 길을 떠나다; (일·과제 등에) 착수하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
