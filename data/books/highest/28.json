@@ -1,182 +1,182 @@
 [
   {
-    "kor": "평행의",
-    "eng": "parallel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "역경",
-    "eng": "plight",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "본능직감에 따른",
-    "eng": "instinctive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "격퇴하다",
-    "eng": "repel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(주의를) 산만하게 하다",
-    "eng": "distract",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평가",
     "eng": "assessment",
+    "kor": "평가",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "필요로 하다",
-    "eng": "necessitate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "생략",
-    "eng": "omission",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(항공기",
-    "eng": "cockpit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추정",
-    "eng": "assumption",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조각",
-    "eng": "segment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "약물",
-    "eng": "medication",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "강력한",
-    "eng": "formidable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "직인",
-    "eng": "seal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(철저한) 조사",
-    "eng": "probe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "식물(학)의",
-    "eng": "botanical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "격렬한",
-    "eng": "acute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "스며들게 하다",
     "eng": "instill",
-    "answer_count_kor": 1,
+    "kor": "스며들게 하다, 주입시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "간과하다",
-    "eng": "overlook",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동면하다",
     "eng": "hibernate",
-    "answer_count_kor": 1,
+    "kor": "동면하다, 겨울잠을 자다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "엉키게 하다",
-    "eng": "tangle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "능력",
-    "eng": "faculty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발진",
     "eng": "rash",
+    "kor": "발진, 뾰루지; 경솔한, 성급한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "formidable",
+    "kor": "강력한, 만만치 않은, 버거운",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overlook",
+    "kor": "간과하다; 눈감아 주다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(숨 등을) 내쉬다내뿜다",
-    "eng": "exhale",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(부당하게) 이용하다",
-    "eng": "exploit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가판대",
-    "eng": "stall",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "근절하다",
-    "eng": "exterminate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(상품 등을) 만들다",
-    "eng": "fabricate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정확히 밝히다이해하다",
-    "eng": "pin down",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~의할 가능성이 있다",
     "eng": "stand the chance of",
+    "kor": "~의가능성이 있다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stall",
+    "kor": "가판대, 좌판; 멎다; 교착 상태에 빠뜨리다, 지연시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distract",
+    "kor": "산만하게 하다, 딴 데로 돌리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exhale",
+    "kor": "내쉬다; 발산하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "botanical",
+    "kor": "식물의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "omission",
+    "kor": "생략, 누락; 소홀, 태만",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "parallel",
+    "kor": "평행의, 나란한; 아주 유사한; 필적하는사람; 유사점; 평행하다; 유사하다, 필적하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "necessitate",
+    "kor": "필요로 하다, 요청하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pin down",
+    "kor": "정확히 밝히다; 고정시키다, 움직이지 못하게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exterminate",
+    "kor": "근절하다, 몰살하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "faculty",
+    "kor": "능력, 기능; 학부 교수단, 교직 원",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "plight",
+    "kor": "역경, 곤경",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "instinctive",
+    "kor": "본능에 따른, 본능적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acute",
+    "kor": "격렬한, 극심한; 예리한, 민감한; 끝이 뾰족한, 날카로운; 급성의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "seal",
+    "kor": "직인, 도장; 봉인; 바다표범, 물 개; 밀봉하다; 도장을 찍다; 막 다, 메우다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exploit",
+    "kor": "이용하다, 착취하다; 개척하다, 개발하다, 활용하다; 위업, 공적",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fabricate",
+    "kor": "만들다, 제작하다; 날조하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "probe",
+    "kor": "조사, 탐사; 무인 우주 탐사선; 조사하다, 탐사하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cockpit",
+    "kor": "조종석",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "repel",
+    "kor": "격퇴하다, 물리치다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "medication",
+    "kor": "약물; 투약, 약물 치료",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tangle",
+    "kor": "엉키게 하다, 얽히게 하다; 엉 킴, 얽힘",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assumption",
+    "kor": "추정, 가정, 전제",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "segment",
+    "kor": "조각, 부분, 구분; 분할하다, 가 르다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   }
 ]
