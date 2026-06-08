@@ -1,421 +1,385 @@
 [
   {
-    "kor": "섬유",
-    "eng": "fiber",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "식이 섬유",
-    "eng": "dietary fiber",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "담고 있다",
-    "eng": "contain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "용기",
-    "eng": "container",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "즉석요리의",
-    "eng": "instant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "즉각적인",
-    "eng": "immediate",
-    "answer_count_kor": 1,
+    "eng": "liberal",
+    "kor": "자유주의의, 진보적인; 후한, 관대한",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "순간",
-    "eng": "moment",
-    "answer_count_kor": 1,
+    "eng": "liberalism",
+    "kor": "자유주의, 진보주의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "즉시",
-    "eng": "instantly",
-    "answer_count_kor": 1,
+    "eng": "dissent",
+    "kor": "반대 (의견), 이의; 반대하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "즉시",
-    "eng": "in an instant",
-    "answer_count_kor": 1,
+    "eng": "boost",
+    "kor": "신장시키다, 북돋우다; 격려, 힘, 부양책; 증가",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "(과일·채소 등의) 껍질을 벗기다; 벗겨지다; 과일 껍질",
-    "eng": "peel",
-    "answer_count_kor": 1,
+    "eng": "flatter",
+    "kor": "아첨하다, 알랑거리다; (실제보다) 돋보이게 하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "영양분을 공급하다",
-    "eng": "nourish",
-    "answer_count_kor": 1,
+    "eng": "flattery",
+    "kor": "아첨, 아부",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "영양분을 공급하다",
-    "eng": "feed",
-    "answer_count_kor": 1,
+    "eng": "flattering",
+    "kor": "아첨하는; 돋보이게 하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "영양분",
-    "eng": "nourishment",
-    "answer_count_kor": 1,
+    "eng": "pitfall",
+    "kor": "(숨겨진) 위험, 함정",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "자르다",
-    "eng": "chop",
-    "answer_count_kor": 1,
+    "eng": "convert",
+    "kor": "전환하다, 개조하다; 개종하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "자르다",
-    "eng": "cut",
-    "answer_count_kor": 1,
+    "eng": "conversion",
+    "kor": "전환, 개조; 개종",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "잘게 갈다[빻다]",
-    "eng": "grind",
+    "eng": "convertible",
+    "kor": "전환 가능한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "잘게 갈다[빻다]",
-    "eng": "mill",
+    "eng": "peril",
+    "kor": "위험(물)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "굽다",
-    "eng": "roast",
-    "answer_count_kor": 1,
+    "eng": "perilous",
+    "kor": "아주 위험한, 위태로운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "썩은",
-    "eng": "rotten",
-    "answer_count_kor": 1,
+    "eng": "germ",
+    "kor": "세균, 미생물; 기원, 시초",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "썩은",
-    "eng": "decayed",
-    "answer_count_kor": 1,
+    "eng": "germinate",
+    "kor": "싹트다, 발아하다[시키다]",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "신선한",
-    "eng": "fresh",
-    "answer_count_kor": 1,
+    "eng": "renovate",
+    "kor": "개조하다, 보수하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "썩다",
-    "eng": "rot",
-    "answer_count_kor": 1,
+    "eng": "renovation",
+    "kor": "개조, 보수",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "요리",
-    "eng": "cuisine",
+    "eng": "ranch",
+    "kor": "(대규모) 목장",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "요리",
-    "eng": "cooking",
-    "answer_count_kor": 1,
+    "eng": "benevolent",
+    "kor": "자비로운, 인정 많은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "프랑스 요리",
-    "eng": "French cuisine",
-    "answer_count_kor": 1,
+    "eng": "benevolence",
+    "kor": "자비심; 선행, 자선",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "조리된",
-    "eng": "cooked",
-    "answer_count_kor": 1,
+    "eng": "stalk",
+    "kor": "(식물의) 줄기[대]; 몰래 접근하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "날것의; 가공하지 않은",
-    "eng": "raw",
-    "answer_count_kor": 1,
+    "eng": "stalker",
+    "kor": "스토커, 남을 따라다니며 괴롭히는 사람",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "가공하지 않은",
-    "eng": "unrefined",
-    "answer_count_kor": 1,
+    "eng": "portable",
+    "kor": "휴대용의, 들고 다닐 수 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "가공하지 않은",
-    "eng": "natural",
-    "answer_count_kor": 1,
+    "eng": "adorn",
+    "kor": "꾸미다, 장식하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "원료",
-    "eng": "raw material",
-    "answer_count_kor": 1,
+    "eng": "adornment",
+    "kor": "꾸미기, 장식; 장식품",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "석쇠; 석쇠에 굽다",
-    "eng": "grill",
+    "eng": "infamous",
+    "kor": "악명 높은",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "석쇠에 굽다",
-    "eng": "broil",
-    "answer_count_kor": 1,
+    "eng": "correspond",
+    "kor": "일치[부합]하다; 해당[상응]하다; 서신을 주고받다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "야외용 석쇠",
-    "eng": "outdoor grill",
-    "answer_count_kor": 1,
+    "eng": "correspondence",
+    "kor": "서신 (왕래); 일치",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "먹을 수 있는",
-    "eng": "edible",
-    "answer_count_kor": 1,
+    "eng": "correspondent",
+    "kor": "기자, 특파원",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "먹을 수 있는",
-    "eng": "eatable",
-    "answer_count_kor": 1,
+    "eng": "peculiar",
+    "kor": "별난, 기이한; 고유한, 특유의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "먹을 수 없는",
-    "eng": "inedible",
-    "answer_count_kor": 1,
+    "eng": "peculiarly",
+    "kor": "특히; 독특하게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "영양",
-    "eng": "nutrition",
-    "answer_count_kor": 1,
+    "eng": "peculiarity",
+    "kor": "특이한 점; 특성",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "영양실조",
-    "eng": "malnutrition",
-    "answer_count_kor": 1,
+    "eng": "compartment",
+    "kor": "칸, 구획; (기차 등의) 객실",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "영양상의",
-    "eng": "nutritional",
-    "answer_count_kor": 1,
+    "eng": "radical",
+    "kor": "근본적인; 급진적인; 급진주의자",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "채식주의자; 채식주의(자)의",
-    "eng": "vegetarian",
+    "eng": "radically",
+    "kor": "근본적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "채식주의",
-    "eng": "vegetarianism",
-    "answer_count_kor": 1,
+    "eng": "conclude",
+    "kor": "결론을 내리다; 끝나다, 끝내다; (조약 등을) 맺다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "채식주의 식단",
-    "eng": "vegetarian diet",
-    "answer_count_kor": 1,
+    "eng": "conclusion",
+    "kor": "결론; 결말; 체결, 타결",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "우유의",
-    "eng": "dairy",
+    "eng": "debilitate",
+    "kor": "(심신·조직 등을) 약화시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "주전자",
-    "eng": "kettle",
+    "eng": "debilitating",
+    "kor": "쇠약하게 하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "쟁반",
-    "eng": "tray",
-    "answer_count_kor": 1,
+    "eng": "invoke",
+    "kor": "(법 등을) 적용하다, 발동하다; (근거로) 언급[인용]하다; (느낌 등을) 불러일으키다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "음식을 낼 때 쓰는 쟁반",
-    "eng": "serving tray",
-    "answer_count_kor": 1,
+    "eng": "skeleton",
+    "kor": "골격, 해골; (건물의) 골조; (글 등의) 윤곽",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "조미료",
-    "eng": "seasoning",
-    "answer_count_kor": 1,
+    "eng": "skeletal",
+    "kor": "골격의; 해골 같은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조미료",
-    "eng": "spice",
+    "eng": "asthma",
+    "kor": "천식",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(재료 특유의) 맛과 향; 풍미를 더하다(with)",
-    "eng": "flavor",
-    "answer_count_kor": 1,
+    "eng": "resilience",
+    "kor": "회복력; 탄력, 탄성",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(재료 특유의) 맛과 향",
-    "eng": "savor",
-    "answer_count_kor": 1,
+    "eng": "resilient",
+    "kor": "회복력 있는; 탄력 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 맛을 더하다",
-    "eng": "give flavor to",
-    "answer_count_kor": 1,
+    "eng": "transit",
+    "kor": "운송, 수송; (대중)교통; 통과, 통행",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "향기",
-    "eng": "scent",
-    "answer_count_kor": 1,
+    "eng": "inborn",
+    "kor": "타고난, 선천적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "향기",
-    "eng": "smell",
-    "answer_count_kor": 1,
+    "eng": "proximity",
+    "kor": "(거리·시간상으로) 가까움, 근접",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "향기",
-    "eng": "fragrance",
-    "answer_count_kor": 1,
+    "eng": "pitch",
+    "kor": "음의 높이; 투구; (감정의) 정도, 정점; 권유, 홍보; 던지다, 투구하다",
+    "answer_count_kor": 8,
     "answer_count_eng": 1
   },
   {
-    "kor": "남은; 남은 음식",
-    "eng": "leftover",
-    "answer_count_kor": 1,
+    "eng": "hover",
+    "kor": "(공중을) 맴돌다; 서성이다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "삼키다; 삼키기",
-    "eng": "swallow",
-    "answer_count_kor": 1,
+    "eng": "quarrel",
+    "kor": "다투다, 언쟁을 벌이다; 말다툼, 언쟁",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "음료",
-    "eng": "beverage",
-    "answer_count_kor": 1,
+    "eng": "outlook",
+    "kor": "전망, 예측; 관점; 조망, 경치",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "음료",
-    "eng": "drink",
-    "answer_count_kor": 1,
+    "eng": "suppress",
+    "kor": "진압[억압]하다; 참다, 억누르다; 은폐하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "짜다",
-    "eng": "squeeze",
-    "answer_count_kor": 1,
+    "eng": "suppression",
+    "kor": "진압, 억압; 억제; 은폐",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "익다; 익히다",
-    "eng": "ripen",
-    "answer_count_kor": 1,
+    "eng": "oppress",
+    "kor": "억압[탄압]하다; 압박감을 주다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "익은",
-    "eng": "ripe",
-    "answer_count_kor": 1,
+    "eng": "oppression",
+    "kor": "억압, 탄압; 압박감",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "반죽; 풀; 붙이다",
-    "eng": "paste",
-    "answer_count_kor": 1,
+    "eng": "oppressive",
+    "kor": "억압적인; (날씨가) 답답한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "붙이다",
-    "eng": "glue",
-    "answer_count_kor": 1,
+    "eng": "beneficial",
+    "kor": "유익한, 이로운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "섞다; 조화되다",
-    "eng": "blend",
-    "answer_count_kor": 1,
+    "eng": "beneficent",
+    "kor": "자비로운, 인정 많은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "섞다",
-    "eng": "mix",
-    "answer_count_kor": 1,
+    "eng": "alleviate",
+    "kor": "완화하다, 경감시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조화되다",
-    "eng": "go well with",
-    "answer_count_kor": 1,
+    "eng": "alleviation",
+    "kor": "완화, 경감",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조화되다",
-    "eng": "match",
-    "answer_count_kor": 1,
+    "eng": "hold back",
+    "kor": "(감정을) 억누르다, 참다; ~을 저지하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(음식 등이) 상하다",
-    "eng": "go off",
-    "answer_count_kor": 1,
+    "eng": "cut across",
+    "kor": "~을 가로지르다; ~에 걸치다, ~을 아우르다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
-  },
-  {
-    "kor": "(음식 등이) 상하다",
-    "eng": "decay, spoil",
-    "answer_count_kor": 1,
-    "answer_count_eng": 2
   },
   {
-    "kor": "~을 먹고 살다",
-    "eng": "feed on",
+    "eng": "come away with",
+    "kor": "(어떤 인상·느낌을) 갖고 떠나다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
