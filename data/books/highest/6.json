@@ -1,182 +1,182 @@
 [
   {
-    "kor": "보유",
-    "eng": "retention",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수반하다",
-    "eng": "entail",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동맹",
-    "eng": "alliance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지정하다",
-    "eng": "designate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동의",
-    "eng": "consent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "섭취(량)",
-    "eng": "intake",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "숙고하다",
-    "eng": "ponder",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "허용하는",
-    "eng": "susceptible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대표(자)",
-    "eng": "delegate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "끝내다",
-    "eng": "terminate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결함",
-    "eng": "defect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통치 (방식)",
-    "eng": "governance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "표면(상)의",
-    "eng": "superficial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "논박하다",
-    "eng": "refute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중간의",
-    "eng": "intermediate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경악시키다",
-    "eng": "astound",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "길을 잃다",
-    "eng": "stray",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무기명비밀 투표",
-    "eng": "ballot",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "용인",
     "eng": "tolerance",
-    "answer_count_kor": 1,
+    "kor": "용인, 관용; 인내; 내성, 저항력",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "가설을 세우다",
-    "eng": "hypothesize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이주이동하다",
-    "eng": "migrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "능력",
-    "eng": "capacity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유도하다",
-    "eng": "entice",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반감",
-    "eng": "antipathy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "단조로운",
     "eng": "monotonous",
+    "kor": "단조로운, 변함없는, 지루한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "terminate",
+    "kor": "끝내다, 종료하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "astound",
+    "kor": "경악시키다, 큰 충격을 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stray",
+    "kor": "길을 잃다, 헤매다; 벗어나다, 옆길로 새다; 길을 잃은, 헤매는; 벗어난, 빗나간",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defect",
+    "kor": "결함; 부족; 버리다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수용적인",
-    "eng": "receptive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공동의",
-    "eng": "joint",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의지하다",
-    "eng": "resort",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 변호하다",
     "eng": "stick up for",
+    "kor": "~을 변호하다, 옹호하다; 지키다, 방어하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "single out",
+    "kor": "선발하다, 선정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "migrate",
+    "kor": "이주하다, 이주시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entail",
+    "kor": "수반하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "선발하다",
-    "eng": "single out",
+    "eng": "governance",
+    "kor": "통치 , 관리",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "designate",
+    "kor": "지정하다, 임명하다; 가리키다, 나타내다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entice",
+    "kor": "유도하다, 유인하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consent",
+    "kor": "동의, 승낙; 동의하다, 승낙하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "delegate",
+    "kor": "대표, 사절, 대리인; 특파하다, 파견하다; 위임하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intake",
+    "kor": "섭취, 흡입; 입학인원",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "superficial",
+    "kor": "표면의, 외부의; 피상적인, 깊이 없는, 얄팍한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hypothesize",
+    "kor": "가설을 세우다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "joint",
+    "kor": "공동의, 합동의; 관절, 연결 부 위",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "retention",
+    "kor": "보유, 유지; 유치, 감금; 기억",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "capacity",
+    "kor": "능력, 재능; 수용력, 용량",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ponder",
+    "kor": "숙고하다, 곰곰이 생각하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alliance",
+    "kor": "동맹, 연합, 제휴",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refute",
+    "kor": "논박하다, 반박하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "antipathy",
+    "kor": "반감, 혐오",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "receptive",
+    "kor": "수용적인, 선뜻 받아들이는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intermediate",
+    "kor": "중간의, 중급의; 중급자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ballot",
+    "kor": "무기명투표; 투표 용지; 총 투표 수; 무기명투표하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "susceptible",
+    "kor": "허용하는, 가능한; 민감한, 영향 받기쉬운",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resort",
+    "kor": "의지하다, 호소하다; 리조트, 휴 양지; 의지, 호소; 수단, 방책",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   }
 ]
