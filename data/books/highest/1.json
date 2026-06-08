@@ -1,182 +1,182 @@
 [
   {
-    "kor": "폭넓은",
-    "eng": "inclusive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인접한",
-    "eng": "adjacent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "누적되는",
-    "eng": "cumulative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "박차",
-    "eng": "spur",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경감시키다",
-    "eng": "alleviate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분쟁",
-    "eng": "dispute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실행 가능한",
-    "eng": "viable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "노력",
-    "eng": "endeavor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "잠수하다",
-    "eng": "submerge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감소하다",
-    "eng": "decline",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "습득",
-    "eng": "acquisition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발언",
-    "eng": "remark",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(어떤 생각이 마음을) 사로잡다",
-    "eng": "obsess",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "마찰(력)",
-    "eng": "friction",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "깜짝 놀라게 하다",
-    "eng": "startle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "과적하다",
-    "eng": "overload",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위험(요소)",
     "eng": "hazard",
+    "kor": "위험 ; 위태롭게 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "망쳐 놓다",
-    "eng": "spoil",
-    "answer_count_kor": 1,
+    "eng": "decline",
+    "kor": "감소하다, 쇠퇴하다; 거절하다; 감소, 하락, 축소",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "정지",
-    "eng": "standstill",
-    "answer_count_kor": 1,
+    "eng": "remark",
+    "kor": "발언, 언급, 논평; 말하다, 언급하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "할당",
-    "eng": "allocation",
-    "answer_count_kor": 1,
+    "eng": "viable",
+    "kor": "실행 가능한, 성공할 수 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(지식",
-    "eng": "domain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(새",
-    "eng": "hover",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "억제하다",
-    "eng": "curb",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "둘러에워싸다",
-    "eng": "encompass",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사나운",
-    "eng": "fierce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "몹시 싫어하다",
-    "eng": "detest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "도시의",
-    "eng": "urban",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(개",
-    "eng": "howl",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 대한 소유권권리을 주장하다",
     "eng": "lay claim to",
+    "kor": "~에 대한 소유권을 주장하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(병 등)에 걸리다",
+    "eng": "spoil",
+    "kor": "망쳐 놓다, 못쓰게 만들다; 버릇없게 키우다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "be stricken with",
+    "kor": "에 걸리다; ~에 사로잡히다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "standstill",
+    "kor": "정지, 멈춤, 중단",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obsess",
+    "kor": "사로잡다, ~에 집착하게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "startle",
+    "kor": "깜짝 놀라게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "encompass",
+    "kor": "둘러싸다; 포함하다, 망라하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "howl",
+    "kor": "길게 짖는 소리; 울부짖음; 길게 짖다; 울부짖다, 아우성치다; 윙윙거리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cumulative",
+    "kor": "누적되는, 누계의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overload",
+    "kor": "과적하다, 지나치게 부담시키다; 과적, 과부하",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "friction",
+    "kor": "마찰; 갈등, 불화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "urban",
+    "kor": "도시의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fierce",
+    "kor": "사나운, 험악한; 격렬한, 극심한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "curb",
+    "kor": "억제하다, 제한하다; 재갈, 고삐; 구속, 억제",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "domain",
+    "kor": "분야, 영역, 범위; 소유지, 영토; 도메인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "submerge",
+    "kor": "잠수하다, 물속에 잠기다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "endeavor",
+    "kor": "노력, 시도, 애씀; 노력하다, 시 도하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dispute",
+    "kor": "분쟁, 논쟁; 논쟁하다, 분쟁을 벌이다; 반박하다, 이의를 제기 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hover",
+    "kor": "공중을 맴돌다; 서성이다, 배회 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inclusive",
+    "kor": "폭넓은, 포괄적인; 포함한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "detest",
+    "kor": "몹시 싫어하다, 혐오하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acquisition",
+    "kor": "습득, 취득",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "allocation",
+    "kor": "할당, 배분; 할당량, 배당액",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spur",
+    "kor": "박차; 자극제, 원동력; 박차를 가하다; 원동력이 되다, 자극하 다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adjacent",
+    "kor": "인접한, 가까운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alleviate",
+    "kor": "경감시키다, 완화하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
