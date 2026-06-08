@@ -1,242 +1,242 @@
 [
   {
-    "kor": "항의하다",
-    "eng": "protest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유기적인",
-    "eng": "organic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "훌륭한",
-    "eng": "brilliant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "재정",
-    "eng": "finance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "믿을 수 없는",
-    "eng": "incredible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관심 흥미",
-    "eng": "interest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "드문",
-    "eng": "rare",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평범한",
-    "eng": "ordinary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적용",
-    "eng": "application",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정의하다",
-    "eng": "define",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기부하다",
-    "eng": "donate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관여하다",
-    "eng": "engage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평균",
-    "eng": "average",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "성",
     "eng": "gender",
+    "kor": "성(性), 성별",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "donate",
+    "kor": "기부[기증]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "투자하다",
-    "eng": "invest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이전의",
-    "eng": "previous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~의 가치가 있는",
-    "eng": "worth",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대안",
-    "eng": "alternative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "요인",
-    "eng": "factor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "요소",
-    "eng": "element",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "치명적인",
-    "eng": "deadly",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "단단한",
-    "eng": "firm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "독립",
-    "eng": "independence",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "때",
     "eng": "occasion",
-    "answer_count_kor": 1,
+    "kor": "때, 경우, 행사",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "출판하다",
-    "eng": "publish",
-    "answer_count_kor": 1,
+    "eng": "incredible",
+    "kor": "믿을 수 없는, 놀라운, 대단한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "예약하다",
-    "eng": "reserve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "겉모습",
-    "eng": "appearance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지명하다",
-    "eng": "appoint",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "혼합하다",
-    "eng": "blend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장벽",
-    "eng": "barrier",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장애",
-    "eng": "obstacle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "눈을 깜박이다",
-    "eng": "blink",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발견하다",
     "eng": "detect",
-    "answer_count_kor": 1,
+    "kor": "발견하다, 탐지하다, 감지하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "교육",
-    "eng": "education",
-    "answer_count_kor": 1,
+    "eng": "define",
+    "kor": "정의하다, 규정하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "부상을 입은",
-    "eng": "injured",
-    "answer_count_kor": 1,
+    "eng": "average",
+    "kor": "평균, 표준, 평균의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "거대한",
-    "eng": "enormous",
-    "answer_count_kor": 1,
+    "eng": "alternative",
+    "kor": "대안, 양자택일, 대체의, 양자택일의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "거대한",
-    "eng": "vast",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "아주 작은",
     "eng": "tiny",
+    "kor": "아주 작은[적은]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고용하다",
+    "eng": "element",
+    "kor": "요소, 성분, 원소, 원리",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "publish",
+    "kor": "출판[발행]하다, 발표하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appoint",
+    "kor": "임명[지명]하다, (시간·장소 등을) 정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "previous",
+    "kor": "이전의, 먼저의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "get used to",
+    "kor": "~에 익숙해지다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "factor",
+    "kor": "요인, 요소",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deadly",
+    "kor": "치명적인, 극도의, 죽은 듯이, 극도로",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "worth",
+    "kor": "~의[할] 가치가 있는, 가치",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rare",
+    "kor": "드문, 희박한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blend",
+    "kor": "섞다[섞이다], 어울리다, 혼합(물)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ordinary",
+    "kor": "평범한, 보통의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "invest",
+    "kor": "투자하다, (시간·노력 등을) 쏟다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interest",
+    "kor": "관심, 흥미, 이자, ~의 관심을 끌 다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "barrier",
+    "kor": "장벽, 장애물, 한계",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "employ",
+    "kor": "고용하다, 이용하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obstacle",
+    "kor": "장애(물)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고용하다",
+    "eng": "finance",
+    "kor": "재정, 재무, 자금, 자금을 대다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "brilliant",
+    "kor": "훌륭한, 뛰어난, 눈부신",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "education",
+    "kor": "교육, 훈련",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "figure out",
+    "kor": "~을 알아내다, ~을 이해하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "application",
+    "kor": "지원, 신청(서), 적용",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "protest",
+    "kor": "항의하다, 주장하다, 항의, 시위",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "firm",
+    "kor": "단단한, 확고한, 회사, 단단하게 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "independence",
+    "kor": "독립, 자립",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vast",
+    "kor": "거대한, 방대한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abandon",
+    "kor": "버리다, 포기하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appearance",
+    "kor": "겉모습, 외모, 출현",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "hire",
+    "kor": "고용하다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enormous",
+    "kor": "거대한, 막대한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "organic",
+    "kor": "유기의, 생물의, 장기[기관]의, 유 기농의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reasonable",
+    "kor": "합리적인, 분별 있는, (가격이) 적 정한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
