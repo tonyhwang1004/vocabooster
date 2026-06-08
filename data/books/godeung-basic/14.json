@@ -1,242 +1,242 @@
 [
   {
-    "kor": "직업",
-    "eng": "occupation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감독하다",
-    "eng": "supervise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전문적으로 하다",
-    "eng": "specialize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유대",
-    "eng": "bond",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "증명서",
-    "eng": "certificate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장",
-    "eng": "chief",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "협력하다",
     "eng": "collaborate",
+    "kor": "협력하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "박탈하다",
-    "eng": "deprive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동료",
-    "eng": "colleague",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바꾸다",
-    "eng": "shift",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결과",
-    "eng": "outcome",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "넘어서다",
-    "eng": "exceed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명성",
-    "eng": "fame",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "종업원",
-    "eng": "attendant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "협상",
-    "eng": "negotiation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "확인하다",
-    "eng": "confirm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전략",
-    "eng": "strategy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "도전",
-    "eng": "challenge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일과",
-    "eng": "routine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인출하다",
-    "eng": "withdraw",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "예금하다",
-    "eng": "deposit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "안전한",
     "eng": "secure",
+    "kor": "안전한, 안정된, 안전하게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deprive",
+    "kor": "박탈하다, 빼앗다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "withdraw",
+    "kor": "인출하다, 철회하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "certificate",
+    "kor": "증명서, 자격증",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "make the most of",
+    "kor": "~을 최대한 활용하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "허드렛일",
-    "eng": "chore",
-    "answer_count_kor": 1,
+    "eng": "incentive",
+    "kor": "동기, 유인, 장려(책)",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "전공청소기로 청소하다",
-    "eng": "vacuum",
-    "answer_count_kor": 1,
+    "eng": "attendant",
+    "kor": "종업원, 수행원",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "반응하다",
-    "eng": "react",
-    "answer_count_kor": 1,
+    "eng": "remote",
+    "kor": "먼, 외진, 원격의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "도시의",
-    "eng": "urban",
-    "answer_count_kor": 1,
+    "eng": "occupation",
+    "kor": "직업, 점유",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "시골의",
-    "eng": "rural",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고아",
-    "eng": "orphan",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복잡한",
-    "eng": "complicated",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거주자",
-    "eng": "resident",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세탁물",
-    "eng": "laundry",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "익숙한",
-    "eng": "familiar",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배우자",
-    "eng": "spouse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기적",
-    "eng": "miracle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "빠른",
-    "eng": "rapid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "쫓다",
-    "eng": "chase",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "교환",
-    "eng": "exchange",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "긴장",
     "eng": "strain",
+    "kor": "긴장, 부담, 긴장시키다, 혹사하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chore",
+    "kor": "허드렛일, 집안일",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resident",
+    "kor": "거주자, 레지던트(수련의), 거주하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "miracle",
+    "kor": "기적",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "모험",
-    "eng": "adventure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "목적지",
     "eng": "destination",
+    "kor": "목적지, 도착지, 목표",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accompany",
+    "kor": "동행하다, 수반하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "urban",
+    "kor": "도시의",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bond",
+    "kor": "유대, 결속, 채권",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "negotiation",
+    "kor": "협상",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "complicated",
+    "kor": "복잡한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "procedure",
+    "kor": "절차, 수순",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "keep up with",
+    "kor": "~에 뒤처지지 않다, ~을 따라가 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exceed",
+    "kor": "넘어서다, 초과하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "familiar",
+    "kor": "익숙한, 친숙한, 잘 아는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exchange",
+    "kor": "교환, 환전, 교환하다, 환전하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deposit",
+    "kor": "예금하다, 맡기다, 예금, 보증금",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shelter",
+    "kor": "피난처, 주거지, 보호소, 보호하 다, 피하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "companion",
+    "kor": "동반자, 동행, 친구",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chief",
+    "kor": "(단체의) 장(長), 우두머리, 주요 한, 최고의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "colleague",
+    "kor": "(직장) 동료",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strategy",
+    "kor": "전략",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "routine",
+    "kor": "일과, 늘 하던 방식, 일상적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adventure",
+    "kor": "모험",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rural",
+    "kor": "시골의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shift",
+    "kor": "바꾸다, 이동하다, 변화, 이동, 교 대",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "supervise",
+    "kor": "감독하다, 관리하다, 통제하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "react",
+    "kor": "반응하다, 반작용하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "challenge",
+    "kor": "도전, 난관, 도전하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "specialize",
+    "kor": "전문적으로 하다, 전공하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outcome",
+    "kor": "결과, 성과",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
