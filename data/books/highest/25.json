@@ -1,182 +1,182 @@
 [
   {
-    "kor": "빈곤가난하게 하다",
-    "eng": "impoverish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(의무",
-    "eng": "impose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "확정적인",
-    "eng": "definitive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "생태계",
-    "eng": "ecosystem",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(특정한 반응을) 유발하다",
-    "eng": "provoke",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기소하다",
-    "eng": "prosecute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "편향된",
     "eng": "biased",
-    "answer_count_kor": 1,
+    "kor": "편향된, 선입견이 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "유혹",
-    "eng": "temptation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "물러나다",
-    "eng": "retreat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(구멍 등을) 파다",
-    "eng": "excavate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동종의",
-    "eng": "homogeneous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결점",
-    "eng": "drawback",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "예측예견할 수 있는",
-    "eng": "predictable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(많은 사람이 옳다고 믿는)  틀린 생각",
-    "eng": "fallacy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고요한",
-    "eng": "serene",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "척박한",
-    "eng": "barren",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "채찍",
-    "eng": "whip",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자유롭게 하다",
-    "eng": "liberate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(진로",
-    "eng": "obstruct",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거꾸로의",
-    "eng": "reverse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "검열관",
-    "eng": "censor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공평",
-    "eng": "equity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중대한",
     "eng": "momentous",
+    "kor": "중대한, 중요한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "provoke",
+    "kor": "(특정한 반응을 유발하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "익숙하게 하다",
-    "eng": "accustom",
-    "answer_count_kor": 1,
+    "eng": "serene",
+    "kor": "고요한, 평화로운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "절망",
-    "eng": "despair",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사직",
-    "eng": "resignation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감염시키다",
     "eng": "infect",
+    "kor": "감염시키다, 오염시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ecosystem",
+    "kor": "생태계",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대표자",
-    "eng": "representative",
+    "eng": "accustom",
+    "kor": "익숙하게 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와 함께",
+    "eng": "fallacy",
+    "kor": "틀린 생각; 오류",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reverse",
+    "kor": "거꾸로의, 반대의; 역, 반대; 뒤; 뒤바꾸다, 되돌리다; 번복하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "despair",
+    "kor": "절망, 자포자기; 절망하다, 체념하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prosecute",
+    "kor": "기소하다, 공소하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "in concert with",
+    "kor": "~와 함께, ~와 협력하여",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "whip",
+    "kor": "채찍; 채찍질하다; 거품을 내다, 휘젓다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "liberate",
+    "kor": "자유롭게 하다, 해방시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obstruct",
+    "kor": "가로막다, 차단하다; 방해하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impoverish",
+    "kor": "빈곤하게 하다; 빈약하게 하다, 저하시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "homogeneous",
+    "kor": "동종의, 동질의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "barren",
+    "kor": "척박한, 황량한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "censor",
+    "kor": "검열관; 검열하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 생각해 내다",
-    "eng": "come up with",
+    "eng": "temptation",
+    "kor": "유혹, 유혹하는 것",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "equity",
+    "kor": "공평, 공정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resignation",
+    "kor": "사직, 사임",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "representative",
+    "kor": "대표자, 대리인; 대표하는, 전형 적인; 묘사하는, 상징하는",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "predictable",
+    "kor": "예측할 수 있는",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "come up with",
+    "kor": "~을 생각해 내다, 찾아내다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impose",
+    "kor": "부과하다; 강요하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "definitive",
+    "kor": "확정적인, 최종적인; 명확한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "retreat",
+    "kor": "물러나다, 후퇴하다, 도망치다; 후퇴, 철수; 안식처, 휴양지",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "excavate",
+    "kor": "파다; 발굴하다, 출토하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "drawback",
+    "kor": "결점, 문제점",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
