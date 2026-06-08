@@ -1,98 +1,74 @@
 [
   {
-    "kor": "반응",
-    "eng": "feedback",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "아늑한",
-    "eng": "cozy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "용사",
-    "eng": "warrior",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "던지다",
-    "eng": "toss",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "최대한으로활용하다",
-    "eng": "maximize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무시",
-    "eng": "neglect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발발",
-    "eng": "outbreak",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거만한",
-    "eng": "arrogant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "풀다",
-    "eng": "undo",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "피할수없는",
-    "eng": "inevitable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구혼자",
-    "eng": "suitor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
     "kor": "풍부한",
     "eng": "abundant",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "큰슬픔",
+    "kor": "똑같은, 복사하다, 사본",
+    "eng": "duplicate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상기시키다, 생각나게 하다",
+    "eng": "remind",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고도",
+    "eng": "altitude",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흘끗 보다, 흘끗 봄",
+    "eng": "glimpse",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "섞다",
+    "eng": "blend",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부풀다, 팽창",
+    "eng": "swell",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비탄, 큰 슬픔",
     "eng": "grief",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "음료수",
+    "eng": "beverage",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사라지다",
-    "eng": "vanish",
-    "answer_count_kor": 1,
+    "kor": "전사, 용사",
+    "eng": "warrior",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "공들인",
-    "eng": "elaborate",
-    "answer_count_kor": 1,
+    "kor": "(평판을) 얻다, 벌다",
+    "eng": "earn",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "제물",
-    "eng": "sacrifice",
-    "answer_count_kor": 1,
+    "kor": "(얇게 썬)조각, 얇게 썰다",
+    "eng": "slice",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -102,38 +78,116 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "수용하다",
-    "eng": "accommodate",
+    "kor": "거만한, 건방진",
+    "eng": "arrogant",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사라지다",
+    "eng": "vanish",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이성적인",
+    "kor": "이성적인, 합리적인",
     "eng": "rational",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "우세한, 두드러진",
+    "eng": "predominant",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "안락한, 아늑한",
+    "eng": "cozy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중개인, 브로커, 중개하다",
+    "eng": "broker",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경매, 경매로 팔다",
+    "eng": "auction",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "v.사로잡다, 강박 관념을 갖다",
+    "eng": "obsess",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 밥을 주다, ~에 먹이를 주다",
+    "eng": "feed",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(전쟁, 사고등의) 발발",
+    "eng": "outbreak",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "발명하다",
+    "eng": "invent",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "강당",
-    "eng": "auditorium",
+    "kor": "개척자, 개척하다",
+    "eng": "pioneer",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주장하다",
+    "eng": "assert",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관목",
-    "eng": "shrub",
+    "kor": "(잠긴 것을) 풀다, 원상태로 돌리다",
+    "eng": "undo",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "꽃다발",
+    "eng": "bouquet",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기계",
-    "eng": "machinery",
+    "kor": "정교한",
+    "eng": "elaborate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "망치다",
-    "eng": "spoil",
+    "kor": "던지다, 던지기",
+    "eng": "toss",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보유하다",
+    "eng": "retain",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "방사능의",
+    "eng": "radioactive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -144,99 +198,45 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "깨닫다",
-    "eng": "glimpse",
+    "kor": "기계",
+    "eng": "machinery",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "추천하다",
-    "eng": "recommend",
+    "kor": "통행인",
+    "eng": "passerby",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "부풀다",
-    "eng": "swell",
+    "kor": "강당",
+    "eng": "auditorium",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "주장하다",
-    "eng": "assert",
+    "kor": "놓다, (알을) 낳다",
+    "eng": "lay",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무시하다, 소홀",
+    "eng": "neglect",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "피드백",
+    "eng": "feedback",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "개척자",
-    "eng": "pioneer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "혼합",
-    "eng": "blend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경매",
-    "eng": "auction",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "음료",
-    "eng": "beverage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "얇은조각",
-    "eng": "slice",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복제품",
-    "eng": "duplicate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방사성의",
-    "eng": "radioactive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분별있는",
-    "eng": "discreet",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사로잡다",
-    "eng": "obsess",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고도",
-    "eng": "altitude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유지보유하다",
-    "eng": "retain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "계속되다",
-    "eng": "linger",
-    "answer_count_kor": 1,
+    "kor": "증진하다, 승진시키다",
+    "eng": "promote",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
