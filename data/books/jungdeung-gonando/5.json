@@ -1,181 +1,469 @@
 [
   {
-    "kor": "유니폼",
-    "eng": "uniform",
+    "eng": "credit",
+    "kor": "신용(거래), 신뢰; 칭찬; 학점; 입금하다; 공으로 인정하다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adequate",
+    "kor": "충분한, 적절한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adequately",
+    "kor": "충분히, 적절히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adequacy",
+    "kor": "충분함, 적당함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "symbolic",
+    "kor": "상징적인, 상징하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "symbol",
+    "kor": "상징(물); 기호, 부호",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "symbolize",
+    "kor": "상징하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의상",
-    "eng": "costume",
+    "eng": "trait",
+    "kor": "(성격적·신체적) 특성, 특징",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lifespan",
+    "kor": "수명",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "깃",
-    "eng": "collar",
+    "eng": "fragment",
+    "kor": "파편, 조각; 산산이 부수다[부서지다]",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fragmentation",
+    "kor": "분열, 파편화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fragmentary",
+    "kor": "단편적인, 부분적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "thorough",
+    "kor": "철저한, 빈틈없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "thoroughly",
+    "kor": "면밀히, 철저히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "oppose",
+    "kor": "반대하다; 겨루다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "opposite",
+    "kor": "정반대의; 맞은편의; 정반대(의 것); ~의 맞은편에",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "opposition",
+    "kor": "반대 (측); 대립",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "summarize",
+    "kor": "요약하다, 간추리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "summary",
+    "kor": "요약, 개요",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "instinct",
+    "kor": "본능; 직감",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "instinctive",
+    "kor": "본능적인, 본능[직감]에 따른",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "instinctively",
+    "kor": "본능적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "실; 실을 꿰다",
-    "eng": "thread",
+    "eng": "array",
+    "kor": "모음, 집합(체); 배열; 배열[진열]하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glance",
+    "kor": "흘끗 보다, 훑어보다; 흘끗 봄",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disperse",
+    "kor": "흩어지다, 해산하다[시키다]; 확산하다[시키다]",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dispersion",
+    "kor": "확산, 분산",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dispersal",
+    "kor": "해산, 분산; 확산",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "affinity",
+    "kor": "친밀감, 좋아함; 유사성",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "criterion",
+    "kor": "표준, 기준, 척도",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "democratic",
+    "kor": "민주주의의, 민주적인; 평등한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "democracy",
+    "kor": "민주주의; 민주주의 국가",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "analytical",
+    "kor": "분석적인, 분석의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "analyze",
+    "kor": "분석하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "길이",
-    "eng": "length",
+    "eng": "analysis",
+    "kor": "분석",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "격식을 차리지 않은",
-    "eng": "casual",
+    "eng": "analyst",
+    "kor": "분석가",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유행",
-    "eng": "fashion",
+    "eng": "statistics",
+    "kor": "통계, 통계 자료; 통계학",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "statistical",
+    "kor": "통계의, 통계적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "statistically",
+    "kor": "통계적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "헐거운",
-    "eng": "loose",
+    "eng": "statistician",
+    "kor": "통계학자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄무늬",
-    "eng": "stripe",
+    "eng": "slippery",
+    "kor": "미끄러운; (사람이) 믿기 어려운; 파악하기 힘든",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inevitable",
+    "kor": "불가피한, 필연적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inevitably",
+    "kor": "불가피하게, 필연적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prospect",
+    "kor": "가망, 가능성; 전망, 예상",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prospective",
+    "kor": "장래의, 유망한; 곧 있을",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proposition",
+    "kor": "(사업상의) 제안; 일, 과제; 명제, 진술",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "propose",
+    "kor": "제안하다; 청혼하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "equivalent",
+    "kor": "동등한, 상당하는; 동등한 것",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "equivalence",
+    "kor": "등가, 동등함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intake",
+    "kor": "섭취(량); 입학[채용] 인원수; 흡입구",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diabetes",
+    "kor": "당뇨병",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "편안함; 위로",
-    "eng": "comfort",
+    "eng": "diabetic",
+    "kor": "당뇨병의, 당뇨병이 있는; 당뇨병 환자",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "confine",
+    "kor": "국한[제한]하다; 가두다, 감금하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "confined",
+    "kor": "좁고 사방이 막힌",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(색이) 바래다",
-    "eng": "fade",
+    "eng": "confinement",
+    "kor": "감금",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(종이·천 등을) 접다",
-    "eng": "fold",
+    "eng": "mobilize",
+    "kor": "(사람·물자 등을) 동원하다, 결집시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mobilization",
+    "kor": "동원",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(의복 등이) 수수한; 무늬가 없는; 명백한",
-    "eng": "plain",
+    "eng": "schema",
+    "kor": "(계획·이론의) 개요, 도식",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "schematic",
+    "kor": "도식의, 개요의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "feature",
+    "kor": "특징; 이목구비; 특집 (기사[방송]); 특징으로 삼다, 포함하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "desperate",
+    "kor": "절망적인; 절박한, 필사적인; 간절히 원하는",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "desperately",
+    "kor": "필사적으로, 절실히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "desperation",
+    "kor": "자포자기; 필사적임",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empirical",
+    "kor": "경험[실험]에 따른, 실증적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empirically",
+    "kor": "경험적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고가의",
-    "eng": "premium",
+    "eng": "drawback",
+    "kor": "결점, 문제점",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extension",
+    "kor": "연장; 확장, 확대; 내선 전화",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extend",
+    "kor": "연장하다; 확장[확대]하다; (팔 등을) 뻗다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extensive",
+    "kor": "광범위한, 폭넓은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extent",
+    "kor": "정도, 범위; 규모, 크기",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "leak",
+    "kor": "새다; 누설하다; 새는 곳; 유출, 누설",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "leakage",
+    "kor": "누출, 새어나감",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "leaky",
+    "kor": "새는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공식적인",
-    "eng": "formal",
+    "eng": "conspicuous",
+    "kor": "눈에 잘 띄는, 뚜렷한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conspicuously",
+    "kor": "두드러지게, 현저히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stand for",
+    "kor": "~을 나타내다, 의미하다; ~을 지지[옹호]하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pick on",
+    "kor": "(부당하게) ~을 괴롭히다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "화려한",
-    "eng": "fancy",
-    "answer_count_kor": 1,
+    "eng": "bump into",
+    "kor": "(우연히) ~와 마주치다; ~에 부딪치다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(특별한 날 입는) 옷",
-    "eng": "outfit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바느질하다",
-    "eng": "sew",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변경하다",
-    "eng": "alter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바지",
-    "eng": "trousers",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정장; 어울리다",
-    "eng": "suit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조끼",
-    "eng": "vest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "천",
-    "eng": "fabric",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "솜",
-    "eng": "cotton",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모피",
-    "eng": "fur",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세탁물; 세탁소",
-    "eng": "laundry",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세탁 세제",
-    "eng": "detergent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "옷을 갖춰[격식을 차려] 입다",
-    "eng": "dress up",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "많이 써서 낡게 하다",
-    "eng": "wear out",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 과시하다",
-    "eng": "show off",
+    "eng": "carry on",
+    "kor": "~을 계속하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
