@@ -1,223 +1,19 @@
 [
   {
-    "kor": "가장자리",
-    "eng": "edge",
-    "answer_count_kor": 1,
+    "kor": "구체적인, 특정한",
+    "eng": "specific",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고려하다",
-    "eng": "consider",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위험",
-    "eng": "risk",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "간단한",
-    "eng": "brief",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경보",
-    "eng": "alarm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "길",
-    "eng": "route",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "길이",
-    "eng": "length",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "곡물",
-    "eng": "grain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "단서",
-    "eng": "clue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상기하다",
-    "eng": "recall",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반응하다",
+    "kor": "반응하다, 반작용하다",
     "eng": "react",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제기하다",
-    "eng": "pose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수입하다",
-    "eng": "import",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "심한",
-    "eng": "severe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의미심장한",
-    "eng": "meaningful",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "kor": "독립적인",
     "eng": "independent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "받을만하다가치가있다",
-    "eng": "deserve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "난폭한",
-    "eng": "violent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "습득하다",
-    "eng": "acquire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대우",
-    "eng": "treatment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "급료",
-    "eng": "salary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "열정",
-    "eng": "passion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상호작용하다",
-    "eng": "interact",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가능한",
-    "eng": "probable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "심리",
-    "eng": "psychology",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "우울하게하다",
-    "eng": "depress",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구체적인",
-    "eng": "specific",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구매하다",
-    "eng": "purchase",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거르다",
-    "eng": "skip",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지략",
-    "eng": "resource",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동기를부여하다",
-    "eng": "motivate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양심",
-    "eng": "conscience",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자격을얻다",
-    "eng": "qualify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "마음을빼앗다",
-    "eng": "fascinate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "차지하다",
-    "eng": "occupy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "10년",
-    "eng": "decade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관여하다",
-    "eng": "engage",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -228,14 +24,218 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "시",
-    "eng": "poetry",
+    "kor": "자격을 얻다",
+    "eng": "qualify",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관찰하다",
+    "kor": "숙고하다, 고려하다",
+    "eng": "consider",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상기하다, 철회하다, 회수하다; 상기, 철회",
+    "eng": "recall",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위험; 위험을 감수하다",
+    "eng": "risk",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "취급, 대우, 치료(법)",
+    "eng": "treatment",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관여하다, 약속하다, 약혼하다",
+    "eng": "engage",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동기를 부여하다",
+    "eng": "motivate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "실마리, 단서",
+    "eng": "clue",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "암, 악성 종양",
+    "eng": "cancer",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "나이가 위인; 연장자",
+    "eng": "elder",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "우울하게 하다, 의기소침(낙담)하게 하다",
+    "eng": "depress",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "매료시키다, 마음을 빼앗다",
+    "eng": "fascinate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "난폭한, 폭력적인",
+    "eng": "violent",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "놀람, 경보",
+    "eng": "alarm",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가장자리, 날카로움, 우위",
+    "eng": "edge",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 받을 만하다(가치가 있다)",
+    "eng": "deserve",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "길, 통로, 항로",
+    "eng": "route",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "심리, 심리학",
+    "eng": "psychology",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "열정",
+    "eng": "passion",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수입하다, 의미하다; 수입",
+    "eng": "import",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "구매하다; 구매",
+    "eng": "purchase",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "양심",
+    "eng": "conscience",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자세를 취하다, (문제를) 제기하다; 자세",
+    "eng": "pose",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "길이",
+    "eng": "length",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "심한, 엄격한",
+    "eng": "severe",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "10년, 10년간",
+    "eng": "decade",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(시간, 장소를) 차지하다, 전념하다",
+    "eng": "occupy",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "습득하다",
+    "eng": "acquire",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상호 작용하다",
+    "eng": "interact",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "간단한; 간단한 보고; 간단히 알리다",
+    "eng": "brief",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관찰하다, ~을 보다, 준수하다",
     "eng": "observe",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시, 운문",
+    "eng": "poetry",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "급료, 봉급",
+    "eng": "salary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "곡물, 낟알",
+    "eng": "grain",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의미 있는, 의미심장한",
+    "eng": "meaningful",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "잡초; 잡초를 제거하다",
+    "eng": "weed",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
