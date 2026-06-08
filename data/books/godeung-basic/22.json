@@ -1,242 +1,242 @@
 [
   {
-    "kor": "심리",
-    "eng": "psychology",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "안도",
-    "eng": "relief",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정신의",
-    "eng": "mental",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조종하다",
-    "eng": "manipulate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "두려워하게 하다",
-    "eng": "frighten",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "두려워하는",
     "eng": "afraid",
+    "kor": "두려워하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "환영",
-    "eng": "illusion",
-    "answer_count_kor": 1,
+    "eng": "optimistic",
+    "kor": "낙관적인, 낙관하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경험하다",
-    "eng": "undergo",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "확인하다",
-    "eng": "identify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "돌아다니다",
-    "eng": "wander",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불안한",
-    "eng": "uneasy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불편한",
-    "eng": "uncomfortable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "스트레스",
-    "eng": "stress",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무서운",
-    "eng": "dreadful",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무서운",
-    "eng": "horrible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "압도하다",
-    "eng": "overwhelm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불안",
     "eng": "anxiety",
-    "answer_count_kor": 1,
+    "kor": "불안, 걱정, 염려",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "짐",
-    "eng": "burden",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복잡한",
-    "eng": "complex",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~할 작정이다",
-    "eng": "intend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분별 있는",
-    "eng": "sensible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갑작스러운",
-    "eng": "sudden",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갑작스러운",
-    "eng": "abrupt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "호의적인",
     "eng": "favorable",
-    "answer_count_kor": 1,
+    "kor": "호의적인, 우호적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "타고난",
-    "eng": "innate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무지한",
-    "eng": "ignorant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연상하다",
-    "eng": "associate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가정",
     "eng": "assumption",
-    "answer_count_kor": 1,
+    "kor": "가정, 추측, 인수",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "간섭하다",
+    "eng": "relief",
+    "kor": "안도, 구조, 완화",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "interfere",
-    "answer_count_kor": 1,
+    "kor": "간섭하다, 방해하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "제외하다",
-    "eng": "exclude",
-    "answer_count_kor": 1,
+    "eng": "identify",
+    "kor": "확인하다, 식별하다, 동일시하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "설득하다",
-    "eng": "persuade",
-    "answer_count_kor": 1,
+    "eng": "manipulate",
+    "kor": "조종하다, (능숙하게) 다루다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "설득하다",
-    "eng": "convince",
-    "answer_count_kor": 1,
+    "eng": "out of place",
+    "kor": "상황에 맞지 않은, 제자리에 있지 않은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~의 탓으로 돌리다",
-    "eng": "attribute",
-    "answer_count_kor": 1,
+    "eng": "uneasy",
+    "kor": "불안한, 불편한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~의 탓으로 돌리다",
-    "eng": "ascribe",
-    "answer_count_kor": 1,
+    "eng": "mental",
+    "kor": "정신의, 마음의, 지적인",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "속이다",
-    "eng": "cheat",
-    "answer_count_kor": 1,
+    "eng": "frightened",
+    "kor": "깜짝 놀란, 겁먹은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "북돋우다",
+    "eng": "associate",
+    "kor": "연상하다, 연관 짓다, 동료",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "boost",
+    "kor": "북돋우다, 증가시키다, 향상, 증가, 격려",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "persuade",
+    "kor": "설득하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보장하다",
+    "eng": "convince",
+    "kor": "설득하다, 확신시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overwhelm",
+    "kor": "압도하다, 사로잡다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stress",
+    "kor": "스트레스, 강조, 강조하다, 압박하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intend",
+    "kor": "~할 작정이다, 의도하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "innate",
+    "kor": "타고난, 선천적인, 고유의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "desperate",
+    "kor": "절박한, 필사적인, 자포자기한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subjective",
+    "kor": "주관적인, 주관의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "curiosity",
+    "kor": "호기심",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "illusion",
+    "kor": "환영, 환상, 착각",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "ensure",
+    "kor": "보장하다, 확보하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "undergo",
+    "kor": "경험하다, 겪다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cheat",
+    "kor": "속이다, 부정행위를 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "end up -ing",
+    "kor": "결국 ~이 되다, 결국 ~하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "burden",
+    "kor": "짐, 부담, ~에게 짐을 지우다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attribute",
+    "kor": "~의 탓[덕분]으로 돌리다, 속성, 자질",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sudden",
+    "kor": "갑작스러운",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "회의적인",
     "eng": "skeptical",
-    "answer_count_kor": 1,
+    "kor": "회의적인, 의심 많은",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "낙천주의자",
-    "eng": "optimist",
-    "answer_count_kor": 1,
+    "eng": "psychology",
+    "kor": "심리, 심리학",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비관주의자",
-    "eng": "pessimist",
-    "answer_count_kor": 1,
+    "eng": "exclude",
+    "kor": "제외하다, 배제하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ignorant",
+    "kor": "무지한, 무식한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stable",
+    "kor": "안정된, 견고한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "complex",
+    "kor": "복잡한, 콤플렉스, 복합체",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intervene",
+    "kor": "간섭하다, 개입하다, 중재하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distraction",
+    "kor": "집중을 방해하는 것, 주의 산만",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
