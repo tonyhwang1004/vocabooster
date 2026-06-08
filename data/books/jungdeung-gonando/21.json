@@ -1,182 +1,404 @@
 [
   {
-    "kor": "사회의",
-    "eng": "social",
+    "eng": "slope",
+    "kor": "경사(면), 비탈; 기울기; 경사지다, 기울다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "surplus",
+    "kor": "잉여, 과잉; 흑자; 잉여의, 과잉의",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reside",
+    "kor": "살다, 거주하다; (권한·성질 등이) 존재하다, 있다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resident",
+    "kor": "거주자; 레지던트; 거주하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "residence",
+    "kor": "주택, 거주(지)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adolescent",
+    "kor": "청소년; 청소년기의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adolescence",
+    "kor": "청소년기",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "도덕적인; 교훈",
-    "eng": "moral",
+    "eng": "roam",
+    "kor": "돌아다니다, 배회하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "legitimate",
+    "kor": "합법적인, 적법한; 타당한, 정당한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "legitimacy",
+    "kor": "합법성, 정당성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "depict",
+    "kor": "(그림·말 등으로) 그리다, 묘사하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "depiction",
+    "kor": "묘사, 서술",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "surpass",
+    "kor": "능가하다, 뛰어넘다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "finance",
+    "kor": "재정, 재무; 자금을 대다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "financial",
+    "kor": "재무의, 재정의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "financially",
+    "kor": "재정적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "윤리",
-    "eng": "ethic",
+    "eng": "notion",
+    "kor": "개념, 관념, 생각",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "guardian",
+    "kor": "보호자, 수호자; 후견인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "paste",
+    "kor": "반죽; (접착용) 풀; (풀로) 붙이다; 붙여 넣다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "benign",
+    "kor": "상냥한; 양성의; (기후 등이) 온화한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "asset",
+    "kor": "재산, 자산; (사람의) 강점, 장점",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "molecular",
+    "kor": "분자의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~하는 경향이 있다",
-    "eng": "tend",
+    "eng": "molecule",
+    "kor": "분자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "허락하다",
-    "eng": "allow",
+    "eng": "refute",
+    "kor": "논박[반박]하다; 부인하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refutation",
+    "kor": "반박, 논박",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "barter",
+    "kor": "물물 교환하다, 교역하다; 물물 교환",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stroll",
+    "kor": "거닐다, 산책하다; 산책",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discourse",
+    "kor": "담론, 담화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "furious",
+    "kor": "몹시 화가 난; 맹렬한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fury",
+    "kor": "분노, 격노",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "furiously",
+    "kor": "몹시 화가 나서; 맹렬히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "taboo",
+    "kor": "금기 (사항); 금기시되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "candidate",
+    "kor": "(선거) 입후보자; 지원자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overwhelm",
+    "kor": "압도하다, 제압하다; 어쩔 줄 모르게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overwhelming",
+    "kor": "압도적인, 굉장한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "continent",
+    "kor": "대륙, 육지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "continental",
+    "kor": "대륙의, 대륙성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "steer",
+    "kor": "(탈것을) 조종하다, 몰다; 이끌다, 유도하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interval",
+    "kor": "간격, 사이; 중간 휴식 시간",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "restrict",
+    "kor": "제한하다, 한정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "restricted",
+    "kor": "제한된, 한정된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "restriction",
+    "kor": "제한, 규제, 제약",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "restrictive",
+    "kor": "제한[구속]하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 영향을 미치다",
-    "eng": "affect",
+    "eng": "drown",
+    "kor": "익사하다[시키다]; (액체에) 잠기게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "drowning",
+    "kor": "익사",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "만기가 되다",
-    "eng": "expire",
+    "eng": "spine",
+    "kor": "척추, 등뼈; (동식물의) 가시; (책의) 등",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spinal",
+    "kor": "척추의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조직",
-    "eng": "organization",
+    "eng": "disclose",
+    "kor": "(비밀 등을) 밝히다, 폭로하다; 드러내다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disclosure",
+    "kor": "폭로; 밝혀진 사실",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rebellion",
+    "kor": "반란; 반항, 저항",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rebel",
+    "kor": "반역자; 반대자; 반란을 일으키다; 반항[저항]하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rebellious",
+    "kor": "반항적인; 반역하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resonate",
+    "kor": "공명하다, 울려 퍼지다; 반향을 불러일으키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resonance",
+    "kor": "울림, 공명",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resonant",
+    "kor": "(소리가) 깊이 울리는, 낭랑한; 공감을 불러일으키는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perish",
+    "kor": "죽다; 사라지다, 소멸되다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perishable",
+    "kor": "상하기 쉬운, 변질되기 쉬운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exceptional",
+    "kor": "매우 뛰어난; 예외적인, 이례적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exceptionally",
+    "kor": "유난히; 예외적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exception",
+    "kor": "예외, 이례",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sensible",
+    "kor": "분별 있는, 합리적인; (옷 등이) 실용적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sensibly",
+    "kor": "분별 있게, 현명하게; 실용적으로",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precondition",
+    "kor": "전제 조건",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "자유; 해방",
-    "eng": "liberty",
-    "answer_count_kor": 1,
+    "eng": "dwell on",
+    "kor": "~을 곱씹다, 계속 생각하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "요소",
-    "eng": "factor",
-    "answer_count_kor": 1,
+    "eng": "try out",
+    "kor": "~을 시험 삼아 해 보다; 선발 시험을 보다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "기회",
-    "eng": "opportunity",
-    "answer_count_kor": 1,
+    "eng": "shy away",
+    "kor": "~을 피하다, 꺼리다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "표준",
-    "eng": "standard",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지위",
-    "eng": "status",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "편의",
-    "eng": "facility",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상황",
-    "eng": "circumstance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자선",
-    "eng": "charity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자원봉사자",
-    "eng": "volunteer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전망",
-    "eng": "prospect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이익",
-    "eng": "advantage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고정 관념",
-    "eng": "stereotype",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "안전한",
-    "eng": "secure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복잡한; 복합 건물",
-    "eng": "complex",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부적당한",
-    "eng": "inadequate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적절한",
-    "eng": "proper",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나타내다",
-    "eng": "indicate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~할 자격이 있다",
-    "eng": "deserve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "얻다",
-    "eng": "acquire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(강좌 등에) 등록하다",
-    "eng": "sign up for",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~의 한 원인이 되다; ~에 기여하다",
-    "eng": "contribute to",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 연기하다[보류하다]",
-    "eng": "put off",
-    "answer_count_kor": 1,
+    "eng": "cut out",
+    "kor": "~을 잘라 내다; (습관·행동 등을) 그만두다; (기계 등이) 작동을 멈추다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
