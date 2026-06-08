@@ -1,182 +1,182 @@
 [
   {
-    "kor": "성가신 사람일",
-    "eng": "nuisance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가늘고 긴 조각",
-    "eng": "strip",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공언하다",
-    "eng": "profess",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "굶주리다",
-    "eng": "starve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변함없는",
-    "eng": "invariable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "텅 빈",
-    "eng": "void",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "독창성",
-    "eng": "originality",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시간을 엄수하는",
-    "eng": "punctual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방출하다",
-    "eng": "discharge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정서적인",
     "eng": "affective",
-    "answer_count_kor": 1,
+    "kor": "정서적인, 감정의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "상대",
-    "eng": "counterpart",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "합법적인",
-    "eng": "legitimate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "합성한",
-    "eng": "synthetic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화합",
-    "eng": "cohesion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고독",
-    "eng": "solitude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뿌리 뽑다",
-    "eng": "eradicate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제국의",
-    "eng": "imperial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지명하다",
-    "eng": "nominate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일화",
-    "eng": "anecdote",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모음",
     "eng": "vowel",
+    "kor": "모음, 모음자; 모음의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "invariable",
+    "kor": "변함없는; 변치 않는 것; <수학> 불변량",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인접하다",
-    "eng": "adjoin",
-    "answer_count_kor": 1,
+    "eng": "eradicate",
+    "kor": "뿌리 뽑다, 없애다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(타이어 등의) 공기가 빠진",
-    "eng": "deflated",
-    "answer_count_kor": 1,
+    "eng": "counterpart",
+    "kor": "상대, 상응하는 사람",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "분석의",
-    "eng": "analytical",
-    "answer_count_kor": 1,
+    "eng": "imperial",
+    "kor": "제국의, 황제의, 황실의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "싸락눈",
-    "eng": "hail",
-    "answer_count_kor": 1,
+    "eng": "legitimate",
+    "kor": "합법적인, 정당한, 타당한, 적당한; 합법으로 인정하다, 합법화하다",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "(공연",
-    "eng": "venue",
-    "answer_count_kor": 1,
+    "eng": "void",
+    "kor": "텅 빈, ~이 없는; 무효의; 빈 공간, 공동; 공허함",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "(액체 위에 뜬 것을) 걷어 내다",
-    "eng": "skim",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "민간의",
     "eng": "civilian",
-    "answer_count_kor": 1,
+    "kor": "민간의, 일반인의; 민간인, 일반 시민",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "엄숙한",
-    "eng": "solemn",
-    "answer_count_kor": 1,
+    "eng": "synthetic",
+    "kor": "합성한, 인조의; 종합적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와 아무런 관계가 없다",
     "eng": "have no bearing on",
+    "kor": "~와 아무런 관계가 없다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에서 얻다끌어내다",
+    "eng": "discharge",
+    "kor": "방출하다; 이행하다; 해고하다, 면직시키다; 석방하다, 제대시키다; 방출, 배출",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "profess",
+    "kor": "공언하다, 선언하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "solemn",
+    "kor": "엄숙한, 진지한, 근엄한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "starve",
+    "kor": "굶주리다, 굶어 죽다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "draw from",
+    "kor": "~에서 얻다; ~을 활용하다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hail",
+    "kor": "싸락눈, 우박; 우박이 내리다; 환영하다; 칭송하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "anecdote",
+    "kor": "일화",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "analytical",
+    "kor": "분석의, 분석적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "skim",
+    "kor": "걷어 내다; 스치듯 지나가다; 훑 어보다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strip",
+    "kor": "가늘고 긴 조각, 띠; 벗기다, 제 거하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "originality",
+    "kor": "독창성, 창의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "punctual",
+    "kor": "시간을 엄수하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adjoin",
+    "kor": "인접하다, 붙어 있다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cohesion",
+    "kor": "화합, 결합, 결속; <물리> 응집 력",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "venue",
+    "kor": "장소, 개최지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nuisance",
+    "kor": "성가신 사람, 골칫거리, 방해",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "solitude",
+    "kor": "고독, 독거",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deflated",
+    "kor": "공기가 빠진; 기가 꺾인, 풀이 죽은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nominate",
+    "kor": "지명하다, 추천하다; 임명하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
