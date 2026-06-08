@@ -1,242 +1,236 @@
 [
   {
-    "kor": "전자의",
-    "eng": "electronic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "곱하다",
-    "eng": "multiply",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "업로드하다",
-    "eng": "upload",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다운로드하다",
-    "eng": "download",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가상의",
-    "eng": "virtual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "작동시키다",
-    "eng": "activate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "원자력의",
-    "eng": "nuclear",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "설치하다",
-    "eng": "install",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "회로",
-    "eng": "circuit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "최대화하다",
-    "eng": "maximize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "최소화하다",
-    "eng": "minimize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "종류",
-    "eng": "sort",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자동의",
-    "eng": "automatic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수동의",
-    "eng": "manual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시각의",
-    "eng": "visual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "충전하다",
-    "eng": "recharge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다수의",
-    "eng": "numerous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통계",
-    "eng": "statistics",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "각도",
-    "eng": "angle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방정식",
-    "eng": "equation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "타다",
-    "eng": "ride",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추락하다",
-    "eng": "crash",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "서두르다",
-    "eng": "rush",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부딪히다",
-    "eng": "bump",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "항공기",
-    "eng": "aircraft",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "우주 비행사",
-    "eng": "astronaut",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기계의",
-    "eng": "mechanical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "풀다",
-    "eng": "loosen",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "여분의",
     "eng": "spare",
+    "kor": "여분의, 예비의, 할애하다, 아끼다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "equation",
+    "kor": "방정식",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "거친",
-    "eng": "rough",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수송하다",
-    "eng": "transport",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "승객",
-    "eng": "passenger",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보행자",
-    "eng": "pedestrian",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통근하다",
-    "eng": "commute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무모한",
-    "eng": "reckless",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조사하다",
-    "eng": "inspect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가속하다",
-    "eng": "accelerate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "항해하다",
     "eng": "navigate",
+    "kor": "항해하다, 조종하다, 길을 찾다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "install",
+    "kor": "설치하다, 설비하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "upload",
+    "kor": "업로드하다, 업로드",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "multiply",
+    "kor": "곱하다, 크게 증가시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "circuit",
+    "kor": "회로, 순환",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "passenger",
+    "kor": "승객",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수송",
+    "eng": "manual",
+    "kor": "수동의, 육체노동의, 설명서",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mechanical",
+    "kor": "기계의, 역학의, (행동이) 기계적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "activate",
+    "kor": "작동시키다, 활성화시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "virtual",
+    "kor": "가상의, 사실상의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ride",
+    "kor": "(탈것을) 타다, 승마하다, 타고 가기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "minimize",
+    "kor": "최소화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "visual",
+    "kor": "시각의, 눈에 보이는, 시각 자료",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "numerous",
+    "kor": "다수의, 수많은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "angle",
+    "kor": "각도",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accelerate",
+    "kor": "가속하다, 촉진하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "maximize",
+    "kor": "최대화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recharge",
+    "kor": "충전하다, 재충전하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rough",
+    "kor": "거친, 대강의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nuclear",
+    "kor": "원자력의, 핵의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aircraft",
+    "kor": "항공기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "shipment",
+    "kor": "수송, 선적, 수송품",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inspect",
+    "kor": "(세밀히) 조사하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조립하다",
-    "eng": "assemble",
+    "eng": "rush",
+    "kor": "서두르다, 돌진하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bump",
+    "kor": "부딪치다, 혹",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "automatic",
+    "kor": "자동의, 무의식적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commute",
+    "kor": "통근하다, 통근, 통근 거리[시간]",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "turn A into B",
+    "kor": "A를 B로 바꾸다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crash",
+    "kor": "추락하다, 충돌하다, 추락, 충돌",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assemble",
+    "kor": "조립하다, 모으다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transport",
+    "kor": "수송하다, 운반하다, 수송",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "loosen",
+    "kor": "풀다, 느슨하게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sort",
+    "kor": "종류, 부류, 분류하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "astronaut",
+    "kor": "우주 비행사",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "electronic",
+    "kor": "전자의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "download",
+    "kor": "다운로드하다, 다운로드",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "statistics",
+    "kor": "통계, 통계자료, 통계학",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
