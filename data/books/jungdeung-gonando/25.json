@@ -1,182 +1,422 @@
 [
   {
-    "kor": "제안하다; 시사하다",
-    "eng": "suggest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제안하다",
-    "eng": "propose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보편적인",
-    "eng": "universal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다르다; 바꾸다",
-    "eng": "vary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "충돌",
-    "eng": "conflict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "알아차리고 있는",
-    "eng": "aware",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "접근하다",
-    "eng": "approach",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "촉구하다",
-    "eng": "urge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제휴하다",
-    "eng": "associate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "해석하다",
-    "eng": "interpret",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양자택일",
-    "eng": "alternative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "원조하다",
-    "eng": "assist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사건; 일거리",
-    "eng": "affair",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "광범위한",
-    "eng": "widespread",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "외부의",
-    "eng": "external",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "외국의",
-    "eng": "alien",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기근",
-    "eng": "famine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "피난처",
-    "eng": "refuge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부족",
-    "eng": "shortage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위험에 빠뜨리다",
     "eng": "endanger",
+    "kor": "위험에 빠뜨리다, 위태롭게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "endangered",
+    "kor": "멸종 위기에 처한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "오염시키다",
-    "eng": "contaminate",
+    "eng": "inorganic",
+    "kor": "무기물의, 무기질의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "static",
+    "kor": "정적인, 고정된; (수신기의) 잡음; 정전기",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crisis",
+    "kor": "위기, 중대한 국면",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inspect",
+    "kor": "점검하다, 검사하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inspection",
+    "kor": "점검, 검사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inspector",
+    "kor": "조사관, 감독관",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outweigh",
+    "kor": "(~보다) 더 크다, 중대하다; (~보다) 더 무겁다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exotic",
+    "kor": "이국적인, 색다른; 외국의, 외래의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tremendous",
+    "kor": "엄청난, 막대한; 아주 훌륭한, 멋진",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tremendously",
+    "kor": "엄청나게, 굉장히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infringe",
+    "kor": "(법률·권리 등을) 위반하다, 침해하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infringement",
+    "kor": "위반, 침해 (행위)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "despair",
+    "kor": "절망, 체념; 절망하다, 체념하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "despairing",
+    "kor": "절망한, 자포자기한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recipient",
+    "kor": "받는 사람, 수령인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tangible",
+    "kor": "만질 수 있는, 실체가 있는; (근거 등이) 명백한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tangibly",
+    "kor": "명백히; 만져서 알 수 있게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "auction",
+    "kor": "경매; 경매에 부치다, 경매로 팔다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "particle",
+    "kor": "(아주 작은) 조각, 입자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fleeting",
+    "kor": "순식간의, 잠깐 동안의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "synthetic",
+    "kor": "합성의, 인조의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "synthesis",
+    "kor": "종합, 통합; 합성",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "synthesize",
+    "kor": "합성하다; 종합하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "apprehend",
+    "kor": "체포하다; 이해하다, 파악하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "apprehension",
+    "kor": "우려, 불안; 체포",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "apprehensive",
+    "kor": "걱정[염려]하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보존하다",
-    "eng": "preserve",
+    "eng": "coexist",
+    "kor": "동시에 존재하다, 공존하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coexistence",
+    "kor": "공존",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "폭발하다",
-    "eng": "explode",
+    "eng": "equate",
+    "kor": "동일시하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "통합하다",
-    "eng": "integrate",
+    "eng": "equation",
+    "kor": "방정식, 등식; 동일시",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "drain",
+    "kor": "물을 빼다; (에너지·돈 등을) 소모시키다[되다]; 배수관",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "drained",
+    "kor": "진이 빠진",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보호하다",
-    "eng": "guard",
+    "eng": "drainage",
+    "kor": "배수 (시설)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "발언",
-    "eng": "remark",
+    "eng": "retain",
+    "kor": "유지[보유]하다; 기억하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "retention",
+    "kor": "유지, 보유; 기억(력)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "qualify",
+    "kor": "자격을 주다[얻다]; 예선을 통과하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "qualification",
+    "kor": "자격(증)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "일치",
-    "eng": "accord",
+    "eng": "qualified",
+    "kor": "자격이 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 간섭하다",
-    "eng": "interfere in",
+    "eng": "shallow",
+    "kor": "얕은; 얄팍한, 피상적인; (호흡이) 약한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "venue",
+    "kor": "(행사 등의) 장소, 개최지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aspire",
+    "kor": "열망[염원]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(사람·시류 등에) 뒤떨어지지 않게 따라가다",
-    "eng": "keep up with",
+    "eng": "aspiration",
+    "kor": "열망, 포부",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aspiring",
+    "kor": "포부가 큰, 야심 찬",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coordinate",
+    "kor": "조정하다, 조직하다; 조화를 이루다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coordination",
+    "kor": "조직(화); (신체의) 조정력",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coordinator",
+    "kor": "조정자, 담당자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concentrate",
+    "kor": "집중하다[시키다]; 농축하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concentration",
+    "kor": "집중; 농도, 농축",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "plausible",
+    "kor": "그럴듯한, 타당해 보이는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "plausibility",
+    "kor": "그럴듯함, 타당성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "plausibly",
+    "kor": "그럴듯하게, 타당하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inscribe",
+    "kor": "새기다, 써넣다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inscription",
+    "kor": "비문, 새겨진 글",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cultivate",
+    "kor": "경작[재배]하다; (능력 등을) 함양[계발]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cultivation",
+    "kor": "경작, 재배; 함양",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humility",
+    "kor": "겸손",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와의 관계를 단절하다; (협상 등이) 결렬되다",
-    "eng": "break off",
+    "eng": "uninterested",
+    "kor": "흥미가 없는, 무관심한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disinterested",
+    "kor": "사심 없는, 공정한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intimate",
+    "kor": "친밀한, 친숙한; 사적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intimacy",
+    "kor": "친밀함",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intimately",
+    "kor": "친밀하게",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "initial",
+    "kor": "처음의, 초기의; 이름의 첫 글자",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "initially",
+    "kor": "처음에, 초기에",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "undo",
+    "kor": "(잠긴 것을) 풀다, 열다; 원상태로 돌리다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "go along with",
+    "kor": "~에 동의하다, ~을 따르다; ~와 동행하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "keep away",
+    "kor": "~에 가까이 가지 않다, 가까이 못 오게 하다, 멀리하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lay off",
+    "kor": "~을 해고하다; (행동을) 그만두다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hold over",
+    "kor": "~을 미루다, 연기하다; 연장 상영하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
