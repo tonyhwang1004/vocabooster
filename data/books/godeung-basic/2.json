@@ -1,242 +1,242 @@
 [
   {
-    "kor": "물건",
-    "eng": "object",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "쓰레기",
-    "eng": "trash",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불법적인",
-    "eng": "illegal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지역의",
-    "eng": "local",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "총계",
-    "eng": "amount",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "역사적인",
-    "eng": "historical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "허락하다",
-    "eng": "allow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "능력",
-    "eng": "ability",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "설립하다",
-    "eng": "found",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "설립하다",
-    "eng": "establish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "과정",
-    "eng": "process",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전문가",
-    "eng": "expert",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "산출하다",
-    "eng": "yield",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "10년간",
-    "eng": "decade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "계속하다",
-    "eng": "continue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "병",
-    "eng": "disease",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "빈",
-    "eng": "empty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "최근의",
-    "eng": "recent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바치다",
-    "eng": "dedicate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바치다",
-    "eng": "devote",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기간",
-    "eng": "period",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인지하다",
-    "eng": "perceive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인식하다",
-    "eng": "recognize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "알아채다",
-    "eng": "notice",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지친",
-    "eng": "exhausted",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "범죄",
-    "eng": "crime",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자선 단체",
-    "eng": "charity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "노출시키다",
-    "eng": "expose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "숨기다",
-    "eng": "reveal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 받을 만하다",
     "eng": "deserve",
-    "answer_count_kor": 1,
+    "kor": "~을 받을 만하다, ~할 가치가 있다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "연합하다",
-    "eng": "unite",
-    "answer_count_kor": 1,
+    "eng": "historical",
+    "kor": "역사적인, 역사(상)의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이루다",
-    "eng": "achieve",
-    "answer_count_kor": 1,
+    "eng": "period",
+    "kor": "기간, 시기, 시대",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "이루다",
-    "eng": "accomplish",
-    "answer_count_kor": 1,
+    "eng": "reveal",
+    "kor": "드러내다, 폭로하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "연결하다",
+    "eng": "process",
+    "kor": "과정, 처리, 처리하다, 가공하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "charity",
+    "kor": "자선 단체[기금], 자비심",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "devote",
+    "kor": "바치다, 전념하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reliable",
+    "kor": "믿을 수 있는, 의지가 되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "found",
+    "kor": "설립하다, 기초를 세우다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mislead",
+    "kor": "잘못 인도하다, 오해하게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "connect",
-    "answer_count_kor": 1,
+    "kor": "연결하다, 관련시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "극복하다",
-    "eng": "overcome",
-    "answer_count_kor": 1,
+    "eng": "accomplish",
+    "kor": "이루다, 성취하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "분리하다",
     "eng": "separate",
-    "answer_count_kor": 1,
+    "kor": "분리하다, 별개의, 각각의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "나누다",
-    "eng": "divide",
-    "answer_count_kor": 1,
+    "eng": "continue",
+    "kor": "계속하다, 연장하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "결합시키다",
-    "eng": "combine",
-    "answer_count_kor": 1,
+    "eng": "illegal",
+    "kor": "불법적인, 위법인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "완료하다",
-    "eng": "complete",
-    "answer_count_kor": 1,
+    "eng": "perceive",
+    "kor": "인지[감지]하다, ~으로 여기다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "드러내다",
+    "eng": "dedicate",
+    "kor": "바치다, 헌신하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vital",
+    "kor": "아주 중요한, 필수적인, 생명 유지에 필요한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "local",
+    "kor": "지역의, 현지의, 현지인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "conceal",
+    "kor": "숨기다, 비밀로 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "establish",
+    "kor": "설립하다, 확립하다, 수립하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expose",
+    "kor": "노출시키다, 폭로하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chase",
+    "kor": "쫓다, 추적하다, 추적",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expert",
+    "kor": "전문가, 숙련된, 전문적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exhausted",
+    "kor": "지친, 고갈된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lead to",
+    "kor": "~으로 이어지다, ~을 야기[초래] 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overcome",
+    "kor": "극복하다, 이기다, 압도하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rapid",
+    "kor": "빠른, 신속한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "random",
+    "kor": "무작위의, 임의의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decade",
+    "kor": "10년, 10년간",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deal with",
+    "kor": "~을 처리하다, ~을 다루다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "achieve",
+    "kor": "이루다, 성취하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "organ",
+    "kor": "장기, 기관",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crime",
+    "kor": "범죄, 범행, 죄악",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "get along with",
+    "kor": "~와 잘 지내다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "combine",
+    "kor": "결합시키다, 겸비하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unite",
+    "kor": "결합[연합]하다, 결속시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recognize",
+    "kor": "인식[인지]하다, 인정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "amount",
+    "kor": "총계, 양, 총계가 ~이 되다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "complete",
+    "kor": "완료하다, 완전한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
