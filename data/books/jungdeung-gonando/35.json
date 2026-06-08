@@ -1,350 +1,470 @@
 [
   {
-    "kor": "유니폼",
-    "eng": "uniform",
+    "eng": "empathy",
+    "kor": "감정 이입, 공감",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empathetic",
+    "kor": "감정 이입의, 공감의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empathize",
+    "kor": "공감하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의상",
-    "eng": "costume",
+    "eng": "defy",
+    "kor": "반항[거역]하다; (설명·묘사 등이) 불가능하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defiance",
+    "kor": "반항, 저항",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defiant",
+    "kor": "반항적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의상",
-    "eng": "clothes",
+    "eng": "trustworthy",
+    "kor": "신뢰할[믿을] 만한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "깃",
-    "eng": "collar",
+    "eng": "trustworthiness",
+    "kor": "신뢰성, 믿음직함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "laboratory",
+    "kor": "연구실, 실험실",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compulsion",
+    "kor": "강제, 강요; 충동",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compulsive",
+    "kor": "강박적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "실; 실을 꿰다",
-    "eng": "thread",
+    "eng": "compulsory",
+    "kor": "의무적인, 강제적인, 필수의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mediate",
+    "kor": "중재[조정]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "길이",
-    "eng": "length",
+    "eng": "mediation",
+    "kor": "중재, 조정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mediator",
+    "kor": "중재인, 중재 기관",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disrupt",
+    "kor": "지장을 주다, 방해하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disruption",
+    "kor": "지장, 방해",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disruptive",
+    "kor": "지장을 주는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "길게 하다",
-    "eng": "lengthen",
+    "eng": "cosmic",
+    "kor": "우주의; 거대한, 어마어마한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cosmos",
+    "kor": "우주",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "격식을 차리지 않은",
-    "eng": "casual",
+    "eng": "convenience",
+    "kor": "편의, 편리; 편리한 것, 편의 시설",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "convenient",
+    "kor": "편리한, 간편한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conveniently",
+    "kor": "편리하게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유행",
-    "eng": "fashion",
+    "eng": "spouse",
+    "kor": "배우자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유행",
-    "eng": "vogue",
+    "eng": "cherish",
+    "kor": "소중히 여기다; (기억·감정 등을) 간직하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "organ",
+    "kor": "(신체의) 장기, 기관; 오르간; (공식적인) 기관",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bump",
+    "kor": "충돌하다; 덜컹거리며 가다; 혹, 타박상; (도로 등의) 융기, 턱",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bumpy",
+    "kor": "(바닥이) 울퉁불퉁한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "최신 유행의",
-    "eng": "fashionable",
+    "eng": "chaotic",
+    "kor": "혼돈[혼란] 상태인, 무질서한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chaos",
+    "kor": "혼돈, 무질서",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acute",
+    "kor": "극심한; 급성의; 예리한, 예민한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acutely",
+    "kor": "강렬하게, 절실히; 몹시",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "periodic",
+    "kor": "주기적인, 정기적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "periodically",
+    "kor": "주기적으로, 정기적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "headquarters",
+    "kor": "본사, 본부 (직원들)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contemplate",
+    "kor": "고려[숙고]하다; 응시하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contemplation",
+    "kor": "사색, 명상; 응시",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contemplative",
+    "kor": "숙고하는, 사색하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assault",
+    "kor": "폭행(죄); 공격; 폭행하다; 공격하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "magnificent",
+    "kor": "웅장한, 장엄한, 훌륭한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "magnificence",
+    "kor": "웅장, 장엄",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diploma",
+    "kor": "수료증, 졸업장",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contend",
+    "kor": "겨루다, 다투다; 주장하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contention",
+    "kor": "논쟁; 주장",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contentious",
+    "kor": "논쟁을 초래하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유행하고 있다",
-    "eng": "be in fashion",
+    "eng": "degrade",
+    "kor": "(질적으로) 저하시키다; 비하하다; (화학적으로) 분해되다[하다]",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "degradation",
+    "kor": "비하; 저하; (화합물의) 분해",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conservatory",
+    "kor": "온실; 예술 학교, 음악 학교",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "administer",
+    "kor": "관리[운영]하다; 집행하다; (약을) 투여하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "administration",
+    "kor": "관리, 행정(부); 집행; (약물) 투여",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "administrative",
+    "kor": "관리[행정]상의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "한창 유행하는",
-    "eng": "all the fashion",
+    "eng": "persist",
+    "kor": "집요하게[끈질기게] 계속하다; 지속되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "persistence",
+    "kor": "고집, 끈기; 지속(성)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "persistent",
+    "kor": "끈질긴; 지속되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "embrace",
+    "kor": "포옹하다; 수용하다; 포옹; 수용",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conquer",
+    "kor": "정복하다, 물리치다; (어려움을) 극복하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conquest",
+    "kor": "정복; 점령지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conqueror",
+    "kor": "정복자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "헐거운",
-    "eng": "loose",
+    "eng": "district",
+    "kor": "지역, 구역",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commemorate",
+    "kor": "기념하다, 기리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commemoration",
+    "kor": "기념(식)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "꼭 맞는",
-    "eng": "tight",
+    "eng": "commemorative",
+    "kor": "기념의, 기념적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "moderate",
+    "kor": "보통의, 적당한; 중도의, 온건한; 완화하다[되다]",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "moderation",
+    "kor": "절제, 중용",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "moderately",
+    "kor": "알맞게, 적당히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clutch",
+    "kor": "움켜잡다, 꽉 쥐다; 움켜쥠",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alternative",
+    "kor": "대안; 대체 가능한, 대안의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alternatively",
+    "kor": "그 대신에",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "느슨하게 하다",
-    "eng": "loosen",
+    "eng": "alternate",
+    "kor": "번갈아 하는, 교대의; 번갈아 하다[일어나다]",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alternately",
+    "kor": "번갈아 가며, 교대로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "practicable",
+    "kor": "실행[실현] 가능한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄무늬",
-    "eng": "stripe",
+    "eng": "lure",
+    "kor": "유혹하다, 꾀다; 유혹(물), 매력; (낚시) 미끼",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "startle",
+    "kor": "깜짝 놀라게 하다, 깜짝 놀라다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "startled",
+    "kor": "깜짝 놀란",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄무늬가 있는",
-    "eng": "striped",
+    "eng": "startling",
+    "kor": "깜짝 놀라게 하는, 놀라운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "put in for",
+    "kor": "~을 신청하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "편안함; 위로",
-    "eng": "comfort",
+    "eng": "let down",
+    "kor": "~을 실망시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "불편",
-    "eng": "discomfort",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "편안한",
-    "eng": "comfortable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(색이) 바래다",
-    "eng": "fade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "점점 희미해지다",
-    "eng": "fade out",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(종이·천 등을) 접다",
-    "eng": "fold",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "펴다",
-    "eng": "unfold",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(의복 등이) 수수한; 무늬가 없는; 명백한",
-    "eng": "plain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명백한",
-    "eng": "apparent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고가의",
-    "eng": "premium",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고가의",
-    "eng": "superior",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공식적인",
-    "eng": "formal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비공식적인",
-    "eng": "informal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화려한",
-    "eng": "fancy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화려한",
-    "eng": "decorative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(특별한 날 입는) 옷",
-    "eng": "outfit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바느질하다",
-    "eng": "sew",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바느질하다",
-    "eng": "stitch",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "재봉틀",
-    "eng": "sewing machine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변경하다",
-    "eng": "alter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변경하다",
-    "eng": "modify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수정",
-    "eng": "alteration",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "바지",
-    "eng": "trousers",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정장; 어울리다",
-    "eng": "suit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적당한",
-    "eng": "suitable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조끼",
-    "eng": "vest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조끼",
-    "eng": "waistcoat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "천",
-    "eng": "fabric",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "천",
-    "eng": "textile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "솜",
-    "eng": "cotton",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "솜사탕",
-    "eng": "cotton candy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모피",
-    "eng": "fur",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모피로 만든",
-    "eng": "furry",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세탁물; 세탁소",
-    "eng": "laundry",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세탁소",
-    "eng": "laundromat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세탁 세제",
-    "eng": "detergent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세탁 세제",
-    "eng": "cleaner",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "옷을 갖춰[격식을 차려] 입다",
-    "eng": "dress up",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "많이 써서 낡게 하다",
-    "eng": "wear out",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 과시하다",
-    "eng": "show off",
-    "answer_count_kor": 1,
+    "eng": "stick out",
+    "kor": "~을 내밀다, ~가 튀어나오다; 눈에 띄다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
