@@ -1,20 +1,20 @@
 [
   {
-    "kor": "상술하다, 명기하다 구체적으로 말하다",
+    "kor": "상술하다, 명기하다, 구체적으로 말하다",
     "eng": "specify",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "길들이다, 복종시키다 길들인, 온순한",
-    "eng": "tame",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "도달할 수 없는 달성할 수 없는",
+    "kor": "길들이다, 복종시키다, 길들인, 온순한",
+    "eng": "tame",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도달할 수 없는, 달성할 수 없는",
     "eng": "unattainable",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -24,7 +24,7 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "비할 데 없는, 견줄 데 없는 유례없는",
+    "kor": "비할 데 없는, 유례없는",
     "eng": "unparalleled",
     "answer_count_kor": 2,
     "answer_count_eng": 1
@@ -42,9 +42,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "자만심이 강한 헛된, 효과 없는",
+    "kor": "자만심이 강한, 헛된, 효과 없는",
     "eng": "vain",
-    "answer_count_kor": 2,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -54,9 +54,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "일치하다, 조화되다 일치, 합의, 주다, 수여하다",
+    "kor": "일치하다, 조화되다, 주다, 수여하다, 일치, 합의, 협정",
     "eng": "accord",
-    "answer_count_kor": 5,
+    "answer_count_kor": 7,
     "answer_count_eng": 1
   },
   {
