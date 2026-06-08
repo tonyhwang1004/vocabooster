@@ -1,182 +1,476 @@
 [
   {
-    "kor": "보도하다",
-    "eng": "report",
+    "eng": "vendor",
+    "kor": "행상인, 노점 상인; 판매 회사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "align",
+    "kor": "정렬하다, 나란히 하다; 조정하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alignment",
+    "kor": "정렬; 제휴, 연합",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hesitate",
+    "kor": "망설이다, 주저하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hesitant",
+    "kor": "망설이는, 주저하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hesitation",
+    "kor": "망설임, 주저",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assess",
+    "kor": "평가하다; 산정하다, 부과하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assessment",
+    "kor": "평가; 과세, 산정",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "originality",
+    "kor": "독창성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "신문",
-    "eng": "press",
+    "eng": "original",
+    "kor": "원래의; 독창적인; 원본",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "persevere",
+    "kor": "인내하며 계속하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(신문·잡지의) 기사",
-    "eng": "article",
+    "eng": "perseverance",
+    "kor": "인내, 끈기",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "persevering",
+    "kor": "인내심이 강한, 불굴의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intrinsic",
+    "kor": "본질적인, 고유한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intrinsically",
+    "kor": "본질적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "잡지",
-    "eng": "journal",
+    "eng": "refugee",
+    "kor": "난민, 망명자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "offense",
+    "kor": "범죄, 위반; 모욕, 불쾌하게 하는 것; 공격",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "offend",
+    "kor": "불쾌하게 하다; 위반하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "offensive",
+    "kor": "불쾌한, 모욕적인; 공격의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "profession",
+    "kor": "직업, 전문직; 공언, 선언",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "profess",
+    "kor": "공언하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "방송하다",
-    "eng": "broadcast",
+    "eng": "professional",
+    "kor": "직업의, 전문적인; 프로; 전문직 종사자",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inquire",
+    "kor": "묻다, 문의하다; 조사하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inquiry",
+    "kor": "문의, 질문; 조사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "trivial",
+    "kor": "사소한, 하찮은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aspect",
+    "kor": "측면; 양상",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assimilate",
+    "kor": "완전히 이해하다; 동화되다[시키다]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assimilation",
+    "kor": "동화, 흡수",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outperform",
+    "kor": "능가하다, ~보다 성능이 우수하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "implement",
+    "kor": "이행[실행]하다; 도구, 기구",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "implementation",
+    "kor": "이행, 실행",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "excavate",
+    "kor": "발굴하다; (구멍 등을) 파다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "excavation",
+    "kor": "발굴(지); 땅파기",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "excavator",
+    "kor": "굴착기; 발굴자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "computation",
+    "kor": "계산",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(안내문 등을) 게시[공고]하다; 게시글",
-    "eng": "post",
+    "eng": "computational",
+    "kor": "컴퓨터를 사용하는, 계산의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compute",
+    "kor": "계산[산출]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(사진 등을 위한) 자세를 취하다; 자세",
-    "eng": "pose",
+    "eng": "bound",
+    "kor": "~할 가능성이 큰; ~할 (법적) 의무가 있는; ~행의; 껑충 뛰다; 경계를 이루다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "boundary",
+    "kor": "경계(선); 한계, 범위",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "boundless",
+    "kor": "끝이 없는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(연극·영화의) 장면",
-    "eng": "scene",
+    "eng": "allot",
+    "kor": "할당[배당]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조사",
-    "eng": "survey",
+    "eng": "allotment",
+    "kor": "할당, 배당",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sack",
+    "kor": "자루, 부대; 약탈; 약탈하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "significant",
+    "kor": "중요한, 의미 있는; 상당한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "significance",
+    "kor": "중요성; 의미",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "significantly",
+    "kor": "상당히; 중요하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attain",
+    "kor": "이루다; (특정 수준 등에) 도달하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attainable",
+    "kor": "달성할 수 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대중",
-    "eng": "mass",
+    "eng": "attainment",
+    "kor": "성취, 달성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inventory",
+    "kor": "물품 목록; 재고(품)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indigenous",
+    "kor": "토착의, 원산의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "charity",
+    "kor": "자선 단체; 자선 (행위); 관용, 자비",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "charitable",
+    "kor": "자선 (단체)의; 너그러운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "desirable",
+    "kor": "바람직한, 호감 가는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "desire",
+    "kor": "갈망, 욕구; 바라다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "authoritative",
+    "kor": "(책 등이) 권위 있는, 믿을 만한; 권위적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "authority",
+    "kor": "권위, 권한; 당국; 권위자",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "complicated",
+    "kor": "복잡한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사실의",
-    "eng": "factual",
+    "eng": "complicate",
+    "kor": "복잡하게 만들다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "명성",
-    "eng": "fame",
+    "eng": "complication",
+    "kor": "문제; 합병증",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proliferate",
+    "kor": "급증하다, (빠르게) 확산되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proliferation",
+    "kor": "급증, 확산",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arguably",
+    "kor": "주장하건대, 거의 틀림없이",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "numerous",
+    "kor": "다수의, 많은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "numerical",
+    "kor": "수의, 수와 관련된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "numerically",
+    "kor": "수적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "투표",
-    "eng": "poll",
+    "eng": "induce",
+    "kor": "유도하다, 설득하다; 유발하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "induction",
+    "kor": "유도, 유발; 귀납법",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inducement",
+    "kor": "유인(책), 장려(책)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deduce",
+    "kor": "추론[추정]하다, 연역하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deduction",
+    "kor": "추론, 연역; 공제(액)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deductive",
+    "kor": "연역적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "채널; 수로",
-    "eng": "channel",
+    "eng": "testimony",
+    "kor": "증언; 증거",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "testify",
+    "kor": "증언[진술]하다; 증명하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "testimonial",
+    "kor": "추천서; 기념물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "come about",
+    "kor": "(우연히) 발생하다, 일어나다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "weed out",
+    "kor": "(불필요한 대상 등을) 제거하다, 뽑아 버리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "draw on",
+    "kor": "(지식·경험 등을) 활용하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "비판하다",
-    "eng": "criticize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "칭찬",
-    "eng": "compliment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연속물",
-    "eng": "series",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(신문·잡지 등의) 연재 기사",
-    "eng": "feature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(방송의) 대본",
-    "eng": "script",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보고",
-    "eng": "bulletin",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(영화의) 시사회",
-    "eng": "preview",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신문의 칸",
-    "eng": "column",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(레코드를) 발매하다",
-    "eng": "release",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "알리다",
-    "eng": "announce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "드러내다",
-    "eng": "reveal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청중",
-    "eng": "audience",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "패널",
-    "eng": "panel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "초점을 맞추다",
-    "eng": "focus",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 두고 논쟁하다",
-    "eng": "argue over",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 생각해 내다",
-    "eng": "come up with",
-    "answer_count_kor": 1,
+    "eng": "correspond to",
+    "kor": "~에 해당하다, ~와 일치하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
