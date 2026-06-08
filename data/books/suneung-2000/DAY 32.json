@@ -1,181 +1,19 @@
 [
   {
-    "kor": "지능",
-    "eng": "intelligence",
+    "kor": "고백하다",
+    "eng": "confess",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "복권",
-    "eng": "lottery",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신맛이나는",
-    "eng": "sour",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "깊이",
-    "eng": "depth",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "면허",
-    "eng": "license",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일시멈춤",
-    "eng": "halt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추출하다",
-    "eng": "extract",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "하수",
-    "eng": "sewage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나머지의",
-    "eng": "leftover",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "심사숙고하다",
-    "eng": "ponder",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "막대한",
-    "eng": "immense",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "칼날",
-    "eng": "blade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사소한",
-    "eng": "trivial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반복성의",
-    "eng": "repetitive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나르다",
-    "eng": "convey",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이식",
-    "eng": "transplant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주격의",
+    "kor": "주관적인",
     "eng": "subjective",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "강타",
-    "eng": "stroke",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "초음파",
-    "eng": "ultrasound",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "강도",
-    "eng": "burglar",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "탐구하다",
-    "eng": "explore",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사치스러운",
-    "eng": "deluxe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "억압하다",
-    "eng": "oppress",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "송이",
-    "eng": "cluster",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자격면허증",
-    "eng": "certificate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에구멍을뚫다",
-    "eng": "pierce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보증",
-    "eng": "warrant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "받아들이다",
-    "eng": "embrace",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에서비롯되다",
-    "eng": "derive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고백하다",
-    "eng": "confess",
+    "kor": "지옥",
+    "eng": "hell",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -186,21 +24,63 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "도자기",
+    "kor": "일치하다, 조화하다, 일치, 합의",
+    "eng": "accord",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "엄청난",
+    "eng": "immense",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "추출하다, 추출물",
+    "eng": "extract",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "하수, 오물",
+    "eng": "sewage",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "화해",
+    "eng": "reconciliation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~의 한가운데",
+    "eng": "amid",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보증서, 영장, 정당한 이유",
+    "eng": "warrant",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보완하다",
+    "eng": "complement",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도자기, 요업",
     "eng": "ceramic",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "간청",
-    "eng": "plea",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다리를저는",
-    "eng": "lame",
-    "answer_count_kor": 1,
+    "kor": "면허, 인가, 면허를 주다, 허가하다",
+    "eng": "license",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
@@ -210,20 +90,98 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "부여하다",
-    "eng": "accord",
+    "kor": "정지시키다, 정지, 멈춤",
+    "eng": "halt",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상아, 상아색",
+    "eng": "ivory",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "곰곰이 생각하다, 심사숙고하다",
+    "eng": "ponder",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "복권, 추첨",
+    "eng": "lottery",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "타격, 뇌졸증",
+    "eng": "stroke",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "강도",
+    "eng": "burglar",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전염병",
+    "kor": "비난하다, ~을 탓하다, 비난",
+    "eng": "blame",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이식하다",
+    "eng": "transplant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무리",
+    "eng": "cluster",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "빌리다",
+    "eng": "borrow",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "끌어내다, ~에서 비롯되다",
+    "eng": "derive",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전염병, 괴롭히다",
     "eng": "plague",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "증명서",
+    "eng": "certificate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보완하다",
-    "eng": "complement",
+    "kor": "호화로운",
+    "eng": "deluxe",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "나르다,전달하다, (생각, 감정을) 전하다",
+    "eng": "convey",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "깊이",
+    "eng": "depth",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -234,8 +192,50 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "화해",
-    "eng": "reconciliation",
+    "kor": "절름발이의, 설득력이 없는",
+    "eng": "lame",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "실시하다, 수행하다, 행동하다, 행위",
+    "eng": "conduct",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(맛이)신",
+    "eng": "sour",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반복성의",
+    "eng": "repetitive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "n.억압하다",
+    "eng": "oppress",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "남은 음식, 잔재",
+    "eng": "leftover",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "포옹하다, 껴안다, 수용하다",
+    "eng": "embrace",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "칼날",
+    "eng": "blade",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
