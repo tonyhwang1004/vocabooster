@@ -1,182 +1,416 @@
 [
   {
-    "kor": "더미; 쌓아 올리다; 쌓이다",
-    "eng": "pile",
+    "eng": "approach",
+    "kor": "다가가다, 접근하다; 접근 (법)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "endow",
+    "kor": "기부하다; (재능 등을) 부여하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "endowment",
+    "kor": "기부(금); (타고난) 자질",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vegetation",
+    "kor": "초목, 식물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fallacy",
+    "kor": "잘못된 생각[믿음]; (인식상의) 오류",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compound",
+    "kor": "화합물, 혼합물; 합성어; 합성의; 혼합하다; 악화시키다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "combine",
+    "kor": "결합하다[되다]; 겸비하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "combination",
+    "kor": "결합, 조합",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impulse",
+    "kor": "충동, 욕구; 자극",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impulsive",
+    "kor": "충동적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(같은 직장이나 직종에 종사하는) 동료",
+    "eng": "impulsively",
+    "kor": "충동적으로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "register",
+    "kor": "등록[기재]하다; 기록하다, 나타내다; 명부",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "registration",
+    "kor": "등록, 기재",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "carve",
+    "kor": "조각하다; 새기다; (고기를) 썰다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "carving",
+    "kor": "조각품",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "magnitude",
+    "kor": "(엄청난) 규모, 중요도; (지진의) 규모",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commission",
+    "kor": "위원회; 수수료; 의뢰, 주문; 의뢰하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commissioner",
+    "kor": "위원",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "linear",
+    "kor": "직선의, 선으로 된; 선형적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "colleague",
+    "kor": "(직장) 동료",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "붙이다",
-    "eng": "attach",
+    "eng": "transcribe",
+    "kor": "기록하다, (다른 기록 형태로) 옮겨 쓰다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transcript",
+    "kor": "필기록; 성적 증명서",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disorder",
+    "kor": "무질서, 혼란; (신체 기능의) 장애, 질환",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overtake",
+    "kor": "앞지르다, 능가하다; (불행 등이) 덮치다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alert",
+    "kor": "방심하지 않는, 기민한; 경계, 경보; (위험 등을) 알리다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "struggle",
+    "kor": "애쓰다, 분투하다; 싸우다; 분투; 싸움",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "struggling",
+    "kor": "고군분투하는, 어려움을 겪는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "linguistic",
+    "kor": "언어의; 언어학의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "linguistics",
+    "kor": "언어학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사진 복사물; 사진 복사하다",
-    "eng": "photocopy",
-    "answer_count_kor": 1,
+    "eng": "linguist",
+    "kor": "언어 능통자; 언어학자",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "임명하다",
+    "eng": "gravity",
+    "kor": "중력; 심각성, 중대성; 엄숙함",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "appoint",
+    "kor": "임명[지명]하다; (시간·장소 등을) 정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appointment",
+    "kor": "약속, 예약; 임명",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appointed",
+    "kor": "정해진; 임명된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insight",
+    "kor": "통찰력, 통찰",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insightful",
+    "kor": "통찰력 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대리점",
-    "eng": "agency",
+    "eng": "alliance",
+    "kor": "동맹, 연합; 제휴",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ally",
+    "kor": "동맹국; 협력자; 동맹을 맺다, 연합하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deficiency",
+    "kor": "결핍, 부족; 결함",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deficient",
+    "kor": "부족한, 결핍된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "declare",
+    "kor": "선언하다, 발표하다; (세관 등에) 신고하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "declaration",
+    "kor": "선언, 포고; 신고(서)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pastime",
+    "kor": "취미, 오락",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "safeguard",
+    "kor": "보호하다; 보호책, 보호 수단",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extract",
+    "kor": "뽑다, 추출하다; 발췌하다; 추출물; 발췌(문)",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extraction",
+    "kor": "뽑아내기, 추출",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "iconic",
+    "kor": "(~의) 상징이 되는, 우상의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "icon",
+    "kor": "아이콘, 우상",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "profile",
+    "kor": "(얼굴의) 옆모습; 개요, 인물 소개; 인지도",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "profiling",
+    "kor": "정보[자료] 수집, 프로파일링",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "high-profile",
+    "kor": "인지도가 높은",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기준 (단위); 기초",
-    "eng": "basis",
+    "eng": "subsistence",
+    "kor": "(최소한의) 생계 유지; 자급자족",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subsist",
+    "kor": "근근이 살아가다[먹고 살다]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지수",
-    "eng": "index",
+    "eng": "exaggerate",
+    "kor": "과장하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "거절하다; 부인하다",
-    "eng": "deny",
+    "eng": "exaggerated",
+    "kor": "과장된, 지나친",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exaggeration",
+    "kor": "과장(법)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "문방구",
-    "eng": "stationery",
+    "eng": "simulate",
+    "kor": "모의실험하다, 모방하다; (감정·행동 등을) 가장하다, ~인 체하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "simulation",
+    "kor": "모의실험, 시뮬레이션; 가장, 흉내",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stimulate",
+    "kor": "자극[촉진]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "스테이플러 철사 침; 스테이플러로 고정시키다",
-    "eng": "staple",
+    "eng": "stimulation",
+    "kor": "자극, 고무",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stimulus",
+    "kor": "자극제, 자극",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "credible",
+    "kor": "믿을 수 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "승인하다",
-    "eng": "confirm",
+    "eng": "credibility",
+    "kor": "신뢰성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "세부 사항",
-    "eng": "detail",
+    "eng": "hierarchy",
+    "kor": "계급, 계층, 서열",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hierarchical",
+    "kor": "계급[계층]에 따른",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "분류하다",
-    "eng": "classify",
+    "eng": "burst into",
+    "kor": "갑자기 ~하기 시작하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "문서",
-    "eng": "document",
-    "answer_count_kor": 1,
+    "eng": "call up",
+    "kor": "(기억 등을) 불러일으키다; (군대에) ~을 소집하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "잘못 두다",
-    "eng": "misplace",
-    "answer_count_kor": 1,
+    "eng": "bring out",
+    "kor": "(특징·재능을) 끌어내다, 발휘되게 하다; ~을 출시[출간]하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "절차",
-    "eng": "procedure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "회사; 굳은",
-    "eng": "firm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의뢰인",
-    "eng": "client",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자주 일어나는",
-    "eng": "frequent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통근하다",
-    "eng": "commute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부서; 분열",
-    "eng": "division",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통지[통보]하다",
-    "eng": "notify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "할당하다; 임명하다",
-    "eng": "assign",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부스(칸막이한 작은 공간)",
-    "eng": "booth",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "안내 소책자",
-    "eng": "brochure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분배하다",
-    "eng": "distribute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "만회하다",
-    "eng": "make up for",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "성공하다",
-    "eng": "get ahead",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인계받다",
-    "eng": "take over",
-    "answer_count_kor": 1,
+    "eng": "wear away",
+    "kor": "닳다, 닳게 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
