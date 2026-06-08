@@ -1,242 +1,242 @@
 [
   {
-    "kor": "혼합",
-    "eng": "mixture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "폭발하다",
-    "eng": "burst",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방법",
-    "eng": "method",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실험실",
-    "eng": "laboratory",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관찰",
-    "eng": "observation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "독성의",
-    "eng": "toxic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "증기",
-    "eng": "vapor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기체",
-    "eng": "gas",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유체",
-    "eng": "fluid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "액체",
-    "eng": "liquid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고체",
-    "eng": "solid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "덩어리",
-    "eng": "mass",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추출하다",
-    "eng": "extract",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가설",
-    "eng": "hypothesis",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중력",
-    "eng": "gravity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "입자",
-    "eng": "particle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중립의",
-    "eng": "neutral",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "서식지",
-    "eng": "habitat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "종",
-    "eng": "species",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "포유동물",
-    "eng": "mammal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "포식자",
-    "eng": "predator",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이주하다",
-    "eng": "migrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복제 생물",
-    "eng": "clone",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "멸종 위기에 처한",
-    "eng": "endangered",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "살아남다",
-    "eng": "survive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "해골",
-    "eng": "skeleton",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신경",
-    "eng": "nerve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "줄기",
-    "eng": "stem",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조직",
-    "eng": "tissue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나뭇가지",
-    "eng": "branch",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화산의",
     "eng": "volcanic",
-    "answer_count_kor": 1,
+    "kor": "화산의, 화산 작용에 의한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "탐험",
-    "eng": "expedition",
-    "answer_count_kor": 1,
+    "eng": "gas",
+    "kor": "기체, 가솔린",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "떨다",
-    "eng": "vibrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "층",
-    "eng": "layer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "달의",
-    "eng": "lunar",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "온도",
     "eng": "temperature",
-    "answer_count_kor": 1,
+    "kor": "온도, 기온, 체온",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "방출하다",
-    "eng": "release",
-    "answer_count_kor": 1,
+    "eng": "tissue",
+    "kor": "조직, 화장지",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "천문학",
+    "eng": "branch",
+    "kor": "나뭇가지, 지점, 분과",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hypothesis",
+    "kor": "가설, 가정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "astronomy",
+    "kor": "천문학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "빛",
+    "eng": "mixture",
+    "kor": "혼합, 혼합물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "method",
+    "kor": "방법, 수단",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consist of",
+    "kor": "~으로 이루어지다[구성되다]",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glacier",
+    "kor": "빙하",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mammal",
+    "kor": "포유동물",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "species",
+    "kor": "종(種), 종류",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "survive",
+    "kor": "살아남다, 생존하다, 견디다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "migrate",
+    "kor": "이주하다, (새·동물이) 이동하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "keep A from ~ing",
+    "kor": "A가 ~하는 것을 막다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "laboratory",
+    "kor": "실험실, 실험용의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "ray",
+    "kor": "빛, 광선",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "burst",
+    "kor": "폭발하다, 터뜨리다, 파열",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fluid",
+    "kor": "유체, 유동체, 유동체의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "component",
+    "kor": "성분, 구성 요소, 부품, 구성하는",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "particle",
+    "kor": "입자, 극소량",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vapor",
+    "kor": "증기, 수증기, 증발하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stem",
+    "kor": "줄기, 유래하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "liquid",
+    "kor": "액체, 액체의, 유동체의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gravity",
+    "kor": "중력, 중대성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "organism",
+    "kor": "유기체, 생물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "observation",
+    "kor": "관찰, 관측, (관찰에 따른) 의견",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "predator",
+    "kor": "포식자, 약탈자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "skeleton",
+    "kor": "해골, 뼈대",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "metal",
+    "kor": "금속",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "궤도",
-    "eng": "orbit",
+    "eng": "toxic",
+    "kor": "독성의, 유독한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "habitat",
+    "kor": "서식지, 주거지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "layer",
+    "kor": "층, 층층이 쌓다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vibrate",
+    "kor": "떨다, 진동하다, 울리다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "solid",
+    "kor": "고체, 고체의, 견고한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nerve",
+    "kor": "신경",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extract",
+    "kor": "추출하다, 뽑아내다, 추출물",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "come up with",
+    "kor": "~을 생각해 내다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "molecule",
+    "kor": "분자, 미량",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
