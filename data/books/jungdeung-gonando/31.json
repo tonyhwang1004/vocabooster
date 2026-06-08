@@ -1,385 +1,403 @@
 [
   {
-    "kor": "세대",
-    "eng": "generation",
+    "eng": "loan",
+    "kor": "대출(금), 융자(금); 대여; (돈 등을) 빌려주다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "legacy",
+    "kor": "유산, 유물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extinct",
+    "kor": "멸종된, 사라진; (화산 등이) 활동을 멈춘",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extinction",
+    "kor": "멸종, 소멸",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "banish",
+    "kor": "추방하다; (생각 등을) 떨쳐 버리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "banishment",
+    "kor": "추방, 유배",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "valid",
+    "kor": "유효한, 정당한; 타당한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "validity",
+    "kor": "유효함; 타당성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "validate",
+    "kor": "(정당성을) 입증하다; 승인[인정]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unanimously",
+    "kor": "만장일치로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지지자",
-    "eng": "supporter",
+    "eng": "unanimous",
+    "kor": "만장일치의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지지하다",
-    "eng": "support",
+    "eng": "pivotal",
+    "kor": "중심이 되는, 중추적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pivot",
+    "kor": "회전[중심]축; 핵심 요소; (축을 중심으로) 회전하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "beforehand",
+    "kor": "미리, 사전에",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dehydrate",
+    "kor": "탈수 상태가 되다[되게 하다]; (식품을) 건조시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dehydration",
+    "kor": "탈수; 건조",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flock",
+    "kor": "떼, 무리; 떼 지어 가다, 모이다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commitment",
+    "kor": "약속; 전념, 헌신",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commit",
+    "kor": "(범죄 등을) 저지르다; 약속하다; 전념[헌신]하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fraction",
+    "kor": "부분, 일부; 분수",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fractional",
+    "kor": "아주 적은; 분수의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incorporate",
+    "kor": "포함하다, 통합하다; 법인으로 만들다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incorporation",
+    "kor": "포함, 통합; 법인 설립",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incorporated",
+    "kor": "법인 조직의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조카딸",
-    "eng": "niece",
+    "eng": "county",
+    "kor": "(미국 행정 구역의) 카운티, 군",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rationale",
+    "kor": "(이론적) 근거, 이유",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "migrate",
+    "kor": "이동하다; 이주하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "migration",
+    "kor": "이동; 이주",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "migrant",
+    "kor": "이주자; 철새",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "migratory",
+    "kor": "이주[이동]하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조카 (아들)",
-    "eng": "nephew",
+    "eng": "severe",
+    "kor": "심각한; (날씨 등이) 혹독한; 엄한, 가혹한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "severely",
+    "kor": "심하게; 엄격하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "severity",
+    "kor": "심각성; 가혹함, 엄격함",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "faculty",
+    "kor": "교수진, 교직원; (대학의) 학부; 재능, 능력",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deadlock",
+    "kor": "교착 상태",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "약혼시키다(to); 약속하다",
-    "eng": "engage",
+    "eng": "undergo",
+    "kor": "겪다, 경험하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stack",
+    "kor": "무더기, 더미; 쌓다, 쌓이다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "missionary",
+    "kor": "선교사",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "약혼; 약속",
-    "eng": "engagement",
+    "eng": "unconditional",
+    "kor": "무조건적인, 절대적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unconditionally",
+    "kor": "무조건으로, 절대적으로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compete",
+    "kor": "경쟁하다, 겨루다; (경기 등에) 참가하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "competition",
+    "kor": "경쟁; 대회, 시합",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "competitor",
+    "kor": "경쟁자; (시합) 참가자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "competitive",
+    "kor": "경쟁의; 경쟁력 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inclusive",
+    "kor": "포함한; 포괄적인; 포용적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "include",
+    "kor": "포함하다, 포괄하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inclusion",
+    "kor": "포함; 함유(물)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "publicize",
+    "kor": "(대중에게) 알리다, 홍보[광고]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "publicity",
+    "kor": "(언론의) 관심; 홍보, 광고",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "presume",
+    "kor": "추정[가정]하다; 주제넘게 ~하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "presumption",
+    "kor": "추정; 건방짐",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "presumably",
+    "kor": "아마, 짐작건대",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "launch",
+    "kor": "시작[착수]하다; 출시하다; 발사하다; 개시, 출시; 발사",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unlettered",
+    "kor": "글을 못 읽는, 문맹의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contemporary",
+    "kor": "동시대의; 현대의, 당대의; 동시대인, 동년배",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intertwine",
+    "kor": "뒤얽히다, 서로 엮다; 밀접하게 관련되다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diminish",
+    "kor": "줄어들다, 줄이다; 깎아내리다, 폄하하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sidestep",
+    "kor": "(문제 등을) 회피하다; (옆으로) 피하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "comparative",
+    "kor": "비교의, 비교를 통한; 상대적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compare",
+    "kor": "비교하다; 비유하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "comparatively",
+    "kor": "비교적",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 종사하다",
-    "eng": "be engaged in",
-    "answer_count_kor": 1,
+    "eng": "comparable",
+    "kor": "비슷한; 필적하는, 비길 만한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "기념하다",
-    "eng": "celebrate",
-    "answer_count_kor": 1,
+    "eng": "sabotage",
+    "kor": "(고의적으로) 파괴하다, 방해하다; 방해 행위",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "기념하다",
-    "eng": "commemorate",
-    "answer_count_kor": 1,
+    "eng": "speak for",
+    "kor": "~을 대변하다, 대신하여 말하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "기념",
-    "eng": "celebration",
-    "answer_count_kor": 1,
+    "eng": "kick in",
+    "kor": "작동하기 시작하다, 효과가 나타나기 시작하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "기념일",
-    "eng": "anniversary",
-    "answer_count_kor": 1,
+    "eng": "put down",
+    "kor": "~을 적어 두다; ~을 진압하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "운명",
-    "eng": "fate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "운명",
-    "eng": "destiny",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "치명적인; 운명의",
-    "eng": "fatal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "충고",
-    "eng": "advice",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "충고하다",
-    "eng": "advise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일생",
-    "eng": "x",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일생",
-    "eng": "lifespan",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나이가 위인",
-    "eng": "elder",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나이가 위인",
-    "eng": "older",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연장자",
-    "eng": "senior",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부모의",
-    "eng": "parental",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부모",
-    "eng": "parent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(동물이) 새끼를 낳다; 기르다; 품종",
-    "eng": "breed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반항적인",
-    "eng": "disobedient",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복종",
-    "eng": "obedience",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "순종하는",
-    "eng": "obedient",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다루다",
-    "eng": "treat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다루다",
-    "eng": "deal with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "취급; 치료",
-    "eng": "treatment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상호작용 하다",
-    "eng": "interact",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상호 작용",
-    "eng": "interaction",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 상호 작용을 하다",
-    "eng": "interact with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연락; 접촉; ~와 연락하다",
-    "eng": "contact",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연락",
-    "eng": "communication",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "접촉",
-    "eng": "touch",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 접촉하다",
-    "eng": "come into contact with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관계",
-    "eng": "relationship",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관계",
-    "eng": "bond, association",
-    "answer_count_kor": 1,
-    "answer_count_eng": 2
-  },
-  {
-    "kor": "장례식",
-    "eng": "funeral",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "행동하다",
-    "eng": "behave",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "행동하다",
-    "eng": "act",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "행동",
-    "eng": "behavior",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "형제자매",
-    "eng": "sibling",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 닮다",
-    "eng": "resemble",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 닮다",
-    "eng": "take after",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "닮은 점",
-    "eng": "resemblance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(환경적·문화적) 배경",
-    "eng": "background",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "탁아소의",
-    "eng": "daycare",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "탁아소",
-    "eng": "daycare center",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "임신한",
-    "eng": "pregnant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "임신",
-    "eng": "pregnancy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양육하다",
-    "eng": "nurture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양육하다",
-    "eng": "bring up",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동행하다",
-    "eng": "accompany",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동행하다",
-    "eng": "escort",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "성숙한",
-    "eng": "mature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "미숙한",
-    "eng": "immature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배우자",
-    "eng": "spouse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배우자",
-    "eng": "marriage partner",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 기르다",
-    "eng": "bring up",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 기르다",
-    "eng": "raise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 헤어지다",
-    "eng": "break up with",
+    "eng": "ascribe A to B",
+    "kor": "A를 B의 원인[탓]으로 돌리다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
