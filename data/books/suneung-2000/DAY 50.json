@@ -1,25 +1,199 @@
 [
   {
-    "kor": "다산의",
+    "kor": "관통하다, 꿰뚫다, 침투하다",
+    "eng": "penetrate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "침범하다, 방해하다",
+    "eng": "intrude",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주목할 만한, 유명한",
+    "eng": "notable",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "불평하다, 투덜거리다, 불평",
+    "eng": "grumble",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "쓰레기 매립지",
+    "eng": "landfill",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "(정밀) 조사, 철저한 검토",
+    "eng": "scrutiny",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무모한, 부주의한, 신중하지 못한",
+    "eng": "reckless",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "합성의, 종합적인",
+    "eng": "synthetic",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "생산하는, 생산적인",
     "eng": "productive",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "단계",
-    "eng": "phase",
-    "answer_count_kor": 1,
+    "kor": "착수, 발단, 시작, 처음",
+    "eng": "outset",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "위기",
+    "kor": "위험",
     "eng": "peril",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "부상을입히다",
-    "eng": "wound",
+    "kor": "위험, 함정",
+    "eng": "pitfall",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "납치하다, 유괴",
+    "eng": "kidnap",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "책임이 있는, ~하기 쉬운",
+    "eng": "liable",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정신 이상의, 미친, 비상식적인",
+    "eng": "insane",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "격노, 격노하다",
+    "eng": "rage",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반지름",
+    "eng": "radius",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "잡종, 혼합물",
+    "eng": "hybrid",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "폭로하다, 덮개를 벗기다",
+    "eng": "uncover",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사지, 팔다리, 나뭇가지",
+    "eng": "limb",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "좌절, 차질, 방해, 실패",
+    "eng": "setback",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신중한",
+    "eng": "prudent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "굳어지다, 굳히다, 확고히 하다",
+    "eng": "solidify",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "원한, 유감",
+    "eng": "grudge",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "줄이다",
+    "eng": "lessen",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "얽히게 하다, 혼란시키다",
+    "eng": "tangle",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보조금, 장려금",
+    "eng": "subsidy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "애매모호한, 불명확한",
+    "eng": "ambiguous",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "열광, 열정, 열광하는 대상",
+    "eng": "enthusiasm",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "파산",
+    "eng": "bankruptcy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수분",
+    "eng": "pollination",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "번영하다, 번창하다",
+    "eng": "prosper",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "단계",
+    "eng": "phase",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -30,183 +204,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "반지름",
-    "eng": "radius",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "하부조직구조",
-    "eng": "infrastructure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "잡종",
-    "eng": "hybrid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "원한",
-    "eng": "grudge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "쓰레기매립지",
-    "eng": "landfill",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "굳어지다",
-    "eng": "solidify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~하기쉬운",
-    "eng": "liable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "별개의",
-    "eng": "discrete",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불평하다",
-    "eng": "grumble",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "열광",
-    "eng": "enthusiasm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반격",
+    "kor": "반격, 연습, 반격하다, 역습하다",
     "eng": "counterattack",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "번영하다",
-    "eng": "prosper",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무모한",
-    "eng": "reckless",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유괴",
-    "eng": "kidnap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "좌절",
-    "eng": "setback",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방해하다",
-    "eng": "intrude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "얽히게하다",
-    "eng": "tangle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "파산",
-    "eng": "bankruptcy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "알아내다",
-    "eng": "uncover",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "합성의",
-    "eng": "synthetic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위험",
-    "eng": "pitfall",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시작",
-    "eng": "outset",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유명한",
-    "eng": "notable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "빈틈없는",
-    "eng": "prudent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "초월하다",
-    "eng": "transcend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "두가지뜻으로해석가능한",
-    "eng": "ambiguous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "격노",
-    "eng": "rage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "꿰뚫다",
-    "eng": "penetrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비상식적인",
-    "eng": "insane",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사지",
-    "eng": "limb",
-    "answer_count_kor": 1,
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
@@ -216,27 +216,27 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "변동",
+    "kor": "(사회) 기반 시설, 하부 조직",
+    "eng": "infrastructure",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상처를 입히다, 부상하게 하다, 부상, 상처",
+    "eng": "wound",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "별개의",
+    "eng": "discrete",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "변동, 동요",
     "eng": "fluctuation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보조금",
-    "eng": "subsidy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조사",
-    "eng": "scrutiny",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수분",
-    "eng": "pollination",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
