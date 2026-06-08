@@ -1,241 +1,241 @@
 [
   {
-    "kor": "박수를 치다",
-    "eng": "applaud",
+    "eng": "astonished",
+    "kor": "깜짝 놀란",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "흘긋 보다",
-    "eng": "glance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기어가다",
-    "eng": "crawl",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주저하다",
-    "eng": "hesitate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불러일으키다",
-    "eng": "arouse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "맹세하다",
-    "eng": "pledge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "열망하는",
-    "eng": "eager",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "참을 수 없는",
-    "eng": "impatient",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "솔직한",
-    "eng": "frank",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거만한",
-    "eng": "arrogant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "겸손한",
-    "eng": "humble",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "서투른",
     "eng": "awkward",
-    "answer_count_kor": 1,
+    "kor": "서투른, 어색한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "진실된",
-    "eng": "sincere",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진짜의",
-    "eng": "genuine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기대",
-    "eng": "anticipation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "책임감 있는",
-    "eng": "competent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유능한",
-    "eng": "responsible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "참다",
-    "eng": "tolerate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "견디다",
-    "eng": "endure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부끄러워하는",
-    "eng": "ashamed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기쁨",
-    "eng": "delight",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "매혹시키다",
-    "eng": "fascinate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화를 내다",
-    "eng": "resent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "짜증나게 하다",
-    "eng": "irritate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "창피를 주다",
-    "eng": "humiliate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "충동",
-    "eng": "impulse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "마음 내키지 않는",
-    "eng": "reluctant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "놀라게 하다",
-    "eng": "astonish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비참한",
-    "eng": "miserable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분노",
-    "eng": "fury",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "좌절시키다",
-    "eng": "frustrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감정 이입",
-    "eng": "empathy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감정을 상하게 하다",
-    "eng": "offend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동정",
-    "eng": "compassion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "절망",
-    "eng": "despair",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소심한",
-    "eng": "timid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "질투하는",
-    "eng": "jealous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "터무니없는",
     "eng": "ridiculous",
+    "kor": "터무니없는, 어리석은, 우스운",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resent",
+    "kor": "화를 내다, 분개하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "jealous",
+    "kor": "질투하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관대한",
-    "eng": "generous",
-    "answer_count_kor": 1,
+    "eng": "make sense of",
+    "kor": "~을 이해하다, ~을 파악하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "충실한",
+    "eng": "compassion",
+    "kor": "동정, 연민",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "put up with",
+    "kor": "~을 참다, ~을 참고 견디다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arrogant",
+    "kor": "거만한, 오만한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "endure",
+    "kor": "견디다, 참다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humiliate",
+    "kor": "창피를 주다, 굴욕감을 느끼게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "anticipate",
+    "kor": "기대하다, 예상하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "despair",
+    "kor": "절망, 절망하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humble",
+    "kor": "겸손한, 비천한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "faithful",
+    "kor": "충실한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "generous",
+    "kor": "관대한, 후한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fascinated",
+    "kor": "매료된, 매혹된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reluctant",
+    "kor": "(마음이) 내키지 않는, 꺼리는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "responsible",
+    "kor": "책임감 있는, 책임이 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crawl",
+    "kor": "기어가다, 서행하다, 기어가기, 서행",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "genuine",
+    "kor": "진짜의, 진실한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "delight",
+    "kor": "기쁨, 기쁘게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eager",
+    "kor": "열망하는, 열심인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impatient",
+    "kor": "참을 수 없는, 성급한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "frank",
+    "kor": "솔직한, 숨김없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "confident",
+    "kor": "자신감 있는, 확신하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impulse",
+    "kor": "충동",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empathy",
+    "kor": "감정 이입, 공감",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hesitate",
+    "kor": "주저하다, 망설이다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "miserable",
+    "kor": "비참한, 불쌍한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glance",
+    "kor": "힐긋[얼핏] 보다, 힐긋 봄",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "irritate",
+    "kor": "짜증나게[화나게] 하다, 거슬리 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sincere",
+    "kor": "진실된, 진심의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arouse",
+    "kor": "불러일으키다, 유발하다, 깨우다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "depression",
+    "kor": "우울(증), 불황",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ashamed",
+    "kor": "부끄러워하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "applause",
+    "kor": "박수갈채",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "offend",
+    "kor": "감정을 상하게 하다, 위반하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tolerate",
+    "kor": "참다, 견디다, 용인하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "frustrated",
+    "kor": "좌절감을 느끼는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
