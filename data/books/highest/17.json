@@ -1,182 +1,182 @@
 [
   {
-    "kor": "기부하다",
-    "eng": "contribute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기계화하다",
-    "eng": "mechanize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(책임을 맡아) 착수하다",
-    "eng": "undertake",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "완화경감시키다",
-    "eng": "mitigate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "설립하다",
-    "eng": "institute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "입증하다",
-    "eng": "validate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "법률(상)의",
-    "eng": "legal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "더미",
-    "eng": "heap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "더 나은 결과를 내다",
-    "eng": "outperform",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "훌륭한",
-    "eng": "magnificent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "겁을 주다",
     "eng": "intimidate",
-    "answer_count_kor": 1,
+    "kor": "겁을 주다, 위협하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이타주의",
-    "eng": "altruism",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "특권",
-    "eng": "privilege",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복제복사하다",
-    "eng": "duplicate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기운 나게 하다",
-    "eng": "invigorate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대단히",
-    "eng": "drastically",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영장류",
-    "eng": "primate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방해하다",
-    "eng": "disrupt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인간미 없는",
     "eng": "impersonal",
+    "kor": "인간미 없는, 비인격적인; 개인에 관계가 없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "undertake",
+    "kor": "착수하다; 약속하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "서사시",
-    "eng": "epic",
-    "answer_count_kor": 1,
+    "eng": "magnificent",
+    "kor": "훌륭한, 장엄한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "난민",
-    "eng": "refugee",
-    "answer_count_kor": 1,
+    "eng": "drastically",
+    "kor": "대단히, 급격히",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "남성의",
-    "eng": "masculine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "단조로운",
-    "eng": "bland",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "만장일치의",
-    "eng": "unanimous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공포증",
-    "eng": "phobia",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보상(금)",
     "eng": "compensation",
-    "answer_count_kor": 1,
+    "kor": "보상, 보수",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(동물의) 발",
-    "eng": "paw",
-    "answer_count_kor": 1,
+    "eng": "legal",
+    "kor": "법률의, 법률에 관한; 합법적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(약이나 치료의) 효능",
-    "eng": "efficacy",
-    "answer_count_kor": 1,
+    "eng": "altruism",
+    "kor": "이타주의, 이타심",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~이라고 주장강조하다",
-    "eng": "make the point that",
-    "answer_count_kor": 1,
+    "eng": "invigorate",
+    "kor": "기운 나게 하다, 활기를 띠게 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 위하여",
+    "eng": "outperform",
+    "kor": "더 나은 결과를 내다, 능가하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "masculine",
+    "kor": "남성의, 남자다운; <문법> 남성형, 남성 명사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "for the sake of",
+    "kor": "~을 위하여, ~ 때문에",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mitigate",
+    "kor": "완화시키다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mechanize",
+    "kor": "기계화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "paw",
+    "kor": "발",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contribute",
+    "kor": "기부하다; 기여하다, 공헌하다; 원인이 되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unanimous",
+    "kor": "만장일치의, 모두 뜻이 같은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "primate",
+    "kor": "영장류",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "validate",
+    "kor": "입증하다; 승인하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disrupt",
+    "kor": "방해하다, 지장을 주다, 붕괴시 키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "phobia",
+    "kor": "공포증",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "efficacy",
+    "kor": "효능, 효험",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refugee",
+    "kor": "난민, 망명자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "epic",
+    "kor": "서사시, 대작; 서사시의, 서사체 의; 웅장한, 장대한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "privilege",
+    "kor": "특권, 특전, 특혜; 특혜를 주다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "duplicate",
+    "kor": "복제하다; 되풀이하다; 복제의, 사본의; 사본, 복사, 복제",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bland",
+    "kor": "단조로운, 특별한 맛이 안 나는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "institute",
+    "kor": "설립하다, 제정하다; 도입하다, 실시하다; 기관, 협회",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "make the point that",
+    "kor": "~이라고 주장하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "heap",
+    "kor": "더미, 무더기; 무리; 쌓다, 쌓아 올리다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
