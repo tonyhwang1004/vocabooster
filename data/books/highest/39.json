@@ -1,182 +1,182 @@
 [
   {
-    "kor": "조종하다",
-    "eng": "steer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공격적인",
-    "eng": "aggressive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동시에",
     "eng": "simultaneously",
+    "kor": "동시에",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "밀집한",
-    "eng": "dense",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경멸멸시하다",
-    "eng": "scorn",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "식민지화",
-    "eng": "colonization",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "근육의",
-    "eng": "muscular",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "생계 (수단)",
-    "eng": "livelihood",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(사실임을) 확인하다",
-    "eng": "confirm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "포즈",
     "eng": "pose",
-    "answer_count_kor": 1,
+    "kor": "포즈, 자세; 자세를 취하다; 제기하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비행(술)",
     "eng": "aviation",
-    "answer_count_kor": 1,
+    "kor": "비행, 항공",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "유산",
-    "eng": "legacy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사라지다",
-    "eng": "vanish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대처극복할 수 없는",
-    "eng": "insurmountable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정화하다",
-    "eng": "purify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양보",
-    "eng": "concession",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "걸음걸이",
-    "eng": "tread",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기부하다",
-    "eng": "endow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~하기당하기 쉬운",
-    "eng": "prone",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신음하다",
-    "eng": "groan",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "밤의",
-    "eng": "nocturnal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모여들다",
-    "eng": "converge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이론의",
-    "eng": "theoretical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "박탈몰수당하다",
-    "eng": "forfeit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(물고기",
-    "eng": "spawn",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부풀다",
-    "eng": "inflate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세제",
     "eng": "detergent",
+    "kor": "세제, 세정제",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "colonization",
+    "kor": "식민지화, 식민지 건설",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tread",
+    "kor": "걸음걸이, 발소리; 걷다, 밟다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "forfeit",
+    "kor": "박탈당하다; 상실, 박탈; 벌금",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spawn",
+    "kor": "알; 낳다; 낳다, 탄생시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "muscular",
+    "kor": "근육의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "주변적인",
-    "eng": "peripheral",
+    "eng": "purify",
+    "kor": "정화하다, 정제하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "theoretical",
+    "kor": "이론의, 이론적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aggressive",
+    "kor": "공격적인; 적극적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와는 관계없이",
-    "eng": "independently of",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "A를 B의 공로로 인정하다",
     "eng": "credit A to B",
+    "kor": "A를 B의 공로로 인정하다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scorn",
+    "kor": "경멸하다; 경멸, 멸시",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "confirm",
+    "kor": "확인하다, 확증하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vanish",
+    "kor": "사라지다, 소멸하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "converge",
+    "kor": "모여들다, 집중되다: 수렴하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insurmountable",
+    "kor": "대처할 수 없는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concession",
+    "kor": "양보, 용인; 면허, 특권; 구내 매 점",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "endow",
+    "kor": "기부하다; ~에게 부여하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "steer",
+    "kor": "조종하다; 향하게 하다, 이끌다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inflate",
+    "kor": "부풀다, 부풀리다; 올리다; 과장 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "independently of",
+    "kor": "~와는 관계없이, ~와는 별도로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "groan",
+    "kor": "신음하다, 괴로워하다; 불평하 다, 투덜대다; 신음 소리; 불평 하는 소리",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "legacy",
+    "kor": "유산, 유물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "livelihood",
+    "kor": "생계",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dense",
+    "kor": "밀집한, 빽빽한; 짙은; 밀도가 높은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "peripheral",
+    "kor": "주변적인, 지엽적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nocturnal",
+    "kor": "밤의, 야행성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prone",
+    "kor": "~하기쉬운, ~의 경향이 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
