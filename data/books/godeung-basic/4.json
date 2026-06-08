@@ -1,242 +1,242 @@
 [
   {
-    "kor": "환경",
-    "eng": "circumstance",
+    "eng": "provide A with B",
+    "kor": "A에게 B를 제공하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "환경",
-    "eng": "environment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "활동적인",
-    "eng": "active",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지역 사회",
-    "eng": "community",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "필요",
-    "eng": "necessity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "노력",
     "eng": "effort",
-    "answer_count_kor": 1,
+    "kor": "노력, 수고, 결과",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "참가하다",
-    "eng": "participate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "규칙적인",
-    "eng": "regular",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진화",
-    "eng": "evolution",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발전",
-    "eng": "development",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진전",
-    "eng": "progress",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "허락하다",
-    "eng": "permit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "금지하다",
-    "eng": "forbid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "금지하다",
-    "eng": "prohibit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배출",
-    "eng": "emission",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관점",
-    "eng": "perspective",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보수적인",
-    "eng": "conservative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전체의",
-    "eng": "entire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "측정하다",
-    "eng": "measure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유지하다",
-    "eng": "maintain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지지하다",
-    "eng": "support",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "막다",
-    "eng": "prevent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발생하다",
     "eng": "occur",
-    "answer_count_kor": 1,
+    "kor": "발생하다, 일어나다, 생각나다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "열정",
-    "eng": "passion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "병을 앓다",
-    "eng": "suffer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결정하다",
-    "eng": "determine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영향",
-    "eng": "influence",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영향",
-    "eng": "impact",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "즉각적인",
-    "eng": "immediate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "군대",
     "eng": "military",
+    "kor": "군대, 군대의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "circumstance",
+    "kor": "환경, 상황, 형편",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "development",
+    "kor": "발전, 성장, 개발",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "permit",
+    "kor": "허락[허용]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고대의",
-    "eng": "ancient",
-    "answer_count_kor": 1,
+    "eng": "concern",
+    "kor": "염려, 관심사, 관련되다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "강조하다",
-    "eng": "emphasize",
-    "answer_count_kor": 1,
+    "eng": "progress",
+    "kor": "진전, 진보, 진보[발전]하다, 전진하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "선호",
-    "eng": "preference",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "존경하다",
-    "eng": "respect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "걱정하는",
-    "eng": "concerned",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갈등",
-    "eng": "conflict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "예측하다",
-    "eng": "forecast",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "예측하다",
-    "eng": "predict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경향",
     "eng": "tendency",
+    "kor": "경향, 추세, 성향",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ancient",
+    "kor": "고대의, 옛날의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "community",
+    "kor": "지역 사회, 공동체",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "due to",
+    "kor": "~때문에, ~에 기인하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emission",
+    "kor": "배출, 방출, 배출물",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "forecast",
+    "kor": "예측하다, 예보하다, 예측, 예보",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conservative",
+    "kor": "보수적인, 보수주의의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "passion",
+    "kor": "열정, 격정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "predict",
+    "kor": "예측하다, 예언하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "support",
+    "kor": "지지하다, 지원하다, 부양하다, 지지, 후원",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regular",
+    "kor": "규칙적인, 정기적인, 보통의, 단골손님",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "determine",
+    "kor": "결정하다, 밝혀내다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "be aware of",
+    "kor": "~을 인식하다, ~을 알다, ~을 깨 닫다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prevent",
+    "kor": "막다, 예방하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perspective",
+    "kor": "관점, 시각, 원근법",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "forbid",
+    "kor": "금지하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기능",
+    "eng": "participation",
+    "kor": "참가, 참여",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "measure",
+    "kor": "측정하다, 재다, 측정, 조치",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "maintain",
+    "kor": "유지하다, 지지하다, 부양하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "function",
+    "kor": "기능, 행사, 작용하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "influence",
+    "kor": "영향(력), 영향을 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "environment",
+    "kor": "(자연·주변의) 환경",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "necessity",
+    "kor": "필요(성), 필수품",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "significant",
+    "kor": "중요한, 의미 있는, 상당한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "respect",
+    "kor": "존경[존중]하다, 존경, 측면",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entire",
+    "kor": "전체의, 완전한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emphasize",
+    "kor": "강조[역설]하다, 두드러지게 하 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preference",
+    "kor": "선호(도), 선호하는 것",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immediate",
+    "kor": "즉각적인, 직접의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "active",
+    "kor": "활동적인, 적극적인, 활발한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impact",
+    "kor": "영향, 충격, 영향[충격]을 주다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
