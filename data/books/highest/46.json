@@ -1,182 +1,182 @@
 [
   {
-    "kor": "무한한",
-    "eng": "infinite",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "해부(학)",
-    "eng": "anatomy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "생각하다",
-    "eng": "contemplate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "말로 표현하다",
-    "eng": "verbalize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인정하다",
-    "eng": "acknowledge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(물에) 축이다적시다",
     "eng": "dampen",
+    "kor": "축이다; 꺾다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "간섭",
-    "eng": "interference",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청소년기",
-    "eng": "adolescence",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(교통 등의) 혼잡정체",
-    "eng": "congestion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "크기",
-    "eng": "dimension",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "규제단속하는",
-    "eng": "regulatory",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불어넣다",
-    "eng": "imbue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추정예상하다",
-    "eng": "presuppose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진보혁신적인",
-    "eng": "progressive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분해하다되다",
-    "eng": "decompose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일치",
-    "eng": "accord",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의혹을 갖는",
-    "eng": "suspicious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사업가기업가",
-    "eng": "entrepreneur",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방언",
-    "eng": "dialect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(물",
-    "eng": "afloat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "침입하는",
-    "eng": "invasive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "잘 가꾼",
-    "eng": "trim",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대되는",
-    "eng": "contrary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "요리(법)",
-    "eng": "cuisine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기운이 없는",
     "eng": "limp",
+    "kor": "기운이 없는, 축 처진; 다리를 절다, 절뚝거리다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "progressive",
+    "kor": "진보적인; 점진적인; 진보주의자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "효소",
-    "eng": "enzyme",
+    "eng": "contrary",
+    "kor": "반대되는, 상반되는; 반대",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "anatomy",
+    "kor": "해부, 해부학적 구조",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suspicious",
+    "kor": "의혹을 갖는, 의심스러운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dimension",
+    "kor": "크기, 치수; 차원, 관점",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "invasive",
+    "kor": "침입하는, 외래 유입종의; 급속히 퍼지는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "presuppose",
+    "kor": "추정하다: 전제로 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "버리다",
+    "eng": "afloat",
+    "kor": "뜬, 표류하여",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adolescence",
+    "kor": "청소년기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dialect",
+    "kor": "방언, 사투리",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infinite",
+    "kor": "무한한, 끝없는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "interference",
+    "kor": "간섭, 방해",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imbue",
+    "kor": "불어넣다, 주입하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "discard",
+    "kor": "버리다, 폐기하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "trim",
+    "kor": "잘 가꾼, 깔끔한; 다듬기, 약간 자르기; 장식, 테두리; 다듬다, 손질하다; 줄이다; 장식하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contemplate",
+    "kor": "생각하다, 심사숙고하다; 응시 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acknowledge",
+    "kor": "인정하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(근본적) 이유",
-    "eng": "rationale",
+    "eng": "congestion",
+    "kor": "혼잡, 밀집",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decompose",
+    "kor": "분해하다; 부패하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지지지원하다",
+    "eng": "accord",
+    "kor": "일치, 합의; 부합하다, 조화되다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enzyme",
+    "kor": "효소",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "bear out",
+    "kor": "지지하다: 사실임을 증명하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전력을 다하다",
-    "eng": "go all out",
+    "eng": "verbalize",
+    "kor": "말로 표현하다, 언어화하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entrepreneur",
+    "kor": "사업가",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cuisine",
+    "kor": "요리",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regulatory",
+    "kor": "규제하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "go all out",
+    "kor": "전력을 다하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rationale",
+    "kor": "이유, 근거",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
