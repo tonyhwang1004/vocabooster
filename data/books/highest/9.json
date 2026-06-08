@@ -1,182 +1,182 @@
 [
   {
-    "kor": "추상적인",
-    "eng": "abstract",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "옹호자",
-    "eng": "proponent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "순종적인",
-    "eng": "obedient",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "독재전제 (정치)",
-    "eng": "tyranny",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양육하다",
-    "eng": "nurture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "희석하다",
-    "eng": "dilute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "특징이 되다",
-    "eng": "characterize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경계하는",
-    "eng": "wary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(화산의) 폭발",
-    "eng": "eruption",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(액체 속에) 담그다",
-    "eng": "immerse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전문 지식기술",
-    "eng": "expertise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "잔해",
-    "eng": "debris",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세입자",
-    "eng": "tenant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "담론",
-    "eng": "discourse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "강화하다",
-    "eng": "reinforce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다수의",
-    "eng": "numerous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "각각의",
-    "eng": "respective",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위도",
-    "eng": "latitude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이상한",
-    "eng": "peculiar",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "박탈",
-    "eng": "deprivation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "혐오감을 주다",
-    "eng": "disgust",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지속 가능한",
-    "eng": "sustainable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "입자",
-    "eng": "particle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불모의",
-    "eng": "sterile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "스며들다",
-    "eng": "infiltrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "집합체",
-    "eng": "array",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신경(계)의",
     "eng": "neural",
+    "kor": "신경의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "분명하게 표현하다말하다",
     "eng": "articulate",
+    "kor": "분명하게 표현하다; 잘 표현하는, 분명한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sustainable",
+    "kor": "지속 가능한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 착수하다",
+    "eng": "sterile",
+    "kor": "불모의, 척박한, 불임의; 살균한, 무균의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "set out to do",
+    "kor": "~에 착수하다, ~을 시작하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infiltrate",
+    "kor": "스며들다, 침투하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tenant",
+    "kor": "세입자, 임차인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expertise",
+    "kor": "전문 지식",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~은 커녕",
-    "eng": "let alone",
+    "eng": "obedient",
+    "kor": "순종적인, 복종하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "latitude",
+    "kor": "위도",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "debris",
+    "kor": "잔해; 쓰레기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "array",
+    "kor": "집합체, 무리; 배열; 배열하다, 진열하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wary",
+    "kor": "경계하는, 조심하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "let alone",
+    "kor": "~은커녕, ~은 말할 것도 없이",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proponent",
+    "kor": "옹호자, 지지자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disgust",
+    "kor": "혐오감을 주다; 혐오, 역겨움",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "peculiar",
+    "kor": "이상한, 독특한, 특유의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "numerous",
+    "kor": "다수의, 수많은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dilute",
+    "kor": "희석하다, 묽게 하다; 약화시키 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discourse",
+    "kor": "담론, 담화; 강연, 연설, 설교; 이 야기하다, 담화하다; 강연하다, 연설하다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deprivation",
+    "kor": "박탈, 해임; 부족, 빈곤",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immerse",
+    "kor": "담그다; 열중시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nurture",
+    "kor": "양육하다, 기르다; 육성하다; 영 양물을 공급하다; 양육; 육성; 자양물, 음식물",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "respective",
+    "kor": "각각의, 각자의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abstract",
+    "kor": "추상적인, 관념적인; 개요; 추상 화; 추출하다, 끌어내다; 요약하 다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eruption",
+    "kor": "폭발, 분출",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reinforce",
+    "kor": "강화하다, 보강하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tyranny",
+    "kor": "독재, 폭정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "characterize",
+    "kor": "특징이 되다, 특징짓다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "particle",
+    "kor": "입자, 극소량",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
