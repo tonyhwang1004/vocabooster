@@ -1,181 +1,181 @@
 [
   {
-    "kor": "진정한",
-    "eng": "authentic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(추위",
     "eng": "shiver",
-    "answer_count_kor": 1,
+    "kor": "몸을 떨다; 떨림, 전율",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(수준",
     "eng": "decent",
-    "answer_count_kor": 1,
+    "kor": "괜찮은; 품위 있는, 예의 바른",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(역사",
-    "eng": "era",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이해하다",
     "eng": "comprehend",
-    "answer_count_kor": 1,
+    "kor": "이해하다; 포함하다, 함축하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주권",
-    "eng": "sovereignty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "약화손상시키다",
-    "eng": "undermine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비웃음",
-    "eng": "ridicule",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "옹호지지하다",
-    "eng": "advocate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "낡은",
-    "eng": "shabby",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비탄",
-    "eng": "lament",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실용적인",
-    "eng": "utilitarian",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "내재하는",
-    "eng": "inherent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(고의로) 파괴방해하다",
-    "eng": "sabotage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추방된버림받은 사람",
-    "eng": "outcast",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "섞(이)다",
-    "eng": "mingle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(식량을) 찾아다니다",
-    "eng": "forage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "멋대로 하게 하는",
-    "eng": "indulgent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위험곤란",
-    "eng": "pitfall",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실현성취하다",
-    "eng": "fulfill",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연대 (의식)",
-    "eng": "solidarity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기이한",
-    "eng": "bizarre",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오래 계속되는",
-    "eng": "prolonged",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "잔인함",
-    "eng": "cruelty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오염",
-    "eng": "contamination",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복구복원",
-    "eng": "restoration",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(강하게) 비난하다",
-    "eng": "condemn",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "국적을 초월한",
-    "eng": "transnational",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 관련되다",
-    "eng": "be associated with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "불가능한",
     "eng": "out of the question",
+    "kor": "불가능한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ridicule",
+    "kor": "비웃음, 조롱; 비웃다, 조롱하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transnational",
+    "kor": "국적을 초월한, 다국적의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shabby",
+    "kor": "낡은, 허름한; 터무니없는, 부당한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "condemn",
+    "kor": "비난하다; 선고를 내리다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "era",
+    "kor": "연대, 시대",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "be associated with",
+    "kor": "~와 관련되다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contamination",
+    "kor": "오염",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "forage",
+    "kor": "찾아다니다; 사료, 마초",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fulfill",
+    "kor": "실현하다; 이행하다: 충족시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "undermine",
+    "kor": "약화시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pitfall",
+    "kor": "위험, 함정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "advocate",
+    "kor": "옹호하다, 변호하다; 옹호자; 변 호사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "utilitarian",
+    "kor": "실용적인, 공리적인; 공리주의 자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cruelty",
+    "kor": "잔인함, 무자비, 학대",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bizarre",
+    "kor": "기이한, 특이한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indulgent",
+    "kor": "멋대로 하게 하는, 관대한; 방종 한, 제멋대로 하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sovereignty",
+    "kor": "주권, 통치권",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "restoration",
+    "kor": "복구, 회복; 반환",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sabotage",
+    "kor": "파괴하다; 파괴행위",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "authentic",
+    "kor": "진정한, 진짜의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mingle",
+    "kor": "섞다, 어우러지다; 어울리다, 교 제하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "solidarity",
+    "kor": "연대 , 결속",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inherent",
+    "kor": "내재하는, 고유의, 타고난",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lament",
+    "kor": "비탄, 한탄, 애도; 슬퍼하다, 한 탄하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prolonged",
+    "kor": "오래 계속되는, 장기적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outcast",
+    "kor": "추방된사람",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
