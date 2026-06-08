@@ -1,181 +1,181 @@
 [
   {
-    "kor": "감추다",
-    "eng": "conceal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "급증",
-    "eng": "proliferation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "음식의",
-    "eng": "dietary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추월하다",
     "eng": "overtake",
-    "answer_count_kor": 1,
+    "kor": "추월하다, 능가하다; 갑자기 닥치다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "화답하다",
-    "eng": "reciprocate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이미지",
-    "eng": "imagery",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(옷이) 누더기가 된",
-    "eng": "ragged",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "강력한",
-    "eng": "potent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전념하는",
-    "eng": "dedicated",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의제안건 (목록)",
-    "eng": "agenda",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "탐구",
-    "eng": "quest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "귀의",
-    "eng": "aural",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실체가 있는",
-    "eng": "tangible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(속이)빈",
-    "eng": "hollow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "재고(품)",
-    "eng": "stock",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "잠재의식적인",
-    "eng": "subconscious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "어설픈",
-    "eng": "clumsy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "범람",
-    "eng": "overflow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정당화하다",
-    "eng": "justify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "온전한 정신 (상태)",
-    "eng": "sanity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "형편없는",
     "eng": "lousy",
-    "answer_count_kor": 1,
+    "kor": "형편없는, 엉망인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "반역자",
+    "eng": "potent",
+    "kor": "강력한, 유력한; 효능 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "rebel",
+    "kor": "반역자, 반대자; 반란을 일으키다, 저항하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imagery",
+    "kor": "이미지, 형상화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stock",
+    "kor": "재고, 저장; 주식; 가지고 있다, 비축하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sanity",
+    "kor": "온전한 정신",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "증거",
-    "eng": "testimony",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "열이 나는",
-    "eng": "feverish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분개한",
     "eng": "indignant",
+    "kor": "분개한, 화가 난",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agenda",
+    "kor": "의제",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상의협의하다",
-    "eng": "confer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "요지",
-    "eng": "gist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "교환하다",
     "eng": "swap",
-    "answer_count_kor": 1,
+    "kor": "교환하다, 바꾸다; 교환, 바꾸기",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 만회하다",
-    "eng": "make up for",
-    "answer_count_kor": 1,
+    "eng": "dietary",
+    "kor": "음식의, 식이 요법의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 조금씩 갉아먹다",
+    "eng": "conceal",
+    "kor": "감추다, 숨기다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "chip away at",
+    "kor": "~을 조금씩 갉아먹다, ~을 서서히 약화시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tangible",
+    "kor": "실체가 있는, 유형의; 명백한, 확실한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clumsy",
+    "kor": "어설픈, 서투른",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "feverish",
+    "kor": "열이 나는, 열로 인한; 과열된, 열광적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dedicated",
+    "kor": "전념하는, 헌신적인; ~ 전용의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gist",
+    "kor": "요지, 골자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aural",
+    "kor": "귀의, 청각의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "testimony",
+    "kor": "증거, 증언",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overflow",
+    "kor": "범람, 초과; 범람하다, 넘치다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reciprocate",
+    "kor": "화답하다, 보답하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "confer",
+    "kor": "상의하다: 수여하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "quest",
+    "kor": "탐구, 탐색, 추구; 탐험 여행, 원 정",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proliferation",
+    "kor": "급증, 확산",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "justify",
+    "kor": "정당화하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ragged",
+    "kor": "누더기가 된, 다 해진",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "make up for",
+    "kor": "~을 만회하다, ~을 보상하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hollow",
+    "kor": "빈; 움푹 꺼진; 헛된, 무의미한; 움푹한 곳, 구멍; 분지, 골짜기",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subconscious",
+    "kor": "잠재의식적인; 잠재의식",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
