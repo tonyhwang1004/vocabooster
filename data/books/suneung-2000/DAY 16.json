@@ -1,67 +1,97 @@
 [
   {
-    "kor": "북극의",
-    "eng": "arctic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "승무원",
-    "eng": "crew",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일과",
-    "eng": "routine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거절하다",
-    "eng": "deny",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "붙잡다",
-    "eng": "capture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "우리",
-    "eng": "fold",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일반적인",
-    "eng": "general",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보통의",
-    "eng": "usual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "계산",
-    "eng": "figure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "근처에사는",
-    "eng": "neighbor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "어두운",
+    "kor": "희미한, 어둑한, 어둑하게 하다",
     "eng": "dim",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "일반적인, 전반적인, 장군",
+    "eng": "general",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비명을 지르다, 비명",
+    "eng": "scream",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흘리다, 쏟다",
+    "eng": "spill",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "노려보다, 반짝 반짝 빛나다, 노려봄, 눈부신 빛",
+    "eng": "glare",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "삼킴, 제비, 삼키다",
+    "eng": "swallow",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "늘 하는, 흔히 있는",
+    "eng": "usual",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "틀에 박힌 일, 일상적인, 지루한",
+    "eng": "routine",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "제거하다, 삭제하다",
+    "eng": "eliminate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부인하다, 거절하다",
+    "eng": "deny",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "민감한, 예민한",
+    "eng": "sensitive",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비극적인",
+    "eng": "tragic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "빼앗다, 강탈하다",
+    "eng": "deprive",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의식하는, 의식이 있는",
+    "eng": "conscious",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "간섭하다",
+    "eng": "interfere",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "임시의",
+    "eng": "temporary",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -72,15 +102,105 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "비명지르다",
-    "eng": "scream",
+    "kor": "청소년, 청소년의",
+    "eng": "adolescent",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "북극의",
+    "eng": "arctic",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "시도",
-    "eng": "trial",
+    "kor": "붇잡다, 점유하다",
+    "eng": "capture",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "묽은, 묽게 하다, 약화시키다",
+    "eng": "dilute",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "연상하다, 어울리다, 동료",
+    "eng": "associate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "숫자, 인물, 이해하다, 계산하다",
+    "eng": "figure",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "창고",
+    "eng": "warehouse",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "승무원, (특별한 기술의)팀, 승무원으로 일하다",
+    "eng": "crew",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "장벽, 장애물",
+    "eng": "barrier",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보행자, 보행자의",
+    "eng": "pedestrian",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흘꿋 보다, 흘끗 봄",
+    "eng": "glance",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "심부름",
+    "eng": "errand",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "짜증나게 하다, 자극하다",
+    "eng": "irritate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "복지, 행복",
+    "eng": "welfare",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "잔인한, 비참한",
+    "eng": "cruel",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주름, 접다",
+    "eng": "fold",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "재판, 시험",
+    "eng": "trial",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -90,38 +210,14 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "민감한",
-    "eng": "sensitive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고통을주는",
-    "eng": "cruel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복지",
-    "eng": "welfare",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "깊은",
+    "kor": "깊은, 심오한",
     "eng": "profound",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "만연하다",
-    "eng": "prevail",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일시적인",
-    "eng": "temporary",
+    "kor": "전통",
+    "eng": "tradition",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -132,111 +228,15 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "교제하다",
-    "eng": "associate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장벽",
-    "eng": "barrier",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "간섭하다",
-    "eng": "interfere",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "심부름",
-    "eng": "errand",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "짜증나게하다",
-    "eng": "irritate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "성명서",
+    "kor": "진술, 성명, 진술서",
     "eng": "statement",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "흘긋보다",
-    "eng": "glance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관습",
-    "eng": "tradition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비극의",
-    "eng": "tragic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "삼키다",
-    "eng": "swallow",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배제하다",
-    "eng": "eliminate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "엎지르다",
-    "eng": "spill",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "빛나다",
-    "eng": "glare",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "박탈하다",
-    "eng": "deprive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청소년",
-    "eng": "adolescent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보행자",
-    "eng": "pedestrian",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "묽은",
-    "eng": "dilute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의도적인",
-    "eng": "conscious",
-    "answer_count_kor": 1,
+    "kor": "만연하다, 우세하다",
+    "eng": "prevail",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
