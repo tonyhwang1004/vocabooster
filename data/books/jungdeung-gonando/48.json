@@ -1,428 +1,392 @@
 [
   {
-    "kor": "풍부하게 하다",
-    "eng": "enrich",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "풍부하게 함",
-    "eng": "enrichment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배럴(용량의 단위로 약 159리터); 통",
-    "eng": "barrel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(가축의) 떼",
-    "eng": "herd",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(가축의) 떼",
-    "eng": "group",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위기",
-    "eng": "crisis",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위기",
-    "eng": "emergency",
-    "answer_count_kor": 1,
+    "eng": "ambassador",
+    "kor": "대사; 사절, 대표",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "비판적인",
-    "eng": "critical",
-    "answer_count_kor": 1,
+    "eng": "establish",
+    "kor": "설립[수립]하다; (법률 등을) 제정하다; 확립하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "공급하다(with); 준비하다(for",
-    "eng": "provide",
-    "answer_count_kor": 1,
+    "eng": "establishment",
+    "kor": "기관, 시설; 설립",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "공급하다",
-    "eng": "supply",
-    "answer_count_kor": 1,
+    "eng": "established",
+    "kor": "확립된, 인정받는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "공급자",
-    "eng": "provider",
-    "answer_count_kor": 1,
+    "eng": "indulge",
+    "kor": "마음껏 하다; (욕구 등을) 채우다; 제멋대로 하게 하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "물질",
-    "eng": "material",
-    "answer_count_kor": 1,
+    "eng": "indulgence",
+    "kor": "멋대로 하게 함; 탐닉, 사치",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "물질",
-    "eng": "substance",
-    "answer_count_kor": 1,
+    "eng": "indulgent",
+    "kor": "멋대로 하게 하는, 관대한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "물질",
-    "eng": "matter",
-    "answer_count_kor": 1,
+    "eng": "aboriginal",
+    "kor": "(특히 호주) 원주민의; 토착의; (특히 호주) 원주민",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "물질적으로",
-    "eng": "materially",
-    "answer_count_kor": 1,
+    "eng": "inflame",
+    "kor": "흥분시키다, 자극하다; 악화시키다; 염증을 일으키다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "원료",
-    "eng": "raw material",
+    "eng": "inflammation",
+    "kor": "염증",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수출하다; 수출",
-    "eng": "export",
-    "answer_count_kor": 1,
+    "eng": "inflammatory",
+    "kor": "선동적인; 염증을 일으키는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "수입하다",
-    "eng": "import",
+    "eng": "causal",
+    "kor": "인과 관계의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수출",
-    "eng": "exportation",
+    "eng": "causality",
+    "kor": "인과 관계",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수출할 수 있는",
-    "eng": "exportable",
+    "eng": "inflow",
+    "kor": "유입(량)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "건설하다",
-    "eng": "construct",
-    "answer_count_kor": 1,
+    "eng": "flush",
+    "kor": "(얼굴이) 상기되다; (변기의) 물을 내리다; 홍조; 물 내림",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "건설하다",
-    "eng": "build",
+    "eng": "insomnia",
+    "kor": "불면증",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "오염",
-    "eng": "pollution",
-    "answer_count_kor": 1,
+    "eng": "condemn",
+    "kor": "비난하다; 형을 선고하다; (좋지 않은 상황에) 처하게 하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "오염시키다",
-    "eng": "pollute",
-    "answer_count_kor": 1,
+    "eng": "condemnation",
+    "kor": "비난, 규탄",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "농업",
-    "eng": "agriculture",
-    "answer_count_kor": 1,
+    "eng": "terminate",
+    "kor": "끝나다[끝내다], 종결하다[시키다]",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "농업",
-    "eng": "farming",
-    "answer_count_kor": 1,
+    "eng": "terminal",
+    "kor": "(병 등이) 말기의; 끝의, 최종적인; 터미널",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "(가축이) 풀을 뜯어 먹다",
-    "eng": "graze",
-    "answer_count_kor": 1,
+    "eng": "termination",
+    "kor": "종료, 종결",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(가축이) 풀을 뜯어 먹다",
-    "eng": "feed",
-    "answer_count_kor": 1,
+    "eng": "masculine",
+    "kor": "남자의, 남자다운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "목초지",
-    "eng": "pasture",
+    "eng": "masculinity",
+    "kor": "남성성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "목초지",
-    "eng": "grassland",
-    "answer_count_kor": 1,
+    "eng": "haunt",
+    "kor": "(유령 등이) 출몰하다; (생각 등이) 계속 떠오르다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "목초지",
-    "eng": "meadow",
-    "answer_count_kor": 1,
+    "eng": "haunted",
+    "kor": "귀신[유령]이 나오는; 불안한, 괴로운",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "소; 가축",
-    "eng": "cattle",
-    "answer_count_kor": 1,
+    "eng": "vocation",
+    "kor": "천직, 소명; 소명 의식, 사명감",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "가축",
-    "eng": "livestock",
+    "eng": "vocational",
+    "kor": "직업상의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경작하다",
-    "eng": "cultivate",
-    "answer_count_kor": 1,
+    "eng": "intricate",
+    "kor": "복잡한, 뒤얽힌",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경작하다",
-    "eng": "farm",
-    "answer_count_kor": 1,
+    "eng": "intricacy",
+    "kor": "복잡함; 복잡한 사항",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경작",
-    "eng": "cultivation",
-    "answer_count_kor": 1,
+    "eng": "refuge",
+    "kor": "피난(처), 도피(처); 보호 시설, 보호소",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "콘크리트; 구체적인; 콘크리트의",
-    "eng": "concrete",
-    "answer_count_kor": 1,
+    "eng": "refugee",
+    "kor": "난민, 망명자",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "구체적인",
-    "eng": "specific",
-    "answer_count_kor": 1,
+    "eng": "worldly",
+    "kor": "세속적인, 속세의; 세상을 많이 아는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "구체적인 증거",
-    "eng": "concrete evidence",
-    "answer_count_kor": 1,
+    "eng": "harassment",
+    "kor": "괴롭힘, 희롱",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "기중기",
-    "eng": "crane",
-    "answer_count_kor": 1,
+    "eng": "harass",
+    "kor": "괴롭히다, 귀찮게 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "투자하다",
-    "eng": "invest",
-    "answer_count_kor": 1,
+    "eng": "patrol",
+    "kor": "순찰하다; 순찰; 순찰대",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "투자",
-    "eng": "investment",
-    "answer_count_kor": 1,
+    "eng": "allocate",
+    "kor": "할당하다, 배분하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "확장하다; 팽창하다",
-    "eng": "expand",
-    "answer_count_kor": 1,
+    "eng": "allocation",
+    "kor": "할당량, 할당액; 할당",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "수축하다",
-    "eng": "contract",
-    "answer_count_kor": 1,
+    "eng": "incur",
+    "kor": "(안 좋은 일을) 초래하다; (비용을) 발생시키다, 물다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "규모; 저울; 비늘",
-    "eng": "scale",
-    "answer_count_kor": 1,
+    "eng": "sarcastic",
+    "kor": "빈정대는, 비꼬는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "규모",
-    "eng": "size",
-    "answer_count_kor": 1,
+    "eng": "sarcasm",
+    "kor": "빈정댐, 비꼼",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전면적인",
-    "eng": "full-scale",
-    "answer_count_kor": 1,
+    "eng": "scope",
+    "kor": "범위, 영역; 기회, 여지",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "비율",
-    "eng": "proportion",
-    "answer_count_kor": 1,
+    "eng": "precipitation",
+    "kor": "강수(량), 강우(량), 강설(량)",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "비율",
-    "eng": "percentage",
-    "answer_count_kor": 1,
+    "eng": "deem",
+    "kor": "(~로) 여기다, 생각하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "초월하다",
-    "eng": "surpass",
-    "answer_count_kor": 1,
+    "eng": "revenge",
+    "kor": "복수, 보복",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "초월하다",
-    "eng": "exceed",
-    "answer_count_kor": 1,
+    "eng": "inflict",
+    "kor": "(고통 등을) 안기다, 가하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "발생시키다",
-    "eng": "generate",
+    "eng": "infliction",
+    "kor": "(고통 등을) 가함",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "발생시키다",
-    "eng": "produce",
-    "answer_count_kor": 1,
+    "eng": "combat",
+    "kor": "전투, 싸움; 싸우다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "일정한",
-    "eng": "constant",
-    "answer_count_kor": 1,
+    "eng": "recede",
+    "kor": "멀어지다, 물러나다; 희미해지다, 약해지다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "일정한",
-    "eng": "continuous",
-    "answer_count_kor": 1,
+    "eng": "martial",
+    "kor": "군대의, 전쟁의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "낙관적인",
-    "eng": "optimistic",
-    "answer_count_kor": 1,
+    "eng": "withhold",
+    "kor": "주지 않다, 보류하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비관적인",
-    "eng": "pessimistic",
-    "answer_count_kor": 1,
+    "eng": "crucial",
+    "kor": "중대한, 결정적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "낙관주의",
-    "eng": "optimism",
+    "eng": "crucially",
+    "kor": "결정적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "낙관주의자",
-    "eng": "optimist",
-    "answer_count_kor": 1,
+    "eng": "preserve",
+    "kor": "보호하다, 지키다; 보존하다, 유지하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "떠맡다",
-    "eng": "undertake",
-    "answer_count_kor": 1,
+    "eng": "preservation",
+    "kor": "보존, 보호; 유지",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "조립하다; 모으다",
-    "eng": "assemble",
+    "eng": "preservative",
+    "kor": "방부제",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "분해하다",
-    "eng": "disassemble",
-    "answer_count_kor": 1,
+    "eng": "allowance",
+    "kor": "용돈, (특정 목적을 위한) 수당; 허용량, 허용치",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "모으다",
-    "eng": "gather",
+    "eng": "determinant",
+    "kor": "결정 요인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조립",
-    "eng": "assembly",
-    "answer_count_kor": 1,
+    "eng": "determine",
+    "kor": "결정하다; 알아내다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "획기적인",
-    "eng": "innovative",
-    "answer_count_kor": 1,
+    "eng": "essential",
+    "kor": "매우 중요한, 필수의; 본질적인; 기본[필수]적인 것",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "혁신",
-    "eng": "innovation",
+    "eng": "essentially",
+    "kor": "본질적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기업",
-    "eng": "enterprise",
-    "answer_count_kor": 1,
+    "eng": "essence",
+    "kor": "본질, 정수",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "기업",
-    "eng": "business",
-    "answer_count_kor": 1,
+    "eng": "hold to",
+    "kor": "~을 지키다, 고수하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(특히 모험적인) 사업가[기업가]",
-    "eng": "entrepreneur",
+    "eng": "come down to",
+    "kor": "결국 ~로 귀결되다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "문을 닫다",
-    "eng": "shut down",
-    "answer_count_kor": 1,
+    "eng": "break down",
+    "kor": "고장 나다; (감정적으로) 무너지다; ~을 부수다, 허물다; ~을 분해하다",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "시작하다",
-    "eng": "set up",
-    "answer_count_kor": 1,
+    "eng": "get back to",
+    "kor": "다시 연락하다, 회신하다; 복귀하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
