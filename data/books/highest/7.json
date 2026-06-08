@@ -1,182 +1,182 @@
 [
   {
-    "kor": "만남",
-    "eng": "encounter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인공물",
-    "eng": "artifact",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대칭",
-    "eng": "symmetry",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장식의",
-    "eng": "ornamental",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(전쟁",
-    "eng": "outbreak",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "깨지기 쉬운",
-    "eng": "fragile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "단단히 박다",
-    "eng": "embed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "미숙한",
-    "eng": "immature",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "합병통합하다",
-    "eng": "consolidate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "근본적인",
-    "eng": "radical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(눈",
-    "eng": "blink",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소속",
     "eng": "affiliation",
+    "kor": "소속, 연대",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blink",
+    "kor": "깜박이다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "단정적인",
-    "eng": "assertive",
-    "answer_count_kor": 1,
+    "eng": "ornamental",
+    "kor": "장식의, 장식용의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "지형",
+    "eng": "embed",
+    "kor": "단단히 박다, 끼워 넣다; 깊이 새기다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "artifact",
+    "kor": "인공물, 공예품",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "terrain",
-    "answer_count_kor": 1,
+    "kor": "지형, 지역; 범위, 영역",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 앞서다",
-    "eng": "precede",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "휘발성의",
-    "eng": "volatile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "달라붙다",
-    "eng": "cling",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(구체적으로) 명시하다",
-    "eng": "specify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "많은",
-    "eng": "multiple",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "투옥하다",
-    "eng": "imprison",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동시대의",
     "eng": "contemporary",
-    "answer_count_kor": 1,
+    "kor": "동시대의; 현대의, 당대의; 동시대인, 동년배",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "분명한",
-    "eng": "explicit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(표준에서) 벗어난",
-    "eng": "deviant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(건물 등을) 철거하다",
-    "eng": "demolish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "과잉",
     "eng": "surplus",
-    "answer_count_kor": 1,
+    "kor": "과잉, 잉여, 여분; 과잉의, 여분의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "(군대",
-    "eng": "deploy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "못마땅해하다",
-    "eng": "disapprove",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양심적인",
-    "eng": "conscientious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에(게) 자리를 내주다",
     "eng": "make way for",
+    "kor": "~에 자리를 내주다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 고려하면",
-    "eng": "given that",
+    "eng": "specify",
+    "kor": "명시하다, 상술하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "explicit",
+    "kor": "분명한, 명쾌한; 솔직한, 노골적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "volatile",
+    "kor": "휘발성의, 휘발하는; 변덕스러운; 불안정한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deviant",
+    "kor": "벗어난, 일탈적인, 비정상적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "encounter",
+    "kor": "만남, 조우; 교전, 충돌; 만나다, 마주치다; 직면하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "multiple",
+    "kor": "많은, 다수의, 다양한; 배수",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assertive",
+    "kor": "단정적인, 적극적인, 확신에 찬",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imprison",
+    "kor": "투옥하다, 감금하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outbreak",
+    "kor": "발발, 발생; 급격한 증가, 대발 생",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immature",
+    "kor": "미숙한",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "given that",
+    "kor": "~을 고려하면, ~을 고려해 볼 때",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "radical",
+    "kor": "근본적인, 기초적인; 급진적인, 혁명적인; 급진주의자, 과격파",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precede",
+    "kor": "~에 앞서다, 선행하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cling",
+    "kor": "달라붙다, 매달리다; 집착하다, 고수하다; 들러붙음, 점착; 집착, 애착",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "demolish",
+    "kor": "철거하다, 파괴하다; 뒤집다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disapprove",
+    "kor": "못마땅해하다; 찬성하지 않다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conscientious",
+    "kor": "양심적인, 성실한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consolidate",
+    "kor": "합병하다; 굳건히 하다, 강화하 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "symmetry",
+    "kor": "대칭, 균형",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deploy",
+    "kor": "배치하다; 효율적으로 사용하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fragile",
+    "kor": "깨지기 쉬운, 취약한, 허술한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
