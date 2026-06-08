@@ -1,182 +1,428 @@
 [
   {
-    "kor": "다양성",
-    "eng": "variety",
+    "eng": "continual",
+    "kor": "거듭되는, 반복되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "continually",
+    "kor": "끊임없이; 빈번히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inanimate",
+    "kor": "무생물의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "정사각형; 제곱; 광장; 정사각형의",
-    "eng": "square",
+    "eng": "tactic",
+    "kor": "전략, 작전; 전술",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tactical",
+    "kor": "작전[전술]의; 전략적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dissolve",
+    "kor": "녹다, 녹이다; 해산하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dissolution",
+    "kor": "해산; 파경",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immense",
+    "kor": "엄청난, 막대한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immensely",
+    "kor": "엄청나게, 대단히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "override",
+    "kor": "무시[기각]하다; (~보다) 더 중요하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "overriding",
+    "kor": "최우선의, 가장 중요한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elevate",
+    "kor": "(정도를) 높이다; (들어) 올리다; 승진시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elevated",
+    "kor": "높은; 고상한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elevation",
+    "kor": "승진, 승격; 해발 높이, 고도",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "divert",
+    "kor": "(방향을) 바꾸다, 우회시키다; (관심 등을) 다른 데로 돌리다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diversion",
+    "kor": "전환; 오락",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "paddle",
+    "kor": "(보트의) 노; 노를 젓다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chemical",
+    "kor": "화학의, 화학적인; 화학 물질[제품]",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outlet",
+    "kor": "(가스·감정 등의) 배출구; 직판점; 콘센트",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "epidemic",
+    "kor": "유행병, 전염병; (병·범죄 등의) 유행, 확산; 유행성의",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deposit",
+    "kor": "보증금; 예금(액); 침전물; 예금하다; 놓다; 침전시키다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "esteem",
+    "kor": "존경, 존중; 존경[존중]하다, 높이 평가하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "self-esteem",
+    "kor": "자존감",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "연약한",
-    "eng": "delicate",
+    "eng": "emigrate",
+    "kor": "(타국으로) 이민 가다, 이주하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emigration",
+    "kor": "(타국으로의) 이민, 이주",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emigrant",
+    "kor": "이민자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "편평한; (英) 플랫",
-    "eng": "flat",
+    "eng": "accustomed",
+    "kor": "익숙한; 평소의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "copyright",
+    "kor": "저작권; 저작권 보호를 받는; 저작권을 얻다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinctive",
+    "kor": "독특한, 특유의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinctively",
+    "kor": "특징적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "폭 넓은",
-    "eng": "broad",
+    "eng": "anonymously",
+    "kor": "익명으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소형의",
-    "eng": "compact",
+    "eng": "anonymous",
+    "kor": "익명의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "간단한",
-    "eng": "brief",
+    "eng": "anonymity",
+    "kor": "익명(성); 특색 없음",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "originate",
+    "kor": "비롯[유래]하다; 고안하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "origin",
+    "kor": "기원, 유래; 출신",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "basin",
+    "kor": "대야, 세면대; 분지, (강의) 유역",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adversity",
+    "kor": "역경, 고난",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adverse",
+    "kor": "불리한; 거스르는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adversely",
+    "kor": "부정적으로, 불리하게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lateral",
+    "kor": "옆[측면]의, 옆[측면]으로의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cite",
+    "kor": "인용하다; (예·이유를) 들다, 언급하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "citation",
+    "kor": "인용구[문]",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "날카로운; 급격한; 예리한",
-    "eng": "sharp",
+    "eng": "endeavor",
+    "kor": "노력, 시도; 노력하다, 시도하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reassure",
+    "kor": "안심시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소중한",
-    "eng": "precious",
+    "eng": "reassuring",
+    "kor": "안심시키는, 위안을 주는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reassurance",
+    "kor": "안심시키기; 안심시키는 말[행동]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "manifest",
+    "kor": "(감정 등을) 나타내다, 드러내다; 명백한, 분명한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "manifestation",
+    "kor": "징후, 표명",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mumble",
+    "kor": "중얼거리다; 중얼거림",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "constant",
+    "kor": "끊임없는; 일정한, 변함없는; 상수",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "constantly",
+    "kor": "끊임없이",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인공적인; 가짜의",
-    "eng": "artificial",
+    "eng": "expenditure",
+    "kor": "지출; (시간·노력 등의) 소비, 소모",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expend",
+    "kor": "(많은 돈·시간·에너지를) 소비하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "거인 같은",
-    "eng": "gigantic",
+    "eng": "enlighten",
+    "kor": "(설명하여) 이해시키다, 깨우치게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enlightenment",
+    "kor": "깨우침; 계몽주의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enlightened",
+    "kor": "계몽된, 깨우친",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enlightening",
+    "kor": "계몽적인, 깨우침을 주는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diagnose",
+    "kor": "(질병·문제의 원인을) 진단하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "엄청난",
-    "eng": "enormous",
+    "eng": "diagnosis",
+    "kor": "진단",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "궁극적인",
-    "eng": "ultimate",
+    "eng": "neutral",
+    "kor": "중립적인, 중립의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "neutralize",
+    "kor": "무효화[상쇄]시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "희미한",
-    "eng": "faint",
+    "eng": "neural",
+    "kor": "신경(계)의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가파른",
-    "eng": "steep",
+    "eng": "absorb",
+    "kor": "흡수하다; (정보를) 받아들이다; (관심 등을) 빼앗다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "absorption",
+    "kor": "흡수; 몰입, 열중",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "absurd",
+    "kor": "터무니없는, 불합리한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "absurdity",
+    "kor": "부조리, 모순",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transition",
+    "kor": "이행, 변화, 전환",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transitional",
+    "kor": "과도기[전환기]의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "근본[기본]적인",
-    "eng": "fundamental",
-    "answer_count_kor": 1,
+    "eng": "break into",
+    "kor": "(건물에) 침입하다; 갑자기 ~하기 시작하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "얕은",
-    "eng": "shallow",
-    "answer_count_kor": 1,
+    "eng": "shake off",
+    "kor": "~을 떨쳐 버리다, 따돌리다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "상징적인",
-    "eng": "symbolic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적당한",
-    "eng": "appropriate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중간 정도의",
-    "eng": "moderate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유연성 있는",
-    "eng": "flexible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "단조로운",
-    "eng": "monotonous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "애매한",
-    "eng": "obscure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결점",
-    "eng": "drawback",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "역설",
-    "eng": "paradox",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "묘사하다",
-    "eng": "describe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "놀라운 일; 놀라다",
-    "eng": "marvel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반짝이다; 반짝거림",
-    "eng": "glitter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 다르다",
-    "eng": "differ from",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 상징하다",
-    "eng": "stand for",
-    "answer_count_kor": 1,
+    "eng": "get along",
+    "kor": "(~와) 잘 지내다; (일 등을) 잘 해내다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
