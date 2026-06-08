@@ -1,182 +1,182 @@
 [
   {
-    "kor": "(기계 등을) 다루다",
-    "eng": "manipulate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전염되는",
-    "eng": "contagious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(천체",
-    "eng": "hemisphere",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "권한을 주다",
-    "eng": "empower",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "미루기",
-    "eng": "procrastination",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자율(성)",
-    "eng": "autonomy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "폭로(된 것)",
-    "eng": "disclosure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기간",
-    "eng": "span",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "논란",
     "eng": "controversy",
-    "answer_count_kor": 1,
+    "kor": "논란, 논쟁, 논의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "음울한",
-    "eng": "dismal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "우선순위를 매기다",
-    "eng": "prioritize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연회",
-    "eng": "banquet",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(종교적",
-    "eng": "persecution",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "묻다",
-    "eng": "inquire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시련",
-    "eng": "ordeal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(들어) 올리다",
-    "eng": "elevate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "즉각적인",
-    "eng": "prompt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(어떤 일",
-    "eng": "ensue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "큰 재앙의",
     "eng": "catastrophic",
-    "answer_count_kor": 1,
+    "kor": "큰 재앙의, 파멸적인, 비극적인",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "제공하다",
-    "eng": "furnish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조명하다",
-    "eng": "illuminate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(갈라진) 틈",
-    "eng": "crack",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이해관계자",
-    "eng": "stakeholder",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "저수지",
-    "eng": "reservoir",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "글을 모르는",
-    "eng": "illiterate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(일을) 맡기다",
-    "eng": "entrust",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상황을 앞서서 주도하는",
-    "eng": "proactive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(법",
     "eng": "uphold",
+    "kor": "유지하다, 옹호하다; 확인하다, 인정하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "autonomy",
+    "kor": "자율, 자주; 자치권, 독립",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stakeholder",
+    "kor": "이해관계자, 주주",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "manipulate",
+    "kor": "다루다; 조종하다, 조작하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "illiterate",
+    "kor": "글을 모르는, 문맹의; 무식한, 교양이 없는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ordeal",
+    "kor": "시련, 고난; 신의 심판",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hemisphere",
+    "kor": "반구; 범위, 영역",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inquire",
+    "kor": "묻다, 질문하다; 알아보다, 조사하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "banquet",
+    "kor": "연회, 만찬",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "span",
+    "kor": "기간, 시간; 폭, 범위; 걸치다, 뻗치다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prompt",
+    "kor": "즉각적인, 신속한; 촉구하다, 자극하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prioritize",
+    "kor": "우선순위를 매기다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~라는 이유로",
+    "eng": "proactive",
+    "kor": "상황을 앞서서 주도하는, 사전 대책을 강구하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empower",
+    "kor": "권한을 주다, 힘을 부여하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elevate",
+    "kor": "올리다; 승진시키다; 높이다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "furnish",
+    "kor": "제공하다, 공급하다; 비치하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ensue",
+    "kor": "뒤따르다, 뒤이어일어나다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dismal",
+    "kor": "음울한, 음침한; 형편없는, 질 낮은",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entrust",
+    "kor": "맡기다, 위임하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reservoir",
+    "kor": "저수지, 급수장; 비축, 저장",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "illuminate",
+    "kor": "조명하다, 비추다; 계몽하다; 명 확히 하다, 설명하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disclosure",
+    "kor": "폭로, 누설; 발표, 공개",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "persecution",
+    "kor": "박해, 탄압",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "on the grounds that",
-    "answer_count_kor": 1,
+    "kor": "~라는 이유로, ~라는 근거로",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "즉시 이용할 수 있는",
     "eng": "at one's fingertips",
-    "answer_count_kor": 1,
+    "kor": "즉시 이용할 수 있는, 잘 알고 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crack",
+    "kor": "틈, 금; 갈라지다, 금이 가다; 날 카로운 소리를 내다; 해결하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contagious",
+    "kor": "전염되는, 전염성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "procrastination",
+    "kor": "미루기, 꾸물거림, 지연",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
