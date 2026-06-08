@@ -1,109 +1,37 @@
 [
   {
-    "kor": "단서",
-    "eng": "cue",
-    "answer_count_kor": 1,
+    "kor": "마지막, 지난",
+    "eng": "last",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "노래가사",
+    "kor": "관세, 운임표",
+    "eng": "tariff",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "총애받는, 사랑하는",
+    "eng": "beloved",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가사",
     "eng": "lyric",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사마귀",
-    "eng": "mole",
-    "answer_count_kor": 1,
+    "kor": "이스트, 효모",
+    "eng": "yeast",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "극복하다",
-    "eng": "overcome",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "계속되다",
-    "eng": "last",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "삽",
-    "eng": "spade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사랑스러운",
-    "eng": "beloved",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "껍질을벗기다",
-    "eng": "peel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나누다",
-    "eng": "divide",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기금",
-    "eng": "fund",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갈대",
-    "eng": "reed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "타고난",
-    "eng": "inborn",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무명의",
-    "eng": "obscure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관세",
-    "eng": "tariff",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "편견",
-    "eng": "bias",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "용이함",
-    "eng": "ease",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "토하다",
-    "eng": "vomit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가장하다",
-    "eng": "simulate",
+    "kor": "고층건물",
+    "eng": "skyscraper",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -114,87 +42,51 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "달라붙다",
-    "eng": "cling",
-    "answer_count_kor": 1,
+    "kor": "삽, 스페이드",
+    "eng": "spade",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고층건물",
-    "eng": "skyscraper",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "걷다",
-    "eng": "tread",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "과잉",
-    "eng": "surplus",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진공",
+    "kor": "진공, 공백",
     "eng": "vacuum",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "서신왕래하다",
-    "eng": "correspond",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "효모",
-    "eng": "yeast",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복제생물",
-    "eng": "clone",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이상한",
-    "eng": "odd",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이동하다",
+    "kor": "이주하다, 이동하다",
     "eng": "migrate",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "바이러스예방프로그램",
-    "eng": "vaccine",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "겹치다",
-    "eng": "overlap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "광경",
+    "kor": "구경거리, 장관",
     "eng": "spectacle",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "여분, 나머지, 나머지의",
+    "eng": "surplus",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흉내내다, ~의 모의 실험을 하다",
+    "eng": "simulate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "통합",
+    "eng": "integration",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "피로",
-    "eng": "fatigue",
-    "answer_count_kor": 1,
+    "kor": "가설, 가정",
+    "eng": "hypothesis",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -210,9 +102,99 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "전제군주",
-    "eng": "tyrant",
+    "kor": "갈대",
+    "eng": "reed",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신호, 단서, 신호를 주다",
+    "eng": "cue",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반점, 두더지",
+    "eng": "mole",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "나누다",
+    "eng": "divide",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "타고난",
+    "eng": "inborn",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "겹치다, 중복되다",
+    "eng": "overlap",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "피곤",
+    "eng": "fatique",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "복제, 복제품, 복제하다",
+    "eng": "clone",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "껍질을 벗기다",
+    "eng": "peel",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "쉬움, 편안함, 편하게 하다, 완화하다",
+    "eng": "ease",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "극복하다",
+    "eng": "overcome",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자금",
+    "eng": "fund",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "편견, 선입견",
+    "eng": "bias",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "백신",
+    "eng": "vaccine",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "밟다, 밟기",
+    "eng": "tread",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "구토하다, 구토",
+    "eng": "vomit",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -222,21 +204,39 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "돌연변이",
+    "kor": "일치하다, 해당하다, 편지를 주고받다",
+    "eng": "correspond",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "꼭 붙잡다, 달라붙다",
+    "eng": "cling",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "돌연변이, 변형",
     "eng": "mutation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "모호한, 잘 알려지지 않은, 모호하게 하다",
+    "eng": "obscure",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "폭군",
+    "eng": "tyrant",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가설",
-    "eng": "hypothesis",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적분",
-    "eng": "integration",
-    "answer_count_kor": 1,
+    "kor": "이상한, 홀수의",
+    "eng": "odd",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
