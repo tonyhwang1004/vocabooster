@@ -1,121 +1,7 @@
 [
   {
-    "kor": "내부",
-    "eng": "interior",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~과대비하여",
-    "eng": "versus",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방패",
-    "eng": "shield",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "쫓아내다",
-    "eng": "expel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수업료",
-    "eng": "tuition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유창한",
-    "eng": "fluent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결정하다",
-    "eng": "settle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "충돌",
-    "eng": "conflict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조사하다",
-    "eng": "probe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구조",
-    "eng": "fabric",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뼈대",
-    "eng": "framework",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "생태학",
-    "eng": "ecology",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "임신한",
-    "eng": "pregnant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변호사",
-    "eng": "attorney",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "긴급한",
-    "eng": "urgent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고무하다",
-    "eng": "stimulate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대도시의",
-    "eng": "metropolitan",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기초",
-    "eng": "foundation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보도",
-    "eng": "coverage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "증기",
-    "eng": "vapor",
+    "kor": "손상시키다",
+    "eng": "impair",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -126,20 +12,32 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "연장하다",
-    "eng": "prolong",
-    "answer_count_kor": 1,
+    "kor": "분배하다, 나누어 주다",
+    "eng": "dispense",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "익은",
-    "eng": "ripe",
-    "answer_count_kor": 1,
+    "kor": "멍, 타박상",
+    "eng": "bruise",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "흘리다",
-    "eng": "shed",
+    "kor": "변호사, 대리인",
+    "eng": "attorney",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "뼈대, 틀, 체제",
+    "eng": "framework",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "n.유전",
+    "eng": "heredity",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -150,32 +48,56 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "사색하다",
-    "eng": "speculate",
+    "kor": "v.떨구다, 흘리다",
+    "eng": "shed",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대도시의",
+    "eng": "metropolitan",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "숨막히는",
-    "eng": "breathtaking",
+    "kor": "방패, 보호하다",
+    "eng": "shield",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유도하다, 설득하여 ~시키다",
+    "eng": "induce",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시장, 바자",
+    "eng": "bazaar",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "추방하다",
+    "eng": "expel",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유전",
-    "eng": "heredity",
+    "kor": "쟁기, 갈다",
+    "eng": "plow",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "연장하다",
+    "eng": "prolong",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "뛰어난",
-    "eng": "predominant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전복시키다",
-    "eng": "overturn",
+    "kor": "유창한",
+    "eng": "fluent",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -186,56 +108,134 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "~에앞서다",
-    "eng": "precede",
+    "kor": "생태학, 생태",
+    "eng": "ecology",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "내부, 내부의",
+    "eng": "interior",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "장식, 장식하다",
+    "eng": "ornament",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분리하다",
+    "eng": "separate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "진동하다",
+    "kor": "익은",
+    "eng": "ripe",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "진동하다, 흔들다",
     "eng": "vibrate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "긴급한",
+    "eng": "urgent",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "쟁기",
-    "eng": "plow",
-    "answer_count_kor": 1,
+    "kor": "사색하다 ,투기하다",
+    "eng": "speculate",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "손상하다",
-    "eng": "impair",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유행병",
+    "kor": "전염병",
     "eng": "epidemic",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "설득하다",
-    "eng": "induce",
+    "kor": "~에 앞서다",
+    "eng": "precede",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위생",
-    "eng": "sanitation",
+    "kor": "숨막히는",
+    "eng": "breathtaking",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "장식품",
-    "eng": "ornament",
+    "kor": "포트폴리오",
+    "eng": "portfolio",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "멍",
-    "eng": "bruise",
+    "kor": "주의하다",
+    "eng": "beware",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "[n] 수갑",
+    "eng": "handcuff",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전복시키다, 전복",
+    "eng": "overturn",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "임신한",
+    "eng": "pregnant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지능",
+    "eng": "intelligence",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적응시키다",
+    "eng": "adapt",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정착하다",
+    "eng": "settle",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "암살하다",
+    "eng": "assassinate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "증기",
+    "eng": "vapor",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수업료",
+    "eng": "tuition",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
