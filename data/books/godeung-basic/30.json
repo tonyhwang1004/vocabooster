@@ -1,181 +1,241 @@
 [
   {
-    "kor": "주소",
     "eng": "address",
-    "answer_count_kor": 1,
+    "kor": "주소, 연설하다, 말하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "봄",
-    "eng": "spring",
-    "answer_count_kor": 1,
+    "eng": "release",
+    "kor": "석방하다, 놓아주다, 석방, 해방, 방출하다, 방출, 발표하다, 공개하다, 발표, 공개",
+    "answer_count_kor": 10,
     "answer_count_eng": 1
   },
   {
-    "kor": "판",
-    "eng": "board",
-    "answer_count_kor": 1,
+    "eng": "interrupt",
+    "kor": "방해하다, 중단하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "구역",
-    "eng": "block",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이유",
-    "eng": "reason",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "덮다",
-    "eng": "cover",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평평한",
-    "eng": "flat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "차이",
-    "eng": "margin",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나오다",
     "eng": "issue",
-    "answer_count_kor": 1,
+    "kor": "문제, 쟁점, 발행, 호, (책 등을) 출판하다, 발행하다, 발급하다, 나오다",
+    "answer_count_kor": 8,
     "answer_count_eng": 1
   },
   {
-    "kor": "짝수의",
-    "eng": "even",
-    "answer_count_kor": 1,
+    "eng": "interpret",
+    "kor": "해석하다, 이해하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고도",
-    "eng": "altitude",
-    "answer_count_kor": 1,
+    "eng": "make up for",
+    "kor": "~을 보충하다, ~을 보상하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "적성",
-    "eng": "aptitude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "태도",
-    "eng": "attitude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적응하다",
-    "eng": "adapt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "채택하다",
-    "eng": "adopt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동시에",
-    "eng": "simultaneously",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자발적으로",
-    "eng": "spontaneously",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의회",
-    "eng": "council",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조언",
-    "eng": "counsel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비행",
     "eng": "flight",
-    "answer_count_kor": 1,
+    "kor": "비행, 항공편",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀람",
-    "eng": "fright",
-    "answer_count_kor": 1,
+    "eng": "excess",
+    "kor": "초과, 과도, 초과한, 여분의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "단계",
+    "eng": "make up",
+    "kor": "~을 구성[형성]하다, ~을 지어내다, 화장하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flat",
+    "kor": "평평한, 납작한, 바람이 빠진, 펑크 난, 아파트(英)",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "board",
+    "kor": "판, 칠판, 이사회, 위원회, 탑승하다, 하숙하다, 기숙사에 살다",
+    "answer_count_kor": 7,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "competitive",
+    "kor": "경쟁적인, 경쟁력 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reason",
+    "kor": "이유, 변명, 이성, 추론하다, 생각하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "phase",
+    "kor": "단계, 국면",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attitude",
+    "kor": "태도",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "어구",
-    "eng": "phrase",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중재하다",
-    "eng": "mediate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명상하다",
-    "eng": "meditate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "도덕의",
-    "eng": "moral",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사기",
-    "eng": "morale",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "죽을 운명인",
-    "eng": "mortal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영향을 미치다",
-    "eng": "affect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "효과",
     "eng": "effect",
+    "kor": "효과, 영향, 결과",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "phrase",
+    "kor": "어구, 구",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adopt",
+    "kor": "채택하다, 입양하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "moral",
+    "kor": "도덕의, 도덕적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spring",
+    "kor": "봄, 샘, 용수철, (갑자기) 튀다[뛰다]",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cover",
+    "kor": "덮다, 가리다, 담당하다, 다루다, 보도하다, 취재하다, 표지",
+    "answer_count_kor": 7,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adapt",
+    "kor": "적응하다, 조정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aptitude",
+    "kor": "적성, 소질, 경향",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mediate",
+    "kor": "중재하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "content",
+    "kor": "내용(물), 목차, 만족하는, 만족시 키다, 함(유)량",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "even",
+    "kor": "평평한, 수평의, 짝수의, 공정한, 공평한, 심지어,~조차, 훨씬",
+    "answer_count_kor": 8,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "access",
+    "kor": "접근, 입장, 접근하다, 이용하다, 접속하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "simultaneously",
+    "kor": "동시에",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "comparative",
+    "kor": "비교를 통한, 비교의, 상대적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "margin",
+    "kor": "차이, 수익, 가장자리",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "block",
+    "kor": "사각형 덩어리, 구역, 블록, 막다, 방해하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mortal",
+    "kor": "죽을 운명인, 치명적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "meditate",
+    "kor": "명상하다, 묵상하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "altitude",
+    "kor": "고도, 높이",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fright",
+    "kor": "놀람, 두려움",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "morale",
+    "kor": "사기, 의욕",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spontaneously",
+    "kor": "자발적으로, 자연스럽게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "council",
+    "kor": "의회, 회의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "counsel",
+    "kor": "조언, 상담, 조언하다, 상담하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "affect",
+    "kor": "영향을 미치다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
