@@ -1,242 +1,242 @@
 [
   {
-    "kor": "신체의",
-    "eng": "physical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대자",
-    "eng": "opponent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "목표",
-    "eng": "target",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자세",
-    "eng": "posture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "트랙",
-    "eng": "track",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "줄",
-    "eng": "row",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "늘이다",
-    "eng": "stretch",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "극신한",
-    "eng": "extreme",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구부릴 수 있는",
-    "eng": "flexible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "치료하다",
-    "eng": "cure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "치유되다",
-    "eng": "heal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수술",
-    "eng": "surgery",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주사하다",
-    "eng": "inject",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~보다 오래 살다",
-    "eng": "outlive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "증상",
     "eng": "symptom",
-    "answer_count_kor": 1,
+    "kor": "증상, 징후",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "면역성의",
-    "eng": "immune",
-    "answer_count_kor": 1,
+    "eng": "dietary",
+    "kor": "음식물의, 식이요법의, 규정식",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "치료",
-    "eng": "therapy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기절하다",
-    "eng": "faint",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "타격",
-    "eng": "stroke",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "숨",
-    "eng": "breath",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "피를 흘리다",
-    "eng": "bleed",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진단하다",
-    "eng": "diagnose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "만성적인",
     "eng": "chronic",
-    "answer_count_kor": 1,
+    "kor": "만성적인, 장기간의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "급성의",
-    "eng": "acute",
-    "answer_count_kor": 1,
+    "eng": "suffer from",
+    "kor": "~으로 고통받다, ~을 앓다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "과체중의",
-    "eng": "overweight",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비만",
-    "eng": "obesity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "근육",
-    "eng": "muscle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "임신한",
-    "eng": "pregnant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "피로",
     "eng": "fatigue",
+    "kor": "피로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소화",
+    "eng": "bleed",
+    "kor": "피를 흘리다, 출혈하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cure",
+    "kor": "치료하다, 고치다, 치유(법)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stroke",
+    "kor": "타격, 뇌졸중",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "track",
+    "kor": "(경기용) 트랙, 자국, 추적하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immune",
+    "kor": "면역성의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "faint",
+    "kor": "기절하다, 희미한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "have an effect on",
+    "kor": "~에 영향을 미치다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "posture",
+    "kor": "자세, 자세를 취하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "digestion",
-    "answer_count_kor": 1,
+    "kor": "소화, 소화력",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "향기",
-    "eng": "scent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "맛",
-    "eng": "flavor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영양소",
-    "eng": "nutrient",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "섬유",
-    "eng": "fiber",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "휘젓다",
-    "eng": "stir",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "식용의",
-    "eng": "edible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유출",
-    "eng": "spill",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조리법",
-    "eng": "recipe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일부",
     "eng": "portion",
+    "kor": "일부, 1인분, 분배하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "edible",
+    "kor": "먹을 수 있는, 식용의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "opponent",
+    "kor": "반대자, 경기 상대",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scent",
+    "kor": "향기, 냄새",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fiber",
+    "kor": "섬유, 섬유질",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recipe",
+    "kor": "조리법, 비법, 비결",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "physical",
+    "kor": "신체의, 물질[물리]적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extreme",
+    "kor": "극심한, 극단의, 극도, 극단",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "row",
+    "kor": "줄, 열, 노를 젓다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "heal",
+    "kor": "치료하다, 치유되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "breath",
+    "kor": "숨, 호흡",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "surgery",
+    "kor": "수술, 외과",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stretch",
+    "kor": "(팔다리 등을) 뻗다, 늘리다, 뻗 기, 스트레칭, 신축성",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flexible",
+    "kor": "구부릴 수 있는, 유연한, 융통성 있는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "therapy",
+    "kor": "치료, 요법",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "target",
+    "kor": "목표, 과녁, 목표로 삼다, 겨냥하 다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "muscle",
+    "kor": "근육, 근력",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pregnant",
+    "kor": "임신한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "처방하다",
-    "eng": "prescribe",
+    "eng": "diagnose",
+    "kor": "진단하다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obesity",
+    "kor": "비만",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spill",
+    "kor": "쏟다, 흘리다, 유출",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flavor",
+    "kor": "맛, 풍미, 향미(료)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stir",
+    "kor": "휘젓다, 자극하다, 휘젓기, 동요",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "starve",
+    "kor": "굶주리다, 굶기다, 갈망하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nutrient",
+    "kor": "영양소, 영양분",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prescribe",
+    "kor": "처방하다, 규정하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
