@@ -1,182 +1,182 @@
 [
   {
-    "kor": "경작하다",
-    "eng": "cultivate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "알아차리지 못하는",
-    "eng": "oblivious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동작",
-    "eng": "maneuver",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자극(제)",
-    "eng": "impetus",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(암호 등을) 해독하다",
-    "eng": "decode",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "못된 짓을 하다",
     "eng": "misbehave",
-    "answer_count_kor": 1,
+    "kor": "못된 짓을 하다, 비행을 저지르다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "<천문> (일식",
-    "eng": "eclipse",
-    "answer_count_kor": 1,
+    "eng": "maneuver",
+    "kor": "동작, 움직임; 책략, 묘책; 군사훈련; 움직이다, 기동하다; 교묘히 다루다, 조종하다",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "침전퇴적물",
-    "eng": "sediment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중요한",
-    "eng": "prominent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "임의적인",
-    "eng": "arbitrary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(눈부신) 위업",
-    "eng": "feat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "언어(학)의",
-    "eng": "linguistic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "명상하다",
-    "eng": "meditate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(발생한 일의) 결과",
-    "eng": "consequence",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "향기",
-    "eng": "fragrance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구획",
-    "eng": "compartment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "미식가",
-    "eng": "gourmet",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "호들갑",
-    "eng": "fuss",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수사(법)",
-    "eng": "rhetoric",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추론하다",
     "eng": "infer",
-    "answer_count_kor": 1,
+    "kor": "추론하다; 뜻하다, 암시하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "심화시키다",
-    "eng": "intensify",
-    "answer_count_kor": 1,
+    "eng": "meditate",
+    "kor": "명상하다, 숙고하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "소독약",
-    "eng": "disinfectant",
-    "answer_count_kor": 1,
+    "eng": "feat",
+    "kor": "위업, 재주",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(수익",
-    "eng": "yield",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조각하다",
-    "eng": "carve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양립할 수 없는",
-    "eng": "incompatible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(질병",
-    "eng": "diagnose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위반하다",
-    "eng": "infringe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "목재",
-    "eng": "timber",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(극히) 드문",
-    "eng": "few and far between",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
+    "eng": "in the interests of",
     "kor": "~을 위하여",
-    "eng": "in the interest(s) of",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arbitrary",
+    "kor": "임의적인, 제멋대로인; 독단적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impetus",
+    "kor": "자극, 원동력",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "few and far between",
+    "kor": "드문, 흔치 않은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rhetoric",
+    "kor": "수사, 미사여구",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "carve",
+    "kor": "조각하다; 새기다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "oblivious",
+    "kor": "알아차리지 못하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decode",
+    "kor": "해독하다; 이해하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eclipse",
+    "kor": "식; 가리다, 숨기다; 무색하게 만들다, 빛을 잃게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diagnose",
+    "kor": "진단하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cultivate",
+    "kor": "경작하다; 재배하다, 배양하다; 양성하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gourmet",
+    "kor": "미식가, 식도락가; 미식가의, 고 급의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fuss",
+    "kor": "호들갑, 야단, 소동; 법석을 떨 다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intensify",
+    "kor": "심화시키다, 강화하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sediment",
+    "kor": "침전물, 앙금",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infringe",
+    "kor": "위반하다; 제한하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fragrance",
+    "kor": "향기, 향수",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compartment",
+    "kor": "구획, 칸막이, 구분; 칸막이 객 실",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incompatible",
+    "kor": "양립할 수 없는, 모순된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "yield",
+    "kor": "내다, 산출하다; 항복하다; 넘겨 주다, 양보하다; 산출량",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "linguistic",
+    "kor": "언어의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disinfectant",
+    "kor": "소독약, 살균제",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "timber",
+    "kor": "목재",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consequence",
+    "kor": "결과; 중요성",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prominent",
+    "kor": "중요한, 저명한; 현저한, 두드러 진; 튀어나온, 돌출된",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   }
 ]
