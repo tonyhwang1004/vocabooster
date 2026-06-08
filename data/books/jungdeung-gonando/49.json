@@ -1,428 +1,386 @@
 [
   {
-    "kor": "예산",
-    "eng": "budget",
+    "eng": "methodology",
+    "kor": "방법론",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "예산을 편성하다",
-    "eng": "make a budget",
+    "eng": "methodologically",
+    "kor": "방법론적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "자본; 수도; 대문자; 자본의; 주요한",
-    "eng": "capital",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자본주의",
-    "eng": "capitalism",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사형",
-    "eng": "capital punishment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거래",
-    "eng": "account",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "회계사",
-    "eng": "accountant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~와 거래가 있다",
-    "eng": "have an account with",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지출",
-    "eng": "expense",
-    "answer_count_kor": 1,
+    "eng": "threshold",
+    "kor": "문지방, 문턱; 역치, 한계치; 시작, 발단",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "값비싼",
-    "eng": "expensive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "붕괴되다",
-    "eng": "collapse",
-    "answer_count_kor": 1,
+    "eng": "lease",
+    "kor": "임대차 계약; 임대[임차]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경제학의",
-    "eng": "economic",
-    "answer_count_kor": 1,
+    "eng": "tenant",
+    "kor": "세입자, 임차인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경제학의",
-    "eng": "financial",
-    "answer_count_kor": 1,
+    "eng": "tenancy",
+    "kor": "임차 (기간); 임차권",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경제",
-    "eng": "economy",
-    "answer_count_kor": 1,
+    "eng": "compile",
+    "kor": "엮다, 편집[편찬]하다; (자료를) 수집하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "경제학자",
-    "eng": "economist",
-    "answer_count_kor": 1,
+    "eng": "compilation",
+    "kor": "편집(본), 모음집",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "위험",
-    "eng": "risk",
-    "answer_count_kor": 1,
+    "eng": "pungent",
+    "kor": "(맛·냄새가) 톡 쏘는, 자극적인; 신랄한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "위험",
-    "eng": "danger",
-    "answer_count_kor": 1,
+    "eng": "revise",
+    "kor": "수정[변경]하다; (책 등을) 개정하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "위험",
-    "eng": "hazard",
-    "answer_count_kor": 1,
+    "eng": "revision",
+    "kor": "수정, 정정; (책 등의) 개정",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "위험한",
-    "eng": "risky",
+    "eng": "perplex",
+    "kor": "당황하게[혼란스럽게] 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위험한 상태에",
-    "eng": "at risk",
-    "answer_count_kor": 1,
+    "eng": "perplexity",
+    "kor": "당혹감; 당혹스러운 것",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(가격) 하락; (가격·가치가) 하락하다",
-    "eng": "decline",
+    "eng": "supernatural",
+    "kor": "초자연적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "주식",
-    "eng": "stock",
-    "answer_count_kor": 1,
+    "eng": "supernaturally",
+    "kor": "초자연적으로, 불가사의하게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주식",
-    "eng": "shares",
-    "answer_count_kor": 1,
+    "eng": "probable",
+    "kor": "있음 직한, 개연성 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "소유하다",
-    "eng": "possess",
+    "eng": "probably",
+    "kor": "아마도",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소유하다",
-    "eng": "own",
-    "answer_count_kor": 1,
+    "eng": "probability",
+    "kor": "개연성 (있는 일); 확률",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "소유",
-    "eng": "possession",
-    "answer_count_kor": 1,
+    "eng": "predecessor",
+    "kor": "전임자; 이전의 것[모델]",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "재산",
-    "eng": "possessions",
-    "answer_count_kor": 1,
+    "eng": "editorial",
+    "kor": "사설; 편집의; 사설의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "재산",
-    "eng": "property",
+    "eng": "editor",
+    "kor": "편집자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "자산",
-    "eng": "asset",
-    "answer_count_kor": 1,
+    "eng": "attorney",
+    "kor": "변호사; 법정 대리인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "자산",
-    "eng": "money",
-    "answer_count_kor": 1,
+    "eng": "accentuate",
+    "kor": "강조하다, 두드러지게 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "자산",
-    "eng": "effects",
-    "answer_count_kor": 1,
+    "eng": "divine",
+    "kor": "신의, 신성한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "재정",
-    "eng": "finance",
-    "answer_count_kor": 1,
+    "eng": "divinity",
+    "kor": "신성; 신; 신학",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "재정의",
-    "eng": "financial",
-    "answer_count_kor": 1,
+    "eng": "harbor",
+    "kor": "항구; 피난처; (감정 등을) 품다; (죄인 등을) 숨겨 주다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "대출(금)",
-    "eng": "loan",
-    "answer_count_kor": 1,
+    "eng": "wreck",
+    "kor": "난파선; 사고 잔해; 망가뜨리다, 파괴하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "평가하다",
-    "eng": "estimate",
-    "answer_count_kor": 1,
+    "eng": "wrecked",
+    "kor": "난파된, 망가진",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "평가하다",
-    "eng": "evaluate",
+    "eng": "wreckage",
+    "kor": "잔해",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "견적액",
-    "eng": "estimated sum",
-    "answer_count_kor": 1,
+    "eng": "exceed",
+    "kor": "넘다, 초과하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "상업",
-    "eng": "commerce",
-    "answer_count_kor": 1,
+    "eng": "excess",
+    "kor": "초과, 과잉; 초과한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "상업의",
-    "eng": "commercial",
-    "answer_count_kor": 1,
+    "eng": "excessive",
+    "kor": "지나친, 과도한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전자 상거래",
-    "eng": "e-commerce (electronic commerce)",
-    "answer_count_kor": 1,
+    "eng": "jury",
+    "kor": "배심원단; 심사 위원단",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "협상하다",
-    "eng": "negotiate",
+    "eng": "divisive",
+    "kor": "분열[불화]을 일으키는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "협상",
-    "eng": "negotiation",
-    "answer_count_kor": 1,
+    "eng": "redeem",
+    "kor": "(명예·실수 등을) 회복[만회]하다; (상품권 등을) 현금[상품]으로 교환하다; (빚을) 상환하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "통화",
-    "eng": "currency",
-    "answer_count_kor": 1,
+    "eng": "redemption",
+    "kor": "구원; 현금화, 상품 교환",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "통용되는; 현재의",
-    "eng": "current",
-    "answer_count_kor": 1,
+    "eng": "posterity",
+    "kor": "후세, 후대",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "증대하다; 경기 부양",
-    "eng": "boost",
-    "answer_count_kor": 1,
+    "eng": "remark",
+    "kor": "말, 발언, 논평; 주목; 말하다, 논평하다",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "감소하다",
-    "eng": "decrease",
-    "answer_count_kor": 1,
+    "eng": "remarkable",
+    "kor": "주목할 만한, 놀랄 만한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "재산",
-    "eng": "fortune",
+    "eng": "remarkably",
+    "kor": "놀랍게도",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "재산",
-    "eng": "wealth",
-    "answer_count_kor": 1,
+    "eng": "downpour",
+    "kor": "폭우, 호우",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "운 좋은",
-    "eng": "fortunate",
-    "answer_count_kor": 1,
+    "eng": "pledge",
+    "kor": "약속, 맹세, 서약; 담보(물), 저당(물); 약속[맹세]하다",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "실업의",
-    "eng": "unemployed",
-    "answer_count_kor": 1,
+    "eng": "fertile",
+    "kor": "비옥한, 기름진; 생식력 있는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "고용된",
-    "eng": "employed",
-    "answer_count_kor": 1,
+    "eng": "fertility",
+    "kor": "비옥함; 생식력",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "실업률",
-    "eng": "unemployment rate",
-    "answer_count_kor": 1,
+    "eng": "outline",
+    "kor": "개요; 윤곽; 개요를 서술하다; 윤곽을 나타내다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "수입",
-    "eng": "income",
-    "answer_count_kor": 1,
+    "eng": "temperate",
+    "kor": "(기후·지역이) 온화한, 온대성의; 절제하는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "수입",
-    "eng": "earnings",
-    "answer_count_kor": 1,
+    "eng": "plead",
+    "kor": "간청[애원]하다; 변론하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "지출",
-    "eng": "expenditure",
-    "answer_count_kor": 1,
+    "eng": "plea",
+    "kor": "애원, 간청; 항변",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "1년의",
-    "eng": "annual",
+    "eng": "sensory",
+    "kor": "감각의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "매년",
-    "eng": "annually",
-    "answer_count_kor": 1,
+    "eng": "pedestrian",
+    "kor": "보행자; 보행자의, 도보의; (문체 등이) 평범한",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "전략",
-    "eng": "strategy",
-    "answer_count_kor": 1,
+    "eng": "heir",
+    "kor": "상속인; 후계자, 계승자",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "전략",
-    "eng": "plan",
-    "answer_count_kor": 1,
+    "eng": "pastoral",
+    "kor": "전원 (생활)의, 목가적인; 목회자의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "전략",
-    "eng": "approach",
-    "answer_count_kor": 1,
+    "eng": "pastor",
+    "kor": "목회자, 목사",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "일시적인",
-    "eng": "temporary",
-    "answer_count_kor": 1,
+    "eng": "involve",
+    "kor": "수반[포함]하다; 관련시키다; 참여시키다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "영구적인",
-    "eng": "permanent",
-    "answer_count_kor": 1,
+    "eng": "involved",
+    "kor": "관련된; 복잡한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "임시로",
-    "eng": "temporarily",
-    "answer_count_kor": 1,
+    "eng": "involvement",
+    "kor": "관련, 개입; 몰두",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "결과",
-    "eng": "outcome",
-    "answer_count_kor": 1,
+    "eng": "optical",
+    "kor": "시각의; 빛의, 광학의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "결과(물)",
-    "eng": "effect",
-    "answer_count_kor": 1,
+    "eng": "customary",
+    "kor": "관례적인, 관습의; 습관적인",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "잠재적인",
-    "eng": "potential",
-    "answer_count_kor": 1,
+    "eng": "custom",
+    "kor": "관습, 풍습; 습관; 관세, 세관; 주문한, 맞춤의",
+    "answer_count_kor": 7,
     "answer_count_eng": 1
   },
   {
-    "kor": "잠재적인",
-    "eng": "latent",
-    "answer_count_kor": 1,
+    "eng": "dazzling",
+    "kor": "눈부신, 현혹시키는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "잠재적으로",
-    "eng": "potentially",
-    "answer_count_kor": 1,
+    "eng": "dazzle",
+    "kor": "눈부시게[황홀하게] 하다, 현혹시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(빚 등을) 다 갚다; 성공하다",
-    "eng": "pay off",
-    "answer_count_kor": 1,
+    "eng": "lead to",
+    "kor": "~로 이어지다, ~을 초래하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 해고하다",
-    "eng": "lay off",
-    "answer_count_kor": 1,
+    "eng": "get into",
+    "kor": "~에 연루되다; ~에 입학하다; (활동 등을) 시작하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "어려움에 처한",
-    "eng": "in need",
-    "answer_count_kor": 1,
+    "eng": "catch up with",
+    "kor": "~을 따라잡다; 근황을 나누다; (문제가) ~의 발목을 잡다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
