@@ -1,242 +1,242 @@
 [
   {
-    "kor": "칼럼",
-    "eng": "column",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "발표하다",
-    "eng": "announce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조합",
-    "eng": "union",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전달하다",
-    "eng": "convey",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "누설하다",
-    "eng": "leak",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "일",
-    "eng": "affair",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "간결한",
-    "eng": "brief",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "높이다",
-    "eng": "enhance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "내용",
-    "eng": "content",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "매체",
-    "eng": "medium",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신호를 보내다",
-    "eng": "signal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전하다",
-    "eng": "transmit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방송하다",
-    "eng": "broadcast",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청중",
-    "eng": "audience",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시청자",
-    "eng": "viewer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "광고",
-    "eng": "commercial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "매력적인",
-    "eng": "appealing",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분명한",
-    "eng": "evident",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분명치 않은",
-    "eng": "obscure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제한",
-    "eng": "limitation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보이는",
-    "eng": "visible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "설득력 있는",
-    "eng": "compelling",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "설명하다",
-    "eng": "illustrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감소하다",
-    "eng": "diminish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "줄다",
     "eng": "lessen",
+    "kor": "줄다, 완화시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enhance",
+    "kor": "높이다, 향상시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compelling",
+    "kor": "설득력 있는, 강력한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "visible",
+    "kor": "(눈에) 보이는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "정보를 주는",
-    "eng": "informative",
+    "eng": "column",
+    "kor": "칼럼, 기둥",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "respondent",
+    "kor": "응답자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인공위성",
-    "eng": "satellite",
+    "eng": "get in touch with",
+    "kor": "~와 연락[접촉]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "무선의",
-    "eng": "wireless",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "움직이기 쉬운",
-    "eng": "mobile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "휴대용의",
     "eng": "portable",
-    "answer_count_kor": 1,
+    "kor": "휴대용의, 이동이 쉬운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "정지된",
-    "eng": "stationary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수집하다",
-    "eng": "collect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다중 작업을 하다",
-    "eng": "multitask",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변수",
     "eng": "variable",
-    "answer_count_kor": 1,
+    "kor": "변수, 변하기 쉬운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "소포",
-    "eng": "parcel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "더미",
-    "eng": "pile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "싸다",
-    "eng": "wrap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배달하다",
     "eng": "deliver",
-    "answer_count_kor": 1,
+    "kor": "배달하다, 연설하다, 분만하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "봉투",
-    "eng": "envelope",
-    "answer_count_kor": 1,
+    "eng": "transmit",
+    "kor": "보내다, 전송하다, 전염시키다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "우표",
+    "eng": "medium",
+    "kor": "매체, 수단, 방법, 중간의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "union",
+    "kor": "조합, 연합, 동맹",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appealing",
+    "kor": "매력적인, 흥미를 끄는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "convey",
+    "kor": "전(달)하다, 운반하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "verbal",
+    "kor": "말의, 언어의, 구두의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "stamp",
+    "kor": "우표, 도장, 날인하다, 발을 구르다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "brief",
+    "kor": "간결한, 잠시의, 짧은 보고, 요약하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "viewer",
+    "kor": "시청자, 관객",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "signal",
+    "kor": "신호를 보내다, 암시하다, 신호",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "envelope",
+    "kor": "봉투",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collect",
+    "kor": "수집하다, 모으다, 수신자 부담 의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "feel free to do",
+    "kor": "자유롭게[마음대로] ~하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "affair",
+    "kor": "일, 문제, 사건",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "limitation",
+    "kor": "제한, 한계",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mobile",
+    "kor": "움직이기 쉬운, 기동성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "illustrate",
+    "kor": "설명하다, 삽화를 넣다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transaction",
+    "kor": "거래, 매매, 처리 (과정)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "announce",
+    "kor": "발표하다, 알리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "leak",
+    "kor": "누설하다, 새다, 새는 곳, 누출",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obscure",
+    "kor": "분명치 않은, 모호한, 모호하게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "informative",
+    "kor": "정보를 주는, 유익한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commercial",
+    "kor": "광고, 상업의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wrap",
+    "kor": "싸다, 포장하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "satellite",
+    "kor": "(인공)위성",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evident",
+    "kor": "분명한, 눈에 띄는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pile",
+    "kor": "더미, 쌓아 놓은 것, 쌓다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "broadcast",
+    "kor": "방송하다, 널리 알리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "audience",
+    "kor": "청중, 관중, 시청자",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diminish",
+    "kor": "감소하다, 약화시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
