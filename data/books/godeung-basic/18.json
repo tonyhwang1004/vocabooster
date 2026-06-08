@@ -1,242 +1,236 @@
 [
   {
-    "kor": "창의적인",
-    "eng": "creative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추상적인",
-    "eng": "abstract",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구체적인",
-    "eng": "concrete",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "걸작",
-    "eng": "masterpiece",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "닦다",
-    "eng": "polish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조각",
-    "eng": "sculpture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "값을 매길 수 없는",
-    "eng": "priceless",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "귀중한",
-    "eng": "precious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비율",
-    "eng": "proportion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "초상화",
-    "eng": "portrait",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뼈대",
-    "eng": "frame",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "훌륭한",
-    "eng": "splendid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정교한",
-    "eng": "elaborate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "외부의",
-    "eng": "external",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "내부의",
-    "eng": "internal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기념물",
-    "eng": "memorial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다르다",
-    "eng": "differ",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구별하다",
-    "eng": "distinguish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대조",
-    "eng": "contrast",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "건축가",
-    "eng": "architect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연구소",
-    "eng": "institute",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무너지다",
-    "eng": "collapse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "즐겁게 하다",
-    "eng": "amuse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "즐겁게 하다",
-    "eng": "entertain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구성하다",
-    "eng": "compose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오케스트라",
     "eng": "orchestra",
-    "answer_count_kor": 1,
+    "kor": "오케스트라, 관현악단",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "연습하다",
-    "eng": "rehearse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인기",
-    "eng": "popularity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공연하다",
-    "eng": "perform",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인상적인",
-    "eng": "impressive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "번쩍이다",
     "eng": "flash",
-    "answer_count_kor": 1,
+    "kor": "번쩍이다, 번쩍임, 플래시",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "조화를 이루다",
-    "eng": "harmonize",
-    "answer_count_kor": 1,
+    "eng": "craft",
+    "kor": "공예, 기술, 공들여 만들다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "악보",
-    "eng": "score",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사회화하다",
-    "eng": "socialize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상상의",
-    "eng": "imaginary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "마법의",
     "eng": "magical",
+    "kor": "마법의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "주제",
-    "eng": "theme",
+    "eng": "architect",
+    "kor": "건축가",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "입장",
+    "eng": "harmonize",
+    "kor": "조화를 이루다, 화음을 넣다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "portrait",
+    "kor": "초상화",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collapse",
+    "kor": "무너지다, 붕괴하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abstract",
+    "kor": "추상적인, 개요, 추출하다, 요약하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proportion",
+    "kor": "비율, 부분, 균형",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elaborate",
+    "kor": "정교한, 공들인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "popularity",
+    "kor": "인기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "institute",
+    "kor": "연구소, 협회, 설립하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "differ",
+    "kor": "다르다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "creative",
+    "kor": "창의적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "authentic",
+    "kor": "진짜의, 진본[진품]인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rehearse",
+    "kor": "연습[시연]하다, 리허설을 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "entrance",
+    "kor": "입장, 입구, 입학",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "play a role in",
+    "kor": "(~에서) 역할을 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고전의",
-    "eng": "classical",
+    "eng": "perform",
+    "kor": "공연하다, 실행하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precious",
+    "kor": "귀중한, 소중한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "external",
+    "kor": "외부의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조정하다",
+    "eng": "imaginative",
+    "kor": "상상력이 풍부한, 상상의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "amuse",
+    "kor": "즐겁게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinguish",
+    "kor": "구별하다, 식별하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "encounter",
+    "kor": "(우연히) 만나다, 마주치다, 마주 침",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impressive",
+    "kor": "인상적인, 감동적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "socialize",
+    "kor": "사회화하다, 교제하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "internal",
+    "kor": "내부의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "polish",
+    "kor": "닦다, 윤[광]내다, 다듬다, 광택제",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entertain",
+    "kor": "즐겁게 하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concrete",
+    "kor": "구체적인, 콘크리트",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compose",
+    "kor": "구성하다, 작곡하다, 조정하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "memorial",
+    "kor": "기념물, 기념의, 추도의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "coordinate",
-    "answer_count_kor": 1,
+    "kor": "조정하다, 동등한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "masterpiece",
+    "kor": "걸작, 명작",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "classical",
+    "kor": "고전의, 클래식의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "theme",
+    "kor": "주제, 테마",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contrast",
+    "kor": "대조, 대비, 대조를 이루다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
