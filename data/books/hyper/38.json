@@ -18,9 +18,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "굉장히 무서운 몹시 싫은, 끔찍한",
+    "kor": "굉장히 무서운, 몹시 싫은, 끔찍한",
     "eng": "dreadful",
-    "answer_count_kor": 2,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -30,9 +30,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "의견, 생각, 소감 감정, 기분, 정서",
+    "kor": "의견, 생각, 소감, 감정, 기분, 정서",
     "eng": "sentiment",
-    "answer_count_kor": 5,
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
@@ -48,9 +48,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "맛, 풍미, 재미 즐기다, 음미하다",
+    "kor": "맛, 풍미, 재미, 즐기다, 음미하다",
     "eng": "relish",
-    "answer_count_kor": 4,
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
@@ -60,9 +60,9 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "비난하다, 선고하다 유죄판결을 내리다",
+    "kor": "비난하다, 선고하다, 유죄판결을 내리다",
     "eng": "condemn",
-    "answer_count_kor": 2,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
