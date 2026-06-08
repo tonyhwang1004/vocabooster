@@ -1,182 +1,182 @@
 [
   {
-    "kor": "(총의) 방아쇠",
-    "eng": "trigger",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "윤곽",
-    "eng": "outline",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "측정기",
-    "eng": "gauge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반도",
-    "eng": "peninsula",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "풍경",
-    "eng": "landscape",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~보다 더 빨리멀리 달리다",
-    "eng": "outrun",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(기 등이) 펄럭이다",
-    "eng": "flap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영구적인",
-    "eng": "permanent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개념",
-    "eng": "conception",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "필수적인",
     "eng": "integral",
+    "kor": "필수적인; 내장된; 완전한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "제공하다",
-    "eng": "dispense",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "곧 닥쳐올 듯한",
-    "eng": "imminent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전임자",
-    "eng": "predecessor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고통",
-    "eng": "distress",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(흔히 취미에) 열심인열렬한",
-    "eng": "avid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "산문(체)",
-    "eng": "prose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "총계의",
-    "eng": "gross",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(행동 등이) 절제된",
-    "eng": "temperate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "습기",
-    "eng": "humidity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "졸리는",
     "eng": "drowsy",
-    "answer_count_kor": 1,
+    "kor": "졸리는, 나른한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "장수",
-    "eng": "longevity",
-    "answer_count_kor": 1,
+    "eng": "gross",
+    "kor": "총계의, 모두 합친",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경기 불황침체",
-    "eng": "recession",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결정적인",
-    "eng": "decisive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "쓰레기",
-    "eng": "litter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(실 등의) 가닥",
-    "eng": "strand",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "우연(의 일치)",
     "eng": "coincidence",
+    "kor": "우연; 동시 발생; 일치",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~의 기저를 이루다",
-    "eng": "underlie",
+    "eng": "strand",
+    "kor": "가닥, 줄; 좌초시키다, 오도 가도 못하게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "trigger",
+    "kor": "방아쇠; 계기, 도화선; 촉발시키다, 유발하다; 작동시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conception",
+    "kor": "개념, 생각; 구상, 고안; 임신, 수정",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "longevity",
+    "kor": "장수, 오래 지속됨",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recession",
+    "kor": "경기 불황; 후퇴",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "혼란",
-    "eng": "turmoil",
+    "eng": "flap",
+    "kor": "펄럭이다; 퍼덕거리다; 덮개",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 휘둘리는",
+    "eng": "decisive",
+    "kor": "결정적인, 중대한; 결단력 있는, 단호한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dispense",
+    "kor": "제공하다, 나눠 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "at the mercy of",
+    "kor": "~에 휘둘리는, ~ 앞에서 속수무책인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outline",
+    "kor": "윤곽; 개요, 요점; 윤곽을 나타내다; 개요를 서술하다, 약술하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prose",
+    "kor": "산문",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "닳아 없어지다",
-    "eng": "wear down",
+    "eng": "predecessor",
+    "kor": "전임자, 이전의 것",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gauge",
+    "kor": "측정기, 게이지; 측정하다, 추산 하다; 판단하다, 알아내다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "peninsula",
+    "kor": "반도",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "litter",
+    "kor": "쓰레기; 어질러 놓다, 버리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outrun",
+    "kor": "~보다 더 빨리달리다; 초과하 다, 웃돌다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "avid",
+    "kor": "열심인; 탐하는, 열망하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imminent",
+    "kor": "곧 닥쳐올 듯한, 임박한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "humidity",
+    "kor": "습기, 습도",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wear down",
+    "kor": "닳아 없어지다, 마모되다; ~을 지치게 하다, ~을 약하게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "landscape",
+    "kor": "풍경, 경치, 전망",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distress",
+    "kor": "고통, 괴로움; 곤경, 곤궁; 괴롭 히다, 고통스럽게 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "underlie",
+    "kor": "~의 기저를 이루다, ~의 근간 이 되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "temperate",
+    "kor": "절제된, 온건한; 온화한, 온난한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "turmoil",
+    "kor": "혼란, 소란",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "permanent",
+    "kor": "영구적인, 영원한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
