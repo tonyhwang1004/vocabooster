@@ -1,398 +1,374 @@
 [
   {
-    "kor": "건강 상태",
-    "eng": "condition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "건강 상태가 좋다",
-    "eng": "be in good condition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화학 물질; 화학의",
-    "eng": "chemical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소화하다",
-    "eng": "digest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "소화하다",
-    "eng": "take in",
-    "answer_count_kor": 1,
+    "eng": "vague",
+    "kor": "모호한, 막연한; 흐릿한, 희미한",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "소화",
-    "eng": "digestion",
-    "answer_count_kor": 1,
+    "eng": "vaguely",
+    "kor": "모호하게; 희미하게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(가벼운) 병",
-    "eng": "disorder",
+    "eng": "vagueness",
+    "kor": "애매모호함",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "악화되다",
-    "eng": "worsen",
+    "eng": "anniversary",
+    "kor": "(해마다 돌아오는) 기념일",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "악화된",
-    "eng": "worse",
-    "answer_count_kor": 1,
+    "eng": "bypass",
+    "kor": "우회하다; (절차 등을) 건너뛰다; 우회로",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "치아의",
-    "eng": "dental",
-    "answer_count_kor": 1,
+    "eng": "eloquent",
+    "kor": "유창한, 설득력 있는; (표정 등이) 감정을 드러내는",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "치과",
-    "eng": "dental clinic",
+    "eng": "eloquently",
+    "kor": "웅변[능변]으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의학의",
-    "eng": "medical",
-    "answer_count_kor": 1,
+    "eng": "eloquence",
+    "kor": "웅변, 능변",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "건강 검진",
-    "eng": "medical examination",
-    "answer_count_kor": 1,
+    "eng": "ferment",
+    "kor": "발효되다[시키다]; (정치·사회적) 소란, 동요",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "정신의",
-    "eng": "mental",
+    "eng": "fermentation",
+    "kor": "발효 (작용)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "신체의",
-    "eng": "physical",
-    "answer_count_kor": 1,
+    "eng": "prerequisite",
+    "kor": "전제[필수] 조건; 필수적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "정신질환",
-    "eng": "mental illness",
-    "answer_count_kor": 1,
+    "eng": "frontier",
+    "kor": "국경 (지역); (지식 등의) 한계, 최전선",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "회복하다",
-    "eng": "recover",
+    "eng": "oblivious",
+    "kor": "의식하지 못하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "회복",
-    "eng": "recovery",
-    "answer_count_kor": 1,
+    "eng": "versus",
+    "kor": "~ 대; ~에 비해, ~와 대조적으로",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "비상사태",
-    "eng": "emergency",
-    "answer_count_kor": 1,
+    "eng": "secondhand",
+    "kor": "중고의; 간접적인, 전해 들은; 간접적으로, 전해 들어",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "비상사태",
-    "eng": "crisis",
-    "answer_count_kor": 1,
+    "eng": "drowsy",
+    "kor": "졸린; 나른하게 만드는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비상사태",
-    "eng": "danger",
+    "eng": "drowsiness",
+    "kor": "졸음",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "긴급한",
-    "eng": "emergent",
-    "answer_count_kor": 1,
+    "eng": "inhabit",
+    "kor": "살다, 서식하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "응급실",
-    "eng": "emergency room (ER)",
-    "answer_count_kor": 1,
+    "eng": "inhabitant",
+    "kor": "주민, 거주자; 서식 동물",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "알레르기",
-    "eng": "allergy",
-    "answer_count_kor": 1,
+    "eng": "entrust",
+    "kor": "(책임·임무 등을) 맡기다, 위임하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "알레르기",
-    "eng": "sensitivity",
-    "answer_count_kor": 1,
+    "eng": "downfall",
+    "kor": "몰락; 몰락의 원인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "알레르기의",
-    "eng": "allergic",
-    "answer_count_kor": 1,
+    "eng": "trace",
+    "kor": "자취, 흔적; 극소량; 추적하다, 밝혀내다; 거슬러 올라가다",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "관절",
-    "eng": "joint",
-    "answer_count_kor": 1,
+    "eng": "precaution",
+    "kor": "예방책, 예방 조치",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "척추",
-    "eng": "spine",
+    "eng": "precautionary",
+    "kor": "예방의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "척추",
-    "eng": "backbone",
-    "answer_count_kor": 1,
+    "eng": "freight",
+    "kor": "화물; 화물 운송; (화물을) 운송하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "시각",
-    "eng": "sight",
-    "answer_count_kor": 1,
+    "eng": "detergent",
+    "kor": "세제, 세정제",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "시각",
-    "eng": "vision",
-    "answer_count_kor": 1,
+    "eng": "overrun",
+    "kor": "넘치다, 압도하다; (시간·비용 등을) 초과하다; 초과",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "시각",
-    "eng": "eyesight",
-    "answer_count_kor": 1,
+    "eng": "gratify",
+    "kor": "기쁘게 하다; (욕구 등을) 충족시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "시력이 좋다",
-    "eng": "have good sight",
+    "eng": "gratification",
+    "kor": "만족감(을 주는 것)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "맥박",
-    "eng": "pulse",
-    "answer_count_kor": 1,
+    "eng": "gratifying",
+    "kor": "흐뭇한, 만족한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "감염",
-    "eng": "infection",
-    "answer_count_kor": 1,
+    "eng": "forefather",
+    "kor": "조상, 선조",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "감염시키다",
-    "eng": "infect",
-    "answer_count_kor": 1,
+    "eng": "clarify",
+    "kor": "명확하게 하다, 분명히 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전염성의",
-    "eng": "infectious",
-    "answer_count_kor": 1,
+    "eng": "clarification",
+    "kor": "설명, 해명",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "위생의",
-    "eng": "sanitary",
-    "answer_count_kor": 1,
+    "eng": "clarity",
+    "kor": "명료성, 명확성; 선명도, 투명도",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "비위생적인",
-    "eng": "insanitary",
-    "answer_count_kor": 1,
+    "eng": "imprint",
+    "kor": "각인시키다; 찍다, 새겨 넣다; (누른) 자국, 흔적; 인상",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "kor": "위생적으로 하다",
-    "eng": "sanitate",
-    "answer_count_kor": 1,
+    "eng": "frantic",
+    "kor": "제정신이 아닌, 미친 듯한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "징후",
-    "eng": "symptom",
-    "answer_count_kor": 1,
+    "eng": "frantically",
+    "kor": "미친 듯이, 필사적으로",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "징후",
-    "eng": "sign",
-    "answer_count_kor": 1,
+    "eng": "craving",
+    "kor": "갈망, 열망",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "징후",
-    "eng": "mark",
-    "answer_count_kor": 1,
+    "eng": "crave",
+    "kor": "갈망하다, 열망하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "장애를 입은",
-    "eng": "disabled",
-    "answer_count_kor": 1,
+    "eng": "nomadic",
+    "kor": "유목의, 유목 생활을 하는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "장애를 입은",
-    "eng": "physically challenged",
+    "eng": "nomad",
+    "kor": "유목민",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "장애",
-    "eng": "disability",
-    "answer_count_kor": 1,
+    "eng": "formidable",
+    "kor": "가공할; (문제·과제 등이) 버거운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주사하다",
-    "eng": "inject",
-    "answer_count_kor": 1,
+    "eng": "conserve",
+    "kor": "보호[보존]하다; 절약하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주사",
-    "eng": "injection",
-    "answer_count_kor": 1,
+    "eng": "conservation",
+    "kor": "보호, 보존",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "처방하다",
-    "eng": "prescribe",
-    "answer_count_kor": 1,
+    "eng": "exquisite",
+    "kor": "매우 아름다운, 정교한; (감정·고통 등이) 강렬한",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "처방",
-    "eng": "prescription",
-    "answer_count_kor": 1,
+    "eng": "illusion",
+    "kor": "환상, 환각; 착각, 오해",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "알약",
-    "eng": "tablet",
-    "answer_count_kor": 1,
+    "eng": "duplicate",
+    "kor": "복사[복제]하다; 되풀이하다; 사본, 복제품; 똑같은",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "상처",
-    "eng": "wound",
-    "answer_count_kor": 1,
+    "eng": "duplication",
+    "kor": "중복; 복사, 복제",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "상처를 입히다",
-    "eng": "injure",
-    "answer_count_kor": 1,
+    "eng": "deliberate",
+    "kor": "고의의, 의도적인; 신중한; 숙고하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "상처",
-    "eng": "injury",
-    "answer_count_kor": 1,
+    "eng": "deliberately",
+    "kor": "고의로; 신중하게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "치유되다",
-    "eng": "heal",
-    "answer_count_kor": 1,
+    "eng": "deliberation",
+    "kor": "숙고; 신중함",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "치유되다",
-    "eng": "get well",
-    "answer_count_kor": 1,
+    "eng": "delicate",
+    "kor": "연약한, 깨지기 쉬운; 섬세한; 미묘한",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "치유되다",
-    "eng": "get better",
-    "answer_count_kor": 1,
+    "eng": "delicacy",
+    "kor": "연약함; 섬세함; 진미, 별미",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "상처가 완치되다",
-    "eng": "heal up",
-    "answer_count_kor": 1,
+    "eng": "delicately",
+    "kor": "정교하게; 조심스럽게",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "면역의",
-    "eng": "immune",
-    "answer_count_kor": 1,
+    "eng": "poverty",
+    "kor": "가난, 빈곤; 결핍, 부족",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "면역",
-    "eng": "immunity",
-    "answer_count_kor": 1,
+    "eng": "property",
+    "kor": "재산, 소유물; 부동산; 속성, 특성",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "긴장",
-    "eng": "strain",
-    "answer_count_kor": 1,
+    "eng": "disseminate",
+    "kor": "(정보·지식 등을) 퍼뜨리다, 전파하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "무리하다",
-    "eng": "strain oneself",
-    "answer_count_kor": 1,
+    "eng": "dissemination",
+    "kor": "보급, 유포",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "멍",
-    "eng": "bruise",
-    "answer_count_kor": 1,
+    "eng": "stand in the way of",
+    "kor": "~을 방해하다, 가로막다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "타박상을 입다",
-    "eng": "get a bruise",
+    "eng": "come of",
+    "kor": "~의 결과로 일어나다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~의 병에 걸리다",
-    "eng": "come down with",
-    "answer_count_kor": 1,
+    "eng": "get on with",
+    "kor": "~을 계속하다; ~와 사이좋게 지내다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "누그러지다",
-    "eng": "ease off",
-    "answer_count_kor": 1,
+    "eng": "get carried away",
+    "kor": "(감정에) 휩쓸리다, 흥분하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
