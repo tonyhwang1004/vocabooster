@@ -1,182 +1,182 @@
 [
   {
-    "kor": "(구성) 요소",
-    "eng": "component",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구분분리하다",
-    "eng": "segregate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사소한",
-    "eng": "trivial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경치가 좋은",
-    "eng": "scenic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구기다구겨지다",
-    "eng": "crumple",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "척추가 있는",
-    "eng": "vertebrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의회",
-    "eng": "council",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "약속",
-    "eng": "pledge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(총)인원",
     "eng": "personnel",
-    "answer_count_kor": 1,
+    "kor": "인원, 직원; 인사과, 인사부; 인사의, 직원의",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "사회 복귀",
-    "eng": "rehabilitation",
-    "answer_count_kor": 1,
+    "eng": "crumple",
+    "kor": "구기다, 찌그러지다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "불가분한",
-    "eng": "inseparable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "피하다",
-    "eng": "evade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제재",
-    "eng": "sanction",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "폭행(죄)",
-    "eng": "assault",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(배",
-    "eng": "embark",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "창고",
-    "eng": "warehouse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "암시암묵적인",
-    "eng": "implicit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시들다",
-    "eng": "wither",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "자극",
-    "eng": "incentive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(거울 등에 비친) 상모습",
-    "eng": "reflection",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "투명한",
-    "eng": "transparent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "생활 편의 시설",
-    "eng": "amenity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "재생재현하다",
-    "eng": "reproduce",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공간의",
     "eng": "spatial",
+    "kor": "공간의, 공간적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scenic",
+    "kor": "경치가 좋은",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관개",
-    "eng": "irrigation",
+    "eng": "evade",
+    "kor": "피하다, 모면하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reproduce",
+    "kor": "재생하다; 복사하다; 번식하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "포괄적인",
-    "eng": "generic",
-    "answer_count_kor": 1,
+    "eng": "inseparable",
+    "kor": "불가분한, 분리할 수 없는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전적인",
-    "eng": "utter",
-    "answer_count_kor": 1,
+    "eng": "warehouse",
+    "kor": "창고, 저장소",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "글로 옮긴 것",
-    "eng": "transcript",
-    "answer_count_kor": 1,
+    "eng": "pledge",
+    "kor": "약속, 서약; 담보, 저당; 약속하다; 저당을 잡히다, 담보를 맡기다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 위한 기반을 마련하다",
     "eng": "set the stage for",
+    "kor": "~을 위한 기반을 마련하다, ~을 준비하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "embark",
+    "kor": "승선하다; 시작하다, 착수하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wither",
+    "kor": "시들다, 말라 죽다; 약해지다, 쇠퇴하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incentive",
+    "kor": "자극, 동기; 장려책, 유인책",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "amenity",
+    "kor": "생활 편의 시설",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와 밀접한 관련이 있다",
+    "eng": "utter",
+    "kor": "전적인, 완전한; 입 밖에 내다, 말하다; 언명하다, 공표하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "irrigation",
+    "kor": "관개, 물을 끌어들임",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transcript",
+    "kor": "글로 옮긴 것, 사본; 성적 증명 서",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rehabilitation",
+    "kor": "사회 복귀, 갱생, 재활",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transparent",
+    "kor": "투명한, 비치는; 명료한, 알기 쉬운",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "segregate",
+    "kor": "구분하다, 떼어 놓다; 차별하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sanction",
+    "kor": "제재, 처벌; 허가, 승인; 처벌하 다, 제재를 가하다; 허가하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "be bound up with",
+    "kor": "~와 밀접한 관련이 있다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vertebrate",
+    "kor": "척추가 있는, 척추동물의; 척추 동물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "generic",
+    "kor": "포괄적인, 총칭의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "implicit",
+    "kor": "암시적인, 내재된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "council",
+    "kor": "의회",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "component",
+    "kor": "요소, 성분, 부품; 구성하는, 성 분의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "trivial",
+    "kor": "사소한, 하찮은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assault",
+    "kor": "폭행, 공격; 폭행하다, 공격하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reflection",
+    "kor": "상; 반사, 반향; 반영; 숙고, 반성",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
