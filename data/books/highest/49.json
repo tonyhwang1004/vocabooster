@@ -1,182 +1,182 @@
 [
   {
-    "kor": "착수하다",
-    "eng": "launch",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "안락",
-    "eng": "comfort",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "차이",
-    "eng": "discrepancy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대피",
-    "eng": "evacuation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "받아들이다수용하다",
-    "eng": "accommodate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "피할 수 없는",
-    "eng": "inescapable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(액체 등의) 샘",
-    "eng": "leakage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "표류하는",
-    "eng": "adrift",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "<병리> 궤양",
-    "eng": "ulcer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "재산",
-    "eng": "asset",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사기",
-    "eng": "morale",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(형체 등을) 비틀다일그러뜨리다",
-    "eng": "distort",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기록",
-    "eng": "archive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이식하다",
-    "eng": "transplant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(잠긴 것을) 풀다",
-    "eng": "undo",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청사진",
-    "eng": "blueprint",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "만들어 내다",
-    "eng": "formulate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(가축의)도살",
     "eng": "slaughter",
-    "answer_count_kor": 1,
+    "kor": "도살, 도축; 대량 학살; 도살하다, 도축하다; 학살하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "방해하다",
-    "eng": "hamper",
-    "answer_count_kor": 1,
+    "eng": "launch",
+    "kor": "착수하다, 시작하다; 출시하다; 내보내다, 진출시키다; 발사하다; 시작; 출시; 발사",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "탄성",
+    "eng": "adrift",
+    "kor": "표류하는, 방향을 잃은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "formulate",
+    "kor": "만들어 내다, 정립하다; 표현하다; 공식화하다; 제조법에 따라 만들다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "resilience",
+    "kor": "탄성, 탄력; 회복력",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inescapable",
+    "kor": "피할 수 없는, 불가피한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distort",
+    "kor": "비틀다; 왜곡하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인식",
-    "eng": "perception",
-    "answer_count_kor": 1,
+    "eng": "hamper",
+    "kor": "방해하다, 제한하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "번갈아 하는",
-    "eng": "alternate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "초보자",
-    "eng": "novice",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공존하다",
-    "eng": "coexist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변천",
-    "eng": "transition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "어머니의",
-    "eng": "maternal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "괴롭히다",
-    "eng": "afflict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(속도가) 느린",
-    "eng": "sluggish",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 진저리가 나다",
     "eng": "be fed up with",
+    "kor": "~에 진저리가 나다, ~에 질리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evacuation",
+    "kor": "대피, 피난, 철수",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "afflict",
+    "kor": "괴롭히다, 피해를 입히다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coexist",
+    "kor": "공존하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "겨우 먹고살 만큼 벌다",
-    "eng": "make ends meet",
+    "eng": "undo",
+    "kor": "풀다, 열다; 무효로 만들다, 원 상태로 돌리다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discrepancy",
+    "kor": "차이, 불일치",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transition",
+    "kor": "변천, 전환, 이행; 이행하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transplant",
+    "kor": "이식하다; 이식",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "archive",
+    "kor": "기록, 자료; 기록 보관소; 기록 보관소에 보관하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blueprint",
+    "kor": "청사진, 설계도, 계획",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sluggish",
+    "kor": "느린, 둔한; 부진한, 불경기의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accommodate",
+    "kor": "받아들이다; 수용하다, 숙박시 키다; 적응시키다, 맞추다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alternate",
+    "kor": "번갈아 하는, 교대의; 대체의, 대안적인; 번갈아하다: 대리인, 대체인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "maternal",
+    "kor": "어머니의, 모성의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perception",
+    "kor": "인식, 지각",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "asset",
+    "kor": "재산, 자산; 이점, 강점",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "novice",
+    "kor": "초보자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "morale",
+    "kor": "사기, 의욕",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ulcer",
+    "kor": "<병리>궤양",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "comfort",
+    "kor": "안락, 편안; 위로, 위안; 편하게 하다; 위로하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "leakage",
+    "kor": "샘, 누출; 누설, 유출",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "make ends meet",
+    "kor": "겨우 먹고살 만큼 벌다, 생계를 유지하다: 수입과 지출의 균형 을 맞추다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
