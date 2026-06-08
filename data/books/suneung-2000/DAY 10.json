@@ -1,164 +1,92 @@
 [
   {
-    "kor": "노예",
-    "eng": "slave",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "망설이다",
+    "kor": "주저하다, 망설이다",
     "eng": "hesitate",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "모험",
-    "eng": "adventure",
-    "answer_count_kor": 1,
+    "kor": "위치, 장소",
+    "eng": "location",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "손상",
-    "eng": "harm",
-    "answer_count_kor": 1,
+    "kor": "제한하다, 한정하다",
+    "eng": "restrict",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "객실",
-    "eng": "cabin",
-    "answer_count_kor": 1,
+    "kor": "유기체, 생물",
+    "eng": "organism",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "차지하다",
-    "eng": "rank",
-    "answer_count_kor": 1,
+    "kor": "해결하다, 결심하다",
+    "eng": "resolve",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "광선",
-    "eng": "ray",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부러움",
-    "eng": "envy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제공하다",
+    "kor": "제공하다, 제안하다",
     "eng": "offer",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분배하다, 분포시키다",
+    "eng": "distribute",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "열대우림",
+    "eng": "rainforest",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "입구",
-    "eng": "entrance",
-    "answer_count_kor": 1,
+    "kor": "상황, 환경",
+    "eng": "circumstance",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "곡선",
+    "kor": "해석하다, 통역하다",
+    "eng": "interpret",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적절한, 적합한",
+    "eng": "suitable",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "곡선, 속임수",
     "eng": "curve",
-    "answer_count_kor": 1,
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조화",
-    "eng": "symphony",
-    "answer_count_kor": 1,
+    "kor": "괴롭히다, 귀찮게 하다",
+    "eng": "annoy",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "겁먹게하다",
+    "kor": "겁먹게 하다",
     "eng": "frighten",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인식하다",
-    "eng": "perceive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관심을끌다",
-    "eng": "appeal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결심하다",
-    "eng": "resolve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적절한",
-    "eng": "suitable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사인",
-    "eng": "autograph",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동일한",
-    "eng": "identical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "문지르다",
-    "eng": "rub",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "암송하다",
-    "eng": "recite",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "괴롭히다",
-    "eng": "annoy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "견적",
+    "kor": "평가하다, 견적, 평가",
     "eng": "estimate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제한하다",
-    "eng": "restrict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위치",
-    "eng": "location",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "은퇴하다",
-    "eng": "retire",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분배하다",
-    "eng": "distribute",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -168,33 +96,15 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "놓아주다",
-    "eng": "release",
-    "answer_count_kor": 1,
+    "kor": "모험, 위험에 빠뜨리다",
+    "eng": "adventure",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "결백",
-    "eng": "innocence",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통역하다",
-    "eng": "interpret",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "법인의",
-    "eng": "corporate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "투자",
-    "eng": "investment",
-    "answer_count_kor": 1,
+    "kor": "입구, 입장",
+    "eng": "entrance",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -204,39 +114,129 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "생명체",
-    "eng": "organism",
+    "kor": "인지하다, 인식하다",
+    "eng": "perceive",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "암송하다",
+    "eng": "recite",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상황",
-    "eng": "circumstance",
+    "kor": "모으다",
+    "eng": "gather",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "우림",
-    "eng": "rainforest",
-    "answer_count_kor": 1,
+    "kor": "객실, 선실, 오두막집",
+    "eng": "cabin",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "기어",
+    "kor": "장비,  기어, 맞게 조정하다",
     "eng": "gear",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "광선",
+    "eng": "ray",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대안",
+    "kor": "놓아주다, 방출하다, 석방, 발표",
+    "eng": "release",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지위, 계급, 매기다, (등급을)차지하다",
+    "eng": "rank",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "교향곡",
+    "eng": "symphony",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부러워하다, 부러움",
+    "eng": "envy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "회사의, 법인의",
+    "eng": "corporate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대안, 대안의",
     "eng": "alternative",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "은퇴하다",
+    "eng": "retire",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "권위",
-    "eng": "authority",
+    "kor": "호소하다, 관심을 끌다, 호소, 항의",
+    "eng": "appeal",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동일한, 일란성의",
+    "eng": "identical",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "투자",
+    "eng": "investment",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "서명, 서명하다",
+    "eng": "autograph",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "노예",
+    "eng": "slave",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "손해, 손상, 해치다",
+    "eng": "harm",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "권위, 당국",
+    "eng": "authority",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "결백, 무죄, 순진",
+    "eng": "innocence",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
