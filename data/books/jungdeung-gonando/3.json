@@ -1,182 +1,476 @@
 [
   {
-    "kor": "기분",
-    "eng": "mood",
+    "eng": "ultimate",
+    "kor": "최종의, 궁극적인; 최고의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ultimately",
+    "kor": "궁극적으로, 결국; 근본적으로",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "captive",
+    "kor": "사로잡힌, 억류된; 자리를 뜰 수 없는; 포로",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "captivity",
+    "kor": "억류, 감금",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "specific",
+    "kor": "구체적인, 명확한; 특정한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "specifically",
+    "kor": "분명히; 특별히; 구체적으로 말하면",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "procedure",
+    "kor": "절차, 방법",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "proceed",
+    "kor": "계속되다[하다], 진행되다[하다]; 나아가다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incredibly",
+    "kor": "믿을 수 없을 정도로, 엄청나게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incredible",
+    "kor": "믿을 수 없는, 놀라운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "renewable",
+    "kor": "재생 가능한; 갱신[연장] 가능한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "renew",
+    "kor": "갱신[연장]하다; 재개하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "renewal",
+    "kor": "재개; 갱신",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "narrative",
+    "kor": "이야기; 서술; 이야기의; 서술의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "narrate",
+    "kor": "이야기하다; 내레이션하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "narration",
+    "kor": "이야기하기; 내레이션",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "artifact",
+    "kor": "(문화) 유물; 인공물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "characterize",
+    "kor": "특성을 나타내다, 특징짓다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "character",
+    "kor": "성격; 특성; (등장)인물",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "characteristic",
+    "kor": "독특한; 특성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conception",
+    "kor": "개념, 생각; 구상, 창안",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conceive",
+    "kor": "생각해 내다; 상상하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "justify",
+    "kor": "정당화하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "슬픔",
-    "eng": "sorrow",
+    "eng": "justification",
+    "kor": "정당한 이유",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "감정",
-    "eng": "emotion",
+    "eng": "justifiable",
+    "kor": "정당한 (이유가 있는)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "불안해하는",
-    "eng": "anxious",
+    "eng": "portray",
+    "kor": "묘사[표현]하다; (영화 등에서) 연기하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "portrait",
+    "kor": "초상화, 인물 사진; 묘사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "portrayal",
+    "kor": "묘사, 표현; 연기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conducive",
+    "kor": "(~에) 도움이 되는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "부끄러워하는",
-    "eng": "ashamed",
+    "eng": "conduce",
+    "kor": "(좋은 결과로) 이끌다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "우울; 불경기",
-    "eng": "depression",
+    "eng": "villain",
+    "kor": "악당, 악인, 악역",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enact",
+    "kor": "(법을) 제정하다; 상연[연기]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enactment",
+    "kor": "법률 제정, 입법; 법률 (조항)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hibernation",
+    "kor": "동면, 겨울잠",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hibernate",
+    "kor": "동면하다, 겨울잠을 자다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incident",
+    "kor": "일어난 일, 사건",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incidental",
+    "kor": "부수적인; 수반되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "speculate",
+    "kor": "추측[짐작]하다; 투기하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "speculation",
+    "kor": "추측; 투기",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "speculative",
+    "kor": "추측에 근거한; 투기적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prescribe",
+    "kor": "(의사가 약을) 처방하다; 규정[지시]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prescription",
+    "kor": "처방전",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "울다",
-    "eng": "weep",
+    "eng": "prescriptive",
+    "kor": "지시하는; 규범적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strive",
+    "kor": "노력하다, 애쓰다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "connotation",
+    "kor": "함축 (의미)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "짜증 나게 하다",
-    "eng": "annoy",
+    "eng": "consensus",
+    "kor": "의견 일치, 합의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consent",
+    "kor": "동의, 허락; 동의[허락]하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disapprove",
+    "kor": "못마땅해하다; 반대하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disapproval",
+    "kor": "반감, 못마땅함",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "motivate",
+    "kor": "자극하다, 동기를 부여하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "motivation",
+    "kor": "자극, 동기 부여",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "motivated",
+    "kor": "자극받은, 동기가 부여된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "motivational",
+    "kor": "동기를 주는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "완화하다",
-    "eng": "relieve",
+    "eng": "utopian",
+    "kor": "유토피아적인, 이상적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "utopia",
+    "kor": "유토피아, 이상향",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distress",
+    "kor": "고통, 괴로움; 곤경, 곤궁; 괴롭게 하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distressed",
+    "kor": "괴로워하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라게 하다",
-    "eng": "amaze",
+    "eng": "distressing",
+    "kor": "괴로움을 주는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "감정",
-    "eng": "sentiment",
+    "eng": "anthropology",
+    "kor": "인류학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "부러워하다; 부러움",
-    "eng": "envy",
+    "eng": "anthropologist",
+    "kor": "인류학자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "부러워하는",
-    "eng": "jealous",
+    "eng": "precisely",
+    "kor": "정확히, 정밀하게; 바로, 꼭",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precise",
+    "kor": "정확한, 정밀한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precision",
+    "kor": "정확(성)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "신경; 용기",
-    "eng": "nerve",
+    "eng": "ratio",
+    "kor": "비, 비율",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entity",
+    "kor": "독립체, 실체",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pound",
+    "kor": "치다, 두드리다; (심장 등이) 쿵쿵 뛰다; 파운드",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exhale",
+    "kor": "숨을 내쉬다, (연기 등을) 내뿜다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mass",
+    "kor": "덩어리; 다량, 다수; 무리; 질량; 대량의, 대중적인",
+    "answer_count_kor": 7,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "massive",
+    "kor": "거대한; 심한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "massively",
+    "kor": "몹시, 엄청나게",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cease",
+    "kor": "중단되다, 중단시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entrepreneur",
+    "kor": "사업가, 기업가",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entrepreneurship",
+    "kor": "기업가 정신",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성질",
-    "eng": "temper",
+    "eng": "blunt",
+    "kor": "무딘; 직설적인; 둔화시키다, 무디게 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bluntly",
+    "kor": "직설적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "화를 내다",
-    "eng": "resent",
-    "answer_count_kor": 1,
+    "eng": "come off",
+    "kor": "떨어져 나가다; 성공하다; ~한 인상을 주다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "필사적인",
-    "eng": "desperate",
-    "answer_count_kor": 1,
+    "eng": "put through",
+    "kor": "전화를 연결해 주다; (곤경 등을) 겪게 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "지독한",
-    "eng": "awful",
-    "answer_count_kor": 1,
+    "eng": "turn around",
+    "kor": "몸을 돌리다; (상황 등을) 호전시키다, 반전시키다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "비참한",
-    "eng": "miserable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "역겹게 하다; 반감",
-    "eng": "disgust",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "놀라게 하다",
-    "eng": "astound",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "겁먹게 하다",
-    "eng": "frighten",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "당황하다",
-    "eng": "panic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비명; 소리 지르다",
-    "eng": "scream",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동정",
-    "eng": "sympathy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비웃다",
-    "eng": "ridicule",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "마음이 따뜻한",
-    "eng": "warm-hearted",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갑자기 ~을 터뜨리다",
-    "eng": "burst into",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 싫증이 나다",
-    "eng": "be tired of",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 참다",
-    "eng": "put up with",
-    "answer_count_kor": 1,
+    "eng": "make up for",
+    "kor": "~을 보상하다, 만회하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
