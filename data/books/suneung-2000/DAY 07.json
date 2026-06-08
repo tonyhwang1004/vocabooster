@@ -1,139 +1,37 @@
 [
   {
-    "kor": "상담하다",
-    "eng": "consult",
+    "kor": "생존",
+    "eng": "survival",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "단지~에불과한",
-    "eng": "mere",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방법",
-    "eng": "policy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보상",
-    "eng": "reward",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대표적인",
-    "eng": "typical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기분",
-    "eng": "mood",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "언급하다",
-    "eng": "refer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "논평",
+    "kor": "논평, 주석, 논평하다",
     "eng": "comment",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "여정",
-    "eng": "journey",
-    "answer_count_kor": 1,
+    "kor": "뛰다, 도약하다, 도약",
+    "eng": "leap",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "명백한",
-    "eng": "plain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "둘러보다",
+    "kor": "둘러보다, 조사하다, 설문 조사",
     "eng": "survey",
-    "answer_count_kor": 1,
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "되찾다",
-    "eng": "recover",
-    "answer_count_kor": 1,
+    "kor": "전형적인, 대표적인",
+    "eng": "typical",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "대중",
-    "eng": "mass",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "격차",
-    "eng": "gap",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "도심",
-    "eng": "downtown",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부",
-    "eng": "wealth",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시리즈물",
-    "eng": "series",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을제외하고는",
-    "eng": "except",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수술",
-    "eng": "operation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시골의",
-    "eng": "rural",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "승인하다",
-    "eng": "approve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "범죄",
-    "eng": "crime",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "금융",
-    "eng": "finance",
+    "kor": "단지 ~에 불과한",
+    "eng": "mere",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -144,69 +42,69 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "도약하다",
-    "eng": "leap",
+    "kor": "분위기, 기분",
+    "eng": "mood",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "승인하다, 찬성하다",
+    "eng": "approve",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시골의",
+    "eng": "rural",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "완전한",
-    "eng": "absolute",
-    "answer_count_kor": 1,
+    "kor": "재정, 자금, 자금을 조달하다",
+    "eng": "finance",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "붙다",
-    "eng": "attach",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기초적인",
-    "eng": "elementary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시설",
-    "eng": "facility",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고갈된",
-    "eng": "exhausted",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "노력하다",
+    "kor": "찾다, 추구하다",
     "eng": "seek",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "작업, 운영, 수술",
+    "eng": "operation",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "범죄",
+    "eng": "crime",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위원회",
-    "eng": "committee",
-    "answer_count_kor": 1,
+    "kor": "끔찍한, 지독한",
+    "eng": "awful",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "거대한",
-    "eng": "enormous",
-    "answer_count_kor": 1,
+    "kor": "연속, 시리즈물",
+    "eng": "series",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "나타내다",
-    "eng": "display",
-    "answer_count_kor": 1,
+    "kor": "고갈된, 기진맥진한",
+    "eng": "exhausted",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "생존",
-    "eng": "survival",
-    "answer_count_kor": 1,
+    "kor": "완전한, 절대적인",
+    "eng": "absolute",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -216,20 +114,26 @@
     "answer_count_eng": 1
   },
   {
-    "kor": "각색하다",
-    "eng": "arrange",
-    "answer_count_kor": 1,
+    "kor": "전시하다, 나타내다, 전시",
+    "eng": "display",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "끔찍한",
-    "eng": "awful",
-    "answer_count_kor": 1,
+    "kor": "정책, 수단",
+    "eng": "policy",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "가정의",
-    "eng": "domestic",
+    "kor": "덩어리, 집단",
+    "eng": "mass",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위원회",
+    "eng": "committee",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -237,6 +141,102 @@
     "kor": "정확한",
     "eng": "accurate",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정리하다, 준비하다",
+    "eng": "arrange",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시설, 편의",
+    "eng": "facility",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상담하다, 참고하다",
+    "eng": "consult",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "언급하다, 위탁하다",
+    "eng": "refer",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "붙이다, 첨부하다",
+    "eng": "attach",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "회복하다, 되찾다",
+    "eng": "recover",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보상, 보답하다",
+    "eng": "reward",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "엄청난, 거대한",
+    "eng": "enormous",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "국내의, 가정의",
+    "eng": "domestic",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부, 재산",
+    "eng": "wealth",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "초보의, 기초적인",
+    "eng": "elementary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "격차, 틈",
+    "eng": "gap",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 제외하고, 제외하다",
+    "eng": "except",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "여행",
+    "eng": "journey",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "평범한, 명백한",
+    "eng": "plain",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도심, 도심의, 도심지에서",
+    "eng": "downtown",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
