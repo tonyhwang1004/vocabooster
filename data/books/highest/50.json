@@ -1,182 +1,182 @@
 [
   {
-    "kor": "기계 장치기구",
-    "eng": "mechanism",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구현상징하다",
-    "eng": "embody",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "강요하다",
-    "eng": "compel",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이치에 맞는",
-    "eng": "plausible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "활기찬",
-    "eng": "vibrant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "훌륭한",
-    "eng": "splendid",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(다른 나라로 온) 이민자이주민",
-    "eng": "immigrant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~에 좋은",
-    "eng": "conducive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변장위장하다",
-    "eng": "disguise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지방 지자체의",
-    "eng": "municipal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "집중하다시키다",
-    "eng": "concentrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "덮개를 벗기다",
-    "eng": "unveil",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보호",
     "eng": "conservation",
-    "answer_count_kor": 1,
+    "kor": "보호, 보존",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(종교) 의식",
-    "eng": "ritual",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나선형의",
-    "eng": "spiral",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "괴롭힘",
-    "eng": "harassment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(물",
-    "eng": "stagnant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유능한",
-    "eng": "competent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "착수",
-    "eng": "onset",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "남은 부분",
-    "eng": "remnant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비유",
     "eng": "analogy",
+    "kor": "비유; 유사",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(책임 등을) 맡기다",
-    "eng": "assign",
+    "eng": "splendid",
+    "kor": "훌륭한, 멋진",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "harassment",
+    "kor": "괴롭힘",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "내려가다",
-    "eng": "descend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사기를 꺾다",
     "eng": "demoralize",
-    "answer_count_kor": 1,
+    "kor": "사기를 꺾다, 의기소침하게 만들다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "방법론의",
-    "eng": "methodological",
-    "answer_count_kor": 1,
+    "eng": "remnant",
+    "kor": "남은 부분, 나머지; 잔존물, 유물",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "민첩",
-    "eng": "agility",
-    "answer_count_kor": 1,
+    "eng": "disguise",
+    "kor": "변장하다; 숨기다, 감추다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "구하다",
-    "eng": "solicit",
-    "answer_count_kor": 1,
+    "eng": "descend",
+    "kor": "내려가다, 하강하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "흔들다",
-    "eng": "waggle",
-    "answer_count_kor": 1,
+    "eng": "mechanism",
+    "kor": "기계 장치; 방법, 메커니즘; 구조",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 의문을 제기하다",
+    "eng": "onset",
+    "kor": "착수, 시작, 개시; 습격, 공격",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "competent",
+    "kor": "유능한, 능숙한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vibrant",
+    "kor": "활기찬, 생기가 넘치는; 밝은, 선명한; 진동하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concentrate",
+    "kor": "집중하다, 전념하다; 응축하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assign",
+    "kor": "맡기다, 배정하다; 임명하다; 지정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "cast doubt on",
+    "kor": "~에 의문을 제기하다, ~을 의심하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "methodological",
+    "kor": "방법론의, 방법론적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ritual",
+    "kor": "의식; 의례적인 일, 관습; 의식 상의; 의례적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "solicit",
+    "kor": "구하다, 간청하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "plausible",
+    "kor": "이치에 맞는, 그럴듯한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "embody",
+    "kor": "구현하다, 구체화하다; 포함하 다, 수록하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compel",
+    "kor": "강요하다, 억지로 ~하게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agility",
+    "kor": "민첩: 명민함",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와 일치하다비슷하다",
+    "eng": "spiral",
+    "kor": "나선형의; 나선 ; 소용돌이; 나 선형으로 움직이다, 나선형을 그리다; 급등하다, 급증하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stagnant",
+    "kor": "고여 있는, 정체된; 활기가 없 는, 침체된",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conducive",
+    "kor": "~에 좋은, 도움이 되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immigrant",
+    "kor": "이민자; 이주해 오는, 이민자의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "match up with",
+    "kor": "~와 일치하다; ~에 필적하다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unveil",
+    "kor": "덮개를 벗기다; 밝히다; 발표하 다, 공개하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "municipal",
+    "kor": "지방 자치제의, 시의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "waggle",
+    "kor": "흔들다, 흔들리다; 흔들기",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
