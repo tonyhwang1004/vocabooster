@@ -1,182 +1,182 @@
 [
   {
-    "kor": "불가피한",
-    "eng": "inevitable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변하다",
-    "eng": "alter",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영양 부족",
-    "eng": "malnutrition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연기하다",
-    "eng": "postpone",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "손상시키다",
-    "eng": "impair",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(빛",
-    "eng": "spectrum",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나머지",
-    "eng": "remainder",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "양육",
-    "eng": "upbringing",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정지",
-    "eng": "halt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정확(성)",
-    "eng": "precision",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "다양한",
-    "eng": "diverse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "포식자",
-    "eng": "predator",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(법을) 제정하다",
-    "eng": "enact",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배신",
-    "eng": "betrayal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비유적인",
-    "eng": "figurative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "도제",
     "eng": "apprentice",
-    "answer_count_kor": 1,
+    "kor": "도제, 견습",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "확인하다",
-    "eng": "identify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정신없이몹시 바쁜",
-    "eng": "hectic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "몰락(의 원인)",
     "eng": "downfall",
+    "kor": "몰락",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관련 있는",
+    "eng": "alter",
+    "kor": "변하다, 바꾸다; 수선하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "relevant",
-    "answer_count_kor": 1,
+    "kor": "관련 있는, 적절한; 의의가 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "꽃가루",
     "eng": "pollen",
-    "answer_count_kor": 1,
+    "kor": "꽃가루, 화분",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "몰두열중하게 만들다",
-    "eng": "engross",
-    "answer_count_kor": 1,
+    "eng": "enact",
+    "kor": "제정하다, 규정하다; 상연하다, 연기하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "문지방",
-    "eng": "threshold",
-    "answer_count_kor": 1,
+    "eng": "remainder",
+    "kor": "나머지, 잔여; 유적, 유물",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "통치 (기간)",
-    "eng": "reign",
-    "answer_count_kor": 1,
+    "eng": "inevitable",
+    "kor": "불가피한, 필연적인",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "일치부합하다",
+    "eng": "diverse",
+    "kor": "다양한, 여러 가지의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "correspond",
+    "kor": "일치하다; 해당하다; 서신을 주고받다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(몸",
-    "eng": "devote",
+    "eng": "engross",
+    "kor": "몰두하게 만들다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "선행된",
+    "eng": "postpone",
+    "kor": "연기하다, 미루다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "predator",
+    "kor": "포식자, 약탈자, 포식 동물",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "betrayal",
+    "kor": "배신, 배반",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reign",
+    "kor": "통치 , 지배; 지배하다, 군림하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spectrum",
+    "kor": "스펙트럼; 영역, 범위",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "antecedent",
-    "answer_count_kor": 1,
+    "kor": "선행된, 이전의; 선례, 전례; 선 조, 조상",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "잔혹성",
+    "eng": "threshold",
+    "kor": "문지방, 문턱; 한계점",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "brutality",
-    "answer_count_kor": 1,
+    "kor": "잔혹성, 잔인함, 만행",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "갑자기",
+    "eng": "upbringing",
+    "kor": "양육, 훈육, 교육",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "halt",
+    "kor": "정지, 중단, 휴식; 멈추다, 중단 시키다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "malnutrition",
+    "kor": "영양 부족, 영양실조",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "out of the blue",
+    "kor": "갑자기, 느닷없이",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hectic",
+    "kor": "정신없이바쁜",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 미치지 못하다",
     "eng": "fall short of",
+    "kor": "~에 미치지 못하다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "devote",
+    "kor": "바치다, 전념하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precision",
+    "kor": "정확, 정밀",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "identify",
+    "kor": "확인하다, 식별하다; 동일시하 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "figurative",
+    "kor": "비유적인; 구상의, 조형의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impair",
+    "kor": "손상시키다, 악화시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
