@@ -1,242 +1,242 @@
 [
   {
-    "kor": "지배하다",
-    "eng": "dominate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통치하다",
-    "eng": "govern",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "국내의",
-    "eng": "domestic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영토",
-    "eng": "territory",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "행사하다",
-    "eng": "wield",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지역",
-    "eng": "region",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이주해 오다",
-    "eng": "immigrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이주하다",
-    "eng": "emigrate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "여론 조사",
-    "eng": "poll",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부패한",
-    "eng": "corrupt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "외교관",
-    "eng": "diplomat",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "후보자",
-    "eng": "candidate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "타협하다",
-    "eng": "compromise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "급진적인",
-    "eng": "radical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관리",
-    "eng": "administration",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "중역",
-    "eng": "executive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "피난",
-    "eng": "refuge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "권위",
-    "eng": "authority",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의심하다",
-    "eng": "suspect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동등한",
-    "eng": "equivalent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사기",
-    "eng": "fraud",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위반하다",
-    "eng": "violate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "특허",
-    "eng": "patent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고소하다",
-    "eng": "sue",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "목격자",
-    "eng": "witness",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "우선 사항",
-    "eng": "priority",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "금지하다",
-    "eng": "ban",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "투옥하다",
-    "eng": "imprison",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정당화하다",
     "eng": "justify",
+    "kor": "정당화하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기금",
-    "eng": "fund",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "촉진하다",
-    "eng": "promote",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "빚지다",
-    "eng": "owe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "빚",
-    "eng": "debt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "빌려주다",
-    "eng": "loan",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수수료",
-    "eng": "commission",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "환불하다",
-    "eng": "refund",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배포하다",
     "eng": "distribute",
+    "kor": "배포하다, 분배하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sue",
+    "kor": "고소하다, 소송을 제기하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "regardless of",
+    "kor": "~에 상관없이",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "재산",
-    "eng": "property",
+    "eng": "radical",
+    "kor": "급진적인, 과격한, 급진주의자",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "equivalent",
+    "kor": "동등한, 상당하는, 동등한 것",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "witness",
+    "kor": "목격자, 증인, 목격하다, 증언하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "promote",
+    "kor": "촉진하다, 홍보하다, 승진시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "territory",
+    "kor": "영토, 세력권",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diplomat",
+    "kor": "외교관",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "초과",
-    "eng": "excess",
-    "answer_count_kor": 1,
+    "eng": "fund",
+    "kor": "기금, 자금, 자금을 대다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "산업화하다",
+    "eng": "administration",
+    "kor": "관리, 경영, 행정부",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "privilege",
+    "kor": "특권, 특혜, 특권을 주다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "owe",
+    "kor": "빚지다, 신세지다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "debt",
+    "kor": "빚, 부채",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "democracy",
+    "kor": "민주주의, 민주국가",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "region",
+    "kor": "지역, 지방, 영역",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commission",
+    "kor": "수수료, 위원회",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refuge",
+    "kor": "피난, 은신처, 위안",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dispute",
+    "kor": "논쟁, 분쟁, 논쟁하다, 반박하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immigration",
+    "kor": "(입국) 이민, 이주",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dominate",
+    "kor": "지배하다, 우세하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "govern",
+    "kor": "통치하다, 지배[좌우]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "patent",
+    "kor": "특허, 특허권, 특허를 받다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "in charge of",
+    "kor": "~할 책임이 있는, ~을 담당하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commodity",
+    "kor": "상품, 물품, 일용품",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wield",
+    "kor": "(권력을) 행사하다, (무기를) 휘두 르다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "executive",
+    "kor": "중역, 간부, 경영진, 중역의, 실행 하는",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "authority",
+    "kor": "권위, 당국",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suspect",
+    "kor": "의심하다, 용의자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refund",
+    "kor": "환불, 환불하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "domestic",
+    "kor": "국내의, 가정의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imprison",
+    "kor": "투옥하다, 감금하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "industrialize",
+    "kor": "산업화하다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compromise",
+    "kor": "타협하다, 손상시키다, 타협",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ban",
+    "kor": "금지하다, 금지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "priority",
+    "kor": "우선 사항, 우선권",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "property",
+    "kor": "재산, 특성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "candidate",
+    "kor": "후보자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "violate",
+    "kor": "위반하다, 침해하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
