@@ -1,242 +1,242 @@
 [
   {
-    "kor": "충고하다",
-    "eng": "advise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "포함하다",
-    "eng": "include",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제품",
-    "eng": "product",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "믿음",
-    "eng": "belief",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비슷한",
-    "eng": "similar",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "순간",
-    "eng": "moment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "상황",
-    "eng": "situation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개선하다",
-    "eng": "improve",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "증가하다",
-    "eng": "increase",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감소하다",
-    "eng": "decrease",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나누다",
-    "eng": "share",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감정",
-    "eng": "emotion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "떨어지다",
-    "eng": "drop",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "흔한",
-    "eng": "common",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "회복하다",
-    "eng": "recover",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "돌아오다",
-    "eng": "return",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "진보한",
-    "eng": "advanced",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거절하다",
-    "eng": "reject",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거절하다",
-    "eng": "refuse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "받아들이다",
-    "eng": "accept",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "원인이 되다",
-    "eng": "cause",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무관심한",
-    "eng": "indifferent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경험하다",
-    "eng": "experience",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "확실한",
-    "eng": "certain",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고려하다",
-    "eng": "consider",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공급하다",
-    "eng": "supply",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공급하다",
-    "eng": "provide",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실용적인",
-    "eng": "practical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "표현하다",
     "eng": "express",
-    "answer_count_kor": 1,
+    "kor": "표현하다, 나타내다, 속달로 보내다, 급행의, 신속한, 급행, 속달",
+    "answer_count_kor": 7,
     "answer_count_eng": 1
   },
   {
-    "kor": "양",
-    "eng": "quantity",
-    "answer_count_kor": 1,
+    "eng": "similar",
+    "kor": "비슷한, 유사한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "뛰어난",
-    "eng": "superior",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "열등한",
-    "eng": "inferior",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "선택하다",
-    "eng": "select",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "희미해지다",
-    "eng": "fade",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사라지다",
     "eng": "disappear",
-    "answer_count_kor": 1,
+    "kor": "사라지다, 없어지다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "나타나다",
-    "eng": "emerge",
-    "answer_count_kor": 1,
+    "eng": "share",
+    "kor": "나누다, 공유하다, 몫",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "복종하다",
-    "eng": "obey",
-    "answer_count_kor": 1,
+    "eng": "increase",
+    "kor": "증가하다, 증가시키다, 증가, 인상",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "성공작",
+    "eng": "produce",
+    "kor": "생산하다, 만들어 내다, 초래하다, 농산물",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "success",
+    "kor": "성공, 성공작",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recover",
+    "kor": "회복하다, 복구되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "seek",
+    "kor": "찾다, 추구하다, 청하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refuse",
+    "kor": "거절하다, 거부하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "certain",
+    "kor": "확실한, 확신하는, 어떤",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "run into",
+    "kor": "~와 우연히 만나다, ~와 충돌하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "supply",
+    "kor": "공급하다, 제공하다, 공급",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "situation",
+    "kor": "상황, 위치",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "include",
+    "kor": "포함하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "실패",
+    "eng": "consider",
+    "kor": "고려[숙고]하다, ~으로 여기다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "common",
+    "kor": "흔한, 보통의, 공통의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "failure",
+    "kor": "실패, 실패작, 고장",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fade",
+    "kor": "희미해지다, 사라지다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indifferent",
+    "kor": "무관심한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관련된",
-    "eng": "related",
-    "answer_count_kor": 1,
+    "eng": "improve",
+    "kor": "개선하다, 향상하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "practical",
+    "kor": "실용적인, 실제적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "carry out",
+    "kor": "~을 실행[수행]하다, ~을 완료하 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "moment",
+    "kor": "순간, 중요성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aim",
+    "kor": "목표, 목적, 목표로 하다, 겨냥하 다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "superior",
+    "kor": "뛰어난, 우월한, 상급의, 윗사람, 상급자",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "advanced",
+    "kor": "진보한, 상급의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "quantity",
+    "kor": "양, 수량",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "experience",
+    "kor": "경험하다, 경험",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "provide",
+    "kor": "공급하다, 제공하다, 대비하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "slight",
+    "kor": "약간의, 하찮은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decrease",
+    "kor": "감소하다, 감소시키다, 감소, 축 소",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "belief",
+    "kor": "믿음, 신념, 신앙",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "depend on",
+    "kor": "~에 의존[의지]하다, ~에 달려 있다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grief",
+    "kor": "(깊은) 슬픔, 비탄",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emotion",
+    "kor": "감정, 정서",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accept",
+    "kor": "받아들이다, 수락하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inferior",
+    "kor": "열등한, 하위의, 손아랫사람, 하 급자",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emerge",
+    "kor": "나타나다, 모습을 드러내다, (생 각·사실 등이) 드러나다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reject",
+    "kor": "거절하다, 거부하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
