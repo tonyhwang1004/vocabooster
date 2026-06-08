@@ -1,182 +1,182 @@
 [
   {
-    "kor": "별개의",
-    "eng": "distinct",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "특허(권)",
-    "eng": "patent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기하학",
-    "eng": "geometry",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "계산",
-    "eng": "calculation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "작정의도하다",
-    "eng": "intend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "온건한",
-    "eng": "moderate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오두막",
-    "eng": "lodge",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대 (의견)",
-    "eng": "dissent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "거래",
-    "eng": "transaction",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "본질적인",
-    "eng": "intrinsic",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "순환하다",
-    "eng": "circulate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화해시키다",
-    "eng": "reconcile",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "적격의",
-    "eng": "eligible",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "흡수",
-    "eng": "absorption",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(배심원단의) 평결",
-    "eng": "verdict",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "과장하다",
-    "eng": "exaggerate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의무적으로 ~하게 하다",
-    "eng": "oblige",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "시작창시하다",
-    "eng": "initiate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "애매한",
-    "eng": "ambiguous",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구두점을 찍다",
-    "eng": "punctuate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고통",
-    "eng": "torment",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "화재",
-    "eng": "blaze",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의기양양한",
-    "eng": "elated",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세속적인",
-    "eng": "secular",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(규칙",
-    "eng": "conformity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "음울한",
     "eng": "dreary",
+    "kor": "음울한, 따분한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "calculation",
+    "kor": "계산, 산출; 추정, 예측",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "verdict",
+    "kor": "평결, 의견",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dissent",
+    "kor": "반대 ; 반대하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "집합(체)",
-    "eng": "aggregation",
+    "eng": "lodge",
+    "kor": "오두막, 산장; 관리 사무소, 수위실; 숙박하다, 머무르다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "circulate",
+    "kor": "순환하다, 순환시키다; 유포되다, 유통하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "geometry",
+    "kor": "기하학, 기하학적 구조",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "absorption",
+    "kor": "흡수; 병합; 전념, 몰두",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "oblige",
+    "kor": "의무적으로 ~하게 하다, 강요하다; 도움을 베풀다, 요청을 들어주다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intrinsic",
+    "kor": "본질적인, 고유한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "punctuate",
+    "kor": "구두점을 찍다; 중단시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "매혹하다",
+    "eng": "reconcile",
+    "kor": "화해시키다, 중재하다: 일치시키다, 조화시키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blaze",
+    "kor": "화재, 화염; 섬광; 타다; 밝게 빛나다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "initiate",
+    "kor": "시작하다, 착수하다; 입문시키다, 비법을 전수하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "enchant",
+    "kor": "매혹하다, 황홀하게 하다: 마술을 걸다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "moderate",
+    "kor": "온건한, 적당한, 중간의; 조절하 다, 완화하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intend",
+    "kor": "작정하다: 의미하다, 가리키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aggregation",
+    "kor": "집합, 집단",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exaggerate",
+    "kor": "과장하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위태로운",
+    "eng": "patent",
+    "kor": "특허; 특허의, 특허권을 가진; 특허를 받다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinct",
+    "kor": "별개의, 구별되는; 뚜렷한, 분명 한",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "torment",
+    "kor": "고통, 괴롭힘, 고통거리; 고통을 주다, 괴롭히다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "at stake",
-    "answer_count_kor": 1,
+    "kor": "위태로운, 위기에 처한; 성패가 달려 있는",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 위하여",
+    "eng": "transaction",
+    "kor": "거래, 매매",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "secular",
+    "kor": "세속적인, 비종교적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conformity",
+    "kor": "따름, 순응; 유사, 일치",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "for the benefit of",
-    "answer_count_kor": 1,
+    "kor": "~을 위하여, ~의 이익을 위하 여",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elated",
+    "kor": "의기양양한, 매우 기뻐하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eligible",
+    "kor": "적격의, 자격이 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ambiguous",
+    "kor": "애매한, 모호한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
