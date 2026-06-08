@@ -1,181 +1,181 @@
 [
   {
-    "kor": "경계(선)",
-    "eng": "boundary",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(비밀 등을) 밝히다",
     "eng": "reveal",
-    "answer_count_kor": 1,
+    "kor": "밝히다, 폭로하다; 보이다, 드러내다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "무더기",
-    "eng": "stack",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기울(이)다",
-    "eng": "lean",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인식",
-    "eng": "cognition",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "높이다",
-    "eng": "enhance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오만한",
-    "eng": "arrogant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "솔직한",
-    "eng": "straightforward",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "휴면기의",
-    "eng": "dormant",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "신성한",
-    "eng": "sacred",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(조사하여 사실을) 확인하다",
-    "eng": "verify",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "삼림 벌채",
-    "eng": "deforestation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "저주",
     "eng": "curse",
-    "answer_count_kor": 1,
+    "kor": "저주, 악담; 욕을 하다, 저주하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "경이로운",
-    "eng": "marvelous",
-    "answer_count_kor": 1,
+    "eng": "straightforward",
+    "kor": "솔직한, 직접적인; 간단한, 쉬운",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "전례 없는",
-    "eng": "unprecedented",
-    "answer_count_kor": 1,
+    "eng": "enhance",
+    "kor": "높이다, 향상시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "불화",
-    "eng": "discord",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(액체를) 휘젓다",
-    "eng": "agitate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보내다",
-    "eng": "dispatch",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(신체 부위의) 염증",
-    "eng": "inflammation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "매달리다",
-    "eng": "dangle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위신",
-    "eng": "prestige",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경멸하다",
-    "eng": "despise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "필수적인",
-    "eng": "imperative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "홱 뒤집다넘기다",
-    "eng": "flip",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "표준의",
-    "eng": "normative",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "함축 (의미)",
-    "eng": "connotation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복잡한",
-    "eng": "intricate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "동일시하다",
     "eng": "equate",
+    "kor": "동일시하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 대신대표하여",
+    "eng": "intricate",
+    "kor": "복잡한, 난해한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dangle",
+    "kor": "매달리다, 달랑거리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discord",
+    "kor": "불화, 불일치; <음악> 불협화음",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dormant",
+    "kor": "휴면기의, 활동을 중단한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stack",
+    "kor": "무더기, 더미; 다수, 다량; 서가; 쌓아 올리다, 쌓이다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unprecedented",
+    "kor": "전례 없는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prestige",
+    "kor": "위신, 명성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imperative",
+    "kor": "필수적인, 중요한; 명령적인, 위엄 있는; 명령; 필요, 의무",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lean",
+    "kor": "기울다; 기대다, 의지하다; 야윈, 마른; 수확이 적은, 흉작인",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agitate",
+    "kor": "휘젓다; 선동하다, 동요시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deforestation",
+    "kor": "삼림 벌채, 산림 개간",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arrogant",
+    "kor": "오만한, 거만한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "verify",
+    "kor": "확인하다, 입증하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "boundary",
+    "kor": "경계; 한계, 범위",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "marvelous",
+    "kor": "경이로운, 놀라운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "despise",
+    "kor": "경멸하다, 혐오하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flip",
+    "kor": "홱 뒤집다; 튀기다, 던지다; 손 가락으로 튀기기, 던지기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "normative",
+    "kor": "표준의, 규범적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inflammation",
+    "kor": "염증",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "connotation",
+    "kor": "함축 , 암시",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sacred",
+    "kor": "신성한; 종교적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dispatch",
+    "kor": "보내다, 파견하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "on behalf of",
+    "kor": "~을 대신하여; ~을 위해서",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 활용이용하다",
+    "eng": "cognition",
+    "kor": "인식, 인지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "capitalize on",
+    "kor": "~을 활용하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
