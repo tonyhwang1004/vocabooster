@@ -1,182 +1,434 @@
 [
   {
-    "kor": "상품",
-    "eng": "goods",
+    "eng": "behalf",
+    "kor": "측, 편, 이익",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "manuscript",
+    "kor": "원고; 필사본, 사본",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scatter",
+    "kor": "(흩)뿌리다; (군중 등이) 흩어지다, 흩어지게 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scattered",
+    "kor": "흩어진, 간간이 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gene",
+    "kor": "유전자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "꼬리표",
-    "eng": "label",
+    "eng": "genetic",
+    "kor": "유전(학)의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "꼬리표",
-    "eng": "tag",
+    "eng": "genetics",
+    "kor": "유전학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "감싸다",
-    "eng": "wrap",
+    "eng": "genetically",
+    "kor": "유전적으로",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "싼 물건; 값싼 물건의",
-    "eng": "bargain",
+    "eng": "cater",
+    "kor": "(행사에) 음식을 제공하다; (요구 등을) 충족시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "catering",
+    "kor": "음식 공급(업)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사다; 구입",
-    "eng": "purchase",
+    "eng": "halt",
+    "kor": "정지, 중단; 정지시키다, 멈추다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "companion",
+    "kor": "동반자, 동행, 친구; (책 등의) 안내서",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "companionship",
+    "kor": "동지애, 우정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acknowledge",
+    "kor": "인정하다; 감사를 표하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acknowledged",
+    "kor": "인정받는, 승인된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acknowledgment",
+    "kor": "인정; 감사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intact",
+    "kor": "손상되지 않은, 온전한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assert",
+    "kor": "주장하다, 단언하다; (권리 등을) 행사하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assertive",
+    "kor": "확신에 찬, 적극적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "assertion",
+    "kor": "주장; (권리 등의) 행사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insurance",
+    "kor": "보험(금), 보험료; 보호[예방] 수단",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insure",
+    "kor": "보험에 들다; 보험을 맡다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insurer",
+    "kor": "보험 회사",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "합계",
-    "eng": "total",
+    "eng": "sole",
+    "kor": "단 하나의, 유일한; 단독의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "solely",
+    "kor": "혼자서; 오로지, 단지",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flesh",
+    "kor": "(사람·동물의) 살, 고기; 피부; (과일의) 과육",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "locate",
+    "kor": "위치를 찾아내다; 두다, 설치하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "located",
+    "kor": "위치한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "질; 특성; 양질의",
-    "eng": "quality",
+    "eng": "location",
+    "kor": "위치, 장소",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arrogant",
+    "kor": "오만한, 거만한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arrogance",
+    "kor": "오만, 거만",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arrogantly",
+    "kor": "거만하게",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가치 있게 여기다",
-    "eng": "value",
+    "eng": "evoke",
+    "kor": "(감정·기억 등을) 불러일으키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄이다",
-    "eng": "reduce",
+    "eng": "primitive",
+    "kor": "원시 사회의; 원시적인 단계의, 초기의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "majority",
+    "kor": "대부분, 대다수; 과반수",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sequence",
+    "kor": "연속, 연속적인 사건들; 순서, 차례; (영화 등의) 연속 장면",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sequential",
+    "kor": "순차적인, 연속적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imperative",
+    "kor": "필수적인, 긴급한; 명령적인; 긴급한 일; 명령법",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mortgage",
+    "kor": "담보 대출(금), 융자(금); 저당 잡히다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "anchor",
+    "kor": "닻; 앵커, 진행자; (정신적) 버팀목; 닻을 내리다; 고정시키다",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "frustrated",
+    "kor": "좌절한, 불만스러워하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "frustrate",
+    "kor": "좌절시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유행; 경향",
-    "eng": "trend",
+    "eng": "frustration",
+    "kor": "좌절(감), 불만",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abandon",
+    "kor": "버리다, 유기하다; 그만두다, 포기하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abandoned",
+    "kor": "버려진, 유기된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abandonment",
+    "kor": "유기, 버림; 포기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immortal",
+    "kor": "불사의, 불멸의; 불멸의 존재",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "immortality",
+    "kor": "불멸(성); 불후의 명성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spark",
+    "kor": "촉발시키다; 불꽃을 일으키다; 불꽃, 불똥",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hinder",
+    "kor": "방해[저해]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "양",
-    "eng": "quantity",
+    "eng": "hindrance",
+    "kor": "방해, 저해; 방해물, 장애물",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fundamental",
+    "kor": "근본[기본]적인; 필수적인; 기본 원칙",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fundamentally",
+    "kor": "근본적으로, 완전히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "activate",
+    "kor": "작동시키다; (화학 작용 등을) 활성화하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "activation",
+    "kor": "활성화",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소매",
-    "eng": "retail",
+    "eng": "grin",
+    "kor": "(이를 드러내고) 활짝 웃다; 활짝 웃음",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indicate",
+    "kor": "나타내다, 보여 주다; 가리키다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indication",
+    "kor": "표시, 징후",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indicator",
+    "kor": "지표; 계기, 장치",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "generic",
+    "kor": "일반적인, 포괄적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prime",
+    "kor": "주요한; 최고의, 최상의; 전성기; (미리) 준비시키다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "primary",
+    "kor": "주요한; 최초의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "convention",
+    "kor": "관습, 관례; 협의회, 대회; 조약",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conventional",
+    "kor": "관습적인; 종래의, 전통적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "initiate",
+    "kor": "시작[착수]하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상품",
-    "eng": "merchandise",
+    "eng": "initiative",
+    "kor": "계획; 주도권; 진취성",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imprison",
+    "kor": "투옥하다, 감금하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imprisonment",
+    "kor": "투옥, 감금",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "draw back",
+    "kor": "뒤로 물러나다; (입장 등을) 철회하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "seal off",
+    "kor": "~을 봉쇄하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "집어넣다",
-    "eng": "insert",
-    "answer_count_kor": 1,
+    "eng": "take up",
+    "kor": "~을 차지하다; (취미·활동 등을) 시작하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "필요(성); 필수품",
-    "eng": "necessity",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "호화",
-    "eng": "luxury",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경매에서 팔다; 경매",
-    "eng": "auction",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "영수증; 받음",
-    "eng": "receipt",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "환불(액); 환불하다",
-    "eng": "refund",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "교환하다; 교환(물)",
-    "eng": "exchange",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "요구하다; 주장하다; 요구; 주장",
-    "eng": "claim",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "만족시키다; (조건을) 충족시키다",
-    "eng": "satisfy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보증(서); 보증하다",
-    "eng": "guarantee",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "배제하다",
-    "eng": "exclude",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "합리적인",
-    "eng": "reasonable",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "안정된",
-    "eng": "steady",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대금을 지불하다; ~의 대가를 치르다",
-    "eng": "pay for",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~을 빠뜨리다",
-    "eng": "leave out",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "합산하다",
-    "eng": "add up",
-    "answer_count_kor": 1,
+    "eng": "turn in",
+    "kor": "~을 제출하다; 잠자리에 들다; (경찰 등에) 넘기다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
