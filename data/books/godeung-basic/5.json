@@ -1,242 +1,242 @@
 [
   {
-    "kor": "사과하다",
-    "eng": "apologize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "찾다",
-    "eng": "seek",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "목표",
-    "eng": "aim",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "혼동하다",
-    "eng": "confuse",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "무질서",
-    "eng": "disorder",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모으다",
-    "eng": "gather",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사고",
-    "eng": "accident",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가정하다",
-    "eng": "suppose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추천하다",
-    "eng": "recommend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조정하다",
-    "eng": "adjust",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "측면",
-    "eng": "aspect",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구입하다",
     "eng": "purchase",
-    "answer_count_kor": 1,
+    "kor": "구입하다, 구입, 구입품",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "목적",
-    "eng": "purpose",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조직하다",
-    "eng": "organize",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정리하다",
-    "eng": "arrange",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의사소통을 하다",
-    "eng": "communicate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "대표하다",
     "eng": "represent",
-    "answer_count_kor": 1,
+    "kor": "대표하다, 나타내다, 대변하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "치료",
-    "eng": "treatment",
-    "answer_count_kor": 1,
+    "eng": "confuse",
+    "kor": "혼동하다, 혼란시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "접근하다",
-    "eng": "approach",
-    "answer_count_kor": 1,
+    "eng": "recommend",
+    "kor": "권(장)하다, 추천하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "주장하다",
-    "eng": "claim",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실망시키다",
-    "eng": "disappoint",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관찰하다",
-    "eng": "observe",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비교하다",
-    "eng": "compare",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "경보",
-    "eng": "alarm",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "존재하다",
-    "eng": "exist",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "끌다",
-    "eng": "attract",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비판적인",
-    "eng": "critical",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "결정적인",
-    "eng": "crucial",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전시하다",
-    "eng": "display",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전시하다",
-    "eng": "exhibit",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "묘사하다",
     "eng": "describe",
-    "answer_count_kor": 1,
+    "kor": "묘사하다, 설명하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "일반적인",
+    "eng": "alarm",
+    "kor": "경보, 불안, 불안하게 하다, 경보를 발하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "claim",
+    "kor": "주장하다, 요구하다, 주장, 요구, 청구",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disappoint",
+    "kor": "실망시키다, 낙담시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "general",
-    "answer_count_kor": 1,
+    "kor": "일반적인, 보통의, 종합적인, 장군",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "보편적인",
-    "eng": "universal",
-    "answer_count_kor": 1,
+    "eng": "disorder",
+    "kor": "무질서, 혼란, 장애",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "구체적인",
-    "eng": "specific",
-    "answer_count_kor": 1,
+    "eng": "exist",
+    "kor": "존재하다, (근근이) 살아가다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "보상",
-    "eng": "reward",
-    "answer_count_kor": 1,
+    "eng": "organize",
+    "kor": "조직하다, 준비하다, 정리하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "동기를 부여하다",
-    "eng": "motivate",
-    "answer_count_kor": 1,
+    "eng": "exhibit",
+    "kor": "전시하다, 보이다, 전시품",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "수수료",
+    "eng": "purpose",
+    "kor": "목적, 의도, 결심",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "fee",
-    "answer_count_kor": 1,
+    "kor": "수수료, 요금",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "요구하다",
+    "eng": "suppose",
+    "kor": "가정하다, 추정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "observe",
+    "kor": "관찰하다, 목격하다, 준수하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accident",
+    "kor": "사고, 재난, 우연",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "communicate",
+    "kor": "의사소통을 하다, (정보를) 전달하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "universal",
+    "kor": "보편적인, 전 세계의, 우주의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "take on",
+    "kor": "~을 떠맡다, ~을 고용하다, (특 정한 특질을) 띠다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "demand",
-    "answer_count_kor": 1,
+    "kor": "요구하다, 요구, 수요",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "다루다",
+    "eng": "attract",
+    "kor": "(주의·관심 등을) 끌다, 끌어들이 다, 매혹하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refer to",
+    "kor": "~을 가리키다, ~을 언급하다, ~ 을 참고하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "handle",
+    "kor": "다루다, 처리하다, 손잡이",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "specific",
+    "kor": "구체적인, 특정한, 특유의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pay attention to",
+    "kor": "~에 유의하다, ~에 주목하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "motivate",
+    "kor": "동기를 부여하다, 자극하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compare",
+    "kor": "비교하다, 비유하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "apologize",
+    "kor": "사과하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관리하다",
+    "eng": "adjust",
+    "kor": "조정하다, 조절하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "display",
+    "kor": "전시하다, 드러내다, 전시",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "approach",
+    "kor": "접근하다, 접근",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gather",
+    "kor": "모이다, 모으다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reward",
+    "kor": "보상, 사례금, 보상하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "aspect",
+    "kor": "측면, 양상, 관점",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "manage",
-    "answer_count_kor": 1,
+    "kor": "관리하다, 다루다, 용케 해내다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crucial",
+    "kor": "결정적인, 중대한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "treatment",
+    "kor": "치료(법), 대우, 처리",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arrange",
+    "kor": "정리[배열]하다, 준비하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
