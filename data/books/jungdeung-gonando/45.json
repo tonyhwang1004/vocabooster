@@ -1,338 +1,410 @@
 [
   {
-    "kor": "운송",
-    "eng": "transport",
+    "eng": "apparent",
+    "kor": "명백한, 분명한; 겉보기의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "apparently",
+    "kor": "명백히; 겉보기에는, 보아하니",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "remote",
+    "kor": "외진, 외딴; (시간·거리상으로) 먼; 원격의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "remotely",
+    "kor": "멀리서; 원격으로; 조금도",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "virtue",
+    "kor": "덕, 미덕, 선; 장점",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "virtuous",
+    "kor": "덕이 있는, 고결한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vice",
+    "kor": "악(덕), 부도덕; 범죄 (행위), 비행; 부, 대리의",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vicious",
+    "kor": "악랄한, 포악한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "underneath",
+    "kor": "~의 밑[아래]에; 아래에",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "beware",
+    "kor": "조심하다, 주의하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "surveillance",
+    "kor": "감시",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "운반하다",
-    "eng": "convey",
+    "eng": "gross",
+    "kor": "총합의; 중대한; 역겨운; 총수익을 올리다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "witness",
+    "kor": "목격자, 증인; 목격하다; (법정에서) 증언하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "congress",
+    "kor": "국회, 의회; (공식적인) 회의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ballot",
+    "kor": "(무기명) 투표; 투표용지; (무기명) 투표하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "supervise",
+    "kor": "감독하다, 관리하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "supervisor",
+    "kor": "감독관, 관리자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "supervision",
+    "kor": "감독, 관리",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collaborate",
+    "kor": "공동으로 일하다, 협력[협동]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collaboration",
+    "kor": "협력, 협동",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collaborative",
+    "kor": "공동의, 협력하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abstain",
+    "kor": "(투표를) 기권하다; 자제하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abstention",
+    "kor": "기권; 자제, 절제",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abolish",
+    "kor": "(법률·제도 등을) 폐지하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "운송",
-    "eng": "transportation",
+    "eng": "abolition",
+    "kor": "폐지",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "승객",
-    "eng": "passenger",
+    "eng": "verge",
+    "kor": "(도로의) 가장자리, 변두리; (일이 일어나기) 직전",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compensate",
+    "kor": "보상[배상]하다; 보완[상쇄]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compensation",
+    "kor": "보상(금)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(英) 지하철; 지하의",
-    "eng": "underground",
+    "eng": "agitated",
+    "kor": "불안해하는, 동요하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agitate",
+    "kor": "(마음을) 뒤흔들다; 선동하다, 주장하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agitation",
+    "kor": "불안, 동요; 선동, 시위",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "whiny",
+    "kor": "불평하는, 투덜대는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "whine",
+    "kor": "징징거리다; (개 등이) 낑낑거리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "swell",
+    "kor": "부풀다, 붓다; 증가[팽창]하다; 증가, 팽창",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "swollen",
+    "kor": "부은; (강물이) 불어난",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bland",
+    "kor": "특징 없는, 단조로운, 밋밋한; (맛이) 담백한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "warehouse",
+    "kor": "창고",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(美) 지하철",
-    "eng": "subway",
+    "eng": "amplify",
+    "kor": "증폭시키다, 확대하다; 더 자세히 진술하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "amplification",
+    "kor": "증폭, 확대",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "afflict",
+    "kor": "괴롭히다, 시달리게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "affliction",
+    "kor": "고통, 괴로움",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "upturn",
+    "kor": "(가격·경기 등의) 상승, 호전",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collapse",
+    "kor": "붕괴하다, 무너지다; 쓰러지다; 붕괴, 실패",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glare",
+    "kor": "노려보다; 눈부시게 빛나다; 노려봄; 눈부신 빛",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glaring",
+    "kor": "확연한; 눈부신; 노려보는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adore",
+    "kor": "아주 좋아하다, 흠모하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adorable",
+    "kor": "사랑스러운, 귀여운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adoration",
+    "kor": "흠모; 경배",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dwell",
+    "kor": "살다, 거주하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dwelling",
+    "kor": "주거(지), 주택",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dignity",
+    "kor": "위엄, 품위; 존엄성",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dignify",
+    "kor": "위엄[품위] 있게 하다; 그럴듯하게 꾸미다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "heredity",
+    "kor": "유전(적 특징)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(배·기차·비행기 등에) 탄",
-    "eng": "aboard",
+    "eng": "hereditary",
+    "kor": "유전적인; 세습되는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defeat",
+    "kor": "패배시키다; 좌절시키다; 패배; 타도, 타파",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adjoin",
+    "kor": "인접하다, 붙어 있다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adjoining",
+    "kor": "인접한, 접해 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vertical",
+    "kor": "수직의, 세로의; 수직(선)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vertically",
+    "kor": "수직으로, 세로로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "horizontal",
+    "kor": "수평의, 가로의; 수평(선)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "horizon",
+    "kor": "지평선, 수평선; 시야",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "horizontally",
+    "kor": "수평으로, 가로로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adjourn",
+    "kor": "(회의·재판 등을) 휴회하다, 휴정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "adjournment",
+    "kor": "휴회, 휴정",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "downside",
+    "kor": "부정적인[불리한] 면",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "출발하다",
-    "eng": "depart",
-    "answer_count_kor": 1,
+    "eng": "pull up",
+    "kor": "차를 세우다, 정차하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "출발하다",
-    "eng": "start",
-    "answer_count_kor": 1,
+    "eng": "come over",
+    "kor": "들르다, 방문하다; (감정 등이) 엄습하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "도착하다",
-    "eng": "arrive",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "출발",
-    "eng": "departure",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관광",
-    "eng": "sightseeing",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유람하다",
-    "eng": "sightsee",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "도심의; 도심지에",
-    "eng": "downtown",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주택 지구의",
-    "eng": "uptown",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(말·탈것 등을) 타다; (탈것을) 타기",
-    "eng": "ride",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "타는 사람",
-    "eng": "rider",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "해외로",
-    "eng": "abroad",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "해외로",
-    "eng": "overseas",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(배·비행기 여행의) 수하물",
-    "eng": "baggage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(배·비행기 여행의) 수하물",
-    "eng": "luggage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(공항의) 수하물 찾는 곳",
-    "eng": "baggage claim",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(배·비행기의) 선실",
-    "eng": "cabin",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "오두막",
-    "eng": "hut",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(호텔의) 퇴실",
-    "eng": "check-out",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "체크인",
-    "eng": "check-in",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사례금",
-    "eng": "tip",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사례금을 주다",
-    "eng": "advice",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "목적지",
-    "eng": "destination",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이용 가능한; 입수 가능한",
-    "eng": "available",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사용되고 있는",
-    "eng": "in use",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "유용성",
-    "eng": "availability",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지연시키다; 지연",
-    "eng": "delay",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갈아타다; 이동하다",
-    "eng": "transfer",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이동하다",
-    "eng": "move",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "탈것",
-    "eng": "vehicle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "탈것",
-    "eng": "conveyance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "고속 도로",
-    "eng": "highway",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(물건·승객 등을) 나르다; 전달하다",
-    "eng": "convey",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(물건·승객 등을) 나르다",
-    "eng": "transport",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "운반",
-    "eng": "conveyance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수용하다",
-    "eng": "accommodate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수용",
-    "eng": "accommodation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "크루즈",
-    "eng": "cruise",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "크루즈",
-    "eng": "voyage",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(배·비행기·열차 등의) 승무원",
-    "eng": "crew",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "항해하다",
-    "eng": "navigate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "항해",
-    "eng": "navigation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(어떤 장소에) 정하다",
-    "eng": "locate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "위치",
-    "eng": "location",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "여행",
-    "eng": "journey",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(인상적인) 광경",
-    "eng": "spectacle",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장관인",
-    "eng": "spectacular",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(우연히) 마주치다",
-    "eng": "come across",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~로 향해 가다",
-    "eng": "head for",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "차를 길 한쪽에 대다",
-    "eng": "pull over",
-    "answer_count_kor": 1,
+    "eng": "straighten out",
+    "kor": "(상황 등을) 바로잡다, 해결하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
