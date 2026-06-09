@@ -1,0 +1,374 @@
+[
+  {
+    "kor": "산출하다, 생산하다; 굴복하다; 양보하다; 산출량",
+    "eng": "yield",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "바치다, 기울이다",
+    "eng": "devote",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "헌신, 전념",
+    "eng": "devotion",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 전념하다, 몰두하다",
+    "eng": "devote oneself to",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "나타내다, 암시하다; 가리키다",
+    "eng": "indicate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "표시, 암시",
+    "eng": "indication",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지표, 지수",
+    "eng": "indicator",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기능, 역할; 작용하다, 기능하다",
+    "eng": "function",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기능적인, 기능상의",
+    "eng": "functional",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "방해하다, 중단시키다",
+    "eng": "interrupt",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "방해; 중단",
+    "eng": "interruption",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위업, 공적",
+    "eng": "feat",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "명백한, 분명한",
+    "eng": "evident",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "명백하게, 분명하게",
+    "eng": "evidently",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "출력, 생산",
+    "eng": "output",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위반하다, 어기다; 침해하다",
+    "eng": "violate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위반자, 위배자",
+    "eng": "violator",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "선언하다, 발표하다; 신고하다",
+    "eng": "declare",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "선언, 발표; 신고",
+    "eng": "declaration",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "즉각적인; 즉석요리의; 즉시, 찰나",
+    "eng": "instant",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "즉각, 즉시",
+    "eng": "instantly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "버둥거리다, 허덕이다; 분투하다, 열심히 노력하다; 싸움; 노력",
+    "eng": "struggle",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "권유하다, 설득하여 ~시키다; 일으키다, 유발하다",
+    "eng": "induce",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유도, 유발; 귀납법",
+    "eng": "induction",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "권유, 유도",
+    "eng": "inducement",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적응하다; 개조하다",
+    "eng": "adapt",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적응; 각색",
+    "eng": "adaptation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적응할 수 있는",
+    "eng": "adaptive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "입양하다; 채택하다",
+    "eng": "adopt",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "입양; 채택",
+    "eng": "adoption",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "양자 관계의",
+    "eng": "adoptive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "바치다, 헌신하다",
+    "eng": "dedicate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "헌신",
+    "eng": "dedication",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "헌신적인",
+    "eng": "dedicated",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중독된, 푹 빠진",
+    "eng": "addicted",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중독",
+    "eng": "addiction",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중독자",
+    "eng": "addict",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "거리, 간격; 먼 거리, 먼 곳",
+    "eng": "distance",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "먼",
+    "eng": "distant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "방해하다; 어지럽히다",
+    "eng": "disturb",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소란, 소동; 방해",
+    "eng": "disturbance",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기부, 기증",
+    "eng": "donation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기부하다, 기증하다",
+    "eng": "donate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기부자, 기증자",
+    "eng": "donor",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사라지다",
+    "eng": "disappear",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "생생한, 선명한",
+    "eng": "vivid",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "생생하게, 선명하게",
+    "eng": "vividly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "여기다, 간주하다; 존경; 관심, 고려; 안부 인사",
+    "eng": "regard",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 관해서는",
+    "eng": "regarding",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 관계없이",
+    "eng": "regardless of",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "방해하다, 지장을 주다",
+    "eng": "disrupt",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "은퇴하다, 퇴직하다, 그만두다",
+    "eng": "retire",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "은퇴, 퇴직",
+    "eng": "retirement",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "높이다, 강화하다",
+    "eng": "enhance",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적절한, 충분한",
+    "eng": "adequate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "충분히, 적절히",
+    "eng": "adequately",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "추정하다, 평가하다; 추정; 견적서",
+    "eng": "estimate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "판단, 평가",
+    "eng": "estimation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정하다, 준비하다; 정리하다; 편곡하다",
+    "eng": "arrange",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "준비; 정리; 합의",
+    "eng": "arrangement",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "제지하다; 억누르다, 억제하다",
+    "eng": "restrain",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "규제, 제한, 제지",
+    "eng": "restraint",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]
