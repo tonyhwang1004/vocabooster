@@ -1,122 +1,350 @@
 [
   {
-    "kor": "충고하다",
-    "eng": "advise",
+    "kor": "어슬렁거리다, 헤매다",
+    "eng": "wander",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소개하다",
-    "eng": "introduce",
+    "kor": "궁금하다; 놀라움",
+    "eng": "wonder",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "굉장히 멋진, 훌륭한; 놀라운",
+    "eng": "wonderful",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "넓히다, 확장하다",
+    "eng": "expand",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의견",
-    "eng": "opinion",
+    "kor": "확장, 팽창",
+    "eng": "expansion",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(표면이) 매끈한",
-    "eng": "smooth",
+    "kor": "팽창력 있는",
+    "eng": "expansive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "방어하다",
-    "eng": "defend",
+    "kor": "들이다, 소비하다",
+    "eng": "expend",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가능한",
-    "eng": "possible",
+    "kor": "지출, 비용",
+    "eng": "expense",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "파도",
-    "eng": "wave",
+    "kor": "비싼",
+    "eng": "expensive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~도 또한 아니다",
-    "eng": "nor",
+    "kor": "모방하다, 흉내 내다",
+    "eng": "imitate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "화학의",
-    "eng": "chemical",
+    "kor": "모조품; 모방, 흉내",
+    "eng": "imitation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흉내 내는",
+    "eng": "imitative",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가짜의",
-    "eng": "fake",
+    "kor": "시작하다, 창시하다",
+    "eng": "initiate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "빨리",
-    "eng": "rapidly",
+    "kor": "휴가",
+    "eng": "vacation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "신뢰; (사람을) 신뢰하다; (사실 등을) 믿다",
-    "eng": "trust",
+    "kor": "천직, 직업; 사명감",
+    "eng": "vocation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "직업상의",
+    "eng": "vocational",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "차고",
-    "eng": "garage",
+    "kor": "벗어진, 대머리의",
+    "eng": "bald",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "분명한",
-    "eng": "plain",
+    "kor": "대머리임; 노골적임",
+    "eng": "baldness",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "노골적으로",
+    "eng": "baldly",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "괴롭히다",
-    "eng": "bother",
+    "kor": "대담한, 용감한",
+    "eng": "bold",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가장 좋아하는",
-    "eng": "favorite",
+    "kor": "~을 통하여, ~을 지나서",
+    "eng": "through",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "승리",
-    "eng": "victory",
+    "kor": "철저한, 빈틈없는",
+    "eng": "thorough",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "짠",
-    "eng": "salty",
+    "kor": "완전히, 철저히",
+    "eng": "thoroughly",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 확인점검하다; (호텔에서) 나가다",
-    "eng": "check out",
+    "kor": "놀라다; 놀라운 사람",
+    "eng": "marvel",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "놀라운, 훌륭한",
+    "eng": "marvel(l)ous",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "점점 더 (많이)",
-    "eng": "more and more",
+    "kor": "대리석; 구슬",
+    "eng": "marble",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가정하다; 떠맡다",
+    "eng": "assume",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가정, 추정",
+    "eng": "assumption",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소비하다, 다 써버리다",
+    "eng": "consume",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소비",
+    "eng": "consumption",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소비자",
+    "eng": "consumer",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상, 상품; 수여하다",
+    "eng": "award",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보상; 보답하다",
+    "eng": "reward",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "제거하다, 삭제하다",
+    "eng": "eliminate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "제거, 삭제",
+    "eng": "elimination",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조명하다, 밝게 하다",
+    "eng": "illuminate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이해를 돕는",
+    "eng": "illuminating",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상, 조각상",
+    "eng": "statue",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지위, 신분",
+    "eng": "status",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "환대, 친절히 접대함",
+    "eng": "hospitality",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "환대하는",
+    "eng": "hospitable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적의, 적개심",
+    "eng": "hostility",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적대적인; 적의, 적군의",
+    "eng": "hostile",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 영향을 미치다",
+    "eng": "affect",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "효력, 효과, 결과; 초래하다",
+    "eng": "effect",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "효과적인; 유효한",
+    "eng": "effective",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부작용",
+    "eng": "side effect",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "원인과 결과",
+    "eng": "cause and effect",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보존하다, 보호하다",
+    "eng": "conserve",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보존, 보호",
+    "eng": "conservation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보수적인",
+    "eng": "conservative",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관찰하다, 지켜보다; 지키다, 준수하다",
+    "eng": "observe",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관찰자, 감시자",
+    "eng": "observer",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관찰력 있는",
+    "eng": "observant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "만기가 되다, 만료되다",
+    "eng": "expire",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "만료, 만기",
+    "eng": "expiration",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "격려하다; 불어넣다, 영감을 주다",
+    "eng": "inspire",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "영감; 자극",
+    "eng": "inspiration",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
