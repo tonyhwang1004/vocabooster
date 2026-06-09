@@ -1,0 +1,236 @@
+[
+  {
+    "kor": "불길; 밝게 타다; 빛나다",
+    "eng": "blaze",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "타는 듯이 더운; 맹렬한",
+    "eng": "blazing",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "짜다, 엮다; 짜기, 엮는 법",
+    "eng": "weave",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "베 짜는 사람, 직공",
+    "eng": "weaver",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "담그다, 적시다; 열중시키다",
+    "eng": "immerse",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "담금; 열중, 몰두",
+    "eng": "immersion",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "임의의, 제멋대로의; 독단적인",
+    "eng": "arbitrary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "회상, 추억",
+    "eng": "retrospect",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "돌이켜보면",
+    "eng": "in retrospect",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "청각의; 음의, 음향의",
+    "eng": "acoustic",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "벌통, 벌집; 발진, 두드러기; 붐비는 장소",
+    "eng": "hive",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "눌러 부수다; 가루로 만들다",
+    "eng": "crush",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "없어서는 안 될, 필수의; 통합된, 완전한",
+    "eng": "integral",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "옳은; 정당한; 정의로운",
+    "eng": "righteous",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "누더기의; 초라한",
+    "eng": "ragged",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "넝마, 누더기",
+    "eng": "rag",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유목민",
+    "eng": "nomad",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유목의, 방랑의",
+    "eng": "nomadic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "눈살을 찌푸리다; 찌푸린 얼굴",
+    "eng": "frown",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "육성하다, 촉진하다; 양육하다",
+    "eng": "foster",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "어디에나 있는",
+    "eng": "ubiquitous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수도사",
+    "eng": "monk",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "말뚝, 막대기; 내기; 이해관계",
+    "eng": "stake",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위태로운, 성패가 달린",
+    "eng": "at stake",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 이해관계에 있다",
+    "eng": "have a stake in",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "환각, 환영; 착각",
+    "eng": "illusion",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "마술사",
+    "eng": "illusionist",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "착각을 일으키는, 현혹시키는",
+    "eng": "illusory",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "속이다, 착각하게 하다",
+    "eng": "delude",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "망상; 착각, 오해",
+    "eng": "delusion",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "A를 속여 ~시키다",
+    "eng": "delude A into v-ing",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기울다, 경사지게 하다",
+    "eng": "tilt",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분별 있는; 신중한; 조심스러운",
+    "eng": "discreet",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부산물; 부차적 결과",
+    "eng": "by-product",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조직, 구성; 결, 감촉",
+    "eng": "texture",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조직상의, 피륙의",
+    "eng": "textural",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "요람, 유아용 침대",
+    "eng": "cradle",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "요람에서 무덤까지, 일생 동안",
+    "eng": "from (the) cradle to (the) grave",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "꽉 잡다, 부여잡다",
+    "eng": "clutch",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]
