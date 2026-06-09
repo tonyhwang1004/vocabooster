@@ -1,121 +1,313 @@
 [
   {
-    "kor": "벽돌",
-    "eng": "brick",
+    "kor": "내성적인 사람",
+    "eng": "introvert",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가장자리",
-    "eng": "edge",
+    "kor": "내성적인, 내향성의",
+    "eng": "introverted",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "뒤쫓다",
-    "eng": "chase",
+    "kor": "외향적인 사람",
+    "eng": "extrovert",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "유행의",
-    "eng": "fashionable",
+    "kor": "외향적인, 외향성의",
+    "eng": "extroverted",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인간",
-    "eng": "human",
+    "kor": "내포된, 함축적인",
+    "eng": "implicit",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(보호용) 마스크; 가면",
-    "eng": "mask",
+    "kor": "뚜렷한, 명백한",
+    "eng": "explicit",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "단 하나의",
-    "eng": "single",
+    "kor": "뛰어난, 나은, 우월한",
+    "eng": "superior",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "그러므로",
-    "eng": "therefore",
+    "kor": "우수성, 탁월",
+    "eng": "superiority",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "면밀히",
-    "eng": "closely",
+    "kor": "~보다 나은",
+    "eng": "superior to",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "나뉘다",
-    "eng": "divide",
+    "kor": "하위의, 열등한, 못한",
+    "eng": "inferior",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인상",
-    "eng": "impression",
+    "kor": "열등, 하위",
+    "eng": "inferiority",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "만화 (영화)",
-    "eng": "animation",
+    "kor": "~보다 못한",
+    "eng": "inferior to",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "목표; (공격 등의) 목표물",
-    "eng": "target",
+    "kor": "상대적인; 관련 있는; 친척",
+    "eng": "relative",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상대적으로, 비교적",
+    "eng": "relatively",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고치다",
-    "eng": "repair",
+    "kor": "절대적인; 완전한",
+    "eng": "absolute",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "완전히, 전적으로",
+    "eng": "absolutely",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "피부",
-    "eng": "skin",
+    "kor": "숨기다, 감추다",
+    "eng": "conceal",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "서쪽의",
-    "eng": "western",
+    "kor": "드러내다, 누설하다",
+    "eng": "reveal",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "속력",
-    "eng": "speed",
+    "kor": "적극적인; 활동적인",
+    "eng": "active",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "활동; 여가 활동",
+    "eng": "activity",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "행동, 활동; 작동; 작용",
+    "eng": "action",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소극적인, 수동적인",
+    "eng": "passive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "항구",
-    "eng": "port",
+    "kor": "붙이다, 첨부하다",
+    "eng": "attach",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에게 …을 요청하다부탁하다",
-    "eng": "ask ~ for …",
+    "kor": "애착; 부착",
+    "eng": "attachment",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분리하다, 떼어내다",
+    "eng": "detach",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "처음으로",
-    "eng": "for the first time",
+    "kor": "분리, 이탈; 파견",
+    "eng": "detachment",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대다수, 대부분",
+    "eng": "majority",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소수; 소수 민족",
+    "eng": "minority",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "영속하는, 영구적인",
+    "eng": "permanent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "영구, 영속성",
+    "eng": "permanence",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "영구히, 불변으로",
+    "eng": "permanently",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "일시적인, 임시의",
+    "eng": "temporary",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "일시적으로, 임시로",
+    "eng": "temporarily",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조상, 선조",
+    "eng": "ancestor",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자손, 후예",
+    "eng": "descendant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가속하다, 빨라지다; 촉진하다",
+    "eng": "accelerate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가속",
+    "eng": "acceleration",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가속장치",
+    "eng": "accelerator",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감속하다, 속도가 줄어들다",
+    "eng": "decelerate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감속",
+    "eng": "deceleration",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "복잡성, 복잡함",
+    "eng": "complexity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "단순함, 간단함",
+    "eng": "simplicity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정신의, 마음의",
+    "eng": "mental",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "육체의, 신체적인; 물질적인",
+    "eng": "physical",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "낙관적인, 낙천주의의",
+    "eng": "optimistic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "낙관주의",
+    "eng": "optimism",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "낙천주의자",
+    "eng": "optimist",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "회의적인",
+    "eng": "skeptical",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의심, 회의; 회의론",
+    "eng": "skepticism",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "회의론자",
+    "eng": "skeptic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "객관적인; 목표, 목적",
+    "eng": "objective",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주관적인, 주관의",
+    "eng": "subjective",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
