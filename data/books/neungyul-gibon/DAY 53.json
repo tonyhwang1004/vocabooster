@@ -1,121 +1,181 @@
 [
   {
-    "kor": "사슬",
-    "eng": "chain",
+    "kor": "~을 지원하다",
+    "eng": "back up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(이)전의",
-    "eng": "former",
+    "kor": "~을 옹호하다, 지지하다",
+    "eng": "stand up for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "최소의",
-    "eng": "minimum",
+    "kor": "~을 존경하다",
+    "eng": "look up to",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "반대편맞은편에; (정)반대의; 반대편맞은편의",
-    "eng": "opposite",
+    "kor": "~을 쌓다; 축적하다",
+    "eng": "pile up",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자지 않고 일어나 있다",
+    "eng": "stay up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "실망시키다",
-    "eng": "disappoint",
+    "kor": "~을 집어 올리다; 도중에 태우다",
+    "eng": "pick up",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시작하다, 창설하다; ~을 건립하다, 세우다",
+    "eng": "set up",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 기르다, 양육하다; 제기하다",
+    "eng": "bring up",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "토하다",
+    "eng": "throw up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "약간",
-    "eng": "slightly",
+    "kor": "~을 걸다, 매달다; 전화를 끊다",
+    "eng": "hang up",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에게 달렸다",
+    "eng": "be up to",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인공인조의; 꾸민",
-    "eng": "artificial",
+    "kor": "따라잡다; 만회하다",
+    "eng": "catch up with",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~이 생각나다, 창안하다",
+    "eng": "come up with",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "다발",
-    "eng": "bunch",
+    "kor": "나타나다; 도착하다",
+    "eng": "turn up",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 도달하다",
+    "eng": "come up to",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의사소통하다",
-    "eng": "communicate",
+    "kor": "지연시키다; 정지하다, 서다",
+    "eng": "hold up",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "결국 ~하게 되다",
+    "eng": "end up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "해석하다",
-    "eng": "interpret",
+    "kor": "뒤떨어지지 않다",
+    "eng": "keep up with",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "뚜껑",
-    "eng": "lid",
+    "kor": "어울리는 생활을 하다; 부응하다",
+    "eng": "live up to",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "갈라서다; 박살을 내다",
+    "eng": "break up",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "서다, 멈추다",
+    "eng": "pull up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "꼬인",
-    "eng": "twisted",
+    "kor": "참다, 견디다",
+    "eng": "put up with",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "설문 조사하다; 설문 조사",
-    "eng": "survey",
+    "kor": "폭발하다, 터지다",
+    "eng": "blow up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대답응답하다; 반응대응하다",
-    "eng": "respond",
+    "kor": "숨기다, 은폐하다",
+    "eng": "cover up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "환경의",
-    "eng": "environmental",
+    "kor": "~을 시작하다",
+    "eng": "take up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(옷을) 벗다",
-    "eng": "strip",
+    "kor": "준비운동을 하다",
+    "eng": "warm up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성직자",
-    "eng": "priest",
+    "kor": "~을 찾다, 조사하다",
+    "eng": "look up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(서로) 다르다",
-    "eng": "vary",
+    "kor": "요약하다",
+    "eng": "sum up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "무엇보다도",
-    "eng": "most of all",
+    "kor": "~을 다 써버리다, 소모하다",
+    "eng": "use up",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "도와주다",
-    "eng": "give a hand",
+    "kor": "만회하다, 보충하다",
+    "eng": "make up for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
