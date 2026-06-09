@@ -1,121 +1,337 @@
 [
   {
-    "kor": "물다; 한 입; 물린 상처",
-    "eng": "bite",
+    "kor": "일부, 소량; 분수",
+    "eng": "fraction",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "아주 적은; 분수의",
+    "eng": "fractional",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "깨지기 쉬운, 부서지기 쉬운; 허약한",
+    "eng": "fragile",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부서지기 쉬움, 허약",
+    "eng": "fragility",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사회; 협회",
-    "eng": "society",
+    "kor": "파편, 조각; 산산이 부수다",
+    "eng": "fragment",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "단편적인",
+    "eng": "fragmentary",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "제목",
-    "eng": "title",
+    "kor": "근본적인, 기본적인; 중요한, 필수의",
+    "eng": "fundamental",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "강한; 심오한; 깊은",
+    "eng": "profound",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "융합, 결합",
+    "eng": "fusion",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "누구나",
-    "eng": "anybody",
+    "kor": "녹다; 융합시키다; 퓨즈",
+    "eng": "fuse",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "쓸모없는, 무익한",
+    "eng": "futile",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "열",
-    "eng": "fever",
+    "kor": "무가치, 무익",
+    "eng": "futility",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "풍경",
-    "eng": "scenery",
+    "kor": "의류",
+    "eng": "garment",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "순서; 명령(하다); 주문(하다)",
-    "eng": "order",
+    "kor": "우아함; 품위; 은혜, 은총",
+    "eng": "grace",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "우아한, 품위 있는",
+    "eng": "graceful",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(둘 중) 어느 쪽도 ~ 아니다",
-    "eng": "neither",
+    "kor": "감사",
+    "eng": "gratitude",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "다이아몬드; 마름모꼴",
-    "eng": "diamond",
+    "kor": "은혜를 모름, 배은망덕",
+    "eng": "ingratitude",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "원천; 근원",
-    "eng": "source",
+    "kor": "서식지, 거주지",
+    "eng": "habitat",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "연락; 접촉",
-    "eng": "contact",
+    "kor": "거주, 거주지",
+    "eng": "habitation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "동일한",
-    "eng": "equal",
+    "kor": "~에 살다, 서식하다",
+    "eng": "inhabit",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "아무하나도 ~않다",
-    "eng": "none",
+    "kor": "주민; 서식 동물",
+    "eng": "inhabitant",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주입하다, 주사하다",
+    "eng": "inject",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기간; (역사의) 시대",
-    "eng": "period",
+    "kor": "주입, 주사",
+    "eng": "injection",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "여행",
-    "eng": "journey",
+    "kor": "프로젝트, 계획; 예상하다; 투영하다; 계획하다; 돌출되다",
+    "eng": "project",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "예상; 투영; 돌출",
+    "eng": "projection",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정당화하다",
+    "eng": "justify",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(표면이) 거친; 대강의; 힘든",
-    "eng": "rough",
+    "kor": "명분, 이유",
+    "eng": "justification",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "100만",
-    "eng": "million",
+    "kor": "편견, 선입관; 편견을 갖게 하다",
+    "eng": "prejudice",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "체포; 체포하다",
+    "eng": "arrest",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "끊임없는; 불변의; 불변; 상수",
+    "eng": "constant",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "끊임없이",
+    "eng": "constantly",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "천장",
-    "eng": "ceiling",
+    "kor": "학회, 협회; 제정하다, 도입하다",
+    "eng": "institute",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기관; 제도; 제정",
+    "eng": "institution",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "재산; 토지, 사유지",
+    "eng": "estate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~할 운명의, ~하기로 되어 있는; ~행의",
+    "eng": "destined",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "운명",
+    "eng": "destiny",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "포기하다",
-    "eng": "give up",
+    "kor": "목적지, 행선지",
+    "eng": "destination",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와 어울리다",
-    "eng": "hang out with",
+    "kor": "돕다, 거들다; 어시스트",
+    "eng": "assist",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도움, 원조",
+    "eng": "assistance",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조수, 보조자; 보조의",
+    "eng": "assistant",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "구성하다; ~로 간주되다; 설립하다",
+    "eng": "constitute",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "헌법; 체질; 구성, 구조",
+    "eng": "constitution",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대용품, 대리인; 대체하다; 대신하다",
+    "eng": "substitute",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대리, 대체",
+    "eng": "substitution",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "장애, 방해",
+    "eng": "obstacle",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "안정된; 침착한; 마구간",
+    "eng": "stable",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "안정시키다",
+    "eng": "stabilize",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "안정",
+    "eng": "stability",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "통계; 통계학",
+    "eng": "statistics",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "통계의, 통계상의",
+    "eng": "statistical",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "꾸준한; 안정된",
+    "eng": "steady",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "꾸준히",
+    "eng": "steadily",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "물질; 본질, 실체; 요지",
+    "eng": "substance",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상당한, 많은; 본질적인, 중요한",
+    "eng": "substantial",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "미신",
+    "eng": "superstition",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "미신의, 미신적인",
+    "eng": "superstitious",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
