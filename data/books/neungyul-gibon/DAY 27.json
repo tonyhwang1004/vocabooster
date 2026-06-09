@@ -1,122 +1,320 @@
 [
   {
-    "kor": "속도; 한 걸음",
-    "eng": "pace",
+    "kor": "구성 요소, 성분, 부품; 구성하는",
+    "eng": "component",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "혼합물, 합성어; 합성의; 혼합하다; 악화시키다",
+    "eng": "compound",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지우다, 부과하다; 강요하다",
+    "eng": "impose",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인상적인",
+    "eng": "imposing",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "비교하다",
-    "eng": "compare",
+    "kor": "상대; 반대자",
+    "eng": "opponent",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반대하다",
+    "eng": "oppose",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "옷감; 천",
-    "eng": "cloth",
+    "kor": "추측하다, 생각하다; 가정하다, 상상하다",
+    "eng": "suppose",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~하기로 되어 있다",
+    "eng": "be supposed to-v",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소설",
-    "eng": "novel",
+    "kor": "주요 도시, 대도시",
+    "eng": "metropolis",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "비율",
-    "eng": "rate",
+    "kor": "주요 도시의, 대도시의",
+    "eng": "metropolitan",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "멋진",
-    "eng": "gorgeous",
+    "kor": "휴대용의, 가지고 다닐 수 있는",
+    "eng": "portable",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "쉬다; (몸의) 긴장을 풀다",
-    "eng": "relax",
+    "kor": "낙담시키다, 우울하게 하다; 불경기로 만들다",
+    "eng": "depress",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "낙담한, 우울한; 불경기의, 불황의",
+    "eng": "depressed",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "우울; 불황, 불경기",
+    "eng": "depression",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감동시키다, 깊은 인상을 주다; 찍다",
+    "eng": "impress",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감명, 인상",
+    "eng": "impression",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 반대하여",
-    "eng": "against",
+    "kor": "감명 깊은, 인상적인",
+    "eng": "impressive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(도덕적",
-    "eng": "duty",
+    "kor": "억압하다, 탄압하다",
+    "eng": "oppress",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "불공평한",
-    "eng": "unfair",
+    "kor": "가혹한, 억압적인",
+    "eng": "oppressive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전통의; 전통적인",
-    "eng": "traditional",
+    "kor": "억압, 탄압",
+    "eng": "oppression",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "증명입증하다; (~임이) 드러나다",
+    "kor": "조사하다, 검사하다; 조사",
+    "eng": "probe",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "증명하다, 입증하다; 판명되다",
     "eng": "prove",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "증거",
+    "eng": "proof",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~처럼 보이다",
-    "eng": "seem",
+    "kor": "있음 직한, 그럴듯한",
+    "eng": "probable",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "똑같이",
-    "eng": "equally",
+    "kor": "아마",
+    "eng": "probably",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "현대의",
-    "eng": "modern",
+    "kor": "있음 직함; 확률",
+    "eng": "probability",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "원시의, 원시적인",
+    "eng": "primitive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "발자국",
-    "eng": "footprint",
+    "kor": "이전의, 먼저의; 우선하는",
+    "eng": "prior",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 앞서, 먼저",
+    "eng": "prior to",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "큰 소리로",
-    "eng": "loudly",
+    "kor": "우선",
+    "eng": "priority",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "해산물",
-    "eng": "seafood",
+    "kor": "빼앗다, 박탈하다",
+    "eng": "deprive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "잠시 들르다",
-    "eng": "stop by",
+    "kor": "A에게서 B를 빼앗다",
+    "eng": "deprive A of B",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "끝나다",
-    "eng": "be over",
+    "kor": "박탈, 결핍",
+    "eng": "deprivation",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사적인, 개인적인, 사유의; 비밀의",
+    "eng": "private",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사생활, 프라이버시",
+    "eng": "privacy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "은밀하게; 개인적으로",
+    "eng": "privately",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "논쟁, 분쟁; 논쟁하다, 반박하다",
+    "eng": "dispute",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "평판, 명성",
+    "eng": "reputation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "평판이 좋은",
+    "eng": "reputable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도구, 연장; 실행하다",
+    "eng": "implement",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "겁나게 하다, 무섭게 하다",
+    "eng": "terrify",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "영토, 지역; 영역",
+    "eng": "territory",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "떨다, 떨리다; 흔들리다, 진동하다",
+    "eng": "tremble",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "엄청난, 막대한; 대단한",
+    "eng": "tremendous",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유죄를 입증하다; 죄수",
+    "eng": "convict",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유죄 판결; 확신",
+    "eng": "conviction",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전하다, 전달하다; 나르다",
+    "eng": "convey",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이전의, 앞의, 사전의",
+    "eng": "previous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이전에, 미리",
+    "eng": "previously",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 경유해서; ~을 통해서, ~을 매개로 하여",
+    "eng": "via",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "항해, 여행; 항해하다, 여행하다",
+    "eng": "voyage",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자발적인; 자원봉사의, 무상으로 일하는",
+    "eng": "voluntary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자원봉사자; 지원자; 자진하여 하다",
+    "eng": "volunteer",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
