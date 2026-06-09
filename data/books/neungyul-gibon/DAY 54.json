@@ -1,122 +1,182 @@
 [
   {
-    "kor": "부정행위를 하다; 속이다",
-    "eng": "cheat",
+    "kor": "~을 내리다, 인하하다; 떨어뜨리다",
+    "eng": "bring down",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "결국 ~이 되다; ~에 이르다",
+    "eng": "come down to",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 베어 넘어뜨리다, 벌목하다",
+    "eng": "cut down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성취하다",
-    "eng": "achieve",
+    "kor": "넘어지다; 떨어지다",
+    "eng": "fall down",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감소하다, 떨어지다",
+    "eng": "go down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "생물",
-    "eng": "creature",
+    "kor": "~에서 내리다",
+    "eng": "get down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "극도의",
-    "eng": "extreme",
+    "kor": "~을 전하다, 물려주다",
+    "eng": "hand down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄이다",
-    "eng": "reduce",
+    "kor": "~을 때려눕히다",
+    "eng": "knock down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "특징",
-    "eng": "feature",
+    "kor": "내리다, 낮추다; 받아적다",
+    "eng": "take down",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "요약하다; 졸이다",
+    "eng": "boil down",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고장 나다",
+    "eng": "break down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(옷 등을) 뜨다",
-    "eng": "knit",
+    "kor": "가라앉다, 진정하다",
+    "eng": "calm down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~할 때마다; ~할 때는 언제든지",
-    "eng": "whenever",
+    "kor": "걸리다",
+    "eng": "come down with",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "졸업생; 졸업하다",
-    "eng": "graduate",
+    "kor": "값을 내리다",
+    "eng": "mark down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(사람의) 배경; (일의) 배경",
-    "eng": "background",
+    "kor": "~을 억누르다, 억제하다",
+    "eng": "hold down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄무늬",
-    "eng": "stripe",
+    "kor": "~을 깔보다, 얕보다",
+    "eng": "look down on",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(신체의) 동작",
-    "eng": "movement",
+    "kor": "~을 진압하다, 억누르다; 적어두다",
+    "eng": "put down",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정착하다; 진정하다, 안정되다",
+    "eng": "settle down",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 부수다, 철거하다",
+    "eng": "tear down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "선택(할 수 있는 것)",
-    "eng": "option",
+    "kor": "~을 거절하다",
+    "eng": "turn down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성격",
-    "eng": "personality",
+    "kor": "폐쇄하다, 문을 닫다",
+    "eng": "shut down",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "부끄러움",
-    "eng": "shame",
+    "kor": "통과하다; 해내다, ~을 끝내다",
+    "eng": "get through",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성공하다, 해내다; 살아남다",
+    "eng": "come through",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 뚫고 지나가다, 돌파하다",
+    "eng": "break through",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "생각하다",
-    "eng": "suppose",
+    "kor": "겪다, 경험하다; 견디다",
+    "eng": "go through",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "샅샅이 뒤지다",
+    "eng": "look through",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "장식하다",
-    "eng": "decorate",
+    "kor": "끝내다, 완료하다",
+    "eng": "be through",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "리듬; 규칙적인 변화운동",
-    "eng": "rhythm",
+    "kor": "~을 완수하다, 수행하다",
+    "eng": "carry through",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~의 경우에는",
-    "eng": "in case of",
+    "kor": "~을 끝까지 해내다, 완성하다",
+    "eng": "go through with",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "스스로",
-    "eng": "on one’s own",
-    "answer_count_kor": 1,
+    "kor": "받게 하다; ~을 성사시키다",
+    "eng": "put through",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
