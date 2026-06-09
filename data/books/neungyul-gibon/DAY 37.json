@@ -1,122 +1,224 @@
 [
   {
-    "kor": "먹이모이를 주다",
-    "eng": "feed",
+    "kor": "분수; 샘; 근원, 원천",
+    "eng": "fountain",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "만년필",
+    "eng": "fountain pen",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "쌓아 놓은 것",
-    "eng": "pile",
+    "kor": "계산서, 청구서; 지폐; 법안; 부리",
+    "eng": "bill",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "빚지고 있다; 덕택으로 생각하다; ~에게 품고 있다",
+    "eng": "owe",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "괜찮은, 제대로 된; 예의 바른; 적절한",
+    "eng": "decent",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "품위, 체면",
+    "eng": "decency",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대답",
-    "eng": "reply",
+    "kor": "기간, 임기; 용어; 학기; 조건",
+    "eng": "term",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~의 측면에서",
+    "eng": "in terms of",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "비슷한",
-    "eng": "similar",
+    "kor": "규율, 훈육; 절제력; 단련, 수련; 징계하다; 훈육하다",
+    "eng": "discipline",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "훈련된, 통제가 잘 된",
+    "eng": "disciplined",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "끔찍한",
-    "eng": "awful",
+    "kor": "시작하다, 착수하다; 출시하다; 발사하다; 출시; 발사",
+    "eng": "launch",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부풀리다; 과장하다; 올리다",
+    "eng": "inflate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부풀린, 과장된; 폭등한",
+    "eng": "inflated",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인플레이션; 팽창",
+    "eng": "inflation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경주; 인종; 경주하다",
+    "eng": "race",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인종의",
+    "eng": "racial",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "탈출하다; 피하다",
-    "eng": "escape",
+    "kor": "민족주의자, 인종 차별주의자",
+    "eng": "racist",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "극복하다",
-    "eng": "overcome",
+    "kor": "인종적 우월감, 민족주의",
+    "eng": "racism",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "어쨌든; 그건 그렇고",
-    "eng": "anyway",
+    "kor": "평평한; 균일의; 바람이 빠진; 아파트; 펑크",
+    "eng": "flat",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "평평하게 하다; 쓰러뜨리다",
+    "eng": "flatten",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "입증하다; 설명하다; 시위하다",
+    "eng": "demonstrate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시위; 실물 설명; 증명",
+    "eng": "demonstration",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "붉어지다; 물로 씻어내리다; 홍조; 물로 씻어냄",
+    "eng": "flush",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "빨간, 상기된",
+    "eng": "flushed",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "섞이다",
-    "eng": "blend",
+    "kor": "관습; 습관; 관세, 세관",
+    "eng": "custom",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관례적인; 습관적인",
+    "eng": "customary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관세가 붙는",
+    "eng": "customable",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(시야에서) 사라지다; (존재가) 없어지다",
-    "eng": "disappear",
+    "kor": "단단한, 딱딱한; 흔들리지 않는, 확고한; 회사",
+    "eng": "firm",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "단단히; 확고하게",
+    "eng": "firmly",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "견고; 확고함",
+    "eng": "firmness",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사람들; 가족, 친척; 민속의; 민간의",
+    "eng": "folk",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "균형; 잔액; 저울; 균형을 잡다",
+    "eng": "balance",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "근본적인; 급진적인; 급진주의자",
+    "eng": "radical",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "근본적으로, 철저하게",
+    "eng": "radically",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(회사",
-    "eng": "found",
+    "kor": "급진주의",
+    "eng": "radicalism",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "국제적인",
-    "eng": "international",
-    "answer_count_kor": 1,
+    "kor": "여백; 차이; 마진, 수익",
+    "eng": "margin",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "궁금한",
-    "eng": "curious",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(심리적) 충격",
-    "eng": "shock",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(~할) 가치가 있는; (얼마) 어치; 가치",
-    "eng": "worth",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세포",
-    "eng": "cell",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비명을 지르다",
-    "eng": "scream",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "제공하다",
-    "eng": "provide",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "모이다",
-    "eng": "get together",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "혼잣말하다",
-    "eng": "talk to oneself",
-    "answer_count_kor": 1,
+    "kor": "미미한; 주변부의",
+    "eng": "marginal",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
