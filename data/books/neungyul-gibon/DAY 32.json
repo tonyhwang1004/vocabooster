@@ -1,121 +1,337 @@
 [
   {
-    "kor": "탄생",
-    "eng": "birth",
+    "kor": "타고난, 고유의",
+    "eng": "inherent",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "말투",
-    "eng": "accent",
+    "kor": "고유, 타고남",
+    "eng": "inherence",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "교육하다",
-    "eng": "educate",
+    "kor": "상속 재산, 유산; 계승",
+    "eng": "inheritance",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "발견하다, 감지하다, 알아내다",
+    "eng": "detect",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "영원히",
-    "eng": "forever",
+    "kor": "탐지할 수 있는",
+    "eng": "detectable",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(상황",
-    "eng": "handle",
+    "kor": "탐정, 형사",
+    "eng": "detective",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "불가능한",
-    "eng": "impossible",
+    "kor": "발견, 탐지",
+    "eng": "detection",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "끝으로",
-    "eng": "lastly",
+    "kor": "탐지기",
+    "eng": "detector",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(사고 등의) 현장; (건설) 현장",
-    "eng": "site",
+    "kor": "지키다, 보호하다",
+    "eng": "protect",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상태; 환경",
-    "eng": "condition",
+    "kor": "보호, 방어",
+    "eng": "protection",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의심하다; 의심",
-    "eng": "doubt",
+    "kor": "보호하는",
+    "eng": "protective",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "주제",
-    "eng": "subject",
+    "kor": "머뭇거림, 망설임",
+    "eng": "hesitancy",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "젊은 시절; 젊은이들",
-    "eng": "youth",
+    "kor": "주저하다, 망설이다",
+    "eng": "hesitate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "괴물",
-    "eng": "monster",
+    "kor": "주저하는, 망설이는",
+    "eng": "hesitant",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위통",
-    "eng": "stomachache",
+    "kor": "일관성; 견고함",
+    "eng": "consistency",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "일관된, 한결같은; 일치하는",
+    "eng": "consistent",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "발명; 발명품",
+    "eng": "invention",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "발명하다",
+    "eng": "invent",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대중의; 공공의; 대중",
-    "eng": "public",
+    "kor": "발명가",
+    "eng": "inventor",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사적인",
-    "eng": "private",
+    "kor": "집회, 총회; 관습",
+    "eng": "convention",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전통적인, 관습적인",
+    "eng": "conventional",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "일",
-    "eng": "task",
+    "kor": "아담한; 빽빽한; 계약, 협정",
+    "eng": "compact",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "충격; 영향; 충격을 주다",
+    "eng": "impact",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 영향을 주다",
+    "eng": "have an impact on",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "서커스",
-    "eng": "circus",
+    "kor": "빈번한, 자주 일어나는",
+    "eng": "continual",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "달아나다",
-    "eng": "run away",
+    "kor": "계속되다, 이어지다",
+    "eng": "continue",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "동시에",
-    "eng": "at the same time",
+    "kor": "계속적으로, 빈번히",
+    "eng": "continually",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "끊임없는, 연속적인",
+    "eng": "continuous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "계속하여, 끊임없이",
+    "eng": "continuously",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "움직이지 않는, 정지한",
+    "eng": "stationary",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "문구, 문방구",
+    "eng": "stationery",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "능력, 재능",
+    "eng": "capability",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 할 수 있는; 유능한",
+    "eng": "capable",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수용력; 용량; 능력",
+    "eng": "capacity",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "직업; 경력",
+    "eng": "career",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "운반인; 운반기; 보균자; 운수 회사",
+    "eng": "carrier",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "순간의",
+    "eng": "momentary",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "잠시; 곧, 즉시",
+    "eng": "momentarily",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중대한, 중요한",
+    "eng": "momentous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "공손한, 존경하는",
+    "eng": "respectful",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "각각의, 개개의",
+    "eng": "respective",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "따로 떼어두다, 준비해두다; 예약하다; 비축",
+    "eng": "reserve",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "예약",
+    "eng": "reservation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~할 가치가 있다, ~을 받을 만하다",
+    "eng": "deserve",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "질투가 많은; 투기하는",
+    "eng": "jealous",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "질투",
+    "eng": "jealousy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "질투하여; 경계하여",
+    "eng": "jealously",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "열심인, 열광적인",
+    "eng": "zealous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경쟁; 대회, 시합",
+    "eng": "competition",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경쟁하다",
+    "eng": "compete",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "능력, 역량; 권한",
+    "eng": "competence",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유능한",
+    "eng": "competent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "준수; 의식",
+    "eng": "observance",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관찰, 감시",
+    "eng": "observation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관측소, 천문대",
+    "eng": "observatory",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관찰자, 감시자",
+    "eng": "observer",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
