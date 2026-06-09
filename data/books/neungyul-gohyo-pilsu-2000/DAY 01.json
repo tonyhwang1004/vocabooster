@@ -1,0 +1,380 @@
+[
+  {
+    "kor": "공평한; 타당한; 상당한; 금발의, 흰 피부의; 박람회",
+    "eng": "fair",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상당히; 공정하게",
+    "eng": "fairly",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "공정, 공평",
+    "eng": "fairness",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시도, 노력; 시도하다",
+    "eng": "attempt",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "한낱, 단지, 그저",
+    "eng": "merely",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "겨우 ~의, ~에 불과한",
+    "eng": "mere",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위로, 위안; 편안함; 위로하다; 편하게 하다",
+    "eng": "comfort",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "편안한",
+    "eng": "comfortable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "격려가 되게",
+    "eng": "comfortingly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수입하다; ~의 뜻을 함축하다; 중요하다; 수입, 수입품; 의미; 중요성",
+    "eng": "import",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수입업자, 수입국",
+    "eng": "importer",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수입 가능한",
+    "eng": "importable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "등록하다; 기록하다; 신청하다; 등록, 등록부",
+    "eng": "register",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "등록, 접수",
+    "eng": "registration",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고발하다, 비난하다",
+    "eng": "accuse",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고발, 비난",
+    "eng": "accusation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "피고",
+    "eng": "the accused",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "포함하다; 넣다, 포함시키다",
+    "eng": "include",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "포함; 함유",
+    "eng": "inclusion",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 포함하여",
+    "eng": "including",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "제외하다; 차단하다",
+    "eng": "exclude",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "제외; 차단",
+    "eng": "exclusion",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 제외하고",
+    "eng": "excluding",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "접근하다, 다가가다; 접근",
+    "eng": "approach",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "그럼에도 불구하고",
+    "eng": "nevertheless",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "믿을 수 있는, 확실한",
+    "eng": "reliable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의지하다, 믿다",
+    "eng": "rely",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의존, 의지",
+    "eng": "reliance",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "증진하다; 승진시키다; 홍보하다",
+    "eng": "promote",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "승진; 판촉, 홍보",
+    "eng": "promotion",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적응하다; 조정하다, 맞추다",
+    "eng": "adjust",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조정; 적응",
+    "eng": "adjustment",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "예언하다, 예측하다",
+    "eng": "predict",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "예측할 수 있는",
+    "eng": "predictable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "예언, 예측",
+    "eng": "prediction",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "설치하다, 설비하다",
+    "eng": "install",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "설치, 설비; 장치",
+    "eng": "installation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대안, 선택 가능한 것; 대체 가능한, 대안이 되는",
+    "eng": "alternative",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "번갈아 나오는; 대안의; 번갈아 나오다",
+    "eng": "alternate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "변하기 쉬운, 변덕스러운",
+    "eng": "variable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "바꾸다; 다르다",
+    "eng": "vary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "변화; 변형",
+    "eng": "variation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "다양, 변화",
+    "eng": "variety",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "여러 가지의, 다양한",
+    "eng": "various",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가지각색의",
+    "eng": "varied",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "임명하다; 정하다",
+    "eng": "appoint",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "약속; 임명, 지명",
+    "eng": "appointment",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위치하다; 알아내다; 두다, 설치하다",
+    "eng": "locate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위치, 장소",
+    "eng": "location",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유명 인사; 명성",
+    "eng": "celebrity",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "처리하다; 다루다; 손잡이",
+    "eng": "handle",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "생기다, 일어나다; 비롯되다, 유래하다",
+    "eng": "originate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "창작; 발명",
+    "eng": "origination",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "알아차린, 알고 있는",
+    "eng": "aware",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인식, 알고 있음",
+    "eng": "awareness",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 알아채다",
+    "eng": "be aware of",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조심, 신중; 경고; 경고하다",
+    "eng": "caution",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조심성 있는, 신중한",
+    "eng": "cautious",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조심하여, 신중히",
+    "eng": "with caution",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "장애, 장벽; 방벽, 국경의 요새",
+    "eng": "barrier",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "예상하다, 예측하다; 기대하다",
+    "eng": "anticipate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "예상; 기대",
+    "eng": "anticipation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "번식하다; 사육하다, 재배하다; 품종",
+    "eng": "breed",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  }
+]
