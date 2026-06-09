@@ -1,121 +1,379 @@
 [
   {
-    "kor": "(정도가) 가벼운",
-    "eng": "mild",
+    "kor": "묻다, 알아보다; 조사하다",
+    "eng": "inquire",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "질문; 조사",
+    "eng": "inquiry",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정복하다; 이기다; 극복하다",
+    "eng": "conquer",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정복; 점령지",
+    "eng": "conquest",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정교한, 매우 아름다운",
+    "eng": "exquisite",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "결석한; 없는",
-    "eng": "absent",
+    "kor": "절묘하게, 정교하게",
+    "eng": "exquisitely",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "연결하다",
-    "eng": "connect",
+    "kor": "필요로 하다; 요구하다",
+    "eng": "require",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "필요; 요건",
+    "eng": "requirement",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동의, 승낙; 동의하다, 승낙하다",
+    "eng": "consent",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의견 일치, 합의",
+    "eng": "consensus",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(동물의 부드러운) 털; 모피",
-    "eng": "fur",
+    "kor": "분개하다, 불쾌하게 여기다",
+    "eng": "resent",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "흥미 있는",
-    "eng": "interested",
+    "kor": "분개하는",
+    "eng": "resentful",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경쟁자",
-    "eng": "rival",
+    "kor": "분개, 분노",
+    "eng": "resentment",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "결정하다",
-    "eng": "decide",
+    "kor": "냄새, 향기; 냄새를 풍기다",
+    "eng": "scent",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "향기로운, 좋은 냄새가 나는",
+    "eng": "scented",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "목구멍",
-    "eng": "throat",
+    "kor": "감각, 지각력; 느낌, 기분; 엄청난 관심, 대소동",
+    "eng": "sensation",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "세상을 놀라게 하는; 선정적인",
+    "eng": "sensational",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감각; 느낌; 분별력, 센스; 의미",
+    "eng": "sense",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감각의",
+    "eng": "sensory",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "시험; 조사",
-    "eng": "examination",
+    "kor": "분별 있는, 현명한",
+    "eng": "sensible",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "부딪치다",
-    "eng": "bump",
+    "kor": "민감한, 예민한; 섬세한",
+    "eng": "sensitive",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "결과, 영향; 중요성",
+    "eng": "consequence",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "결과로 일어나는",
+    "eng": "consequent",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "금색의",
-    "eng": "golden",
+    "kor": "그 결과로",
+    "eng": "consequently",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수영복",
-    "eng": "swimsuit",
+    "kor": "연속, 잇달아 일어남; 순서, 차례",
+    "eng": "sequence",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "다음의, 그 이후의",
+    "eng": "subsequent",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "취소하다",
-    "eng": "cancel",
+    "kor": "그 후에, 이어서",
+    "eng": "subsequently",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "열정",
-    "eng": "passion",
+    "kor": "~ 다음에, 뒤에",
+    "eng": "subsequent to",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위",
-    "eng": "stomach",
+    "kor": "사로잡다, ~ 생각만 하게 하다",
+    "eng": "obsess",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "바퀴; (자동차 등의) 핸들",
-    "eng": "wheel",
+    "kor": "사로잡힌, 강박 관념의",
+    "eng": "obsessive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(맛이) 신; (우유 등이) 상한",
-    "eng": "sour",
+    "kor": "집착, 강박 관념",
+    "eng": "obsession",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "막대기",
-    "eng": "pole",
+    "kor": "살다, 거주하다",
+    "eng": "reside",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 나눠주다",
-    "eng": "hand out",
+    "kor": "주택, 거주",
+    "eng": "residence",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "최선을 다하다",
-    "eng": "try one’s best",
+    "kor": "거주자; 거주하는",
+    "eng": "resident",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "학년, 학기, 수업; 진행 중인 시기",
+    "eng": "session",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "개회 중에",
+    "eng": "in session",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "해결하다, 끝내다; 정착하다; 진정시키다",
+    "eng": "settle",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "진정되다; 정착하다",
+    "eng": "settle down",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "합의; 정착지",
+    "eng": "settlement",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~와 닮다, 비슷하다",
+    "eng": "resemble",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "모의실험, 흉내, 시뮬레이션",
+    "eng": "simulation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가장하다, 모의실험하다",
+    "eng": "simulate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "모으다, 모이다; 조립하다",
+    "eng": "assemble",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의회, 입법부; 집회; 조립",
+    "eng": "assembly",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "겉보기에는, 얼핏 보기에",
+    "eng": "seemingly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이성적인; 합리적인, 분별 있는",
+    "eng": "rational",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "과학적인, 과학의",
+    "eng": "scientific",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사막; 버리다, 떠나다",
+    "eng": "desert",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "삽입하다, 넣다; 덧붙이다",
+    "eng": "insert",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "삽입, 첨가물",
+    "eng": "insertion",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "개입하다, 중재하다; 끼어들다; 사이에 일어나다",
+    "eng": "intervene",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중재, 개입",
+    "eng": "intervention",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기념품, 기념 선물",
+    "eng": "souvenir",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감독하다, 관리하다",
+    "eng": "supervise",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감독관, 관리자",
+    "eng": "supervisor",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감독, 관리",
+    "eng": "supervision",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시력; 시야; 통찰력, 선견지명",
+    "eng": "vision",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보이는; 뚜렷한, 눈에 띄는",
+    "eng": "visible",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시각의, 눈으로 보는; 시각 자료",
+    "eng": "visual",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소생시키다; 되살아나다",
+    "eng": "revive",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소생, 회복",
+    "eng": "revival",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "매우 중요한, 필수적인; 활기찬; 생명 유지에 필요한",
+    "eng": "vital",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "생명력, 활기",
+    "eng": "vitality",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
