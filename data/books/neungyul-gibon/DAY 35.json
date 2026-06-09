@@ -1,122 +1,206 @@
 [
   {
-    "kor": "순환",
-    "eng": "cycle",
+    "kor": "내용; 함유량; 내용; 만족한; 동만족시키다",
+    "eng": "content",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "만족",
+    "eng": "contentment",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(온도",
-    "eng": "degree",
+    "kor": "묶다, 감다; 결속시키다; 의무를 지우다",
+    "eng": "bind",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무덤; 심각한; 중대한",
+    "eng": "grave",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중력; 심각성; 중대함",
+    "eng": "gravity",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "설비, 시설; 기능; 건물, 장소; 재능, 능력",
+    "eng": "facility",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "용이하게 하다",
+    "eng": "facilitate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(몸을) 굽히다",
-    "eng": "bend",
+    "kor": "비치다; 반사하다; 반영하다; 심사숙고하다",
+    "eng": "reflect",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반사; 반영; 심사숙고",
+    "eng": "reflection",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "확인하다; 동일시하다",
+    "eng": "identify",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신원, 정체; 정체성; 동일함, 일치",
+    "eng": "identity",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신분 증명",
+    "eng": "identification",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이유",
+    "kor": "동일한",
+    "eng": "identical",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "줄어들다, 감소하다; 거절하다; 감소, 하락",
+    "eng": "decline",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "던지다; 배역을 정하다; 주조하다; 출연자; 깁스",
+    "eng": "cast",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "일치하다; 해당하다; 편지를 주고받다",
+    "eng": "correspond",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "서신 왕래; 대응, 해당",
+    "eng": "correspondence",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "통신원, 특파원",
+    "eng": "correspondent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이동하다, 전근하다; 환승하다; 전송하다; 이동, 이적, 전학; 환승",
+    "eng": "transfer",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이유; 근거; 이성; 판단하다, 추론하다",
     "eng": "reason",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "합리적인; 합당한",
+    "eng": "reasonable",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "돌연한, 갑작스러운; 퉁명스러운",
+    "eng": "abrupt",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "갑자기, 불쑥; 퉁명스럽게",
+    "eng": "abruptly",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "일어나다, 생기다; 떠오르다; 존재하다, 발견되다",
+    "eng": "occur",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "발생; 사건, 일어난 일",
+    "eng": "occurrence",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비난하다; 선고를 내리다; 처하게 하다",
+    "eng": "condemn",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비난",
+    "eng": "condemnation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "안전",
-    "eng": "safety",
+    "kor": "비난의",
+    "eng": "condemnatory",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "잠든",
-    "eng": "asleep",
+    "kor": "참석한; 현재의; 선물; 현재; 주다, 제출하다; 나타내다; 생기다",
+    "eng": "present",
+    "answer_count_kor": 7,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "참석, 출석, 있음",
+    "eng": "presence",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "자신감 있는; 확신하는",
-    "eng": "confident",
-    "answer_count_kor": 1,
+    "kor": "수용하다, 공간을 제공하다; 수용하다; 적응하다",
+    "eng": "accommodate",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "물결 모양의",
-    "eng": "wavy",
-    "answer_count_kor": 1,
+    "kor": "숙박 시설; 합의",
+    "eng": "accommodation",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(액체 등이 흐르는) 관; (치약",
-    "eng": "tube",
-    "answer_count_kor": 1,
+    "kor": "규모; 등급; 저울; 축척; 비늘",
+    "eng": "scale",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "출석참석하다; (학교 등에) 가다",
-    "eng": "attend",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "파괴하다; (인생 등을) 망가뜨리다",
-    "eng": "destroy",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "방문객",
-    "eng": "visitor",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감정",
-    "eng": "emotion",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "돌다",
-    "eng": "spin",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "남쪽의",
-    "eng": "southern",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "운 좋게",
-    "eng": "fortunately",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "손님",
-    "eng": "guest",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(펌프로) 퍼 올리다",
-    "eng": "pump",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(사건이) 일어나다",
-    "eng": "take place",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "~ 대신에",
-    "eng": "instead of",
-    "answer_count_kor": 1,
+    "kor": "온화한; 절제된",
+    "eng": "temperate",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
