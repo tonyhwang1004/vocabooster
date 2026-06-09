@@ -1,121 +1,277 @@
 [
   {
-    "kor": "쉬움",
-    "eng": "ease",
+    "kor": "문예, 문학",
+    "eng": "literature",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "힘; 강요강제하다",
-    "eng": "force",
+    "kor": "문학의, 문학적인",
+    "eng": "literary",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "평균(의); 보통평균 수준(의)",
-    "eng": "average",
+    "kor": "저자, 작가",
+    "eng": "author",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관계",
-    "eng": "relationship",
+    "kor": "저자의",
+    "eng": "authorial",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "정보",
-    "eng": "information",
+    "kor": "서사시의, 서사체의; 서사시; 대하 소설",
+    "eng": "epic",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "줄거리; 음모",
+    "eng": "plot",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "줄거리; 실마리, 단서; ~에 암시를 주다",
+    "eng": "clue",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "요약, 개요",
+    "eng": "summary",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "더럽히다",
-    "eng": "pollute",
+    "kor": "요약하다",
+    "eng": "summarize",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "연기; 담배를 피우다",
-    "eng": "smoke",
+    "kor": "요약하면",
+    "eng": "in summary",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "서류",
-    "eng": "document",
+    "kor": "운, 압운",
+    "eng": "rhyme",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고대의; 아주 오래된",
-    "eng": "ancient",
+    "kor": "은유",
+    "eng": "metaphor",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성공하다; 뒤를 잇다",
-    "eng": "succeed",
+    "kor": "은유의, 비유적인",
+    "eng": "metaphorical",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "친절",
-    "eng": "kindness",
+    "kor": "문맥; 정황",
+    "eng": "context",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "맥락과 관련짓다",
+    "eng": "contextualize",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성장",
-    "eng": "growth",
+    "kor": "전설적인, 아주 유명한; 전설에 나오는",
+    "eng": "legendary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전설; 전설적 인물",
+    "eng": "legend",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "역설, 패러독스; 모순되는 말",
+    "eng": "paradox",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "역설의, 모순적인",
+    "eng": "paradoxical",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(종합) 대학교",
-    "eng": "university",
+    "kor": "미의, 미학의",
+    "eng": "aesthetic",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "정신 나간",
-    "eng": "crazy",
+    "kor": "도기; 도기 제조법",
+    "eng": "pottery",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도공, 도예가",
+    "eng": "potter",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "갓 태어난",
-    "eng": "newborn",
+    "kor": "조각; 조각술",
+    "eng": "sculpture",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "새기다, 조각하다",
+    "eng": "sculpt",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(병을 일으키는) 바이러스; 컴퓨터 바이러스",
-    "eng": "virus",
+    "kor": "조각가",
+    "eng": "sculptor",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "화학",
-    "eng": "chemistry",
+    "kor": "틀; 곰팡이; 성격; 본뜨다; 형성하다",
+    "eng": "mo(u)ld",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "틀로 만들기, 주조",
+    "eng": "molding",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "강철",
-    "eng": "steel",
+    "kor": "교향곡, 심포니",
+    "eng": "symphony",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "베어 쓰러뜨리다; (양 등을) 줄이다",
-    "eng": "cut down",
+    "kor": "합창단, 성가대",
+    "eng": "choir",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 익숙하다",
-    "eng": "be familiar with",
+    "kor": "산; 산성의",
+    "eng": "acid",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "산성비",
+    "eng": "acid rain",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "잡동사니, 쓰레기; 어지르다",
+    "eng": "litter",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의견 일치, 합의",
+    "eng": "consensus",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "쓰레기 매립",
+    "eng": "landfill",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "살충제, 농약",
+    "eng": "pesticide",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "더럽히다, 오염시키다",
+    "eng": "contaminate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "오염",
+    "eng": "contamination",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "세제",
+    "eng": "detergent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "생물량; 바이오매스",
+    "eng": "biomass",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "바이오매스 연료",
+    "eng": "biomass fuel",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자원; 원천",
+    "eng": "resource",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "뒤얽히다; 밀접하게 관련되다",
+    "eng": "intertwine",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "생태계",
+    "eng": "ecosystem",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "바다의, 바다에 사는",
+    "eng": "marine",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도시의, 도시에 사는",
+    "eng": "urban",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도시화",
+    "eng": "urbanization",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
