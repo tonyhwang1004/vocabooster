@@ -1,121 +1,295 @@
 [
   {
-    "kor": "뿌려지다",
-    "eng": "spray",
+    "kor": "전쟁터, 싸움터",
+    "eng": "battlefield",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(우편물 등의) 배달",
-    "eng": "delivery",
+    "kor": "경계, 국경; 가장자리; 접경하다",
+    "eng": "border",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "포격하다",
+    "eng": "bombard",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "교우 관계",
-    "eng": "friendship",
+    "kor": "대학살; 대학살하다; 도살하다",
+    "eng": "slaughter",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "패배시키다, 쳐부수다; 패배",
+    "eng": "defeat",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "황폐시키다, 철저하게 파괴하다",
+    "eng": "devastate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공포",
-    "eng": "horror",
+    "kor": "황폐",
+    "eng": "devastation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "등반",
-    "eng": "climbing",
+    "kor": "대단히 파괴적인",
+    "eng": "devastating",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "정의",
-    "eng": "justice",
+    "kor": "전쟁의; 군의, 군사의",
+    "eng": "martial",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무술, 무도",
+    "eng": "martial art",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "우려",
-    "eng": "concern",
+    "kor": "습격, 급습; 급습하다, 공격하다",
+    "eng": "assault",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적",
+    "eng": "foe",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "추가의",
-    "eng": "extra",
+    "kor": "경례; 인사; 경례하다; 인사하다",
+    "eng": "salute",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인사",
+    "eng": "salutation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "외모",
-    "eng": "appearance",
+    "kor": "승리; 승리를 차지하다",
+    "eng": "triumph",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "승리를 축하하는",
+    "eng": "triumphal",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "원래본래의; 독창적인; 원본원작의",
-    "eng": "original",
+    "kor": "승리를 거둔; 의기양양한",
+    "eng": "triumphant",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "창, 투창; 창으로 찌르다",
+    "eng": "spear",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "방패; 방어물; 보호하다",
+    "eng": "shield",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대포",
+    "eng": "cannon",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(병의) 전염",
-    "eng": "infection",
+    "kor": "핵의; 핵무기의",
+    "eng": "nuclear",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "핵; 핵심",
+    "eng": "nucleus",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무리, 떼; 군대",
+    "eng": "troop",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전략, 전술; 계략, 술수",
+    "eng": "strategy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전략의, 전략상 중요한",
+    "eng": "strategic",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(전문적으로) 상담하다",
-    "eng": "counsel",
+    "kor": "전술, 병법; 술책, 책략",
+    "eng": "tactics",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "권위, 권한; 당국, 관헌; 권위자, 대가",
+    "eng": "authority",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "권위적인",
+    "eng": "authoritative",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "낭비; 쓰레기",
-    "eng": "waste",
+    "kor": "권한을 주다",
+    "eng": "authorize",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "망치다",
-    "eng": "spoil",
+    "kor": "통치 기간; 통치하다; 군림하다",
+    "eng": "reign",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대사관",
+    "eng": "embassy",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "남북극의",
-    "eng": "polar",
+    "kor": "존엄, 위엄; 엄숙함",
+    "eng": "dignity",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위엄 있게",
+    "eng": "with dignity",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "관련짓다",
-    "eng": "relate",
+    "kor": "위엄 있어 보이게 하다",
+    "eng": "dignify",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수의사",
-    "eng": "vet",
+    "kor": "연방의, 연방제의; 연방 정부의",
+    "eng": "federal",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "다스리다, 통치하다; 결정하다",
+    "eng": "govern",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정부; 정치 체제",
+    "eng": "government",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "왕좌, 왕위; 군주",
+    "eng": "throne",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "즉위시키다",
+    "eng": "enthrone",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "비극(적인 사건)",
-    "eng": "tragedy",
+    "kor": "퇴위시키다",
+    "eng": "dethrone",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~와 같은",
-    "eng": "such as",
+    "kor": "의회, 국회",
+    "eng": "parliament",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(비밀을) 폭로하다; 거저 주다",
-    "eng": "give away",
+    "kor": "의회의",
+    "eng": "parliamentary",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상원 의원",
+    "eng": "senator",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상원 의원의",
+    "eng": "senatorial",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "투표; 여론 조사; 얻다; 여론 조사를 하다",
+    "eng": "poll",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "여론 조사 요원",
+    "eng": "pollster",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "후보자, 지원자",
+    "eng": "candidate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "투표; 투표권; 투표하다",
+    "eng": "vote",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "투표인, 유권자",
+    "eng": "voter",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
