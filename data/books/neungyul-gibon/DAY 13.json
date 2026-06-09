@@ -1,121 +1,331 @@
 [
   {
-    "kor": "영향",
-    "eng": "effect",
+    "kor": "구별하다, 식별하다",
+    "eng": "distinguish",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "집중하다",
-    "eng": "focus",
+    "kor": "뚜렷한; 별개의",
+    "eng": "distinct",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유명한, 저명한",
+    "eng": "distinguished",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사전",
-    "eng": "dictionary",
+    "kor": "농작물, 수확물; 자르다; 재배하다, 수확하다",
+    "eng": "crop",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "만약 그렇지 않다면",
+    "eng": "otherwise",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "허락하다",
-    "eng": "allow",
+    "kor": "증명서, 수료증; 증명하다",
+    "eng": "certificate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "특성, 특징",
+    "eng": "trait",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인쇄하다; 출판하다",
-    "eng": "print",
+    "kor": "처벌하다, 벌주다",
+    "eng": "punish",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "안전하게",
-    "eng": "safely",
+    "kor": "처벌, 형벌",
+    "eng": "punishment",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "거인; 거대한",
-    "eng": "giant",
+    "kor": "적절한, 알맞은",
+    "eng": "appropriate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보통",
-    "eng": "usually",
+    "kor": "올리다; 모금하다; 기르다; 제기하다",
+    "eng": "raise",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "구체적인, 명확한; 특정한",
+    "eng": "specific",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "명확히; 특히",
+    "eng": "specifically",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "번역하다, 해석하다",
+    "eng": "translate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "창의적인",
-    "eng": "creative",
+    "kor": "번역, 해석",
+    "eng": "translation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "검토(하다); 평론(하다)",
-    "eng": "review",
+    "kor": "번역가, 통역사",
+    "eng": "translator",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "키스하다",
-    "eng": "kiss",
+    "kor": "지평선, 수평선; 시야",
+    "eng": "horizon",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수평의, 가로의",
+    "eng": "horizontal",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이상한; 낯선",
-    "eng": "strange",
+    "kor": "억제하다, 못하게 하다",
+    "eng": "inhibit",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "웃기는; 코미디의",
-    "eng": "comic",
+    "kor": "억제, 방해",
+    "eng": "inhibition",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "얼룩",
-    "eng": "mark",
+    "kor": "신의, 신성한",
+    "eng": "divine",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가게",
-    "eng": "shop",
+    "kor": "신처럼, 훌륭하게",
+    "eng": "divinely",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "재능 있는",
-    "eng": "talented",
+    "kor": "통일하다, 통합하다",
+    "eng": "unify",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "벌거벗은",
-    "eng": "bare",
+    "kor": "통일, 통합",
+    "eng": "unification",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "집안일",
-    "eng": "housework",
+    "kor": "금지하다; ~하지 못하게 하다",
+    "eng": "prohibit",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "금지",
+    "eng": "prohibition",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "적어도",
-    "eng": "at least",
+    "kor": "후퇴, 철수; 물러서다, 후퇴하다",
+    "eng": "retreat",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "장비, 용품; 설치, 설비",
+    "eng": "equipment",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "장비를 갖추다; 갖추게 하다",
+    "eng": "equip",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "직관력; 직감, 직관",
+    "eng": "intuition",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "직관에 의한, 직감하는",
+    "eng": "intuitive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지나가다",
-    "eng": "pass through",
+    "kor": "직감적으로",
+    "eng": "by intuition",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "그런데, ~에 반해서",
+    "eng": "whereas",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "망치다; 파괴, 붕괴; 잔해, 폐허",
+    "eng": "ruin",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "파괴적인; 황폐한",
+    "eng": "ruinous",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "폐허가 되다",
+    "eng": "be[lie] in ruins",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성공한, 성공적인",
+    "eng": "successful",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성공, 출세",
+    "eng": "success",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성공하다; 뒤따르다, 계승하다",
+    "eng": "succeed",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "연속적인, 연이은",
+    "eng": "successive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "연속; 계승",
+    "eng": "succession",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "계승자",
+    "eng": "successor",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "화려한, 아주 인상적인",
+    "eng": "splendid",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "틀에 박힌 일, 일과; 일상적인; 지루한",
+    "eng": "routine",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비교의; 상대적인",
+    "eng": "comparative",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비교하다, 비유하다",
+    "eng": "compare",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비교, 비유",
+    "eng": "comparison",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비슷한; ~에 필적하는",
+    "eng": "comparable",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "임의로",
+    "eng": "randomly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무작위의, 닥치는 대로 하는",
+    "eng": "random",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "함축, 암시; 영향, 결과",
+    "eng": "implication",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~인 척하다, 가장하다",
+    "eng": "pretend",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분리하다, 갈라지다; 분리된; 별개의",
+    "eng": "separate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분리, 구분",
+    "eng": "separation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "따로따로, 별도로",
+    "eng": "separately",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
