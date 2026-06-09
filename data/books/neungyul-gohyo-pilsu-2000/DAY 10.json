@@ -1,0 +1,314 @@
+[
+  {
+    "kor": "조사하다, 연구하다",
+    "eng": "investigate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조사, 연구",
+    "eng": "investigation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이용하다, 착취하다; 개발하다",
+    "eng": "exploit",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수치; 인물; 모습, 사람; 몸매; 도형",
+    "eng": "figure",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "알아내다, 이해하다",
+    "eng": "figure out",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "퍼뜨리다, 확산되다; 펼치다; 펴 바르다; 확산",
+    "eng": "spread",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분열되다; 나뉘다; 쪼개지다",
+    "eng": "split",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "폭발하다",
+    "eng": "explode",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "폭발",
+    "eng": "explosion",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "폭발성의; 폭발물",
+    "eng": "explosive",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "값비싼; 귀중한",
+    "eng": "valuable",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가치; 높이 평가하다, 중요시하다",
+    "eng": "value",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "매우 유용한, 귀중한",
+    "eng": "invaluable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "오류를 입증하다, 반증하다",
+    "eng": "disprove",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성취하다, 완수하다",
+    "eng": "accomplish",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성취, 완성; 업적",
+    "eng": "accomplishment",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정화하다; 순화하다",
+    "eng": "purify",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정화 장치",
+    "eng": "purifier",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주요한; 최초의",
+    "eng": "primary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주로",
+    "eng": "primarily",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "찬성하다; 승인하다",
+    "eng": "approve",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "승인된, 공인된",
+    "eng": "approved",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "승인, 찬성",
+    "eng": "approval",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "촉진하다, 용이하게 하다",
+    "eng": "facilitate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조력자",
+    "eng": "facilitator",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정반대의; 반대쪽의; ~의 맞은편에; 반대",
+    "eng": "opposite",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반대하다; 겨루다",
+    "eng": "oppose",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반대; 대립",
+    "eng": "opposition",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "충돌하다, 부딪치다; 쿵, 탁; 타박상, 혹",
+    "eng": "bump",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "목적, 의도",
+    "eng": "purpose",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "목적이 있는",
+    "eng": "purposeful",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고의로",
+    "eng": "on purpose",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "명백한; 솔직한; 무늬가 없는; 평지, 평원",
+    "eng": "plain",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지명하다, 임명하다",
+    "eng": "nominate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지명, 임명",
+    "eng": "nomination",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이동하다; 바꾸다; 변화; 교대",
+    "eng": "shift",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "촉발시키다; 작동시키다; 방아쇠; 계기",
+    "eng": "trigger",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "얻다, 습득하다; 획득하다",
+    "eng": "acquire",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "취득; 습득",
+    "eng": "acquisition",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "포옹하다; 받아들이다; 포옹; 수락, 용인",
+    "eng": "embrace",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인간성, 인류",
+    "eng": "humanity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "미덕, 덕목; 장점",
+    "eng": "virtue",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경쟁하다; 겨루다, 참가하다",
+    "eng": "compete",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경쟁; 대회",
+    "eng": "competition",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경쟁의, 경쟁력 있는",
+    "eng": "competitive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "박수갈채하다; 칭찬하다",
+    "eng": "applaud",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "박수",
+    "eng": "applause",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "휘젓다, 뒤섞다; 움직이다; 마음을 흔들다",
+    "eng": "stir",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "마음을 뒤흔드는, 감동시키는",
+    "eng": "stirring",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흔들리다, 진동하다",
+    "eng": "vibrate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "떨림, 진동",
+    "eng": "vibration",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흠뻑 적시다; 담그다",
+    "eng": "soak",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  }
+]
