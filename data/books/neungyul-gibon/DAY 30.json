@@ -1,121 +1,331 @@
 [
   {
-    "kor": "앞(쪽)으로",
-    "eng": "forward",
+    "kor": "꿰매다, 바느질하다",
+    "eng": "sew",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(밟아서 생긴) 길; 자취",
-    "eng": "track",
+    "kor": "뿌리다",
+    "eng": "sow",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "선택권; 선택(하는 행동)",
-    "eng": "choice",
+    "kor": "돌다, 회전하다",
+    "eng": "revolve",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(총 등을) 쏘다; (농구 등에서) 슛하다",
-    "eng": "shoot",
+    "kor": "진화하다; 발달하다",
+    "eng": "evolve",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "진화; 발전",
+    "eng": "evolution",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "진화의; 점진적인",
+    "eng": "evolutionary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중립의, 어느 편도 들지 않는",
+    "eng": "neutral",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(과일 등의) 껍질을 벗기다; 벗겨지다",
-    "eng": "peel",
+    "kor": "자연의, 천연의; 타고난",
+    "eng": "natural",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신경의",
+    "eng": "neural",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "결정",
-    "eng": "decision",
+    "kor": "살, 살코기",
+    "eng": "flesh",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조용히",
-    "eng": "quietly",
+    "kor": "번쩍임; 번쩍이다, 번쩍거리다",
+    "eng": "flash",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "새다; 새는 구멍",
+    "eng": "leak",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "누출, 누설",
+    "eng": "leakage",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~ 옆에",
-    "eng": "beside",
+    "kor": "새는, 새기 쉬운",
+    "eng": "leaky",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "명백하게",
-    "eng": "clearly",
+    "kor": "핥다",
+    "eng": "lick",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "다시 말하다쓰다; 반복되풀이하다",
-    "eng": "repeat",
+    "kor": "평가하다",
+    "eng": "assess",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "스위치; 전환",
-    "eng": "switch",
+    "kor": "평가할 수 있는",
+    "eng": "assessable",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "주요 지형지물",
-    "eng": "landmark",
+    "kor": "평가",
+    "eng": "assessment",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상품",
-    "eng": "goods",
+    "kor": "접근; 이용; 접근하다",
+    "eng": "access",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "접근할 수 있는",
+    "eng": "accessible",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "발표하다",
-    "eng": "announce",
+    "kor": "초과, 과잉; 초과한",
+    "eng": "excess",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "과도한",
+    "eng": "excessive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(한 편의) 시(詩)",
-    "eng": "poem",
+    "kor": "칭찬; 칭찬하다",
+    "eng": "compliment",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "칭찬하는; 무료의",
+    "eng": "complimentary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보충물, 보완하는 것; 보완하다",
+    "eng": "complement",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "서로 보완하는",
+    "eng": "complementary",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전기의",
-    "eng": "electric",
+    "kor": "개인의, 사적인",
+    "eng": "personal",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "폭풍",
-    "eng": "storm",
+    "kor": "성격; 개성",
+    "eng": "personality",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "개인적으로, 직접",
+    "eng": "personally",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "철사; (전화 등의) 선",
-    "eng": "wire",
+    "kor": "인원, 직원; 인사의, 직원의",
+    "eng": "personnel",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "먹이; 희생",
+    "eng": "prey",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기도하다, 빌다, 간청하다",
+    "eng": "pray",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "나날이",
-    "eng": "day by day",
+    "kor": "지역; 부분; 범위",
+    "eng": "region",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지역적인, 지방의",
+    "eng": "regional",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 …으로 바꾸다",
-    "eng": "turn ~ into …",
+    "kor": "종교, 신앙",
+    "eng": "religion",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "종교의; 독실한",
+    "eng": "religious",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "엉망, 어질러 놓은 것",
+    "eng": "mess",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "어질러진",
+    "eng": "messy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "어질러져서; 곤경에 빠져",
+    "eng": "in a mess",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "큰 덩어리; 다량, 다수; 대중",
+    "eng": "mass",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "크고 무거운, 대량의",
+    "eng": "massive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "명상; 심사숙고",
+    "eng": "meditation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "숙고하다; 명상하다",
+    "eng": "meditate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "약물; 약물 치료",
+    "eng": "medication",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "약으로 치료하다, 투약하다",
+    "eng": "medicate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흉내 내다, ~인 체하다; ~의 모의실험을 하다",
+    "eng": "simulate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시뮬레이션, 모의실험",
+    "eng": "simulation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "모조의, 가장된",
+    "eng": "simulated",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자극하다; 격려하다, 고무시키다",
+    "eng": "stimulate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자극; 고무, 격려",
+    "eng": "stimulation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자극",
+    "eng": "stimulus",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흡수하다; 받아들이다; 열중하게 하다",
+    "eng": "absorb",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흡수, 몰두",
+    "eng": "absorption",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "어리석은, 터무니없는",
+    "eng": "absurd",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부조리, 모순",
+    "eng": "absurdity",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
