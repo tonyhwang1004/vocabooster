@@ -1,121 +1,181 @@
 [
   {
-    "kor": "뛰다",
-    "eng": "leap",
+    "kor": "가려내다, 선별하다",
+    "eng": "sort out",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지지(하다); 부양(하다)",
-    "eng": "support",
+    "kor": "눈에 띄다",
+    "eng": "stand out",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "속담",
-    "eng": "proverb",
+    "kor": "꺼내다, 끄집어내다",
+    "eng": "take out",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "논쟁",
-    "eng": "argument",
+    "kor": "이야기하다, 분명하게 말하다",
+    "eng": "speak out",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "10억",
-    "eng": "billion",
+    "kor": "튀어나오다; 두드러지다",
+    "eng": "stick out",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "판명되다, 결국 ~임이 드러나다; 끄다",
+    "eng": "turn out",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "운동하다; 풀다",
+    "eng": "work out",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의식을 잃다, 기절하다; 배포하다",
+    "eng": "pass out",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상세히 설명하다",
+    "eng": "spell out",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조직",
-    "eng": "organization",
+    "kor": "써보게 하다, 시험하다",
+    "eng": "try out",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(시간상으로) 다음의; 다음에 나오는",
-    "eng": "following",
+    "kor": "~을 써서 낡게 하다, 닳다; 지치게 하다",
+    "eng": "wear out",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "돌보다; 좋아하다",
+    "eng": "care for",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적용되다, ~으로 통하다",
+    "eng": "go for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 제외하고",
-    "eng": "except",
+    "kor": "~의 대가를 지불하다, 물어주다",
+    "eng": "pay for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "꼬리표",
-    "eng": "tag",
+    "kor": "신청하다; 지원하다",
+    "eng": "apply for",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 신청하다",
+    "eng": "sign up for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(문제 등에 대해) 책임이 있는; (관리 등을) 책임지고 있는",
-    "eng": "responsible",
+    "kor": "찬성하다; 지지하다",
+    "eng": "be for",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "요구하다, 요청하다",
+    "eng": "ask for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "격려하다",
-    "eng": "encourage",
+    "kor": "요구하다, 청하다",
+    "eng": "call for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수확(기)",
-    "eng": "harvest",
+    "kor": "간절히 바라다",
+    "eng": "pray for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "비참한",
-    "eng": "miserable",
+    "kor": "갈망하다; 그리워하다",
+    "eng": "long for",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~로 향해 가다",
+    "eng": "head for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "낯선모르는 사람; (어떤 장소에) 처음 온 사람",
-    "eng": "stranger",
+    "kor": "~로 향해 가다",
+    "eng": "make for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "구체적인; 콘크리트로 된",
-    "eng": "concrete",
+    "kor": "손을 뻗다",
+    "eng": "reach for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "하인",
-    "eng": "servant",
+    "kor": "출마하다",
+    "eng": "run for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "방수의",
-    "eng": "waterproof",
+    "kor": "~이라고 생각하다",
+    "eng": "take for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지하의; 지하에로",
-    "eng": "underground",
+    "kor": "~의 대리를 하다",
+    "eng": "act for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(특정한 시점",
-    "eng": "up to",
+    "kor": "~을 대변하다",
+    "eng": "speak for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "생각이 떠오르다",
-    "eng": "come to mind",
+    "kor": "상징하다, 의미하다",
+    "eng": "stand for",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 대신하다",
+    "eng": "substitute for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
