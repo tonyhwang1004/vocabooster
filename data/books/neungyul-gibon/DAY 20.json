@@ -1,121 +1,319 @@
 [
   {
-    "kor": "맨 아랫부분",
-    "eng": "base",
+    "kor": "견디다; 저항하다",
+    "eng": "withstand",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "물러나다; 취소하다; 그만두다; 인출하다",
+    "eng": "withdraw",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주지 않다, 보류하다",
+    "eng": "withhold",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "등급; 학년; 성적",
-    "eng": "grade",
+    "kor": "폐지하다, 없애다",
+    "eng": "abolish",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "신호",
-    "eng": "signal",
+    "kor": "청소년; 청소년의",
+    "eng": "adolescent",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사춘기, 청소년기",
+    "eng": "adolescence",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "의미",
-    "eng": "meaning",
+    "kor": "비판하다, 비난하다; 비평하다",
+    "eng": "criticize",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비판; 비평",
+    "eng": "criticism",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비평가, 평론가",
+    "eng": "critic",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "덮다; (책 등이) 다루다",
-    "eng": "cover",
+    "kor": "차별하다; 구별하다",
+    "eng": "discriminate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "차별; 식별력",
+    "eng": "discrimination",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "알아보다; 식별하다",
+    "eng": "discern",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전기, 일대기",
+    "eng": "biography",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "깨어 있는",
-    "eng": "awake",
+    "kor": "생물학",
+    "eng": "biology",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "빨리",
-    "eng": "quickly",
+    "kor": "생물학자",
+    "eng": "biologist",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "쓰레기",
-    "eng": "trash",
+    "kor": "생물학적인",
+    "eng": "biological",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "보호하다",
-    "eng": "protect",
+    "kor": "사임하다, 사직하다",
+    "eng": "resign",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사악한; 악",
-    "eng": "evil",
+    "kor": "사임, 사직; 체념",
+    "eng": "resignation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "포기하고 ~을 받아들이다",
+    "eng": "resign oneself to",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성격",
-    "eng": "character",
+    "kor": "의미하다, 나타내다; 중요하다, 중대하다",
+    "eng": "signify",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중요성; 의미",
+    "eng": "significance",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "중요한; 상당한",
+    "eng": "significant",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~할 수 있는; 유능한",
+    "eng": "capable",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "능력",
+    "eng": "capability",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "친절한",
-    "eng": "friendly",
+    "kor": "수용량; 능력",
+    "eng": "capacity",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "생각해 내다; 상상하다; 임신하다",
+    "eng": "conceive",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "포로가 된; 사로잡힌; 포로",
+    "eng": "captive",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감금",
+    "eng": "captivity",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "걱정스러운",
-    "eng": "worried",
+    "kor": "속이다, 기만하다",
+    "eng": "deceive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(회사의) 이사",
-    "eng": "director",
+    "kor": "속임, 사기",
+    "eng": "deception",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "문장; 선고",
-    "eng": "sentence",
+    "kor": "속임수, 기만",
+    "eng": "deceit",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "헐거운",
-    "eng": "loose",
+    "kor": "바꾸다, 변하다",
+    "eng": "alter",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "실내(용)의",
-    "eng": "indoor",
+    "kor": "외국의; 이질적인; 외계의; 외국인 체류자; 외계인",
+    "eng": "alien",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "그만두다, 그치다, 끝나다",
+    "eng": "cease",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "퍼즐; (이해하기 힘든) 수수께끼",
-    "eng": "puzzle",
+    "kor": "끊임없는",
+    "eng": "ceaseless",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 치우다",
-    "eng": "take away",
+    "kor": "물러가다, 멀어지다; 희미해지다",
+    "eng": "recede",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "불경기",
+    "eng": "recession",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공통적으로 ~을 가지다",
-    "eng": "have ~ in common",
+    "kor": "열성의",
+    "eng": "recessive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 앞서다",
+    "eng": "precede",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전례, 선례",
+    "eng": "precedent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전임자, 선배",
+    "eng": "predecessor",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "느긋한, 무관심한; 평상시의; 우연한; 평상복",
+    "eng": "casual",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "썩다, 부패하다; 쇠퇴하다; 부패; 쇠퇴",
+    "eng": "decay",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사건, 일어난 일",
+    "eng": "incident",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "발생",
+    "eng": "incidence",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부차적인",
+    "eng": "incidental",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유일한, 단독의",
+    "eng": "sole",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "혼자서; 단지",
+    "eng": "solely",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "혼자의, 혼자 하는; 고립된, 외딴",
+    "eng": "solitary",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "해결하다; 결심하다",
+    "eng": "resolve",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "세련된, 교양 있는; 정교한",
+    "eng": "sophisticated",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "세련됨, 교양; 정교화",
+    "eng": "sophistication",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "2학년생",
+    "eng": "sophomore",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
