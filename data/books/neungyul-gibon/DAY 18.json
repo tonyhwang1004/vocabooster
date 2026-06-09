@@ -1,121 +1,325 @@
 [
   {
-    "kor": "(기름에) 튀기다",
-    "eng": "fry",
+    "kor": "동의어, 유의어",
+    "eng": "synonym",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "버릇",
-    "eng": "habit",
+    "kor": "동정적인; 호의적인, 공감하는",
+    "eng": "sympathetic",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동정; 동조",
+    "eng": "sympathy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동정하다; 지지하다",
+    "eng": "sympathize",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동시에 발생하다, 동시에 움직이다",
+    "eng": "synchronize",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "세금",
-    "eng": "tax",
+    "kor": "합성의, 인조의; 종합적인",
+    "eng": "synthetic",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "합성하다; 종합하다",
+    "eng": "synthesize",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "종합; 합성",
+    "eng": "synthesis",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "과소평가하다; 너무 적게 잡다",
+    "eng": "underestimate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "과소평가",
+    "eng": "underestimation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀란",
-    "eng": "surprised",
+    "kor": "근본적인; 밑에 있는",
+    "eng": "underlying",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기저가 되다",
+    "eng": "underlie",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "해외에",
-    "eng": "abroad",
+    "kor": "대학생, 학부생; 대학생의, 학부생의",
+    "eng": "undergraduate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "졸업생, 대학원; 졸업하다",
+    "eng": "graduate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "겪다, 경험하다",
+    "eng": "undergo",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "미끄러지다; 미끄럼틀",
-    "eng": "slide",
+    "kor": "착수하다, 맡다; 약속하다",
+    "eng": "undertake",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "다가오는, 앞으로 올",
+    "eng": "upcoming",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "동의하지 않다",
-    "eng": "disagree",
+    "kor": "지지하다; 떠받치다",
+    "eng": "uphold",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "똑바른; 올바른; 똑바로, 수직으로; 수직 기둥",
+    "eng": "upright",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "향상시키다; 향상",
+    "eng": "upgrade",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대리인, 중개인; 첩보원",
+    "eng": "agent",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반응하다; 반응을 나타내다, 반작용하다",
+    "eng": "react",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반응; 거부 반응, 반작용",
+    "eng": "reaction",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "극심한 고통; 극도의 슬픔",
+    "eng": "agony",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고민하다, 고뇌하다",
+    "eng": "agonize",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~하는 동안; ~에 반하여; 잠깐",
-    "eng": "while",
+    "kor": "길을 찾다; 항해하다; 다루다",
+    "eng": "navigate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "항해, 항공",
+    "eng": "navigation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "열",
-    "eng": "row",
+    "kor": "조종사, 항해사",
+    "eng": "navigator",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "축제",
-    "eng": "festival",
+    "kor": "괴롭히다, 근심하게 하다; 고통, 고뇌; 곤궁, 빈곤",
+    "eng": "distress",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "괴롭히는",
+    "eng": "distressing",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소리 내어; 큰 소리로",
-    "eng": "aloud",
+    "kor": "괴로워하는, 고민하는",
+    "eng": "distressed",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "형태",
-    "eng": "shape",
+    "kor": "명성, 신망; 명성이 있는, 명품의, 명문의",
+    "eng": "prestige",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "명성이 있는",
+    "eng": "prestigious",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "힘든",
-    "eng": "tough",
+    "kor": "엄격한, 엄한; 엄밀한",
+    "eng": "strict",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "엄격히; 엄밀히",
+    "eng": "strictly",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부담, 긴장; 잡아당기기; 힘껏 노력하다; 혹사시키다",
+    "eng": "strain",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수직의, 세로의; 수직",
+    "eng": "vertical",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수직으로",
+    "eng": "vertically",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "카페테리아",
-    "eng": "cafeteria",
+    "kor": "거꾸로 된, 반대의; 정반대; 대화하다",
+    "eng": "converse",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반대로",
+    "eng": "conversely",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "잠기다",
-    "eng": "lock",
+    "kor": "대화",
+    "eng": "conversation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "맨 아래",
-    "eng": "bottom",
+    "kor": "전환하다, 개조하다; 개종하다",
+    "eng": "convert",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전환, 개조; 개종",
+    "eng": "conversion",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전환할 수 있는",
+    "eng": "convertible",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "생산품",
-    "eng": "product",
+    "kor": "다양한, 가지각색의",
+    "eng": "diverse",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "메달",
-    "eng": "medal",
+    "kor": "다양성",
+    "eng": "diversity",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에 도착하다",
-    "eng": "get to",
+    "kor": "뒤집다; 후진하다; 반대의; 반대; 뒤; 후진",
+    "eng": "reverse",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비어 있는; 빈자리의, 결원의",
+    "eng": "vacant",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "빈자리, 결원; 빈방",
+    "eng": "vacancy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "진공; 공백, 공허",
+    "eng": "vacuum",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "헛된, 무익한; 허영심이 강한",
+    "eng": "vain",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "허영심",
+    "eng": "vanity",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이루어지다",
-    "eng": "come true",
+    "kor": "헛되이",
+    "eng": "in vain",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사라지다, 소멸하다",
+    "eng": "vanish",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
