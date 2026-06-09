@@ -1,121 +1,313 @@
 [
   {
-    "kor": "(크기가) 거대한; (수량",
-    "eng": "huge",
+    "kor": "인정하다; 입장을 허가하다",
+    "eng": "admit",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "입장; 시인, 인정; 입장료",
+    "eng": "admission",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위원회; 수수료; 위임; 의뢰하다; 위임하다",
+    "eng": "commission",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "약속, 공약; 전념, 헌신; 의무, 책임",
+    "eng": "commitment",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "범하다; 약속하다, 서약하다",
+    "eng": "commit",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "치수; 측면; 차원",
+    "eng": "dimension",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "치수의; ~차원의",
+    "eng": "dimensional",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "온도계, 체온계",
+    "eng": "thermometer",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "연장",
-    "eng": "tool",
+    "kor": "죽을 운명의; 치명적인; 인간성, 인류",
+    "eng": "mortal",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사망률; 죽을 운명",
+    "eng": "mortality",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "죽을 정도로, 치명적으로",
+    "eng": "mortally",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공격; 공격하다",
-    "eng": "attack",
+    "kor": "저당; 융자; 저당 잡히다",
+    "eng": "mortgage",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "살인, 살해; 죽이다",
+    "eng": "murder",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "살인자",
+    "eng": "murderer",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전투",
-    "eng": "battle",
+    "kor": "동기를 부여하다, 자극하다",
+    "eng": "motivate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "우주",
-    "eng": "universe",
+    "kor": "동기 부여, 자극",
+    "eng": "motivation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "세계적인",
-    "eng": "global",
+    "kor": "멀리 떨어진; 희박한; 원격 조작의",
+    "eng": "remote",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이동성, 기동성",
+    "eng": "mobility",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "갑작스러운",
-    "eng": "sudden",
+    "kor": "움직이기 쉬운, 기동성의",
+    "eng": "mobile",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "무례한",
-    "eng": "rude",
+    "kor": "떼, 무리, 폭도",
+    "eng": "mob",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "도전",
-    "eng": "challenge",
+    "kor": "상품, 판매상품",
+    "eng": "commodity",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "솔직히; 문장 수식 솔직히 말해서",
-    "eng": "frankly",
+    "kor": "변경하다, 수정하다; 수식하다",
+    "eng": "modify",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "변경, 수정",
+    "eng": "modification",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "죽음",
-    "eng": "death",
+    "kor": "통근하다; 통근 , 통학",
+    "eng": "commute",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "통근자",
+    "eng": "commuter",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "그 밖의",
-    "eng": "else",
+    "kor": "상호 간의, 공통의",
+    "eng": "mutual",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "환상적인",
-    "eng": "fantastic",
+    "kor": "서로, 공통으로",
+    "eng": "mutually",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "흔들리다",
-    "eng": "swing",
+    "kor": "개념, 관념, 생각",
+    "eng": "notion",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대가",
-    "eng": "master",
+    "kor": "통보하다, 알리다",
+    "eng": "notify",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "사회의",
-    "eng": "social",
+    "kor": "통지, 공고",
+    "eng": "notification",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "암호",
-    "eng": "code",
+    "kor": "주목할 만한, 유명한, 뛰어난",
+    "eng": "notable",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(자전거",
-    "eng": "pedal",
+    "kor": "알리다, 발표하다",
+    "eng": "announce",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(~을) 주의하다",
-    "eng": "watch out (for)",
+    "kor": "발표; 공고",
+    "eng": "announcement",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "발음하다; 선언하다, 선고하다",
+    "eng": "pronounce",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "발음",
+    "eng": "pronunciation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전혀 ~ 아니다",
-    "eng": "not ~ at all",
+    "kor": "단조로운, 지루한",
+    "eng": "monotonous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "단조로움",
+    "eng": "monotony",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "긴 이야기; 독백",
+    "eng": "monolog(ue)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "독점; 독점 회사",
+    "eng": "monopoly",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "독점적인, 전매의",
+    "eng": "monopolistic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "독점하다",
+    "eng": "monopolize",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "열망하다, 바라다",
+    "eng": "aspire",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "열망, 포부",
+    "eng": "aspiration",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "현대의; 동시대의; 동시대 사람",
+    "eng": "contemporary",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "많이 있다, 풍부하다",
+    "eng": "abound",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "풍부한, 많은",
+    "eng": "abundant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "풍부, 다량, 다수",
+    "eng": "abundance",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고안하다, 궁리하다",
+    "eng": "devise",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "장치; 방법; 방책",
+    "eng": "device",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "밀다; 찌르다; 밀침; 요점, 취지",
+    "eng": "thrust",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위협, 협박; 징조, 조짐",
+    "eng": "threat",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위협하다, 협박하다",
+    "eng": "threaten",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
