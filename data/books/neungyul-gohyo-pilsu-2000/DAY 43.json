@@ -1,0 +1,314 @@
+[
+  {
+    "kor": "속이다; 사기꾼; 속이기",
+    "eng": "cheat",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "범죄자, 범인; 범죄의",
+    "eng": "criminal",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "죄, 범죄",
+    "eng": "crime",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "어기다, 위반하다, 침해하다",
+    "eng": "infringe",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위반, 침해",
+    "eng": "infringement",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유괴하다, 납치하다",
+    "eng": "kidnap",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "죄를 범한, 유죄의; 죄책감이 드는",
+    "eng": "guilty",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "죄책감; 유죄",
+    "eng": "guilt",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "격노, 분노; 불법 행위, 난폭; 격분하게 하다",
+    "eng": "outrage",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "난폭한, 극악한",
+    "eng": "outrageous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반란, 폭동",
+    "eng": "rebellion",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반역자; 반대자; 반란을 일으키다",
+    "eng": "rebel",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "복수; 복수하다",
+    "eng": "revenge",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "복수하다",
+    "eng": "take[get] revenge",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도둑질, 절도죄",
+    "eng": "theft",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "죄; 위반; 짓다",
+    "eng": "sin",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "제정하다, 규정하다; 상연하다",
+    "eng": "enact",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "제정",
+    "eng": "enactment",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 금지하다, 막다",
+    "eng": "forbid",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "법률화하다, 합법화하다",
+    "eng": "legalize",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "법률의; 합법의",
+    "eng": "legal",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "적법화, 법률화",
+    "eng": "legalization",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "법률을 제정하다, 입법하다",
+    "eng": "legislate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "입법상의, 법률을 제정하는",
+    "eng": "legislative",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "법전; 규범; 암호",
+    "eng": "code",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "법전으로 편찬하다",
+    "eng": "codify",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "특허; 특허를 받은; 특허권을 얻다",
+    "eng": "patent",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "피해자",
+    "eng": "victim",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "희생시키다, 부당하게 괴롭히다",
+    "eng": "victimize",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "배심",
+    "eng": "jury",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기소하다, 고소하다",
+    "eng": "prosecute",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "검사, 검찰관",
+    "eng": "prosecutor",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기소, 고발",
+    "eng": "prosecution",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소송을 제기하다, 고소하다",
+    "eng": "sue",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "변호사",
+    "eng": "attorney",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "입증하다",
+    "eng": "verify",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "증명할 수 있는",
+    "eng": "verifiable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "목격자; 목격하다; 증언하다",
+    "eng": "witness",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보증",
+    "eng": "warranty",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보증기간 중인",
+    "eng": "under warranty",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소송",
+    "eng": "lawsuit",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소송을 제기하다",
+    "eng": "file a lawsuit",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "죄 없는, 결백한",
+    "eng": "innocent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무죄, 결백",
+    "eng": "innocence",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "투옥하다, 수감하다",
+    "eng": "imprison",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "교도소, 감옥; 투옥하다",
+    "eng": "jail",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "형벌, 벌금",
+    "eng": "penalty",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "벌하다; 벌칙을 과하다",
+    "eng": "penalize",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "형벌의",
+    "eng": "penal",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사형",
+    "eng": "death penalty",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "따르다, 준수하다",
+    "eng": "comply",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "고분고분한, 준수하는",
+    "eng": "compliant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]
