@@ -1,122 +1,398 @@
 [
   {
-    "kor": "섞이다",
-    "eng": "mix",
+    "kor": "보여주다; 확인하다, 확정하다",
+    "eng": "confirm",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "확인, 확정",
+    "eng": "confirmation",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "건강한; 건강에 좋은",
-    "eng": "healthy",
+    "kor": "상태, 상황; 국가, 주; 말하다, 진술하다",
+    "eng": "state",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성명, 진술",
+    "eng": "statement",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "활동적인; 적극적인",
-    "eng": "active",
+    "kor": "정치가",
+    "eng": "statesman",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(구멍 등을) 파다",
-    "eng": "dig",
+    "kor": "저항하다; 반대하다",
+    "eng": "resist",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "저항",
+    "eng": "resistance",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "간단한",
-    "eng": "simple",
+    "kor": "인정하다, 승인하다; 감사를 표하다",
+    "eng": "acknowledge",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "승인; 감사",
+    "eng": "acknowledg(e)ment",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "결정적인, 중대한",
+    "eng": "crucial",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경치",
-    "eng": "view",
+    "kor": "결정적으로",
+    "eng": "crucially",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "곤충",
-    "eng": "insect",
+    "kor": "모으다, 모이다; 이해하다",
+    "eng": "gather",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "모임",
+    "eng": "gathering",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "졸리는",
-    "eng": "sleepy",
+    "kor": "무시하다; 못 본 척하다",
+    "eng": "ignore",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 모르는, 무지한",
+    "eng": "ignorant",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(식물의) 뿌리; 근원",
-    "eng": "root",
+    "kor": "무지, 무식",
+    "eng": "ignorance",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "총",
-    "eng": "total",
+    "kor": "요구하다; 필요로 하다; 요구; 수요",
+    "eng": "demand",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "요구가 많은; 힘든",
+    "eng": "demanding",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "요구가 있는 대로",
+    "eng": "on demand",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "마지막의",
-    "eng": "final",
+    "kor": "공급하다; 공급; 보급품",
+    "eng": "supply",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "약한, 깨지기 쉬운; 섬세한, 우아한; 미묘한",
+    "eng": "delicate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "연약함; 섬세함",
+    "eng": "delicacy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "우아하게; 미묘하게",
+    "eng": "delicately",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기업의; 법인의; 공동의",
+    "eng": "corporate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기업, 회사; 법인",
+    "eng": "corporation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "결국, 최종적으로, 마침내",
+    "eng": "eventually",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(연극",
-    "eng": "scene",
+    "kor": "최후의, 궁극적인",
+    "eng": "eventual",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상",
-    "eng": "prize",
+    "kor": "물체; 목적, 목표; 대상; 반대하다",
+    "eng": "object",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반대",
+    "eng": "objection",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "별명",
-    "eng": "nickname",
+    "kor": "알아보다, 인지하다; 인정하다",
+    "eng": "recognize",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인식; 인정",
+    "eng": "recognition",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부정하다, 인정하지 않다; 거절하다",
+    "eng": "deny",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부정; 거부",
+    "eng": "denial",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "다르다",
+    "eng": "differ",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "팬",
-    "eng": "pan",
+    "kor": "다른",
+    "eng": "different",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "만화 (영화)",
-    "eng": "cartoon",
+    "kor": "임대하다, 빌리다; 세, 집세",
+    "eng": "rent",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "임대료; 임대의",
+    "eng": "rental",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자선; 기부; 모금",
+    "eng": "charity",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "용기를 북돋우다; 장려하다; 조장하다, 부추기다",
+    "eng": "encourage",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "격려",
+    "eng": "encouragement",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "지도자",
-    "eng": "leader",
+    "kor": "힘을 북돋아 주는",
+    "eng": "encouraging",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(스포츠 팀의) 코치",
-    "eng": "coach",
+    "kor": "밀집한, 빽빽한; 짙은",
+    "eng": "dense",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "밀도, 농도",
+    "eng": "density",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 알아내다",
-    "eng": "find out",
+    "kor": "조밀하게, 빽빽하게",
+    "eng": "densely",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "어려움곤경에 처하다",
-    "eng": "be in trouble",
+    "kor": "손해, 손상; 손해를 입히다",
+    "eng": "damage",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "협력하다, 협동하다",
+    "eng": "cooperate",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "협력, 협동",
+    "eng": "cooperation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "협력하는",
+    "eng": "cooperative",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정확한, 정밀한",
+    "eng": "accurate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정확",
+    "eng": "accuracy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정확하게, 정밀하게",
+    "eng": "accurately",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위반, 범죄; 공격",
+    "eng": "offense",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "화나게 하다; 위반하다",
+    "eng": "offend",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "화나게 하는; 공격의",
+    "eng": "offensive",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "방어; 변호",
+    "eng": "defense",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "방어하다; 변호하다",
+    "eng": "defend",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "방어용의, 방어적인",
+    "eng": "defensive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "피고인",
+    "eng": "defendant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "구성하다; 작곡하다, 작문하다",
+    "eng": "compose",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "구성; 작곡",
+    "eng": "composition",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "혼성의, 합성의",
+    "eng": "composite",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "들어있다, 포함하다",
+    "eng": "contain",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "컨테이너, 용기",
+    "eng": "container",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "청구하다; 고발하다; 책임을 지우다; 충전하다; 요금; 책임",
+    "eng": "charge",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "논쟁, 토론; 논쟁하다, 토론하다",
+    "eng": "debate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "겹치다, 포개지다; 중복되다",
+    "eng": "overlap",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
