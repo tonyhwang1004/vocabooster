@@ -1,0 +1,398 @@
+[
+  {
+    "kor": "동경하다, 아주 좋아하다; 숭배하다",
+    "eng": "adore",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "귀여운, 사랑스러운",
+    "eng": "adorable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부러워하는, 샘내는",
+    "eng": "envious",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부러워하다; 질투, 선망",
+    "eng": "envy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "매료된, 매혹된",
+    "eng": "fascinated",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "매혹하다",
+    "eng": "fascinate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "매혹적인",
+    "eng": "fascinating",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "좋아하여; 다정한",
+    "eng": "fond",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "다정하게, 귀여워하여",
+    "eng": "fondly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 좋아하다",
+    "eng": "be fond of",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "밖으로 나타내다; 명백한, 분명한",
+    "eng": "manifest",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "징후, 표명",
+    "eng": "manifestation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "깜짝 놀란",
+    "eng": "astonished",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "놀라게 하다",
+    "eng": "astonish",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "놀라운, 놀랄 만한",
+    "eng": "astonishing",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무관심한, 사심이 없는",
+    "eng": "indifferent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무관심, 냉담",
+    "eng": "indifference",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "난처한, 거북한",
+    "eng": "embarrassed",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "난처하게 하다",
+    "eng": "embarrass",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "난처하게 하는, 당혹스럽게 하는",
+    "eng": "embarrassing",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주저하다, 망설이다",
+    "eng": "hesitate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "망설이는",
+    "eng": "hesitant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "당황하여 허둥대다; 당황한; 공황",
+    "eng": "panic",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "공황의; 당황한",
+    "eng": "panicky",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "허둥지둥, 공황을 일으켜",
+    "eng": "in a panic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "놀란",
+    "eng": "startled",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "놀랄 만한",
+    "eng": "startling",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "깜짝 놀라게 하다",
+    "eng": "startle",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "애정, 애착",
+    "eng": "affection",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "애정 어린, 다정한",
+    "eng": "affectionate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유발하다; 화나게 하다",
+    "eng": "provoke",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "도발, 자극",
+    "eng": "provocation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "역겨운, 혐오스러운",
+    "eng": "disgusting",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "역겹게 하다; 혐오감, 역겨움",
+    "eng": "disgust",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "짜증이 난, 화가 난",
+    "eng": "annoyed",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "짜증 나게 하다, 귀찮게 굴다",
+    "eng": "annoy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성가신, 난처한",
+    "eng": "annoying",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "좌절감을 느끼는, 불만스러워 하는",
+    "eng": "frustrated",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "좌절시키다, 실망시키다",
+    "eng": "frustrate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "좌절",
+    "eng": "frustration",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "격노한; 맹렬한",
+    "eng": "furious",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "격노, 분노",
+    "eng": "fury",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "미움, 증오, 혐오",
+    "eng": "hatred",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "치욕적인, 굴욕적인",
+    "eng": "humiliating",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "창피를 주다, 자존심을 상하게 하다",
+    "eng": "humiliate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "짜증이 난, 화난",
+    "eng": "irritated",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "짜증나게 하다",
+    "eng": "irritate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "화; 짜증나게 하는 것",
+    "eng": "irritation",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "열심인; 몹시 하고 싶어 하는; 예민한",
+    "eng": "keen",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "구슬픈, 슬픔에 잠긴",
+    "eng": "mournful",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "애도하다, 슬퍼하다",
+    "eng": "mourn",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "창피한, 부끄러운",
+    "eng": "ashamed",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "실망한, 낙담한",
+    "eng": "disappointed",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "실망시키다",
+    "eng": "disappoint",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "실망, 낙심",
+    "eng": "disappointment",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "슬픈, 비탄에 잠긴",
+    "eng": "sorrowful",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "슬픔, 비애; 슬픈 일",
+    "eng": "sorrow",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "우울한, 울적한",
+    "eng": "gloomy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "큰 슬픔, 비탄",
+    "eng": "grief",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "몹시 슬퍼하다",
+    "eng": "grieve",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "슬픈, 비통한",
+    "eng": "grievous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기쁜, 즐거워하는",
+    "eng": "delighted",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기쁨; 기쁘게 하다",
+    "eng": "delight",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "만족스러운, 유쾌한",
+    "eng": "gratifying",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "만족시키다, 기쁘게 하다",
+    "eng": "gratify",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비참한, 불행한",
+    "eng": "miserable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]
