@@ -1,0 +1,302 @@
+[
+  {
+    "kor": "악화되다, 악화시키다",
+    "eng": "worsen",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "넓어지다, 넓히다",
+    "eng": "broaden",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "똑바르게 하다; 정리하다",
+    "eng": "straighten",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "곧은; 정돈된; 똑바로",
+    "eng": "straight",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "매다, 채우다; 잠그다; 고정시키다",
+    "eng": "fasten",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "서둘러 하다; 재촉하다, 앞당기다",
+    "eng": "hasten",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "급함, 서두름",
+    "eng": "haste",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "믿을 수 있는",
+    "eng": "credible",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "믿을 수 있음, 신뢰성",
+    "eng": "credibility",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "확실히",
+    "eng": "credibly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "없어도 되는, 불필요한",
+    "eng": "dispensable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분배하다; 베풀다",
+    "eng": "dispense",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "나눌 수 있는, 나누어지는",
+    "eng": "divisible",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "나누다, 나뉘다; 분리하다",
+    "eng": "divide",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "들리는, 들을 수 있는",
+    "eng": "audible",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "먹을 수 있는, 식용의",
+    "eng": "edible",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 가질 수 있는; 신랑감으로 좋은",
+    "eng": "eligible",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "만질 수 있는, 실체가 있는; 명백한",
+    "eng": "tangible",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "명백히",
+    "eng": "tangibly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "2개 국어를 구사할 수 있는; 2개 국어 구사자",
+    "eng": "bilingual",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "똑같은; 사본; 복사하다; 되풀이하다",
+    "eng": "duplicate",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "복사; 중복되다",
+    "eng": "duplication",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "황혼, 땅거미; 황혼기, 쇠퇴기",
+    "eng": "twilight",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사소한, 하찮은",
+    "eng": "trivial",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부족, 종족",
+    "eng": "tribe",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "추론하다, 연역하다",
+    "eng": "deduce",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "추론할 수 있는",
+    "eng": "deducible",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "연역적인",
+    "eng": "deductive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "교육하다, 가르치다",
+    "eng": "educate",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "교육",
+    "eng": "education",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수행하다; 이끌다; 처신하다; 지휘하다; 행위; 수행",
+    "eng": "conduct",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "안내자; 지휘자",
+    "eng": "conductor",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "처신하다",
+    "eng": "conduct oneself",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "빼다, 공제하다",
+    "eng": "deduct",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "공제; 추론",
+    "eng": "deduction",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "절망, 낙담; 절망하다",
+    "eng": "despair",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자포자기의; 필사적인",
+    "eng": "desperate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "절망하여",
+    "eng": "in despair",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "번영하다, 성공하다",
+    "eng": "prosper",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "번영, 호황",
+    "eng": "prosperity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대륙, 육지",
+    "eng": "continent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기권하다; 삼가다, 절제하다",
+    "eng": "abstain",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유지하다; 떠받치다, 지지하다; 입다",
+    "eng": "sustain",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "보유하다, 유지하다; 기억하다",
+    "eng": "retain",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "달성하다, 이루다; 이르다, 달하다",
+    "eng": "attain",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "달성할 수 있는",
+    "eng": "attainable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "통합하다, 통합되다; 인종 차별을 철폐하다",
+    "eng": "integrate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "통합",
+    "eng": "integration",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소매; 소매하다; 소매로",
+    "eng": "retail",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소매상, 소매점",
+    "eng": "retailer",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]
