@@ -1,0 +1,350 @@
+[
+  {
+    "kor": "모험적인, 대담한, 위험한",
+    "eng": "risky",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위험; 위험에 내맡기다",
+    "eng": "risk",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "긴박한, 긴급한",
+    "eng": "urgent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "혼돈된, 무질서한, 혼란한",
+    "eng": "chaotic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위험한, 모험적인",
+    "eng": "hazardous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위험, 위험 요소",
+    "eng": "hazard",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "겁을 주는",
+    "eng": "frightening",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "두려워하게 하다",
+    "eng": "frighten",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "겁먹은",
+    "eng": "frightened",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무서운; 만만치 않은",
+    "eng": "formidable",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "깜짝 놀라게 하는; 놀랄 만큼 아름다운",
+    "eng": "stunning",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기절시키다; 깜짝 놀라게 하다",
+    "eng": "stun",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지독한, 몹시 싫은",
+    "eng": "dreadful",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "근심, 불안; 두려워하다, 걱정하다",
+    "eng": "dread",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "공포, 무서움",
+    "eng": "horror",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무서워하게 하다, 소름 끼치게 하다",
+    "eng": "horrify",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무서운, 소름 끼치는",
+    "eng": "horrific",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "활발한, 격렬한; 활기찬, 건강한",
+    "eng": "vigorous",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "활기, 힘",
+    "eng": "vigor",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동경하다, 그리워하다; 열망하다",
+    "eng": "yearn",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동경, 열망",
+    "eng": "yearning",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "외래의; 이국풍의",
+    "eng": "exotic",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비극적인; 매우 슬픈",
+    "eng": "tragic",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비극; 참사",
+    "eng": "tragedy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "잔인한, 잔혹한; 비참한",
+    "eng": "cruel",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "잔인함, 학대",
+    "eng": "cruelty",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "우울한, 침울한",
+    "eng": "melancholic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "우울감; 구슬픈",
+    "eng": "melancholy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이상한, 괴상한",
+    "eng": "weird",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이상하게",
+    "eng": "weirdly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기묘함",
+    "eng": "weirdness",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "자포자기의; 필사적인; 절망적인",
+    "eng": "desperate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "필사적으로, 자포자기하여",
+    "eng": "desperately",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "쓸쓸한, 음울한, 황량한",
+    "eng": "dreary",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동적인; 정력적인, 활발한; 역학; 원동력",
+    "eng": "dynamic",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "활동적으로; 역학적으로",
+    "eng": "dynamically",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "잔잔한, 평온한",
+    "eng": "serene",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조용함, 평온",
+    "eng": "serenity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "진지한, 엄숙한",
+    "eng": "solemn",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "엄숙, 장엄",
+    "eng": "solemnity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "엄중한, 강경한",
+    "eng": "stern",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "냉소적인; 비관적인",
+    "eng": "cynical",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "풍자적인, 비꼬는",
+    "eng": "satirical",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "풍자, 비꼼; 풍자문",
+    "eng": "satire",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반어적인, 빗대는",
+    "eng": "ironic(al)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반어, 비꼼; 역설적인 상황",
+    "eng": "irony",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "반어적으로; 얄궂게도",
+    "eng": "ironically",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비관적인, 염세적인",
+    "eng": "pessimistic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비관주의자",
+    "eng": "pessimist",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정보를 주는, 유익한",
+    "eng": "informative",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "알리다, 통지하다",
+    "eng": "inform",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정보, 자료",
+    "eng": "information",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감탄할 만한",
+    "eng": "admirable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감탄하다, 칭찬하다",
+    "eng": "admire",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감탄, 존경",
+    "eng": "admiration",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "의심스러운, 수상한",
+    "eng": "suspicious",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "서술의; 이야기로 이루어진; 이야기, 담화",
+    "eng": "narrative",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이야기하다; 내레이션을 하다",
+    "eng": "narrate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  }
+]
