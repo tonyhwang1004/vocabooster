@@ -1,122 +1,326 @@
 [
   {
-    "kor": "숨 쉬다",
-    "eng": "breathe",
+    "kor": "끌다, 유인하다, 매혹하다",
+    "eng": "attract",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(노력해서) 얻다; (체중 등이) 늘다",
-    "eng": "gain",
+    "kor": "유인, 매력",
+    "eng": "attraction",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "꼭 맞다; 적합하다",
-    "eng": "fit",
+    "kor": "매력적인",
+    "eng": "attractive",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(지위가) 최고의",
-    "eng": "chief",
+    "kor": "끌다; 추적하다; 오솔길; 자국, 흔적",
+    "eng": "trail",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "흐트러뜨리다, 산만하게 하다",
+    "eng": "distract",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "재미있는",
-    "eng": "humorous",
+    "kor": "추상적인; 이론적인; 추출하다; 요약하다; 추상; 요약",
+    "eng": "abstract",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "뽑다, 추출하다; 발췌하다; 발췌; 추출",
+    "eng": "extract",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "초상, 인물 사진; 묘사",
+    "eng": "portrait",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "묘사하다, 그리다",
+    "eng": "portray",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "독특한",
-    "eng": "unique",
+    "kor": "자취, 흔적; 추적하다; 밝혀내다",
+    "eng": "trace",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조약, 협정",
+    "eng": "treaty",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "완전히",
-    "eng": "completely",
+    "kor": "소설; 꾸며낸 이야기, 허구",
+    "eng": "fiction",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "결점, 결함",
+    "eng": "defect",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "포즈를 취하다; 자세",
-    "eng": "pose",
+    "kor": "결함이 있는",
+    "eng": "defective",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "모험",
-    "eng": "adventure",
+    "kor": "능숙한, 숙달된",
+    "eng": "proficient",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(옷이) 꽉 끼는; 빡빡한; 단단히",
-    "eng": "tight",
+    "kor": "숙달, 능숙",
+    "eng": "proficiency",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "어리석은",
-    "eng": "stupid",
+    "kor": "자격을 주다, 적임이다",
+    "eng": "qualify",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이중의; 2인용의; 두 배로 되다만들다",
-    "eng": "double",
+    "kor": "자격; 자격 증명서",
+    "eng": "qualification",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 대한 자격을 갖추다",
+    "eng": "qualify oneself for",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경주",
-    "eng": "race",
+    "kor": "충분한",
+    "eng": "sufficient",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(감정",
-    "eng": "express",
+    "kor": "충분히",
+    "eng": "sufficiently",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "불법의",
-    "eng": "illegal",
+    "kor": "식민지; 집단",
+    "eng": "colony",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "식민의; 식민지 주민",
+    "eng": "colonial",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "식민지화하다",
+    "eng": "colonize",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상징(물); 기호",
-    "eng": "symbol",
+    "kor": "경작하다, 재배하다; 양성하다, 계발하다",
+    "eng": "cultivate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "농업, 농경",
+    "eng": "agriculture",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(간단히) 말하다",
-    "eng": "mention",
+    "kor": "대립, 충돌; 싸움; 대립하다, 충돌하다",
+    "eng": "conflict",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가하다, 주다",
+    "eng": "inflict",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(돈의) 금액; 합계; 요약하다",
-    "eng": "sum",
+    "kor": "가함",
+    "eng": "infliction",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 훑어보다",
-    "eng": "look through",
+    "kor": "요새, 보루",
+    "eng": "fort",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 버리다",
-    "eng": "throw away",
+    "kor": "요새",
+    "eng": "fortress",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "요새화하다, 강화하다",
+    "eng": "fortify",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "억지로 ~하게 하다, 강요하다; 힘; 폭력; 군대",
+    "eng": "force",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "강화하다, 증강하다, 보강하다",
+    "eng": "reinforce",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "강화, 증강, 보강",
+    "eng": "reinforcement",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전쟁, 전투, 싸움",
+    "eng": "warfare",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "복지, 복리, 행복",
+    "eng": "welfare",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "협의하다, 의논하다; 수여하다, 주다",
+    "eng": "confer",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "회담; 협의회",
+    "eng": "conference",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "추론하다, 추측하다",
+    "eng": "infer",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "추론, 추정",
+    "eng": "inference",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기름진, 비옥한; 다산의, 번식력이 있는",
+    "eng": "fertile",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비옥, 다산",
+    "eng": "fertility",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비료",
+    "eng": "fertilizer",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "한정하다, 제한하다; 가두다, 감금하다",
+    "eng": "confine",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "제한; 감금",
+    "eng": "confinement",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정의하다; 규정하다",
+    "eng": "define",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정의",
+    "eng": "definition",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "확실한, 명확한",
+    "eng": "definite",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "틀림없이",
+    "eng": "definitely",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무한한",
+    "eng": "infinite",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정제하다; 개선하다, 다듬다",
+    "eng": "refine",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정제; 개선; 세련",
+    "eng": "refinement",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정제된; 개선된; 세련된",
+    "eng": "refined",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
