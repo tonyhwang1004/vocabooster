@@ -1,0 +1,368 @@
+[
+  {
+    "kor": "잠깐의; 간결한; 요약서",
+    "eng": "brief",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "간단히; 잠시",
+    "eng": "briefly",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "간단히 말해서",
+    "eng": "in brief",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신속한, 재빠른; 자극하다",
+    "eng": "prompt",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "즉시",
+    "eng": "promptly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "빠른, 신속한",
+    "eng": "rapid",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "빨리, 급속히",
+    "eng": "rapidly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신속한, 재빠른",
+    "eng": "swift",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신속히, 빨리",
+    "eng": "swiftly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동시에 일어나는, 동시의",
+    "eng": "simultaneous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "동시에",
+    "eng": "simultaneously",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시간을 잘 지키는, 시간을 엄수하는",
+    "eng": "punctual",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시간 엄수",
+    "eng": "punctuality",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시간을 엄수하여",
+    "eng": "punctually",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "내구력이 있는, 튼튼한; 영속성 있는",
+    "eng": "durable",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "영원한",
+    "eng": "eternal",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "영원, 영구",
+    "eng": "eternity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "영원히",
+    "eng": "eternally",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "구식의, 시대에 뒤진",
+    "eng": "outdated",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "최후의, 최종의; 궁극의",
+    "eng": "ultimate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "궁극적으로, 마침내",
+    "eng": "ultimately",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가까운; 대략의; 가깝다",
+    "eng": "approximate",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "접근, 근사",
+    "eng": "approximation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대략, 거의",
+    "eng": "approximately",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "간신히; 거의 ~ 않다",
+    "eng": "barely",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "발가벗은; 텅 빈; 가까스로의",
+    "eng": "bare",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유창한, 유창하게 말하는",
+    "eng": "fluent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "유창성",
+    "eng": "fluency",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "본질적인; 가장 중요한, 필수의; 기본적인 요소",
+    "eng": "essential",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "본질적으로",
+    "eng": "essentially",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "본질",
+    "eng": "essence",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "극도의; 과격한; 극단, 극도",
+    "eng": "extreme",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "극도로, 극히",
+    "eng": "extremely",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부피가 큰, 거대한",
+    "eng": "bulky",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "거대함",
+    "eng": "bulkiness",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대강의, 대충의; 거친, 험한; 힘든",
+    "eng": "rough",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대략; 거칠게",
+    "eng": "roughly",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "거대한, 엄청난",
+    "eng": "enormous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대단히, 엄청나게",
+    "eng": "enormously",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "실로, 참으로; 정말",
+    "eng": "indeed",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "그동안; 그동안에, 그사이에",
+    "eng": "meantime",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "우선은, 당분간은",
+    "eng": "for the meantime",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "엄한, 엄격한; 심한, 맹렬한",
+    "eng": "severe",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "엄격하게, 심하게",
+    "eng": "severely",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "전부의, 총체적인; 전반적으로",
+    "eng": "overall",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "거대한",
+    "eng": "gigantic",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상당한",
+    "eng": "substantial",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상당히, 많이",
+    "eng": "substantially",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "거대한, 막대한",
+    "eng": "vast",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대단히, 엄청나게",
+    "eng": "vastly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "최대치, 최대량; 최대의, 최고의",
+    "eng": "maximum",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "최대화하다",
+    "eng": "maximize",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "최고의, 최대한의",
+    "eng": "maximal",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "드물게, 좀처럼 ~ 않는",
+    "eng": "seldom",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부족한, 드문",
+    "eng": "scarce",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "거의 ~ 않다, 겨우",
+    "eng": "scarcely",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부족, 결핍",
+    "eng": "scarcity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "처음의, 초기의; 이름의 첫 글자",
+    "eng": "initial",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "처음에",
+    "eng": "initially",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "드문, 진기한",
+    "eng": "rare",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "드물게, 좀처럼 ~ 않는",
+    "eng": "rarely",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]
