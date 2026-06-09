@@ -1,0 +1,176 @@
+[
+  {
+    "kor": "기억해 내다; 소환하다, 도로 부르다; 회수하다; 기억; 회수; 소환",
+    "eng": "recall",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "말하다, 논평하다; 알아채다; 말, 의견",
+    "eng": "remark",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주목할 만한, 놀라운",
+    "eng": "remarkable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "줄, 열; 노 젓기; 노를 젓다",
+    "eng": "row",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "득점; 점수, 성적; ~라는 점; 득점하다; 채점하다",
+    "eng": "score",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "쓰다듬다; 치다; 타격; 뇌졸중",
+    "eng": "stroke",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "미묘한, 감지하기 힘든; 교묘한; 예민한",
+    "eng": "subtle",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "미묘함",
+    "eng": "subtlety",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "미묘하게",
+    "eng": "subtly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "조직; 화장지; 얇은 종이",
+    "eng": "tissue",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "씨; 근원, 원인; 씨를 뿌리다",
+    "eng": "seed",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "얕은; 피상적인; 약한",
+    "eng": "shallow",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "얕게",
+    "eng": "shallowly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "없애다; 떨어뜨리다, 흘리다; 비추다; 헛간",
+    "eng": "shed",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 비추다; 밝히다, 해명하다",
+    "eng": "shed light on",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "찌르다; 붙이다; 꼼짝하지 않다; 막대기",
+    "eng": "stick",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "끈적거리는; 무더운",
+    "eng": "sticky",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "재판; 시험, 실험; 시련; 시험하다",
+    "eng": "trial",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대우하다, 취급하다; 간주하다; 치료하다; 대접하다",
+    "eng": "treat",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "취급, 대우; 치료",
+    "eng": "treatment",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "약간의, 경미한; 가냘픈; 무시하다",
+    "eng": "slight",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "약간",
+    "eng": "slightly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "할애하다, 내다; 면하게 하다; 여분의",
+    "eng": "spare",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정사각형; 광장; 제곱; 정사각형의",
+    "eng": "square",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "수행하다; 공연하다, 연주하다; 작동하다",
+    "eng": "perform",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "행위자; 연기자",
+    "eng": "performer",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "공연; 성과",
+    "eng": "performance",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "굶주리다, 굶어 죽다; 굶기다; 갈망하다",
+    "eng": "starve",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "기아",
+    "eng": "starvation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]
