@@ -1,0 +1,212 @@
+[
+  {
+    "kor": "A를 B에 비유하다",
+    "eng": "compare A to B",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "A와 B를 비교하다",
+    "eng": "compare A with B",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정통하다, 잘 알고 있다",
+    "eng": "be familiar with",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "익숙하다, 잘 알려져 있다",
+    "eng": "be familiar to",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사로잡히다; 홀리다",
+    "eng": "be possessed by",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "갖추다; 지니다",
+    "eng": "be possessed of",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 소유하고 있다; ~의 소유가 되다",
+    "eng": "be in possession of",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 걱정하다",
+    "eng": "be concerned about",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~와 관계가 있다",
+    "eng": "be concerned with",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "취급하다, 팔다; ~에 종사하다",
+    "eng": "deal in",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 처리하다, 대응하다; 거래하다",
+    "eng": "deal with",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 성공하다",
+    "eng": "succeed in",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성공",
+    "eng": "success",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "성공적인",
+    "eng": "successful",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 물려받다, 계승하다",
+    "eng": "succeed to",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "연속; 계승",
+    "eng": "succession",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "연속하는",
+    "eng": "successive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "당연하다",
+    "eng": "may well",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~하는 게 좋다",
+    "eng": "may as well",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "<부사적> ~을 조건으로 하여",
+    "eng": "subject to",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~하기 쉽다",
+    "eng": "be subject to",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "맡고 있는, 담당의",
+    "eng": "in charge (of)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~의 혐의로",
+    "eng": "on charges of",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "개최되다, 일어나다",
+    "eng": "take place",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 대신하다",
+    "eng": "take the place of",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 기다리다",
+    "eng": "wait for",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "시중을 들다",
+    "eng": "wait on",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 간섭하다",
+    "eng": "interfere in",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~을 방해하다",
+    "eng": "interfere with",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~로 끝나다, 초래하다",
+    "eng": "result in",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에서 기인하다, 비롯되다",
+    "eng": "result from",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "부양하다; 대비하다",
+    "eng": "provide for",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "A에게 B를 제공하다",
+    "eng": "provide A with B",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~으로 구성되다, 이루어져 있다",
+    "eng": "consist of",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 있다, 존재하다",
+    "eng": "consist in",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  }
+]
