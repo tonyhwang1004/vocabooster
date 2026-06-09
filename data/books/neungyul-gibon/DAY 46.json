@@ -1,122 +1,362 @@
 [
   {
-    "kor": "연료",
-    "eng": "fuel",
+    "kor": "예의 바른, 공손한",
+    "eng": "courteous",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "펼치다; (팔 등을) 벌리다; 퍼지다",
-    "eng": "spread",
+    "kor": "예의 바르게",
+    "eng": "courteously",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "분석하다",
-    "eng": "analyze",
+    "kor": "공손함",
+    "eng": "courtesy",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "총알",
-    "eng": "bullet",
+    "kor": "신중한; 고의의, 계획적인",
+    "eng": "deliberate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신중하게; 고의로",
+    "eng": "deliberately",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "친밀한, 친숙한",
+    "eng": "intimate",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "싫어하다; 싫어함",
-    "eng": "dislike",
+    "kor": "친밀함",
+    "eng": "intimacy",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기사",
-    "eng": "engineer",
+    "kor": "친밀히",
+    "eng": "intimately",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "틀",
-    "eng": "frame",
+    "kor": "관대한, 아량이 있는",
+    "eng": "tolerant",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "우주비행사",
-    "eng": "astronaut",
+    "kor": "용인하다; 참다",
+    "eng": "tolerate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관대, 용인",
+    "eng": "tolerance",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "현명하게",
-    "eng": "wisely",
+    "kor": "남성의; 남자다운",
+    "eng": "masculine",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "남성성",
+    "eng": "masculinity",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "몇몇의",
-    "eng": "several",
+    "kor": "매력적인, 멋진; 호화로운",
+    "eng": "gorgeous",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "무자비한, 잔인한",
+    "eng": "merciless",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "키",
-    "eng": "height",
+    "kor": "무자비하게, 무정하게",
+    "eng": "mercilessly",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "긴장한",
-    "eng": "nervous",
+    "kor": "튼튼한, 힘센; 견고한",
+    "eng": "sturdy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "튼튼하게, 완강하게",
+    "eng": "sturdily",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "장소",
-    "eng": "spot",
+    "kor": "대망을 품은, 야망을 가진",
+    "eng": "ambitious",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "오염",
-    "eng": "pollution",
+    "kor": "대망, 야망",
+    "eng": "ambition",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "면",
-    "eng": "cotton",
+    "kor": "충실한; 신의 있는",
+    "eng": "faithful",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신뢰, 신념",
+    "eng": "faith",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "기구",
-    "eng": "instrument",
+    "kor": "성실한; 참된",
+    "eng": "sincere",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "진심으로",
+    "eng": "sincerely",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "확실히",
-    "eng": "certainly",
+    "kor": "성실, 정직",
+    "eng": "sincerity",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "태풍",
-    "eng": "typhoon",
+    "kor": "솔직한, 가식이 없는",
+    "eng": "frank",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(차 등이) 멈추다서다",
-    "eng": "pull up",
+    "kor": "솔직히, 숨김없이",
+    "eng": "frankly",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 우연히 마주치다",
-    "eng": "run across",
+    "kor": "솔직히 말하면",
+    "eng": "to be frank",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "열망하는; 열심인",
+    "eng": "eager",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "간절히, 열심히",
+    "eng": "eagerly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "충성스러운, 충의가 있는",
+    "eng": "loyal",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "충의, 충성",
+    "eng": "loyalty",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분별 있는, 현명한",
+    "eng": "sensible",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "장난이 심한, 개구쟁이의",
+    "eng": "mischievous",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "장난, 못된 짓",
+    "eng": "mischief",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "말을 듣지 않는",
+    "eng": "naughty",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사악한; 심술궂은",
+    "eng": "wicked",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "비열한; 더러운, 불쾌한",
+    "eng": "nasty",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "야만적인; 잔혹한, 무자비한",
+    "eng": "brutal",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "잔인성, 만행",
+    "eng": "brutality",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사나운, 거친; 잔인한",
+    "eng": "fierce",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사납게, 맹렬하게",
+    "eng": "fiercely",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "욕심 많은, 탐욕스러운",
+    "eng": "greedy",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "탐욕; 식탐",
+    "eng": "greed",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "완고한, 고집 센",
+    "eng": "stubborn",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "완고하게",
+    "eng": "stubbornly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "건방진, 거만한",
+    "eng": "arrogant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "거만, 오만",
+    "eng": "arrogance",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "어색한; 서투른",
+    "eng": "clumsy",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "다루기 힘든; 어색한; 서투른, 미숙한",
+    "eng": "awkward",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "어색하게",
+    "eng": "awkwardly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "순진한, 천진난만한",
+    "eng": "naive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "겁 많은, 소심한",
+    "eng": "timid",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "소심하게",
+    "eng": "timidly",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "겁, 소심",
+    "eng": "timidity",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이상한, 별난; 특이한, 독특한",
+    "eng": "peculiar",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "특성; 특이",
+    "eng": "peculiarity",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관대한",
+    "eng": "indulgent",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "빠지다; 제멋대로 하게 하다",
+    "eng": "indulge",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관대; 탐닉",
+    "eng": "indulgence",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
