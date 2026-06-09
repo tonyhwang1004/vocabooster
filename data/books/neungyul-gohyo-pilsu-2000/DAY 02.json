@@ -1,0 +1,380 @@
+[
+  {
+    "kor": "범하다; 약속하다; 전념하다, 헌신하다",
+    "eng": "commit",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "약속; 헌신; 위탁",
+    "eng": "commitment",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "따라서, 그러므로; 향후",
+    "eng": "hence",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "세우다",
+    "eng": "theorize",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이론, 학설",
+    "eng": "theory",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주장하다; 단언하다",
+    "eng": "assert",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "주장, 단언",
+    "eng": "assertion",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "나누어 주다, 분배하다; 유통시키다",
+    "eng": "distribute",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분배, 배급; 분포",
+    "eng": "distribution",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가파른; 급격한",
+    "eng": "steep",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가파르게",
+    "eng": "steeply",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "이전의, 예전의; 전자",
+    "eng": "former",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "후반의; 후자의; 후자",
+    "eng": "latter",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인지하다, 알아차리다; 여기다",
+    "eng": "perceive",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지각, 인지",
+    "eng": "perception",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지각력이 있는",
+    "eng": "perceptive",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "결합하다; 겸비하다",
+    "eng": "combine",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "결합",
+    "eng": "combination",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "계속하다, 진행하다; 나아가다",
+    "eng": "proceed",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "절차, 진행 방식",
+    "eng": "procedure",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "진행, 과정; 처리하다",
+    "eng": "process",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "명백한, 분명한",
+    "eng": "obvious",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "명백하게, 분명히",
+    "eng": "obviously",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신청하다, 지원하다; 적용되다; 바르다",
+    "eng": "apply",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "신청, 지원; 적용",
+    "eng": "application",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "지원자",
+    "eng": "applicant",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "집중하다; 모으다",
+    "eng": "concentrate",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "집중; 농축",
+    "eng": "concentration",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "위기, 결정적인 시기",
+    "eng": "crisis",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~하는 경향이 있는; ~할 마음이 있는",
+    "eng": "inclined",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "마음이 내키게 하다; 기울다",
+    "eng": "incline",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "경향; 경사",
+    "eng": "inclination",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감정, 정서",
+    "eng": "emotion",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "감정적인",
+    "eng": "emotional",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "대표하다; 나타내다; 보여주다",
+    "eng": "represent",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "표현, 표상, 대표",
+    "eng": "representation",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "특징; 이목구비; 특집 ; 특징으로 삼다",
+    "eng": "feature",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관련된; 적절한",
+    "eng": "relevant",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관련성; 타당성",
+    "eng": "relevance",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "사실에 입각한",
+    "eng": "factual",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "걱정; 관심사; 관계; 걱정하다; 관심을 갖다",
+    "eng": "concern",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "걱정하는; 관계하는",
+    "eng": "concerned",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "~에 관한",
+    "eng": "concerning",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분류하다, 구분하다",
+    "eng": "classify",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분류된; 기밀의",
+    "eng": "classified",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "분류",
+    "eng": "classification",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "상황, 주위 사정; 형편, 처지",
+    "eng": "circumstance",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "정황적인, 형편에 따른",
+    "eng": "circumstantial",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "포함하다, 수반하다; 관련시키다; 참여시키다",
+    "eng": "involve",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관련된; 복잡한",
+    "eng": "involved",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "관련, 개입, 연루",
+    "eng": "involvement",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "때, 경우; 특별한 일",
+    "eng": "occasion",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "때때로의",
+    "eng": "occasional",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "가끔, 때때로",
+    "eng": "occasionally",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "바깥쪽의, 외부의; 외부",
+    "eng": "exterior",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "존경하다, 존중하다; 준수하다; 존경, 존중; 측면, 관점",
+    "eng": "respect",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "공손한",
+    "eng": "respectful",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "각각의",
+    "eng": "respective",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "존경할 만한",
+    "eng": "respectable",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "각자, 각각",
+    "eng": "respectively",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "명백하게 하다, 분명해지다",
+    "eng": "clarify",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "설명",
+    "eng": "clarification",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "kor": "인공의, 인조의; 거짓인, 꾸민",
+    "eng": "artificial",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  }
+]
