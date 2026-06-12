@@ -1,241 +1,241 @@
 [
   {
-    "kor": "감정",
     "eng": "emotion",
+    "kor": "감정",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "놀라게 하다",
     "eng": "amaze",
+    "kor": "놀라게 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "줄이다, 낮추다",
     "eng": "reduce",
+    "kor": "줄이다, 낮추다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "발견하다, 알아내다",
     "eng": "discover",
+    "kor": "발견하다, 알아내다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "결정하다, 결심하다",
     "eng": "decide",
+    "kor": "결정하다, 결심하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "이익, 혜택, 도움이 되다",
     "eng": "benefit",
+    "kor": "이익, 혜택, 도움이 되다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "영향을 미치다",
     "eng": "affect",
+    "kor": "영향을 미치다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "수준, 정도, 수평, 수평의",
     "eng": "level",
+    "kor": "수준, 정도, 수평, 수평의",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "화학",
     "eng": "chemistry",
+    "kor": "화학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "즉각적인, 시급한, 직접적인",
     "eng": "immediate",
+    "kor": "즉각적인, 시급한, 직접적인",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "그러므로, 따라서",
     "eng": "thus",
+    "kor": "그러므로, 따라서",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "적절한, 알맞은",
     "eng": "proper",
+    "kor": "적절한, 알맞은",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "공연, 성과",
     "eng": "performance",
+    "kor": "공연, 성과",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "본질, 정수",
     "eng": "essence",
+    "kor": "본질, 정수",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "경제의, 경제학의",
     "eng": "economic",
+    "kor": "경제의, 경제학의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "세포",
     "eng": "cell",
+    "kor": "세포",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "집중하다, 초점",
     "eng": "focus",
+    "kor": "집중하다, 초점",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "논란거리, 쟁점, 문제",
     "eng": "issue",
+    "kor": "논란거리, 쟁점, 문제",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "참여하다, 참가하다(in)",
     "eng": "participate",
+    "kor": "참여하다, 참가하다(in)",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "요구, 수요, 요구하다",
     "eng": "demand",
+    "kor": "요구, 수요, 요구하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "발생하다, 일어나다, (생각이) 떠오르다",
     "eng": "occur",
+    "kor": "발생하다, 일어나다, (생각이) 떠오르다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "복잡한, 복잡체, 복합 건물",
     "eng": "complex",
+    "kor": "복잡한, 복잡체, 복합 건물",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "정의하다, 한계 짓다, 한정하다, 규정하다",
     "eng": "define",
+    "kor": "정의하다, 한계 짓다, 한정하다, 규정하다",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "자랑스러워하는",
     "eng": "proud",
+    "kor": "자랑스러워하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인지하는, 인식하고 있는, 알고 있는",
     "eng": "aware",
+    "kor": "인지하는, 인식하고 있는, 알고 있는",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "연락하다, 접촉, 연락",
     "eng": "contact",
+    "kor": "연락하다, 접촉, 연락",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "직업, 직종, 전문직",
     "eng": "profession",
+    "kor": "직업, 직종, 전문직",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "세부, 세부사항, 상술하다",
     "eng": "detail",
+    "kor": "세부, 세부사항, 상술하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "접근하다, 접근",
     "eng": "approach",
+    "kor": "접근하다, 접근",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "직업, 경력",
     "eng": "career",
+    "kor": "직업, 경력",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "꾸러미, 포장, 포장된 짐, 포장하다",
     "eng": "package",
+    "kor": "꾸러미, 포장, 포장된 짐, 포장하다",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "사라지다",
     "eng": "disappear",
+    "kor": "사라지다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소설",
     "eng": "novel",
+    "kor": "소설",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "안전한, 안정된, 안전하게 하다",
     "eng": "secure",
+    "kor": "안전한, 안정된, 안전하게 하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "유행, 패션, 방식, 만들어 내다",
-    "eng": "fashion",
-    "answer_count_kor": 4,
+    "eng": "function",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "~에도 불구하고",
     "eng": "despite",
+    "kor": "~에도 불구하고",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(그림, 사람, 사건)배경, 배경 지식",
     "eng": "background",
+    "kor": "(그림, 사람, 사건)배경, 배경 지식",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "해결, 해결책",
     "eng": "solution",
+    "kor": "해결, 해결책",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "일으키다, 발생시키다",
     "eng": "generate",
+    "kor": "일으키다, 발생시키다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "결국",
     "eng": "eventually",
+    "kor": "결국",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
