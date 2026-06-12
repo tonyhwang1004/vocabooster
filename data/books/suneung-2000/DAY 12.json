@@ -1,242 +1,242 @@
 [
   {
-    "kor": "초대",
-    "eng": "invitation",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "정확한, 정밀한",
-    "eng": "precise",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "공식적인, 격식을 차린",
-    "eng": "formal",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "작은 조각, 입자",
-    "eng": "particle",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "취소하다",
     "eng": "cancel",
+    "kor": "취소하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "돌아가다, 돌려주다, 돌아감, 귀향",
     "eng": "return",
+    "kor": "돌아가다, 돌려주다, 돌아감, 귀향",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "출발, 떠남, 일탈",
-    "eng": "departure",
-    "answer_count_kor": 3,
+    "eng": "invitation",
+    "kor": "초대",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "명백한",
+    "eng": "precise",
+    "kor": "정확한, 정밀한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "formal",
+    "kor": "공식적인, 격식을 차린",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "apparent",
+    "kor": "명백한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "눈에 보이는, 시각의",
-    "eng": "visual",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "농업",
-    "eng": "agriculture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "의식, 의례",
-    "eng": "rite",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가난",
-    "eng": "poverty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "조각상",
-    "eng": "sculpture",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "내려가다, 내려오다",
-    "eng": "descend",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "새다, 새는 구멍",
-    "eng": "leak",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부분, 1인분",
-    "eng": "portion",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "친구, 동료",
-    "eng": "companion",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "근면한",
-    "eng": "diligent",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뚜렷한, 다른",
-    "eng": "distinct",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "구성 요소, 구성하는",
-    "eng": "component",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "현재의, 지금의",
-    "eng": "current",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "보편적인, 전 세계의",
-    "eng": "universal",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "덫, 가두다",
-    "eng": "trap",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "갈망하는",
-    "eng": "eager",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "법률의, 합법적인",
-    "eng": "legal",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "입증하다, 시위하다, 설명하다",
-    "eng": "demonstrate",
+    "eng": "departure",
+    "kor": "출발, 떠남, 일탈",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "민주주의",
-    "eng": "democracy",
+    "eng": "visual",
+    "kor": "눈에 보이는, 시각의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "current",
+    "kor": "현재의, 지금의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "agriculture",
+    "kor": "농업",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "성숙한, 성숙하다",
-    "eng": "mature",
+    "eng": "leak",
+    "kor": "새다, 새는 구멍",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "빛나는, 훌륭한",
-    "eng": "brilliant",
+    "eng": "portion",
+    "kor": "부분, 1인분",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "연간의, 해마다의",
+    "eng": "trend",
+    "kor": "",
+    "answer_count_kor": 0,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "particle",
+    "kor": "작은 조각, 입자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rite",
+    "kor": "의식, 의례",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distinct",
+    "kor": "뚜렷한, 다른",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "component",
+    "kor": "구성 요소, 구성하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "poverty",
+    "kor": "가난",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sculpture",
+    "kor": "조각상",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "descend",
+    "kor": "내려가다, 내려오다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "universal",
+    "kor": "보편적인, 전 세계의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "surface",
+    "kor": "",
+    "answer_count_kor": 0,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "eager",
+    "kor": "갈망하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "legal",
+    "kor": "법률의, 합법적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "annual",
+    "kor": "연간의, 해마다의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "믿음, 신념",
+    "eng": "trap",
+    "kor": "덫, 가두다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "demonstrate",
+    "kor": "입증하다, 시위하다, 설명하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "companion",
+    "kor": "친구, 동료",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "democracy",
+    "kor": "민주주의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mature",
+    "kor": "성숙한, 성숙하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "brilliant",
+    "kor": "빛나는, 훌륭한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "faith",
+    "kor": "믿음, 신념",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(시간, 돈을) 할애하다, (고생을) 면하게 하다, 여분의",
+    "eng": "aim",
+    "kor": "목표로 하다, 겨누다, 목표",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "spare",
+    "kor": "(시간, 돈을) 할애하다, (고생을) 면하게 하다, 여분의",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "이동하다, 옮기다, 환승하다, 이, 환승",
     "eng": "transfer",
+    "kor": "이동하다, 옮기다, 환승하다, 이, 환승",
     "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "냉장고",
-    "eng": "refrigerator",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "반대하다",
     "eng": "oppose",
+    "kor": "반대하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "절망적인, 필사적인",
     "eng": "desperate",
+    "kor": "절망적인, 필사적인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "멀리 떨어진, 원격 조정의",
     "eng": "remote",
+    "kor": "멀리 떨어진, 원격 조정의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "불쾌하게 하다",
     "eng": "offend",
+    "kor": "불쾌하게 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "깨어있는",
     "eng": "awake",
+    "kor": "깨어있는",
     "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "목표로 하다, 겨누다, 목표",
-    "eng": "aim",
-    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
