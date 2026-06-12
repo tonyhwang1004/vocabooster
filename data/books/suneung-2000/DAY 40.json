@@ -1,241 +1,241 @@
 [
   {
-    "kor": "요리법",
     "eng": "recipe",
+    "kor": "요리법",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "속이다, 기만하다",
     "eng": "deceive",
+    "kor": "속이다, 기만하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "쓸다, 휩쓸다",
     "eng": "sweep",
+    "kor": "쓸다, 휩쓸다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "옆모습, 윤곽, 인물 소개",
     "eng": "profile",
+    "kor": "옆모습, 윤곽, 인물 소개",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "기업, 사업",
     "eng": "enterprise",
+    "kor": "기업, 사업",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "연속적인",
     "eng": "successive",
+    "kor": "연속적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "역설, 모순되는 말",
     "eng": "paradox",
+    "kor": "역설, 모순되는 말",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "능가하다",
     "eng": "surpass",
+    "kor": "능가하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "상관 관계, 연관성",
     "eng": "correlation",
+    "kor": "상관 관계, 연관성",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "중대성, 거대함",
     "eng": "magnitude",
+    "kor": "중대성, 거대함",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "미의, 미학의",
-    "eng": "aesthetic",
-    "answer_count_kor": 2,
+    "eng": "aesthetics",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "성실한, 진심어린",
     "eng": "earnest",
+    "kor": "성실한, 진심어린",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "떨다, 흔들리다",
     "eng": "tremble",
+    "kor": "떨다, 흔들리다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "도살하다, 학살하다",
     "eng": "slaughter",
+    "kor": "도살하다, 학살하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "항복하다, 양도하다, 항복, 양도",
     "eng": "surrender",
+    "kor": "항복하다, 양도하다, 항복, 양도",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "철학, 인생관",
     "eng": "philosophy",
+    "kor": "철학, 인생관",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고갈시키다",
     "eng": "deplete",
+    "kor": "고갈시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "존경하다",
     "eng": "admire",
+    "kor": "존경하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "불구로 만들다, <물리> 변형시키다",
-    "eng": "deform",
-    "answer_count_kor": 2,
+    "eng": "starvation",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "오싹하다, 오싹함, 떨림",
-    "eng": "thrill",
-    "answer_count_kor": 3,
+    "eng": "summon",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "~할 여유가 있다",
     "eng": "afford",
+    "kor": "~할 여유가 있다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "무뚝뚝한, 직설적인",
     "eng": "blunt",
+    "kor": "무뚝뚝한, 직설적인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "전력 질주하다",
     "eng": "sprint",
+    "kor": "전력 질주하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "도움, 지원",
-    "eng": "aid",
-    "answer_count_kor": 2,
+    "eng": "passerby",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "긴장한, (문법) 시제긴장시키다",
     "eng": "tense",
+    "kor": "긴장한, (문법) 시제긴장시키다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "증폭시키다, 확대하다",
-    "eng": "amplify",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "목재",
-    "eng": "timber",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "협력하다",
-    "eng": "collaborate",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "태도, 자세",
-    "eng": "stance",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "(입으로) 불다, (바람이) 불다",
-    "eng": "blow",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "투표투표하다",
-    "eng": "ballot",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "분할, 분열, 나눗셈",
-    "eng": "division",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "아는 사람",
-    "eng": "acquaintance",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "끓다, 삶다",
     "eng": "boil",
+    "kor": "끓다, 삶다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "모순되다, 반박하다, 부정하다",
+    "eng": "timber",
+    "kor": "목재",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collaborate",
+    "kor": "협력하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stance",
+    "kor": "태도, 자세",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "blow",
+    "kor": "(입으로) 불다, (바람이) 불다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ballot",
+    "kor": "투표투표하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resilience",
+    "kor": "",
+    "answer_count_kor": 0,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "acquaintance",
+    "kor": "아는 사람",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "amplify",
+    "kor": "증폭시키다, 확대하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "contradict",
+    "kor": "모순되다, 반박하다, 부정하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "터지다, 갑자기 나타나다, 파열, 폭발",
     "eng": "burst",
+    "kor": "터지다, 갑자기 나타나다, 파열, 폭발",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "던지다, 배역을 정하다, (빛을) 발하다, 출연자, 깁스",
     "eng": "cast",
+    "kor": "던지다, 배역을 정하다, (빛을) 발하다, 출연자, 깁스",
     "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "잘못을 입증하다",
     "eng": "falsify",
+    "kor": "잘못을 입증하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "초자연적인, 마음의",
     "eng": "psychic",
+    "kor": "초자연적인, 마음의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "노, 노를 저어 나아가다",
     "eng": "paddle",
+    "kor": "노, 노를 저어 나아가다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   }
