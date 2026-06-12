@@ -1,241 +1,241 @@
 [
   {
-    "kor": "제공하다, 공급하다, 준비하다",
     "eng": "provide",
+    "kor": "제공하다, 공급하다, 준비하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "개발하다, 발달하다, 발전시키다",
     "eng": "develop",
+    "kor": "개발하다, 발달하다, 발전시키다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "서비스, 근무, 봉사, 공공 업무",
-    "eng": "service",
-    "answer_count_kor": 4,
+    "eng": "cultural",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "알리다, 통지하다",
     "eng": "inform",
+    "kor": "알리다, 통지하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "관계",
-    "eng": "relationship",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "향상시키다, 나아지다, 향상하다",
-    "eng": "improve",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "개인의, 개인적인, 개인",
-    "eng": "individual",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "요구하다, 필요로 하다",
-    "eng": "require",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "충고하다, 조언하다",
-    "eng": "advise",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "사회의, 사교적인",
     "eng": "social",
+    "kor": "사회의, 사교적인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "총액, 총계, 양, 총계가 ~이 되다",
-    "eng": "amount",
-    "answer_count_kor": 4,
+    "eng": "improve",
+    "kor": "향상시키다, 나아지다, 향상하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "행동하다",
-    "eng": "behave",
-    "answer_count_kor": 1,
+    "eng": "individual",
+    "kor": "개인의, 개인적인, 개인",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "고용하다, 쓰다",
-    "eng": "employ",
+    "eng": "require",
+    "kor": "요구하다, 필요로 하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "태도, 입장",
-    "eng": "attitude",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "연구하다, 조사하다, 연구, 조사",
-    "eng": "research",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "청중, 관객",
-    "eng": "audience",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지원자, 자원봉사, 자원봉사자, 지원하다, 자원봉사하다",
     "eng": "volunteer",
+    "kor": "지원자, 자원봉사, 자원봉사자, 지원하다, 자원봉사하다",
     "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "영향, 영향을 미치는 것[사람], 영향을 미치다",
-    "eng": "influence",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "끔직한, 형편없는, 무서운",
-    "eng": "terrible",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "기회",
-    "eng": "opportunity",
+    "eng": "behave",
+    "kor": "행동하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "능력, 재능",
-    "eng": "ability",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "비용, 지출",
-    "eng": "expense",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지역의, 장소의, 지방의",
-    "eng": "local",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "관련시키다, 포함하다, 관련되다",
-    "eng": "involve",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "스트레스, 긴장, 강조, 강조하다, 압력을 주다",
-    "eng": "stress",
-    "answer_count_kor": 5,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "그러므로, 그 결과",
-    "eng": "therefore",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "긍정적인, 낙관적인, 확신하는",
-    "eng": "positive",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "평균의, 보통의, 평균, 보통 수준, 평균 ~이다",
-    "eng": "average",
-    "answer_count_kor": 5,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "타다, 타기, 태우기, 타고가기",
-    "eng": "ride",
+    "eng": "amount",
+    "kor": "총액, 총계, 양, 총계가 ~이 되다",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "격려하다, 권장하다, 부추기다, 촉구하다",
-    "eng": "encourage",
+    "eng": "relationship",
+    "kor": "관계",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "employ",
+    "kor": "고용하다, 쓰다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attitude",
+    "kor": "태도, 입장",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "research",
+    "kor": "연구하다, 조사하다, 연구, 조사",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "결정하다, 결심하다",
-    "eng": "determine",
+    "eng": "audience",
+    "kor": "청중, 관객",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "국제의, 국제적인",
-    "eng": "international",
-    "answer_count_kor": 2,
+    "eng": "challenge",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "소비하다, 먹다[마시다]",
-    "eng": "consume",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "감동시키다, 깊은 인상을 주다",
-    "eng": "impress",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "물건, 물체, 목표, 반대하다",
-    "eng": "object",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "이용할 수 있는, 쓸모있는, 시간이 있는",
-    "eng": "available",
+    "eng": "influence",
+    "kor": "영향, 영향을 미치는 것[사람], 영향을 미치다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "들어있다, 포함하다, 함유하다, 억제하다",
-    "eng": "contain",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인지하다 , 인정하다, 알아보다",
-    "eng": "recognize",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "재료, 소재, 물질, 물질의",
     "eng": "material",
+    "kor": "재료, 소재, 물질, 물질의",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "편안, 평안함, 위안, 위로, 편안하게 하다, 위로하다",
+    "eng": "opportunity",
+    "kor": "기회",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "environment",
+    "kor": "",
+    "answer_count_kor": 0,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expense",
+    "kor": "비용, 지출",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "local",
+    "kor": "지역의, 장소의, 지방의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "involve",
+    "kor": "관련시키다, 포함하다, 관련되다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stress",
+    "kor": "스트레스, 긴장, 강조, 강조하다, 압력을 주다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "therefore",
+    "kor": "그러므로, 그 결과",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contain",
+    "kor": "들어있다, 포함하다, 함유하다, 억제하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "average",
+    "kor": "평균의, 보통의, 평균, 보통 수준, 평균 ~이다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ride",
+    "kor": "타다, 타기, 태우기, 타고가기",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "encourage",
+    "kor": "격려하다, 권장하다, 부추기다, 촉구하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "determine",
+    "kor": "결정하다, 결심하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "international",
+    "kor": "국제의, 국제적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consume",
+    "kor": "소비하다, 먹다[마시다]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impress",
+    "kor": "감동시키다, 깊은 인상을 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "object",
+    "kor": "물건, 물체, 목표, 반대하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "available",
+    "kor": "이용할 수 있는, 쓸모있는, 시간이 있는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "positive",
+    "kor": "긍정적인, 낙관적인, 확신하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recognize",
+    "kor": "인지하다 , 인정하다, 알아보다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "commodity",
+    "kor": "",
+    "answer_count_kor": 0,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "comfort",
+    "kor": "편안, 평안함, 위안, 위로, 편안하게 하다, 위로하다",
     "answer_count_kor": 6,
     "answer_count_eng": 1
   }
