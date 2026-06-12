@@ -1,241 +1,241 @@
 [
   {
-    "kor": "조종하다",
     "eng": "steer",
+    "kor": "조종하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "애착, 애정",
     "eng": "affection",
+    "kor": "애착, 애정",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "말하다",
     "eng": "bid",
+    "kor": "말하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "퇴비, 두엄, 퇴비를 만들다, 두엄을 끼얹다",
     "eng": "compost",
+    "kor": "퇴비, 두엄, 퇴비를 만들다, 두엄을 끼얹다",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "기질",
     "eng": "temperament",
+    "kor": "기질",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "임대료, 임대하다",
     "eng": "rent",
+    "kor": "임대료, 임대하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조각조각으로 찢다",
     "eng": "shred",
+    "kor": "조각조각으로 찢다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "예측할 수 없는",
     "eng": "unpredictable",
+    "kor": "예측할 수 없는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "경의의 표시",
     "eng": "tribute",
+    "kor": "경의의 표시",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "동맥",
     "eng": "artery",
+    "kor": "동맥",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "내재하는",
     "eng": "inherent",
+    "kor": "내재하는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "희롱하다",
     "eng": "harass",
+    "kor": "희롱하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "서술의, 이야기로 이루어진, 이야기",
     "eng": "narrative",
+    "kor": "서술의, 이야기로 이루어진, 이야기",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "모으다, 조립하다",
     "eng": "assemble",
+    "kor": "모으다, 조립하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "못, 뾰족한것",
     "eng": "spike",
+    "kor": "못, 뾰족한것",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "몰래 들어가다",
     "eng": "sneak",
+    "kor": "몰래 들어가다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "세련된, 정교한",
     "eng": "sophisticated",
+    "kor": "세련된, 정교한",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "처리하다, 다루다",
-    "eng": "handle",
-    "answer_count_kor": 2,
+    "eng": "territory",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "깨달음",
     "eng": "enlightenment",
+    "kor": "깨달음",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "화장품, 허울뿐인, 표면적인",
     "eng": "cosmetic",
+    "kor": "화장품, 허울뿐인, 표면적인",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "상냥한",
     "eng": "gracious",
+    "kor": "상냥한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "열망하다",
     "eng": "aspire",
+    "kor": "열망하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "방해하다, 가로막다",
     "eng": "obstruct",
+    "kor": "방해하다, 가로막다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "순찰, 순찰병",
     "eng": "patrol",
+    "kor": "순찰, 순찰병",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "가속하다, 촉진하다",
     "eng": "accelerate",
+    "kor": "가속하다, 촉진하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "일사병",
     "eng": "heatstroke",
+    "kor": "일사병",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "타원형의, 타원형",
     "eng": "oval",
+    "kor": "타원형의, 타원형",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "베테랑, 참전용사",
     "eng": "veteran",
+    "kor": "베테랑, 참전용사",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "흔적, 오솔길, 끌다, 추적하다",
     "eng": "trail",
+    "kor": "흔적, 오솔길, 끌다, 추적하다",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "천직, 직업",
     "eng": "vocation",
+    "kor": "천직, 직업",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "채식주의자",
     "eng": "vegetarian",
+    "kor": "채식주의자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "해독하다",
     "eng": "decode",
+    "kor": "해독하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "친구, 동료, 동료의",
     "eng": "fellow",
+    "kor": "친구, 동료, 동료의",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "권한, 명령, 권한을 부여하다, 명령하다",
     "eng": "mandate",
+    "kor": "권한, 명령, 권한을 부여하다, 명령하다",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "소멸하다, 죽다",
     "eng": "perish",
+    "kor": "소멸하다, 죽다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "떼어낼 수 없는",
     "eng": "inseparable",
+    "kor": "떼어낼 수 없는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "영역, 도메인",
     "eng": "domain",
+    "kor": "영역, 도메인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "정치인",
     "eng": "statesman",
+    "kor": "정치인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "함축, 내포",
     "eng": "connotation",
+    "kor": "함축, 내포",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "인습, 고정관념",
     "eng": "stereotype",
+    "kor": "인습, 고정관념",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   }
