@@ -1,242 +1,242 @@
 [
   {
-    "kor": "필수적인, 중요한, 생명 유지와 관련된",
     "eng": "vital",
+    "kor": "필수적인, 중요한, 생명 유지와 관련된",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "사건, 일어난 일, 일어나기 쉬운",
     "eng": "incident",
+    "kor": "사건, 일어난 일, 일어나기 쉬운",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "시간, 회의, 기간, 학기",
     "eng": "session",
+    "kor": "시간, 회의, 기간, 학기",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "분명한, 명백한",
     "eng": "obvious",
+    "kor": "분명한, 명백한",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "온건한, 적당한",
     "eng": "moderate",
+    "kor": "온건한, 적당한",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "예산, 예산안",
     "eng": "budget",
+    "kor": "예산, 예산안",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "풀을 뜯다, 방목하다",
     "eng": "graze",
+    "kor": "풀을 뜯다, 방목하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "부서지기 쉬운",
     "eng": "fragile",
+    "kor": "부서지기 쉬운",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "신화, 사회적 통념",
     "eng": "myth",
+    "kor": "신화, 사회적 통념",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "부드러운 털, 모피",
-    "eng": "fur",
+    "eng": "ingredient",
+    "kor": "재료, 성분",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "무관심한",
     "eng": "indifferent",
+    "kor": "무관심한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "긴장, 압박, 잡아당기다, 긴장시키다, 혹사하다",
     "eng": "strain",
+    "kor": "긴장, 압박, 잡아당기다, 긴장시키다, 혹사하다",
     "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "재료, 성분",
-    "eng": "ingredient",
-    "answer_count_kor": 2,
+    "eng": "nutrient",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "묵살하다, 해고하다, 해산시키다",
     "eng": "dismiss",
+    "kor": "묵살하다, 해고하다, 해산시키다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "기하학",
     "eng": "geometry",
+    "kor": "기하학",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "빙하",
     "eng": "glacier",
+    "kor": "빙하",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "촉구하다, 강요하다",
     "eng": "urge",
+    "kor": "촉구하다, 강요하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "유명 인사, 명성",
     "eng": "celebrity",
+    "kor": "유명 인사, 명성",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고대의, 옛날의, 고풍의, 골동품",
     "eng": "antique",
+    "kor": "고대의, 옛날의, 고풍의, 골동품",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "이익, 이윤, 이익을 얻다",
     "eng": "profit",
+    "kor": "이익, 이윤, 이익을 얻다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "구, 구체",
     "eng": "sphere",
+    "kor": "구, 구체",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "상속받다, 물려받다",
     "eng": "inherit",
+    "kor": "상속받다, 물려받다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "불명예, 수치",
-    "eng": "disgrace",
-    "answer_count_kor": 2,
+    "eng": "editorial",
+    "kor": "편집자의, 사설, 논설",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "기어가다, 서행하다, 기어가기, 서행",
     "eng": "crawl",
+    "kor": "기어가다, 서행하다, 기어가기, 서행",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "긁다, 할퀴다, 긁힌 자국, 찰과상",
     "eng": "scratch",
+    "kor": "긁다, 할퀴다, 긁힌 자국, 찰과상",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "당뇨병",
     "eng": "diabetes",
+    "kor": "당뇨병",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "혼잡, 밀집",
     "eng": "congestion",
+    "kor": "혼잡, 밀집",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "구성하다, 설립하다, 제정하다",
     "eng": "constitute",
+    "kor": "구성하다, 설립하다, 제정하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "흐름, 흐르다",
     "eng": "flow",
+    "kor": "흐름, 흐르다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조사하다, 수사하다",
     "eng": "investigate",
+    "kor": "조사하다, 수사하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "물물 교환, 교역품, 물물 교환하다",
     "eng": "barter",
+    "kor": "물물 교환, 교역품, 물물 교환하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "원의, 순환의",
     "eng": "circular",
+    "kor": "원의, 순환의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "쌀쌀한, 냉담한",
     "eng": "chilly",
+    "kor": "쌀쌀한, 냉담한",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "조상, 선조",
     "eng": "ancestor",
+    "kor": "조상, 선조",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "사나운, 맹렬한",
     "eng": "fierce",
+    "kor": "사나운, 맹렬한",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "희미한, 막연한, 모호한",
     "eng": "vague",
+    "kor": "희미한, 막연한, 모호한",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "거친, 난폭한, 대강의",
     "eng": "rough",
+    "kor": "거친, 난폭한, 대강의",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "내용, 목차, 만족하는",
     "eng": "content",
+    "kor": "내용, 목차, 만족하는",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "장애물, 방해가 되는 것",
     "eng": "obstacle",
+    "kor": "장애물, 방해가 되는 것",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "편집자의, 사설, 논설",
-    "eng": "editorial",
-    "answer_count_kor": 3,
+    "eng": "disgrace",
+    "kor": "불명예, 수치",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
