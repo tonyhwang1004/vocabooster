@@ -1,241 +1,241 @@
 [
   {
-    "kor": "꼬집다, 집다, 죄다",
     "eng": "pinch",
+    "kor": "꼬집다, 집다, 죄다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "시간을 지키는",
     "eng": "punctual",
+    "kor": "시간을 지키는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "임의적인, 독단적인",
     "eng": "arbitrary",
+    "kor": "임의적인, 독단적인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "대참사, 재앙",
     "eng": "catastrophe",
+    "kor": "대참사, 재앙",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "(힘, 영향력을) 가하다, 발휘하다",
     "eng": "exert",
+    "kor": "(힘, 영향력을) 가하다, 발휘하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "조종하다, 비행하다",
     "eng": "aviate",
+    "kor": "조종하다, 비행하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "본사, 본부",
     "eng": "headquarters",
+    "kor": "본사, 본부",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "직사각형의, 직각의",
     "eng": "rectangular",
+    "kor": "직사각형의, 직각의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "파견하다, 사절, 대표",
-    "eng": "deledate",
-    "answer_count_kor": 3,
+    "eng": "delegate",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "선출하다",
     "eng": "elect",
+    "kor": "선출하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "가시",
     "eng": "thorn",
+    "kor": "가시",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공감하다",
     "eng": "empathize",
+    "kor": "공감하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "전문 지식",
     "eng": "expertise",
+    "kor": "전문 지식",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~을 새것으로 만들다, 수리하다",
     "eng": "renovate",
+    "kor": "~을 새것으로 만들다, 수리하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "비틀다, 삐다, 렌치, 쓰라림",
     "eng": "wrench",
+    "kor": "비틀다, 삐다, 렌치, 쓰라림",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "간격, 사이",
     "eng": "interval",
+    "kor": "간격, 사이",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "저하시키다, 비하하다, 분해하다",
     "eng": "degrade",
+    "kor": "저하시키다, 비하하다, 분해하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "보고서, 말대꾸, 보고하다, 발표하다",
-    "eng": "report",
-    "answer_count_kor": 4,
+    "eng": "retort",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "천식",
-    "eng": "asthma",
-    "answer_count_kor": 1,
+    "eng": "shudder",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "영역, 왕국",
     "eng": "realm",
+    "kor": "영역, 왕국",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "부분, 조각",
     "eng": "segment",
+    "kor": "부분, 조각",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "공존하다",
     "eng": "coexist",
+    "kor": "공존하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "환대, 후한 대접",
     "eng": "hospitality",
+    "kor": "환대, 후한 대접",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "재산, 토지",
     "eng": "estate",
+    "kor": "재산, 토지",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "옮겨 놓다, 대체하다",
     "eng": "displace",
+    "kor": "옮겨 놓다, 대체하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "불구자, 지체 부자유자, ~을 불구로 만들다, 손상시키다",
     "eng": "cripple",
+    "kor": "불구자, 지체 부자유자, ~을 불구로 만들다, 손상시키다",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "문제점, 결점, 장애",
     "eng": "drawback",
+    "kor": "문제점, 결점, 장애",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "방안, 전술",
     "eng": "tactics",
+    "kor": "방안, 전술",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "두려워하다, 무서워하다, 두려움, 공포",
     "eng": "dread",
+    "kor": "두려워하다, 무서워하다, 두려움, 공포",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "논쟁하다, 토의하다, 논쟁, 분쟁",
     "eng": "dispute",
+    "kor": "논쟁하다, 토의하다, 논쟁, 분쟁",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "위로하다",
     "eng": "console",
+    "kor": "위로하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "더미, 산더미, 쌓아 올리다",
     "eng": "stack",
+    "kor": "더미, 산더미, 쌓아 올리다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "냉소적인, 비관적인",
     "eng": "cynical",
+    "kor": "냉소적인, 비관적인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "꾸짖다, 책망하다",
     "eng": "reprove",
+    "kor": "꾸짖다, 책망하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "입증하다",
     "eng": "verify",
+    "kor": "입증하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "열중하게 하다",
     "eng": "engross",
+    "kor": "열중하게 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "크기, 부피, 대부분, 부피가 커지다, 덩어리가 되다",
     "eng": "bulk",
+    "kor": "크기, 부피, 대부분, 부피가 커지다, 덩어리가 되다",
     "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "kor": "경멸하다",
     "eng": "despise",
+    "kor": "경멸하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "원고, 필사본",
     "eng": "manuscript",
+    "kor": "원고, 필사본",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "달아나다",
     "eng": "flee",
+    "kor": "달아나다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
