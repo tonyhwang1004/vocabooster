@@ -1,241 +1,241 @@
 [
   {
-    "kor": "전환시키다, 바꾸다",
     "eng": "convert",
+    "kor": "전환시키다, 바꾸다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "치다",
     "eng": "strike",
+    "kor": "치다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "억압하다, 참다",
     "eng": "suppress",
+    "kor": "억압하다, 참다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "핵심(의)",
     "eng": "core",
+    "kor": "핵심(의)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공헌하다",
     "eng": "contribute",
+    "kor": "공헌하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "창",
     "eng": "spear",
+    "kor": "창",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "명성 있는",
     "eng": "renowned",
+    "kor": "명성 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "시대",
     "eng": "era",
+    "kor": "시대",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "인출하다",
     "eng": "withdraw",
+    "kor": "인출하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이주하다",
-    "eng": "immigrate",
-    "answer_count_kor": 1,
+    "eng": "separate",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "존엄",
     "eng": "dignity",
+    "kor": "존엄",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "통보하다, 알리다",
     "eng": "notify",
+    "kor": "통보하다, 알리다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "살아 있는",
     "eng": "animate",
+    "kor": "살아 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "예방하다, 막다",
     "eng": "prevent",
+    "kor": "예방하다, 막다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "2개 국어의",
     "eng": "bilingual",
+    "kor": "2개 국어의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "장난, 해악",
     "eng": "mischief",
+    "kor": "장난, 해악",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "차별하다, 구별하다",
     "eng": "discriminate",
+    "kor": "차별하다, 구별하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "예시하다",
     "eng": "exemplify",
+    "kor": "예시하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고수하다",
     "eng": "adhere",
+    "kor": "고수하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "판단하다",
-    "eng": "judge",
-    "answer_count_kor": 1,
+    "eng": "superb",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "독특한",
     "eng": "peculiar",
+    "kor": "독특한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "위함, 목적",
     "eng": "sake",
+    "kor": "위함, 목적",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "질식시키다",
     "eng": "choke",
+    "kor": "질식시키다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "민간 설화, 전설",
     "eng": "folktale",
+    "kor": "민간 설화, 전설",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "동시에",
     "eng": "simultaneously",
+    "kor": "동시에",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "범위",
     "eng": "range",
+    "kor": "범위",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "신랑",
     "eng": "groom",
+    "kor": "신랑",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "초자연적인",
     "eng": "supernatural",
+    "kor": "초자연적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "부드러운",
     "eng": "tender",
+    "kor": "부드러운",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "본능",
     "eng": "instinct",
+    "kor": "본능",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "거대한",
     "eng": "gigantic",
+    "kor": "거대한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "명상하다",
     "eng": "meditate",
+    "kor": "명상하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(풀을) 베다",
     "eng": "mow",
+    "kor": "(풀을) 베다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "진화하다, 발전하다",
     "eng": "evolve",
+    "kor": "진화하다, 발전하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "추격하다, 쫓다",
     "eng": "chase",
+    "kor": "추격하다, 쫓다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "괴롭히다",
     "eng": "afflict",
+    "kor": "괴롭히다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "읽고 쓸 수 있는",
-    "eng": "literate",
-    "answer_count_kor": 1,
+    "eng": "empirical",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "통일성 있는, 조리 있는",
     "eng": "coherent",
+    "kor": "통일성 있는, 조리 있는",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "참을 수 없는",
     "eng": "intolerable",
+    "kor": "참을 수 없는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "분수",
     "eng": "fountain",
+    "kor": "분수",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
