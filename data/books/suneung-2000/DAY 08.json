@@ -1,241 +1,241 @@
 [
   {
-    "kor": "이전의, 앞의",
     "eng": "previous",
+    "kor": "이전의, 앞의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "생산하다, 제조하다",
     "eng": "produce",
+    "kor": "생산하다, 제조하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "여전히 ~이다, 남다",
     "eng": "remain",
+    "kor": "여전히 ~이다, 남다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "깨다, 고장내다",
-    "eng": "break",
-    "answer_count_kor": 2,
+    "eng": "entitle",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "약간의, 경미한",
     "eng": "slight",
+    "kor": "약간의, 경미한",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "포함하다",
     "eng": "include",
+    "kor": "포함하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "연기하다, 미루다, 지연",
     "eng": "delay",
+    "kor": "연기하다, 미루다, 지연",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "서류철, 파일에 철하다, 제기하다",
     "eng": "file",
+    "kor": "서류철, 파일에 철하다, 제기하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "윤리",
     "eng": "ethic",
+    "kor": "윤리",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "즉각의, 즉석의, 순간",
     "eng": "instant",
+    "kor": "즉각의, 즉석의, 순간",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "폭로하다, 드러내다",
     "eng": "reveal",
+    "kor": "폭로하다, 드러내다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "낳다, 양육하다",
-    "eng": "breed",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "여가, 한가한",
-    "eng": "leisure",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "도시의",
-    "eng": "urban",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "목격자, 목격하다",
-    "eng": "witness",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "인정하다, 입학을 허가하다",
-    "eng": "admit",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "근육, 힘",
-    "eng": "muscle",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "장치, 고안, 방책",
-    "eng": "device",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "추측하다, 가정하다",
     "eng": "suppose",
+    "kor": "추측하다, 가정하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "빚지고 있다",
+    "eng": "leisure",
+    "kor": "여가, 한가한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "urban",
+    "kor": "도시의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "witness",
+    "kor": "목격자, 목격하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "admit",
+    "kor": "인정하다, 입학을 허가하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "muscle",
+    "kor": "근육, 힘",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "device",
+    "kor": "장치, 고안, 방책",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "borrow",
+    "kor": "",
+    "answer_count_kor": 0,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "owe",
+    "kor": "빚지고 있다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "~할 작정이다, 의도하다",
     "eng": "intend",
+    "kor": "~할 작정이다, 의도하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "면, 관점",
     "eng": "aspect",
+    "kor": "면, 관점",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "잠재적인, 잠재력",
     "eng": "potential",
+    "kor": "잠재적인, 잠재력",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "상, (상 등을) 수여하다",
     "eng": "award",
+    "kor": "상, (상 등을) 수여하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "보존하다, 보호하다",
     "eng": "preserve",
+    "kor": "보존하다, 보호하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "장소, 점, 발견하다",
     "eng": "spot",
+    "kor": "장소, 점, 발견하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "지하의, 비밀의, 지하",
     "eng": "underground",
+    "kor": "지하의, 비밀의, 지하",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "결과, 중요성",
     "eng": "consequence",
+    "kor": "결과, 중요성",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "목표, 목표로 삼다",
     "eng": "target",
+    "kor": "목표, 목표로 삼다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "만약 ~이 아니면",
-    "eng": "unless",
-    "answer_count_kor": 1,
+    "eng": "spark",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "이루다, 성취하다",
     "eng": "accomplish",
+    "kor": "이루다, 성취하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "입양하다, 채택하다",
     "eng": "adopt",
+    "kor": "입양하다, 채택하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "독특한, 유일한",
     "eng": "unique",
+    "kor": "독특한, 유일한",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "미끄러지다, 실수하다, 종이 조각",
     "eng": "slip",
+    "kor": "미끄러지다, 실수하다, 종이 조각",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "문명",
     "eng": "civilization",
+    "kor": "문명",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "열, 줄, 배를 젓다",
     "eng": "row",
+    "kor": "열, 줄, 배를 젓다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "지평선",
     "eng": "horizon",
+    "kor": "지평선",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "대기, 분위기",
     "eng": "atmosphere",
+    "kor": "대기, 분위기",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "꼬리표, 상표, 라벨을 붙이다",
     "eng": "label",
+    "kor": "꼬리표, 상표, 라벨을 붙이다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "장식하다, ~에게 훈장을 주다",
     "eng": "decorate",
+    "kor": "장식하다, ~에게 훈장을 주다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   }
