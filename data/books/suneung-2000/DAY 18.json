@@ -1,242 +1,242 @@
 [
   {
-    "kor": "뛰어난, 눈에 띄는",
+    "eng": "solar",
+    "kor": "",
+    "answer_count_kor": 0,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "outstanding",
+    "kor": "뛰어난, 눈에 띄는",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "잘못 판단하게 하다",
     "eng": "mislead",
+    "kor": "잘못 판단하게 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "(시간, 노력을) 바치다",
     "eng": "dedicate",
+    "kor": "(시간, 노력을) 바치다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "피하다, 방지하다",
-    "eng": "avoid",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "초기의, 처음의, 머리글자 (이니셜)",
-    "eng": "initial",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "가라앉다",
-    "eng": "sink",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "턱수염",
-    "eng": "beard",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "서두름",
-    "eng": "haste",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "으스러뜨리다, 빻다",
     "eng": "crush",
+    "kor": "으스러뜨리다, 빻다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "맞서다, 직면하다",
-    "eng": "confront",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "운명",
-    "eng": "destiny",
+    "eng": "sink",
+    "kor": "가라앉다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "고난, 고통",
-    "eng": "hardship",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "탈출하다, 벗어나다, 탈출, 도피",
-    "eng": "escape",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "타당한, 유효한",
-    "eng": "valid",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "전체의, 완전한, 전부, 전체",
     "eng": "entire",
+    "kor": "전체의, 완전한, 전부, 전체",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "배치하다, 처리하다",
+    "eng": "confront",
+    "kor": "맞서다, 직면하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "beard",
+    "kor": "턱수염",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "haste",
+    "kor": "서두름",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "initial",
+    "kor": "초기의, 처음의, 머리글자 (이니셜)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "destiny",
+    "kor": "운명",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hardship",
+    "kor": "고난, 고통",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "escape",
+    "kor": "탈출하다, 벗어나다, 탈출, 도피",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "valid",
+    "kor": "타당한, 유효한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "dispose",
+    "kor": "배치하다, 처리하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "최적의",
-    "eng": "optimal",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "수소",
-    "eng": "hydrogen",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "실, 실을 꿰다",
-    "eng": "thread",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "왕조",
-    "eng": "dynasty",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뿌리다, 흩어지다",
-    "eng": "scatter",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "돈을 걸다, 도박을 하다, 도박",
-    "eng": "gamble",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "성질, 기분",
-    "eng": "temper",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "존재하다, 살아가다",
     "eng": "exist",
+    "kor": "존재하다, 살아가다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "의심할 여지없이, 확실히",
-    "eng": "undoubtedly",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "뗏목, 비닐보트",
-    "eng": "raft",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "최소의, 아주 적은",
-    "eng": "minimal",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "흠뻑 적시다",
-    "eng": "soak",
+    "eng": "optimal",
+    "kor": "최적의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "공예, 기술, 공들여 만들다",
-    "eng": "craft",
+    "eng": "hydrogen",
+    "kor": "수소",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perspective",
+    "kor": "견해, 관점",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "thread",
+    "kor": "실, 실을 꿰다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dynasty",
+    "kor": "왕조",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scatter",
+    "kor": "뿌리다, 흩어지다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gamble",
+    "kor": "돈을 걸다, 도박을 하다, 도박",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "전투, 싸우다",
-    "eng": "combat",
+    "eng": "temper",
+    "kor": "성질, 기분",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "중단하다",
+    "eng": "undoubtedly",
+    "kor": "의심할 여지없이, 확실히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "raft",
+    "kor": "뗏목, 비닐보트",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "minimal",
+    "kor": "최소의, 아주 적은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "soak",
+    "kor": "흠뻑 적시다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "craft",
+    "kor": "공예, 기술, 공들여 만들다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "cease",
+    "kor": "중단하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "천장, 최고 한도",
-    "eng": "ceiling",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "통합하다, 통일하다",
-    "eng": "unify",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "견해, 관점",
-    "eng": "perspective",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "나쁜 운명, 운명 짓다",
-    "eng": "doom",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "부딫치다",
-    "eng": "bump",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "주된, 초기의",
-    "eng": "primary",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "형식, 장르",
-    "eng": "genre",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "지우다",
-    "eng": "erase",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "복습하다, 재검토하다, 복습, 검토, 비평",
     "eng": "review",
+    "kor": "복습하다, 재검토하다, 복습, 검토, 비평",
     "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ceiling",
+    "kor": "천장, 최고 한도",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unify",
+    "kor": "통합하다, 통일하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "combat",
+    "kor": "전투, 싸우다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bump",
+    "kor": "부딫치다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "primary",
+    "kor": "주된, 초기의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "genre",
+    "kor": "형식, 장르",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "erase",
+    "kor": "지우다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "doom",
+    "kor": "나쁜 운명, 운명 짓다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
