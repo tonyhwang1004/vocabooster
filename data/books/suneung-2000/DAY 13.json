@@ -1,241 +1,241 @@
 [
   {
-    "kor": "선택, 선택권",
     "eng": "option",
+    "kor": "선택, 선택권",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "통찰력",
     "eng": "insight",
+    "kor": "통찰력",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "이루다, 성취하다",
     "eng": "achieve",
+    "kor": "이루다, 성취하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "시민의, 민간의",
     "eng": "civil",
+    "kor": "시민의, 민간의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "잠시 멈추다, 중단",
     "eng": "pause",
+    "kor": "잠시 멈추다, 중단",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "입증하다",
     "eng": "prove",
+    "kor": "입증하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "강의, 강의를 하다",
     "eng": "lecture",
+    "kor": "강의, 강의를 하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "사소한, 미성년자, 부전공하다",
     "eng": "minor",
+    "kor": "사소한, 미성년자, 부전공하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "의무, 관세",
     "eng": "duty",
+    "kor": "의무, 관세",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "활력",
     "eng": "vigor",
+    "kor": "활력",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "조직하다, 구성하다",
     "eng": "organize",
+    "kor": "조직하다, 구성하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "우두머리, 우두머리의, 주요한",
     "eng": "chief",
+    "kor": "우두머리, 우두머리의, 주요한",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "복잡한",
     "eng": "complicated",
+    "kor": "복잡한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "소화하다, 요약",
     "eng": "digest",
+    "kor": "소화하다, 요약",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "부족, 결함",
     "eng": "shortage",
+    "kor": "부족, 결함",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "실험실, 실험의",
     "eng": "laboratory",
+    "kor": "실험실, 실험의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "도착하다",
-    "eng": "arrive",
-    "answer_count_kor": 1,
+    "eng": "stream",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "관대한, 넉넉한",
-    "eng": "generous",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "세탁물",
-    "eng": "laundry",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "변형시키다, 변환하다",
-    "eng": "transform",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "규율, 훈련, 훈육하다, 징계하다",
-    "eng": "discipline",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "kor": "금지하다",
     "eng": "forbid",
+    "kor": "금지하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "궁극적인, 최후의",
+    "eng": "laundry",
+    "kor": "세탁물",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transform",
+    "kor": "변형시키다, 변환하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discipline",
+    "kor": "규율, 훈련, 훈육하다, 징계하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "generous",
+    "kor": "관대한, 넉넉한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "ultimate",
+    "kor": "궁극적인, 최후의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "번영하다, 발전하다",
     "eng": "thrive",
+    "kor": "번영하다, 발전하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "대화, 회담",
-    "eng": "conversation",
-    "answer_count_kor": 2,
+    "eng": "fiction",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "돈을 걸다, 내기를 하다, 내기",
     "eng": "bet",
+    "kor": "돈을 걸다, 내기를 하다, 내기",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "왕족의, 왕의",
     "eng": "royal",
+    "kor": "왕족의, 왕의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "망치다, 파멸시키다, 파멸, 파산",
     "eng": "ruin",
+    "kor": "망치다, 파멸시키다, 파멸, 파산",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "숭배하다, 예배하다, 숭배, 예배",
     "eng": "worship",
+    "kor": "숭배하다, 예배하다, 숭배, 예배",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "kor": "사악한, 악",
     "eng": "evil",
+    "kor": "사악한, 악",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "부족한, 드문",
     "eng": "scarce",
+    "kor": "부족한, 드문",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "나중에, 그 후에",
     "eng": "afterward",
+    "kor": "나중에, 그 후에",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "고객, 의뢰인",
     "eng": "client",
+    "kor": "고객, 의뢰인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "보험을 계약하다, 안전하게 하다",
     "eng": "insure",
+    "kor": "보험을 계약하다, 안전하게 하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "공상, 화려한, 공상하다",
     "eng": "fancy",
+    "kor": "공상, 화려한, 공상하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "kor": "외과 수술",
     "eng": "surgery",
+    "kor": "외과 수술",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "kor": "할당하다, 지정하다",
     "eng": "assign",
+    "kor": "할당하다, 지정하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "규제하다, 조절하다",
     "eng": "regulate",
+    "kor": "규제하다, 조절하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "kor": "선반",
-    "eng": "shelf",
-    "answer_count_kor": 1,
+    "eng": "mindset",
+    "kor": "",
+    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
-    "kor": "공익사업, 유용성",
     "eng": "utility",
+    "kor": "공익사업, 유용성",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   }
