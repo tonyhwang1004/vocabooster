@@ -1,163 +1,19 @@
 [
   {
-    "eng": "delight",
-    "kor": "기쁨, 기쁘게 하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "confident",
-    "kor": "자신 있는",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "gradually",
-    "kor": "점차, 서서히",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "shadow",
-    "kor": "그림자, 그늘지게 하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "access",
-    "kor": "접근, 이용, 접근하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "announce",
-    "kor": "발표하다, 알리다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "allow",
-    "kor": "허락하다, 인정하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "firm",
-    "kor": "확고한, 단단한, 회사",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "vary",
-    "kor": "바꾸다, 변하다, 다르다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "injure",
-    "kor": "상처를 입히다, 손상시키다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "permit",
-    "kor": "허용[허락]하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "response",
-    "kor": "응답, 반응",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "increase",
-    "kor": "(수량이) 증가하다, 증가, 이자",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "electricity",
     "kor": "전기",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "disabled",
-    "kor": "장애를 가진, 무능력하게 된",
+    "eng": "victim",
+    "kor": "희생, 희생자",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "lack",
-    "kor": "부족, ~이 부족하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "possibility",
-    "kor": "",
-    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
     "eng": "concentrate",
     "kor": "집중하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "emphasize",
-    "kor": "강조하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "astronomy",
-    "kor": "천문학",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "flood",
-    "kor": "홍수, 범람시키다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "fuel",
-    "kor": "연료, 연료를 가하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "manufacture",
-    "kor": "제조하다, 제조(업), 제품",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "movement",
-    "kor": "움직임, 운동",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "capable",
-    "kor": "~을 할 수 있는, 유능한",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "combine",
-    "kor": "결합하다, 겸비하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "gene",
-    "kor": "유전자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -168,26 +24,32 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "victim",
-    "kor": "희생, 피해자",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "pressure",
-    "kor": "압력, 압박, 압력을 가하다",
+    "kor": "압력, 압박; 압력을 가하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "accompany",
-    "kor": "동반[동행]하다, 수반하다",
+    "eng": "movement",
+    "kor": "움직임, 운동",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "frustrate",
-    "kor": "좌절시키다",
+    "eng": "sight",
+    "kor": "시야, 광경, 시력",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "injure",
+    "kor": "상처를 입히다, 손상시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gene",
+    "kor": "유전자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -198,9 +60,39 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "launch",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "capable",
+    "kor": "할 수 있는, 유능한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "combine",
+    "kor": "결합시키다, 겸비하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "announce",
+    "kor": "발표하다, 알리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "predict",
+    "kor": "예언하다, 예측하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "manufacture",
+    "kor": "제조하다; 제조(업), 제품",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "permit",
+    "kor": "허용[허락]하다",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
@@ -210,14 +102,122 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "entertain",
-    "kor": "즐겁게 하다",
+    "eng": "confident",
+    "kor": "자신 있는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "predict",
-    "kor": "예언하다, 예측하다",
+    "eng": "increase",
+    "kor": "(수량이) 증가하다; 증가, 이자",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shadow",
+    "kor": "그림자; 그늘지게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lack",
+    "kor": "부족; ~이 부족하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gradually",
+    "kor": "점차, 서서히",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fuel",
+    "kor": "연료; 연료를 가하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "response",
+    "kor": "응답, 반응",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "quantity",
+    "kor": "양(量)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "allow",
+    "kor": "허락하다, 인정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "astronomy",
+    "kor": "천문학",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "frustrate",
+    "kor": "좌절시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entertain",
+    "kor": "접대하다, 즐겁게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "firm",
+    "kor": "확고한, 단단한; 회사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "launch",
+    "kor": "발사하다, 시작하다, 출시하다; 발사, 개시, 출시",
+    "answer_count_kor": 6,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "delight",
+    "kor": "기쁨; 기쁘게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flood",
+    "kor": "홍수; 범람시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "access",
+    "kor": "접근, 입장, 이용; 접근하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vary",
+    "kor": "바꾸다, 변하다, 다르다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emphasize",
+    "kor": "강조하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accompany",
+    "kor": "동반[동행]하다, 수반하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -228,15 +228,15 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "sight",
-    "kor": "시야, 광경, 시력",
-    "answer_count_kor": 3,
+    "eng": "possibility",
+    "kor": "가능성, 가망",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "quantity",
-    "kor": "양",
-    "answer_count_kor": 1,
+    "eng": "disabled",
+    "kor": "장애를 가진, 무능력하게 된",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
