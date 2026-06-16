@@ -1,14 +1,8 @@
 [
   {
-    "eng": "identify",
-    "kor": "~임을 확인하다, 식별하다, 동일시하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "standard",
-    "kor": "표준, 기준, 기준의, 표준의",
-    "answer_count_kor": 4,
+    "eng": "application",
+    "kor": "적용, 신청",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -18,62 +12,38 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "evident",
-    "kor": "명백한",
-    "answer_count_kor": 1,
+    "eng": "spread",
+    "kor": "퍼짐, 확산; 퍼지다, 펼치다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "eng": "seldom",
-    "kor": "거의 ~않는",
-    "answer_count_kor": 1,
+    "eng": "fulfill",
+    "kor": "달성하다, 이행하다, 실현하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "secretary",
-    "kor": "비서, 장관",
+    "eng": "tremendous",
+    "kor": "굉장한, 무시무시한",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "basis",
-    "kor": "원리, 기초",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "automatic",
-    "kor": "자동적인, 기계적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "region",
-    "kor": "지역",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "empower",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "addict",
-    "kor": "중독시키다, 중독자",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "disappoint",
-    "kor": "실망시키다",
-    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "artificial",
     "kor": "인공적인, 인조의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "encounter",
+    "kor": "(우연히) 만나다; 마주침",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vote",
+    "kor": "투표; 투표하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -84,21 +54,159 @@
     "answer_count_eng": 1
   },
   {
+    "eng": "memorize",
+    "kor": "기억하다, 암기하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grant",
+    "kor": "승인하다, 수여하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evident",
+    "kor": "명백한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "theme",
+    "kor": "주제, 화제, 논제",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "seldom",
+    "kor": "거의 ~ 않는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "guarantee",
+    "kor": "보증하다; 보증",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "identify",
+    "kor": "(신원 등을) 확인하다, 식별하다, 동일시하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "empower",
+    "kor": "권한을 주다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "standard",
+    "kor": "기준, 표준; 기준의, 표준의",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "impact",
+    "kor": "충격, 영향; 충격[영향]을 주다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resist",
+    "kor": "저항하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emit",
+    "kor": "(빛·열·소리 등을) 방출하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cooperate",
+    "kor": "협력하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "region",
+    "kor": "지역",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "physics",
+    "kor": "물리학",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "rid",
     "kor": "제거하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "realistic",
-    "kor": "현실적인, 현실주의의",
+    "eng": "disappoint",
+    "kor": "실망시키다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "permanent",
+    "kor": "영원한, 영구적인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "encounter",
-    "kor": "(우연히) 만나다, 마주침",
+    "eng": "substance",
+    "kor": "물질, 본질, 실체",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rely",
+    "kor": "의지하다, 믿다",
     "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "request",
+    "kor": "요청; 요청하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evaluate",
+    "kor": "평가하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "addict",
+    "kor": "중독시키다; 중독자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "emergency",
+    "kor": "비상(사태)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "secretary",
+    "kor": "비서, 서기관, 장관",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stink",
+    "kor": "역겹다, 악취를 풍기다; 악취",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -114,129 +222,21 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "memorize",
-    "kor": "기억하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "physics",
-    "kor": "물리학",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "evaluate",
-    "kor": "평가하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "tremendous",
-    "kor": "굉장한, 무시무시한",
+    "eng": "realistic",
+    "kor": "현실적인, 현실주의의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "application",
-    "kor": "적용, 신청",
+    "eng": "automatic",
+    "kor": "자동적인, 기계적인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "vote",
-    "kor": "투표, 투표하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "spread",
-    "kor": "퍼짐, 확산, 펼치다, 퍼지다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "impact",
-    "kor": "충격, 영향, 충격을 주다",
+    "eng": "basis",
+    "kor": "기초, 원리, 기준",
     "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "cooperate",
-    "kor": "협력하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "emit",
-    "kor": "(빛, 열, 소리 등을)방출하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "request",
-    "kor": "요청, 요청하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "guarantee",
-    "kor": "보장하다, 보증",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "resist",
-    "kor": "저항하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "fulfill",
-    "kor": "달성하다, 이행하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "stink",
-    "kor": "역겹다, 악취를 풍기다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "grant",
-    "kor": "수여하다, 승인하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "rely",
-    "kor": "의지하다, 믿다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "permanent",
-    "kor": "영원한, 영구적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "emergency",
-    "kor": "비상 사태",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "substance",
-    "kor": "물질, 본질, 실체",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "theme",
-    "kor": "주제, 화제",
-    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
