@@ -1,242 +1,242 @@
 [
   {
-    "eng": "endow",
-    "kor": "기부하다, ~에게 부여하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "extrinsic",
-    "kor": "외적인, 외부의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "merge",
-    "kor": "합병하다, 차차 변하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "frantic",
-    "kor": "광란의, 미친",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "eng": "conviction",
+    "kor": "확신, 유죄 판결",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "moan",
-    "kor": "신음, 투덜거림, 신음하다, 불평하다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "merchandise",
-    "kor": "(집학적) 상품, 거래하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "respectively",
-    "kor": "각각, 저마다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "subdue",
-    "kor": "",
+    "kor": "신음; 신음하다, 불평하다",
     "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "conviction",
-    "kor": "확신, 유죄 판결",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "stout",
-    "kor": "뚱뚱한, (옷 등이) 튼튼한",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "reckon",
-    "kor": "세다, 계산하다, 생각하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "enchant",
-    "kor": "매혹하다, ~에게 마법을 걸다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "entail",
-    "kor": "수반하다, 의미하다, 필요로 하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "demolish",
-    "kor": "파괴하다, 폐지하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "degenerate",
-    "kor": "퇴보하다, 타락하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "sentiment",
-    "kor": "감상, 정서",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "offspring",
-    "kor": "자식, 새끼, 성과",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "detest",
-    "kor": "혐오하다, 미워하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "tackle",
-    "kor": "(일, 문제를) 다루다, 처리하다, 도구, (축구의) 태클",
-    "answer_count_kor": 5,
-    "answer_count_eng": 1
+    "answer_count_eng": 0
   },
   {
     "eng": "defy",
-    "kor": "물리치다, (공공연히) 무시하다, 반항하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "inference",
-    "kor": "추론",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "refraction",
-    "kor": "(빛, 소리 따위의) 굴절",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "dusk",
-    "kor": "땅거미, 어스름",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "detach",
-    "kor": "떼어내다, 분리하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "antagonist",
-    "kor": "적대자, 라이벌",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "thrust",
-    "kor": "밀다, 밀치다, 찌르다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "kor": "물리치다, (공공연히) 반항하다, 무시하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "creed",
     "kor": "신념, (종교의) 교의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "embed",
+    "kor": "깊숙이 박다, 깊이 간직하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "reckon",
+    "kor": "세다, 계산하다, 생각하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "detest",
+    "kor": "혐오하다, 미워하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "equate",
     "kor": "동일시하다, 일치하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "misplace",
-    "kor": "잘못두다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "auditory",
-    "kor": "귀의, 청각의, 음향의",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "missionary",
-    "kor": "선교사",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "cosmopolitan",
-    "kor": "세계적인, 세계주의의, 세계인, 국제인",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "secondhand",
-    "kor": "중고의, 간접적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "multiple",
-    "kor": "복합적인, 다수의, 다양한, (수학) 배수",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "embed",
-    "kor": "깊숙이 박다, 깊이 간직하다, 내재하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "propel",
     "kor": "나아가게 하다, 추진하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "reptile",
-    "kor": "파충류",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
+    "eng": "refraction",
+    "kor": "(빛·소리 따위의) 굴절",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "tackle",
+    "kor": "(일·문제를) 다루다; 도구, (축구의) 태클",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "degenerate",
+    "kor": "퇴보하다, 타락하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "respectively",
+    "kor": "각각, 저마다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "feat",
+    "kor": "위업, 공적",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "inference",
+    "kor": "추론",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "merge",
+    "kor": "합병하다, 차차 변하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "subdue",
+    "kor": "정복하다, 진압하다, 완화하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "missionary",
+    "kor": "선교사",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "demolish",
+    "kor": "파괴하다, 폐지하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "extrinsic",
+    "kor": "외적인, 비본질적인",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "endow",
+    "kor": "부여하다, 기부하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "merchandise",
+    "kor": "(집합적) 상품",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "misplace",
+    "kor": "잘못 두다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "thrust",
+    "kor": "밀다, 밀치다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "auditory",
+    "kor": "귀의, 청각의",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "multiple",
+    "kor": "복합적인, 다수의, 다양한; (수학) 배수",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "stout",
+    "kor": "뚱뚱한, (옷 등이) 튼튼한",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "entail",
+    "kor": "수반하다, 의미하다, 필요로 하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "detach",
+    "kor": "떼어 내다, 분리하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "cosmopolitan",
+    "kor": "세계적인, 세계주의의; 세계인, 국제인",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "offspring",
+    "kor": "자식, 새끼, 성과",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "erosion",
     "kor": "부식, 침식",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "feat",
-    "kor": "위업, 공적, 솜씨",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "eng": "frantic",
+    "kor": "광란의, 미친",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "utensil",
     "kor": "가정용품, 기구, 도구",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "dusk",
+    "kor": "땅거미, 어스름",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "secondhand",
+    "kor": "중고의, 간접적인",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "reptile",
+    "kor": "파충류",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "antagonist",
+    "kor": "적대자, 라이벌",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "sentiment",
+    "kor": "감상, 정서",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "enchant",
+    "kor": "매혹하다, ~에 마법을 걸다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   }
 ]
