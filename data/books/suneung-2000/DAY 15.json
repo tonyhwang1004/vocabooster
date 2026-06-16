@@ -1,223 +1,67 @@
 [
   {
-    "eng": "ensure",
-    "kor": "반드시 ~하게 하다, 보장하다, 확실하게 하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "receipt",
-    "kor": "영수증",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "defect",
-    "kor": "결점, 결함, (국가•당 등을) 버리다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "trait",
-    "kor": "특징, 특성",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "modest",
-    "kor": "겸손한, 미천한, 알맞은",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "virtual",
-    "kor": "실제의, 가상의, 사실상의",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "compare",
-    "kor": "비교하다, 비유하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "address",
-    "kor": "주소, 연설, 인사말, 연설하다, 접근하다",
-    "answer_count_kor": 5,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "inner",
-    "kor": "안쪽의, 내적인, 내부의",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "contrary",
-    "kor": "반대의, 불리한, 정반대, 반대의 것",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "split",
-    "kor": "나뉘다, 분열되다, 찢다, 쪼개다, 틈, 분열",
-    "answer_count_kor": 6,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "supervise",
     "kor": "감독하다, 관리하다, 통제하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "inhabit",
-    "kor": "~에 살다, 거주하다",
+    "eng": "commute",
+    "kor": "통근; 통근하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "appear",
-    "kor": "나타나다, ~인 것 같다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "commute",
-    "kor": "통근하다, 통근(거리)",
-    "answer_count_kor": 2,
+    "kor": "나타나다",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "earthquake",
-    "kor": "지진, (사회•정치적) 대변동",
+    "kor": "지진, (사회·정치적) 대변동",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "enroll",
-    "kor": "등록하다, 입학하다",
+    "eng": "attack",
+    "kor": "공격하다; 공격",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "debate",
-    "kor": "논쟁하다, 토론하다, 논쟁, 토론",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "abandon",
-    "kor": "버리다, 포기하다",
+    "eng": "masterpiece",
+    "kor": "명작, 대작",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "conquer",
-    "kor": "정복하다, 이기다, 극복하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "nevertheless",
-    "kor": "그럼에도 불구하고",
+    "eng": "agency",
+    "kor": "대리점",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "seal",
-    "kor": "봉인하다, 봉인, 도장, 바다표범",
+    "kor": "도장, 봉인, 바다표범; 봉인하다",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "eng": "greed",
-    "kor": "탐욕, 식탐",
+    "eng": "virtual",
+    "kor": "가상의, 사실상의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "contract",
-    "kor": "계약, 계약서, 계약하다, 수축하다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "nutrition",
-    "kor": "영양",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "retail",
-    "kor": "소매, 소매하다, 소매로",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "prejudice",
-    "kor": "편견, 선입관, 편견을 갖게 하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "register",
-    "kor": "등록하다, 기재하다, 등록부",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "agency",
-    "kor": "기관, 대행사, 대리점",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "nurture",
-    "kor": "양육하다, 양성하다, 교육하다, 교육, 양육",
-    "answer_count_kor": 5,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "priest",
-    "kor": "성직자",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "elegant",
-    "kor": "우아한, 고상한",
+    "eng": "defect",
+    "kor": "결점; (국가·당 등을) 버리다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "impose",
-    "kor": "부과하다, 강요하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "arise",
-    "kor": "발생하다, 일어나다, 생겨나다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "attack",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "masterpiece",
-    "kor": "대표작, 대작, 명작",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "harsh",
-    "kor": "가혹한, 거친",
+    "eng": "ensure",
+    "kor": "확실하게 하다, 보증하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -228,15 +72,171 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "criteria",
-    "kor": "기준, 표준 (criterion의 복수형)",
+    "eng": "harsh",
+    "kor": "거친, 가혹한",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "extraordinary",
-    "kor": "비범한, 기이한, 놀라운",
+    "eng": "impose",
+    "kor": "부과하다, 강요하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "priest",
+    "kor": "성직자",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enroll",
+    "kor": "입학하다, 등록하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arise",
+    "kor": "발생하다, 생겨나다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compare",
+    "kor": "비교하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "debate",
+    "kor": "토론; 토론하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "trait",
+    "kor": "특성, 특징",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "criteria",
+    "kor": "(pl.) 기준, 표준",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "split",
+    "kor": "찢다, (세로로) 쪼개다; 틈, 분열",
     "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "greed",
+    "kor": "탐욕",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "register",
+    "kor": "등록하다, 기재하다; 등록",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nevertheless",
+    "kor": "그럼에도 불구하고",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prejudice",
+    "kor": "편견, 선입관",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nurture",
+    "kor": "양육하다, 교육하다; 양육, 교육",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elegant",
+    "kor": "고상한, 우아한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conquer",
+    "kor": "정복하다, 극복하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "receipt",
+    "kor": "영수증",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contract",
+    "kor": "계약하다, 수축하다; 계약서",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "modest",
+    "kor": "겸손한, 알맞은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inhabit",
+    "kor": "살다, 거주하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "retail",
+    "kor": "소매; 소매하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nutrition",
+    "kor": "영양",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abandon",
+    "kor": "버리다, 포기하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inner",
+    "kor": "내부의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "address",
+    "kor": "연설하다; 연설, 인사말",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contrary",
+    "kor": "반대의, 불리한; 반대의 것",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extraordinary",
+    "kor": "비범한, 놀라운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
