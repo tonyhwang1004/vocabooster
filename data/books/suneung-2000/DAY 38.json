@@ -1,109 +1,79 @@
 [
   {
-    "eng": "outgoing",
-    "kor": "외향적인, 사교적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "verbal",
-    "kor": "말의, 구두의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "liberate",
-    "kor": "해방시키다",
+    "eng": "commemorate",
+    "kor": "기념하다",
     "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "academic",
-    "kor": "학문적인, 학구적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "advance",
-    "kor": "전진하다, 진보하다, 발전, 전진, 진보",
-    "answer_count_kor": 5,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "contemplate",
-    "kor": "~을 숙고하다, 심사숙고하다, 고려하다, 응시하다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "underlying",
-    "kor": "기초를 이루는, 근본적인, 밑에 있는",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "segregation",
-    "kor": "인종 차별, 차별정책, 분리",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "stem",
-    "kor": "줄기, 생기다, 일어나다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "irrigation",
-    "kor": "관개",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "consecutive",
-    "kor": "연이은, 연속적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "superficial",
-    "kor": "표면상의, 피상적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "refuge",
-    "kor": "피난처, 도피처, 보호구역",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "swear",
-    "kor": "맹세하다, 욕을 하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "allergy",
-    "kor": "알레르기",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "norm",
-    "kor": "표준, 규범",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "endeavor",
-    "kor": "노력하다, 시도하다, 노력, 시도",
-    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
     "eng": "erect",
-    "kor": "똑바로 선, 세우다",
+    "kor": "세우다; 똑바로 선",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "toxic",
+    "kor": "유독한, 중독의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "segregation",
+    "kor": "인종 차별, 분리",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transport",
+    "kor": "수송[운송]하다; 수송",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consecutive",
+    "kor": "연속적인, 일관된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "feast",
+    "kor": "즐겁게[기쁘게] 하다; 축제(일), 잔치",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "govern",
+    "kor": "통치하다, 지배[좌우]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inspect",
+    "kor": "검사하다, 점검하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "underlying",
+    "kor": "밑에 놓인, 근본적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "norm",
+    "kor": "규범, 기준, 표준",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chronic",
+    "kor": "만성적인, 장기간의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "irrigation",
+    "kor": "관개, 물 대기",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -114,39 +84,21 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "drowsy",
-    "kor": "졸리는",
+    "eng": "outgoing",
+    "kor": "외향적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "inspect",
-    "kor": "점검하다, 시찰하다",
+    "eng": "academic",
+    "kor": "학문적인, 학구적인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "carriage",
-    "kor": "객차, 마차, 운반",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "primitive",
-    "kor": "원시의",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "compress",
-    "kor": "압축하다, 압박하다",
+    "eng": "dramatic",
+    "kor": "연극의, 극적인",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "steep",
-    "kor": "가파른, 비탈진, 몰두시키다, (액체에) 담그다",
-    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
@@ -156,86 +108,134 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "transport",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "designate",
+    "kor": "지정하다, 가리키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "exaggerate",
-    "kor": "과장하다",
+    "eng": "liberate",
+    "kor": "해방하다, 자유롭게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "carriage",
+    "kor": "마차, 탈것",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "steep",
+    "kor": "가파른, 경사가 급한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "drowsy",
+    "kor": "졸리는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "random",
-    "kor": "무작위의",
-    "answer_count_kor": 1,
+    "eng": "verbal",
+    "kor": "말의, 구두의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "feast",
-    "kor": "잔치, 축제, 즐겁게 하다",
+    "eng": "refuge",
+    "kor": "피난, 피난처, 위안",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "commemorate",
-    "kor": "기념하다",
-    "answer_count_kor": 1,
+    "eng": "advance",
+    "kor": "나아가게 하다, 진척시키다; 전 진, 증진",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "eng": "govern",
-    "kor": "통치하다, 좌우하다",
+    "eng": "stare",
+    "kor": "응시하다, 노려보다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exaggerate",
+    "kor": "과장하다, 과장해서 말하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "multitask",
-    "kor": "다중작업을 하다",
+    "kor": "다중 작업을 하다",
     "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "toxic",
-    "kor": "유독한, 유독성의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "stare",
-    "kor": "응시하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "chronic",
-    "kor": "만성적인",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "designate",
-    "kor": "지명하다, 지정하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "dramatic",
-    "kor": "극적인, 급격한, 감격적인",
-    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
     "eng": "intense",
-    "kor": "강렬한, 극심한, 치열한",
+    "kor": "강렬한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "swear",
+    "kor": "맹세하다, 욕하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "primitive",
+    "kor": "원시의, 초기의, 미개의",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
+    "eng": "stem",
+    "kor": "생기다, 일어나다; 줄기, 대",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "allergy",
+    "kor": "알레르기",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contemplate",
+    "kor": "숙고하다, 응시하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "random",
+    "kor": "무작위의, 임의의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "endeavor",
+    "kor": "노력; 노력하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compress",
+    "kor": "압축하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "superficial",
+    "kor": "표면상의, 피상적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "propaganda",
-    "kor": "선전 활동, 과장된 선전",
+    "kor": "선전 활동, 선전",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   }
