@@ -1,26 +1,14 @@
 [
   {
-    "eng": "abolish",
-    "kor": "폐지하다",
+    "eng": "asset",
+    "kor": "자산, 재산",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exclaim",
+    "kor": "(감탄하며) 외치다",
     "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "assure",
-    "kor": "확실하게 하다, 보증하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "form",
-    "kor": "형태, 종류, 형성하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "gender",
-    "kor": "성, 성별",
-    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -30,20 +18,170 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "opponent",
-    "kor": "상대, 반대자, 반대하는",
+    "eng": "present",
+    "kor": "현재의; 현재, 선물; 제출하다, 나타내다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tissue",
+    "kor": "(생물의 근육·신경 등의) 조직",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "polish",
+    "kor": "닦다, 윤을 내다, (문장 등을) 다듬다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "present",
-    "kor": "현재의, 현재, 선물, 제출하다 나타내다",
+    "eng": "backward",
+    "kor": "후방에, 뒤쪽으로, 거꾸로",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "relate",
+    "kor": "관련시키다, 관련이 있다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "radiant",
+    "kor": "빛나는, 아주 밝은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "translate",
+    "kor": "번역하다, 옮기다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grateful",
+    "kor": "고마워하는, 감사하는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lord",
+    "kor": "군주",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gender",
+    "kor": "성(性), 성별",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "layer",
+    "kor": "층, 겹",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ceremony",
+    "kor": "의식, 식, 의례",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decay",
+    "kor": "부패하다, 쇠퇴하다; 부패, 쇠퇴",
     "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "portray",
+    "kor": "묘사하다, 설명하다, 초상을 그리다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glitter",
+    "kor": "반짝이다; 반짝임",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chore",
+    "kor": "집안일, 허드렛일",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abolish",
+    "kor": "폐지하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "protein",
+    "kor": "단백질",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pottery",
+    "kor": "도자기, 도예",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "opponent",
+    "kor": "반대자, 상대; 반대하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "miserable",
+    "kor": "비참한, 불쌍한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flavor",
+    "kor": "맛; 맛을 내다",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "fertile",
     "kor": "비옥한, 기름진",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fossil",
+    "kor": "화석",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "property",
+    "kor": "재산, 소유물, 부동산",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "subscribe",
+    "kor": "구독하다, 가입하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "form",
+    "kor": "형태, 종류; 형성하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "refresh",
+    "kor": "상쾌하게 하다, 새롭게 하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -55,110 +193,32 @@
   },
   {
     "eng": "dwell",
-    "kor": "거주하다, 살다",
+    "kor": "살다, 거주하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "chore",
-    "kor": "허드렛일, 집안일",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "grateful",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "fossil",
-    "kor": "화석",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "glitter",
-    "kor": "동사 반짝이다명사 반짝임",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "miserable",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "portray",
-    "kor": "묘사하다, 설명하다, 초상을 그리다",
+    "eng": "administer",
+    "kor": "관리[운영]하다, 집행하다, 주다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "protein",
-    "kor": "단백질",
-    "answer_count_kor": 1,
+    "eng": "strive",
+    "kor": "노력하다, 애쓰다, 투쟁하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "backward",
-    "kor": "뒤쪽으로 후방에 거꾸로",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "translate",
-    "kor": "번역하다, 옮기다",
+    "eng": "wage",
+    "kor": "임금, 급료",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "refresh",
-    "kor": "상쾌하게 하다, 새롭게 하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "tissue",
-    "kor": "(생물) 조직",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "lord",
-    "kor": "군주",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "remove",
-    "kor": "",
-    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
     "eng": "scan",
-    "kor": "정밀 검사하다, 유심히 쳐다보다",
+    "kor": "정밀 검사하다, 유심히 쳐다보 다",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "pottery",
-    "kor": "도자기, 도예",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "layer",
-    "kor": "층, 겹",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "property",
-    "kor": "재산, 소유물 , 부동산",
-    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -168,75 +228,15 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "polish",
-    "kor": "닦다, 윤을 내다, (문장 등을)다듬다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "flavor",
-    "kor": "맛동사 맛을 내다",
+    "eng": "remove",
+    "kor": "제거하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "ceremony",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "relate",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "strive",
-    "kor": "노력하다, 애쓰다 , 투쟁하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "radiant",
-    "kor": "빛나는, 아주 밝은",
+    "eng": "assure",
+    "kor": "보증하다, 확실하게 하다",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "exclaim",
-    "kor": "(감탄하며)외치다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "asset",
-    "kor": "자산, 재산",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "decay",
-    "kor": "부패하다, 쇠퇴하다, 부패, 쇠퇴",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "administer",
-    "kor": "관리•운영하다, 집행하다, 주다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "wage",
-    "kor": "급료",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "subscribe",
-    "kor": "정기 구독하다",
-    "answer_count_kor": 1,
     "answer_count_eng": 1
   }
 ]
