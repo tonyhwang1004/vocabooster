@@ -1,242 +1,242 @@
 [
   {
-    "eng": "encircle",
-    "kor": "에워싸다, 둘러싸다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "notion",
-    "kor": "개념, 의견",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "disgust",
-    "kor": "혐오감, 역겹게 하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "fragment",
-    "kor": "일부분, 부서진 조각, 산산이 부서지다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "oversee",
-    "kor": "감독하다, 감시하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "creep",
-    "kor": "기다, (덩굴 등이) 얽히다, 포복, 서행",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "clarify",
-    "kor": "명백히 하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "contagious",
-    "kor": "전염성의, 감염성의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "deterioration",
-    "kor": "악화, (가치의) 하락, 저하",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "currency",
-    "kor": "통화, 통용",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "janitor",
-    "kor": "문지기, 관리인, (건물) 경비원",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "blush",
-    "kor": "얼굴을 붉히다, 부끄러워 하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "intervene",
-    "kor": "끼어들다, 개입하다, 방해하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "nomad",
-    "kor": "유목민, 방랑자",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "cuisine",
-    "kor": "요리, 요리법",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "dare",
-    "kor": "감히 ~하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "solvent",
-    "kor": "용해력이 있는, 지불 능력이 있는, 용제, 용액",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "cultivate",
-    "kor": "경작하다, 양성하다, 계발하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "ascent",
-    "kor": "상승, 오름",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "advocate",
-    "kor": "옹호자, 지지자, 지지하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "spur",
-    "kor": "자극, 고무, ~을 자극하다, (말에) 박차를 가하다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "discern",
-    "kor": "식별하다, 분별하다, ~을 인식하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "scheme",
-    "kor": "계획, 체계, 계획하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "weigh",
-    "kor": "무게를 달다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "publicity",
-    "kor": "널리 알려짐, 명성, 광고, 선전",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "declare",
-    "kor": "선언하다, (세관에) 신고하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "brisk",
-    "kor": "활발한, 번창하는, 상쾌한",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "exile",
-    "kor": "망명, 망명자, 망명시키다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "whisper",
-    "kor": "속삭이다, 속삭임",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "unanimous",
-    "kor": "만장일치의, 합의의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "kor": "박차, 자극(제); 박차를 가하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "deviation",
     "kor": "변경, 일탈",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "dissolve",
-    "kor": "용해하다, 해산하다, 해소하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "eng": "ascent",
+    "kor": "상승, 오름",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "constraint",
-    "kor": "강제, 압박, 제약",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "eng": "janitor",
+    "kor": "문지기, 관리인, 잡역부",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "creep",
+    "kor": "기다, (덩굴 등이) 얽히다; 포복, 서행",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "appoint",
+    "kor": "임명[지명]하다, (시간·장소를) 정하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "blush",
+    "kor": "얼굴을 붉히다, 부끄러워하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "clarify",
+    "kor": "분명히 하다, 명료하게 하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "dare",
+    "kor": "감히 ~하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "weigh",
+    "kor": "무게를 달다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "encircle",
+    "kor": "에워싸다, 둘러싸다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "fragment",
+    "kor": "일부분, 부서진 조각",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "publicity",
+    "kor": "널리 알려짐, 명성, 광고, 선전",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "exile",
+    "kor": "망명, 망명자; 망명시키다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "currency",
+    "kor": "통화, 통용",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "intervene",
+    "kor": "사이에 끼어들다, 개입하다, 방해하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "deterioration",
+    "kor": "악화, (가치의) 하락",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "whisper",
+    "kor": "속삭이다; 속삭임",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "disgust",
+    "kor": "혐오감; 역겹게 하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "scheme",
+    "kor": "계획, 체계; 계획하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "advocate",
+    "kor": "옹호자, 지지자; 지지하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "oversee",
+    "kor": "감독하다, 감시하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "contagious",
+    "kor": "전염성의, 감염성의",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "solvent",
+    "kor": "용해력이 있는, 지불 능력이 있는; 용제",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "declare",
+    "kor": "선포하다, 선언하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "itch",
-    "kor": "가려움, 가렵다, (~하고 싶어) 못 견디다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "kor": "가려움, (~하고 싶은) 욕구; 가렵다, (~하고 싶어) 못 견디다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "fling",
-    "kor": "내던지다, 돌진하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "eng": "unanimous",
+    "kor": "만장일치의, 합의의",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "delude",
-    "kor": "속이다, 착각하게 하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "dehydrate",
-    "kor": "탈수하다, 건조시키다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "eng": "nomad",
+    "kor": "유목민, 방랑자",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "underneath",
     "kor": "~의 아래에, 밑에",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "fling",
+    "kor": "내던지다, 돌진하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "metabolism",
     "kor": "물질대사, 신진대사",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "appoint",
-    "kor": "임명[지명]하다, (시간, 장소를) 정하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "eng": "constraint",
+    "kor": "강제, 압박, 거북스러움",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "delude",
+    "kor": "속이다, 착각하게 하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "cultivate",
+    "kor": "경작하다, 양성하다, 계발하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "dehydrate",
+    "kor": "탈수하다, 건조시키다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "brisk",
+    "kor": "활발한, 번창하는, 상쾌한",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "notion",
+    "kor": "개념, 의견",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "dissolve",
+    "kor": "용해하다, 해산하다, 해소하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "cuisine",
+    "kor": "(독특한) 요리, 요리법",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "discern",
+    "kor": "식별하다, 분별하다, 인식하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   }
 ]
