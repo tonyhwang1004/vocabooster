@@ -1,62 +1,62 @@
 [
   {
-    "eng": "literature",
-    "kor": "문학",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "compound",
-    "kor": "혼합하다, 혼합물, 합성의",
+    "eng": "preoccupation",
+    "kor": "몰두, 집착, 선취",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "quote",
-    "kor": "인용하다, 인용구",
+    "eng": "proportion",
+    "kor": "비율, 부분",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "inhale",
-    "kor": "들이쉬다, 흡입하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "prospect",
-    "kor": "전망, 가능성",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "anchor",
-    "kor": "닻,앵커",
-    "answer_count_kor": 2,
+    "kor": "(숨을) 들이쉬다",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "asymmetry",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "비대칭, 불균형",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "loop",
-    "kor": "고리, 고리로 만들다",
+    "kor": "고리",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "quote",
+    "kor": "인용하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compassion",
+    "kor": "연민, 동정",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "withstand",
-    "kor": "견디다, 버티다",
+    "eng": "gross",
+    "kor": "엄청난, 총합의; 총합; ~의 총이익을 올리다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disrupt",
+    "kor": "혼란에 빠뜨리다, 방해하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "implement",
-    "kor": "실행하다, 도구",
-    "answer_count_kor": 2,
+    "eng": "literature",
+    "kor": "문학, 문예, 문헌",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -67,50 +67,32 @@
   },
   {
     "eng": "collide",
-    "kor": "충돌하다, 일치하지 않다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "memorial",
-    "kor": "기념물",
+    "kor": "충돌하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "vacant",
-    "kor": "비어 있는, 빈자리의",
+    "eng": "anchor",
+    "kor": "닻, 앵커; 닻을 내리다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "technical",
-    "kor": "기술의",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "thrill",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "wander",
-    "kor": "(정처없이) 돌아다니다, 헤매다",
+    "eng": "implement",
+    "kor": "도구; 실행하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "proportion",
-    "kor": "비율, 부분",
-    "answer_count_kor": 2,
+    "eng": "sector",
+    "kor": "분야, 지역, 부채꼴",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
     "eng": "antibiotic",
-    "kor": "항생 물질",
-    "answer_count_kor": 1,
+    "kor": "항생 물질, 항생제",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -120,33 +102,9 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "resemble",
-    "kor": "~와 닮다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "orchard",
-    "kor": "과수원",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "compassion",
-    "kor": "동정",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "preoccupation",
-    "kor": "몰두, 집착",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "paste",
-    "kor": "풀로 붙이다, 풀",
-    "answer_count_kor": 2,
+    "eng": "compound",
+    "kor": "화합물; 합성의; 혼합하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -156,87 +114,129 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "wicked",
-    "kor": "사악한, 심술궂은",
+    "eng": "vacant",
+    "kor": "빈, 비어 있는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "paste",
+    "kor": "풀, 반죽; 풀칠하다, 붙이다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sequence",
+    "kor": "순서, 결과, 연속",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resemble",
+    "kor": "닮다, 비슷[유사]하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "technical",
+    "kor": "기술[기법]의, 전문적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "thrill",
+    "kor": "스릴, 전율; 몹시 신나게 하다, 감동시키다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "referee",
+    "kor": "심판; 심판하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rust",
+    "kor": "녹; 녹슬다, 녹이 슬게 하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "sprain",
-    "kor": "발목을 삐다",
+    "kor": "(발목·손목 등을) 삐다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "sequence",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "wicked",
+    "kor": "사악한",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "stool",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "withstand",
+    "kor": "견디다",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "disrupt",
-    "kor": "붕과시키다",
+    "eng": "boost",
+    "kor": "상승, 밀어 올림; 밀어 올리다, (생산량을) 증가하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bury",
+    "kor": "파묻다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "solitary",
-    "kor": "혼자의, 고립된",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "bury",
-    "kor": "(땅에)묻다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "rust",
-    "kor": "녹, 녹이 슬다, 부식하다",
+    "kor": "혼자의, 외로운, 고독한",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "fad",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "memorial",
+    "kor": "기념물, 기념관",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "referee",
-    "kor": "심판",
+    "eng": "prospect",
+    "kor": "가능성, 전망",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "orchard",
+    "kor": "과수원",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "sector",
-    "kor": "분야, 지역",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "boost",
-    "kor": "밀어올리다, 상승",
-    "answer_count_kor": 2,
+    "eng": "wander",
+    "kor": "(정처 없이) 돌아다니다; 유랑, 방랑",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
     "eng": "gymnastics",
-    "kor": "체조",
-    "answer_count_kor": 1,
+    "kor": "체육, 체조",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "gross",
-    "kor": "총합의, 총합",
+    "eng": "stool",
+    "kor": "(등받이가 없는) 의자, 변기",
     "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fad",
+    "kor": "일시적 유행",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   }
 ]
