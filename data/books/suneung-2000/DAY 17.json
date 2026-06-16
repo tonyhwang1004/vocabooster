@@ -1,56 +1,26 @@
 [
   {
-    "eng": "widespread",
-    "kor": "널리 퍼진",
+    "eng": "stiffen",
+    "kor": "굳어지다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "result",
-    "kor": "결과",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "fade",
-    "kor": "사라지다, (색깔이) 바래다",
+    "eng": "foretell",
+    "kor": "예언하다, 예고하다",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "progress",
-    "kor": "진전, 진보, 진보하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "weapon",
-    "kor": "무기",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "drastic",
-    "kor": "과감한, 격렬한",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "reinforcement",
-    "kor": "병력 증강, 강화",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "wonder",
-    "kor": "궁금해하다, 놀라다, 놀라움",
-    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
     "eng": "pile",
-    "kor": "더미, 쌓다",
-    "answer_count_kor": 2,
+    "kor": "쌓아 올린 더미, 많은 양; 쌓아 올리다, 축적하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "command",
+    "kor": "명령, 지배력; 명령하다, 지휘하다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
@@ -60,45 +30,15 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "infection",
-    "kor": "감염",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "stiffen",
-    "kor": "굳어지다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "endanger",
-    "kor": "위험에 빠뜨리다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "adjust",
-    "kor": "조절하다, 적응하다",
+    "eng": "weapon",
+    "kor": "무기, 병기",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "peer",
-    "kor": "동료, 또래, 자세히 들여다보다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "renew",
-    "kor": "새롭게 하다, 연장하다",
+    "eng": "crop",
+    "kor": "작물, 수확",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "germ",
-    "kor": "세균, 싹, 근원",
-    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -108,80 +48,74 @@
     "answer_count_eng": 1
   },
   {
+    "eng": "representative",
+    "kor": "대표, 국회의원(R-); 대표하는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "furthermore",
+    "kor": "게다가, 더욱이",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "endanger",
+    "kor": "위험에 빠뜨리다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "peer",
+    "kor": "동료, 또래",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "noble",
+    "kor": "귀족의, 고결한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ecosystem",
+    "kor": "생태계",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "enrich",
+    "kor": "풍성하게 하다, 부유하게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appliance",
+    "kor": "(가정용) 기구, 장치",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "realize",
     "kor": "깨닫다, 실현하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "enrich",
-    "kor": "부유하게 하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "noble",
-    "kor": "고결한, 귀족의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "repair",
-    "kor": "수리하다, 수리",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "candidate",
-    "kor": "후보자",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "ideal",
-    "kor": "이상적인, 이상",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "crop",
-    "kor": "농작물",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "ethnic",
-    "kor": "민족의",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "foretell",
-    "kor": "예언하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "wholesale",
-    "kor": "도매의, 대량의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "debt",
-    "kor": "부채",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "representative",
-    "kor": "대표자",
-    "answer_count_kor": 1,
+    "kor": "수선하다, (건강 등을) 회복하다; 수선, 회복",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
     "eng": "shift",
-    "kor": "바꾸다, 변화",
+    "kor": "변화, 이동, 교대; 바꾸다, 이동하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "germ",
+    "kor": "미생물, 세균",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -192,51 +126,117 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "strict",
-    "kor": "엄격한, 엄밀한",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "appliance",
-    "kor": "가전제품",
+    "eng": "candidate",
+    "kor": "후보자",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "furthermore",
-    "kor": "더욱이, 게다가",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "command",
-    "kor": "명령하다, 지휘하다, 명령, 지휘",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "ecosystem",
-    "kor": "생태계",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "excess",
-    "kor": "초과, 과다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "oral",
-    "kor": "입의, 구술시험",
+    "eng": "adjust",
+    "kor": "조절하다, 조정하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "drift",
-    "kor": "표류, 일반적인 경향, 떠돌다, 방황하다",
+    "kor": "표류; 표류하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ethnic",
+    "kor": "인종의, 민족의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "drastic",
+    "kor": "격렬한, 과감한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "renew",
+    "kor": "새롭게 하다, 갱신하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infection",
+    "kor": "감염, 전염(병)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "strict",
+    "kor": "엄한, 엄격한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "result",
+    "kor": "결과; (결과로) 생기다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wonder",
+    "kor": "궁금해하다, 놀라다; 경탄, 경이",
     "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "oral",
+    "kor": "구두(口頭)의, 구술의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "debt",
+    "kor": "빚, 부채",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reinforcement",
+    "kor": "강화, 보강",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fade",
+    "kor": "사라지다, 희미해지다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "widespread",
+    "kor": "널리 퍼진",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ideal",
+    "kor": "이상적인; 이상",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wholesale",
+    "kor": "도매; 도매의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "progress",
+    "kor": "진보하다, 전진하다; 진전, 진보",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "excess",
+    "kor": "초과, 초과량, 과도함; 초과한, 여분의",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   }
 ]
