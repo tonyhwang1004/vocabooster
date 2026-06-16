@@ -1,217 +1,97 @@
 [
   {
-    "eng": "hollow",
-    "kor": "속이 빈",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "structural",
-    "kor": "구조상의, 구조적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "mortgage",
-    "kor": "담보, 저당잡히다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "inject",
-    "kor": "주사하다, 주입하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "crisis",
-    "kor": "위기",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "painkiller",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "illuminate",
-    "kor": "계몽하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "mimic",
-    "kor": "흉내내다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "unearth",
-    "kor": "발굴하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "wail",
-    "kor": "울부짖다, 한탄하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "lessen",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "stride",
-    "kor": "성큼성큼 걷다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "applicant",
-    "kor": "지원자",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "disprove",
-    "kor": "반증하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "disturb",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "hemisphere",
-    "kor": "(지구, 뇌의) 반구",
+    "kor": "주사하다, 도입하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "recur",
-    "kor": "재발하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "elastic",
-    "kor": "탄력있는, 고무줄",
+    "kor": "재발하다, 되풀이하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "counterpart",
-    "kor": "대응 하는 것",
-    "answer_count_kor": 1,
+    "eng": "hollow",
+    "kor": "속이 빈, 오목한; 움푹한 곳",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "stubborn",
-    "kor": "완고한, 고집 센",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "suicide",
-    "kor": "자살",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "lure",
-    "kor": "유혹하다, 매력",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "indigenous",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "morale",
-    "kor": "사기, 의욕",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "examine",
-    "kor": "조사하다, 검사하다",
+    "eng": "religious",
+    "kor": "종교(상)의, 종교적인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "compromise",
-    "kor": "타협하다, 타협",
+    "kor": "타협하다; 타협",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "examine",
+    "kor": "검사하다, 진찰하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lure",
+    "kor": "유혹하다; 매력",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "precaution",
+    "kor": "조심, 예방 조치",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "elastic",
+    "kor": "탄력 있는, 융통성 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stubborn",
+    "kor": "완고한, 고집이 센",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "yearn",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "precaution",
-    "kor": "예방조치, 조심",
+    "kor": "그리워하다, 열망하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "torture",
-    "kor": "고문, 고문하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "entrust",
-    "kor": "위임하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "sway",
-    "kor": "흔들다, 동요시키다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "religious",
-    "kor": "종교의, 신앙심이 깊은",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "obligation",
-    "kor": "의무, 책임",
-    "answer_count_kor": 2,
+    "eng": "mimic",
+    "kor": "모방하다; 흉내를 잘 내는, 모조의",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
     "eng": "pest",
-    "kor": "해충, 유해동물",
+    "kor": "해충, 역병, 귀찮은 것",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "hemisphere",
+    "kor": "반구체, (지구·천체의) 반구",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "foremost",
-    "kor": "주요한",
-    "answer_count_kor": 1,
+    "eng": "suicide",
+    "kor": "자살; 자살하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "incorporate",
-    "kor": "통합하다",
+    "eng": "lessen",
+    "kor": "줄(이)다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -223,19 +103,139 @@
   },
   {
     "eng": "terminate",
-    "kor": "끝내다",
-    "answer_count_kor": 1,
+    "kor": "끝내다, 종결짓다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "rebel",
-    "kor": "반역을 일으키다",
-    "answer_count_kor": 1,
+    "eng": "disprove",
+    "kor": "오류를 증명하다, 논박하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "morale",
+    "kor": "사기, 의욕",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "structural",
+    "kor": "구조(상)의, 조직(상)의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "applicant",
+    "kor": "신청자, 지원자",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "meanwhile",
-    "kor": "한편",
+    "kor": "한편, 그동안에",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "illuminate",
+    "kor": "밝게 비추다, 계몽하다, 설명하 다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sway",
+    "kor": "흔들림; 흔들리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "unearth",
+    "kor": "발굴하다, 발견하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stride",
+    "kor": "성큼성큼 걷다; 성큼성큼 걷기, 진보, 발전",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "entrust",
+    "kor": "위임하다, 위탁하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rebel",
+    "kor": "반역자; 반역[반란]을 일으키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "wail",
+    "kor": "울부짖다; 울부짖음",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "counterpart",
+    "kor": "상대, 대응하는 것[사람]",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mortgage",
+    "kor": "저당, 주택 융자, (담보) 대출",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crisis",
+    "kor": "위기, 중대 국면",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obligation",
+    "kor": "의무, 계약, 채무",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disturb",
+    "kor": "방해하다, 어지럽히다, 혼란케 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "torture",
+    "kor": "고문; 고문하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "indigenous",
+    "kor": "토착의, 원산의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incorporate",
+    "kor": "법인회사로 만들다, 통합시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "foremost",
+    "kor": "주요한, 으뜸가는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "painkiller",
+    "kor": "진통제",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
