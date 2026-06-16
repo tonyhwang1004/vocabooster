@@ -1,44 +1,8 @@
 [
   {
-    "eng": "numerous",
-    "kor": "다수의, 많은",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "shiver",
-    "kor": "몸을 떨다떨림",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "retarded",
-    "kor": "(정서•지능•학력) 발달이 뒤진",
+    "kor": "(정서·지능·학력 등의) 발달이 뒤진",
     "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "belonging",
-    "kor": "소유물, 부속물",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "improvise",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "executive",
-    "kor": "임원, 행정의, 관리의",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "chaos",
-    "kor": "혼돈, 혼란",
-    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -48,183 +12,45 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "ongoing",
-    "kor": "진행 중인진행",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "vulnerable",
-    "kor": "상처받기 쉬운, 취약한",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "implication",
-    "kor": "암시, 영향",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "alley",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "authentic",
-    "kor": "진정한, 진짜의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "compel",
-    "kor": "강요하다, ~ 하게 만들다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "transition",
-    "kor": "변화, 전환",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "mobility",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "incline",
-    "kor": "~쪽으로 기울다, 경사지다, 내키게 하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "attain",
-    "kor": "이루다, 달성하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "innate",
-    "kor": "타고난",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "ingenuity",
-    "kor": "기발한 재주, 독창성",
+    "eng": "coordinate",
+    "kor": "조정하다; 동등한",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "upset",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "마음이 상한, 당황한; 뒤엎다; 전복, 혼란",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "improvise",
+    "kor": "즉흥적으로 하다, 즉석에서 하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "stretch",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "seize",
-    "kor": "붙잡다, 파악하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "screw",
-    "kor": "나사나사로 고정하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "shelter",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "province",
-    "kor": "지역, 지방",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "coordinate",
-    "kor": "조직하다, 조정하다, 동등한",
+    "kor": "늘이다, 뻗다; 신축성",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "deficient",
-    "kor": "부족한, 불완전한",
+    "eng": "compel",
+    "kor": "강요하다, ~하게 만들다",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "privilege",
-    "kor": "특권, 특권을 주다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "preview",
-    "kor": "시사회, 시연, 미리보기",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "slogan",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "savage",
-    "kor": "야만적인, 잔인한, 무참히 공격하다야만인",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "throughout",
-    "kor": "",
-    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
     "eng": "outlaw",
-    "kor": "범법자, 도망자금지하다, 법적으로 무효화하다",
+    "kor": "금지하다, 법적으로 무효화하다; 무법자",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "squeeze",
-    "kor": "(즙 등을) 짜내다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "breakthrough",
-    "kor": "돌파구, 비약적 발전",
+    "eng": "ingenuity",
+    "kor": "솜씨, 독창력",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "consent",
-    "kor": "동의하다, 허락하다, 동의, 허락",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "orphan",
-    "kor": "고아",
-    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
@@ -234,9 +60,183 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "nuisance",
-    "kor": "골칫거리, 방해, 귀찮은 사람",
+    "eng": "privilege",
+    "kor": "특권; 특권을 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preview",
+    "kor": "미리 보기, 예고편, 시사회",
     "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transition",
+    "kor": "변천, 과도기",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vulnerable",
+    "kor": "취약한, 상처 입기 쉬운",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deficient",
+    "kor": "부족한, 불완전한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "executive",
+    "kor": "집행의, 경영의; 임원, 경영진",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "breakthrough",
+    "kor": "비약적 발전, 돌파, 타개",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alley",
+    "kor": "오솔길, 골목길",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "attain",
+    "kor": "달성하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "orphan",
+    "kor": "고아",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "belonging",
+    "kor": "(pl.) 소유물, 소지품",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "squeeze",
+    "kor": "짜내다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shiver",
+    "kor": "떨림; 떨다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "ongoing",
+    "kor": "계속되는, 진행 중인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "slogan",
+    "kor": "선전 문구, 슬로건",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shelter",
+    "kor": "피난하다, 보호하다; 피난처",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "savage",
+    "kor": "야만적인, 잔인한; 야만인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "seize",
+    "kor": "붙잡다, 포착하다, 이해하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "incline",
+    "kor": "내키게 하다, 기울이다; 경사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "throughout",
+    "kor": "(장소의) 도처에, (시간의) 처음 부터 끝까지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "numerous",
+    "kor": "다수의, 수많은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "innate",
+    "kor": "천부적인, 본질적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chaos",
+    "kor": "혼돈, 무질서",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "screw",
+    "kor": "나사; 나사로 고정하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "province",
+    "kor": "(행정 단위인) 주[도], 분야, 영역",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "authentic",
+    "kor": "진짜의, 진정한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "consent",
+    "kor": "동의, 허락; 동의하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "implication",
+    "kor": "함축, 암시",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mobility",
+    "kor": "이동성, 가동성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nuisance",
+    "kor": "귀찮은 사람, 성가신 것",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
