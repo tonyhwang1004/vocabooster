@@ -1,140 +1,8 @@
 [
   {
-    "eng": "folklore",
-    "kor": "민속",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "vast",
-    "kor": "방대한",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "preliminary",
-    "kor": "예비의, 준비의, 예비 단계, 예선",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "theft",
-    "kor": "절도",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "proliferation",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "amend",
-    "kor": "수정하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "recess",
-    "kor": "휴식, 휴업",
+    "eng": "paradigm",
+    "kor": "패러다임, 이론적 틀",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "exploit",
-    "kor": "이용하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "autonomy",
-    "kor": "자율, 자치",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "outfit",
-    "kor": "복장과 장비",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "mourn",
-    "kor": "애도하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "evoke",
-    "kor": "이끌어내다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "burden",
-    "kor": "부담, ~에게 부담을 지우다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "latitude",
-    "kor": "위도",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "patch",
-    "kor": "조각, 작은 땅, 덧대다, 때우다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "maternal",
-    "kor": "모성의",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "pharmacy",
-    "kor": "약국, 약학",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "marine",
-    "kor": "바다의, 해양의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "prestigious",
-    "kor": "명성이 있는",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "friction",
-    "kor": "마찰, 충돌",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "defend",
-    "kor": "방어하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "fraud",
-    "kor": "사기, 사기꾼",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "easygoing",
-    "kor": "태평스러운",
-    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
@@ -144,68 +12,50 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "intermediate",
-    "kor": "중급의, 중간의, 중급자",
+    "eng": "evoke",
+    "kor": "일깨우다, 이끌어 내다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exploit",
+    "kor": "(부당하게) 이용하다, 착취하다; 위업",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "shatter",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "paradigm",
-    "kor": "패러다임, 사고체계",
+    "eng": "amend",
+    "kor": "수정하다, 고치다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "charge",
-    "kor": "요금, 책임, (요금을) 청구하다",
+    "kor": "요금을 청구하다, 채우다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "patch",
+    "kor": "(조그만) 부분, 헝겊 조각, 좁은 땅",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
     "eng": "rapid",
-    "kor": "빠른",
-    "answer_count_kor": 1,
+    "kor": "빠른, 신속한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "premature",
-    "kor": "조산한",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "pollute",
-    "kor": "오염시키다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "altruism",
-    "kor": "이타주의",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "fiber",
-    "kor": "섬유질",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "irony",
-    "kor": "아이러니, 비꼼, 반어법",
+    "eng": "recess",
+    "kor": "휴식, 휴업, 구석진 곳",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "spectator",
-    "kor": "관중, 구경꾼",
+    "eng": "burden",
+    "kor": "짐, 부담; ~에게 짐을 지우다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -216,15 +66,33 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "analogy",
-    "kor": "유사성",
-    "answer_count_kor": 1,
+    "eng": "marine",
+    "kor": "해양의, 바다의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "snatch",
-    "kor": "잡아채다",
-    "answer_count_kor": 1,
+    "eng": "proliferation",
+    "kor": "증식, 급증, 확산",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shatter",
+    "kor": "산산이 부서지다; 파편",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "analogy",
+    "kor": "유추, 유사점",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "easygoing",
+    "kor": "태평스러운, 안이한",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -234,9 +102,141 @@
     "answer_count_eng": 1
   },
   {
+    "eng": "friction",
+    "kor": "마찰, 의견 충돌",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pollute",
+    "kor": "오염시키다, 더럽히다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "outline",
-    "kor": "간략히 기술하다",
+    "kor": "개요를 말하다, 윤곽을 보여 주다; 개요, 윤곽",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intermediate",
+    "kor": "중간의; 중간물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "snatch",
+    "kor": "잡아채다, 날치기하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outfit",
+    "kor": "옷[복장], 장비; 공급하다, 준비 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "theft",
+    "kor": "도둑질, (야구) 도루",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vast",
+    "kor": "막대한, 광대한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "preliminary",
+    "kor": "예비의, 임시의; 예선, 사전 준 비",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "defend",
+    "kor": "방어하다, 수비하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "autonomy",
+    "kor": "자치(권), 자율",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fiber",
+    "kor": "섬유(질)",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "maternal",
+    "kor": "어머니의, 모계의, 모국어의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "altruism",
+    "kor": "이타주의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "premature",
+    "kor": "조숙한, 조산한, 시기상조의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mourn",
+    "kor": "슬퍼하다, 애도하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pharmacy",
+    "kor": "약국, 약학",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "irony",
+    "kor": "반어법, 아이러니",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spectator",
+    "kor": "관객, 구경꾼",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fraud",
+    "kor": "사기, 속임, 사기꾼",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "latitude",
+    "kor": "(지리) 위도, 위선",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prestigious",
+    "kor": "명망 있는, 고급의, 일류의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "folklore",
+    "kor": "민속, 민속 신앙, 신화",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   }
 ]
