@@ -1,97 +1,7 @@
 [
   {
-    "eng": "decrease",
-    "kor": "줄다[감소하다], 줄이다, 감소",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "recycle",
-    "kor": "재활용하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "desire",
-    "kor": "욕구, 욕망, 바라다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "balance",
-    "kor": "균형, 은행 잔고, 균형을 이루다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "negative",
-    "kor": "부정적인",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "follow",
-    "kor": "따라가다,  (규칙을) 따르다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "account",
-    "kor": "은행 계좌, 이야기, 설명, 설명하다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "publish",
-    "kor": "발표하다, 출판하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "occasion",
-    "kor": "경우, 특별한 일",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "replace",
-    "kor": "대체하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "constant",
-    "kor": "일정한, 불변의, (수학에서의) 상수",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "expert",
-    "kor": "전문가",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "term",
-    "kor": "용어, 기간, 학기",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "relieve",
-    "kor": "경감하다, 안도시키다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "describe",
-    "kor": "묘사하다, 표현하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "congratulate",
-    "kor": "축하하다",
+    "eng": "insist",
+    "kor": "주장하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -102,98 +12,20 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "equipment",
-    "kor": "장치, 장비",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "biology",
-    "kor": "생물학",
+    "eng": "negative",
+    "kor": "부정적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "imagine",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "compose",
-    "kor": "구성하다, 작곡하다, 작문하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "genius",
-    "kor": "천재, 천재성",
+    "eng": "athletic",
+    "kor": "운동의, 운동 경기의",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "reflect",
-    "kor": "반영하다, 반사하다, 숙고하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "cause",
-    "kor": "~의 원인이 되다, 야기하다, 원인",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "frequent",
-    "kor": "빈번한, (장소,모임에) 자주 가다",
-    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
     "eng": "factor",
     "kor": "요인, 요소",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "extreme",
-    "kor": "극단의, 극단",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "tend",
-    "kor": "~하는 경향이 있다, 돌보다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "politics",
-    "kor": "정치, 정치학",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "insist",
-    "kor": "주장하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "extend",
-    "kor": "연장하다, 넓히다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "lonely",
-    "kor": "외로운",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "habitat",
-    "kor": "서식지, 주거지",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -204,14 +36,140 @@
     "answer_count_eng": 1
   },
   {
+    "eng": "imagine",
+    "kor": "상상하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tend",
+    "kor": "(~하는) 경향이 있다 (to V), 돌보다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "constant",
+    "kor": "일정한, 불변의; (수학에서의) 상수",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "replace",
+    "kor": "대체하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extreme",
+    "kor": "극단의, 극단적인; 극단",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "habitat",
+    "kor": "서식지, 주거지",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exchange",
+    "kor": "교환하다; 교환",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "politics",
+    "kor": "정치, 정치학",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "relieve",
+    "kor": "경감하다, 안도시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "biology",
+    "kor": "생물학",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dental",
+    "kor": "치아의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "genius",
+    "kor": "천재, 천재성",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "occasion",
+    "kor": "경우, 특별한 일",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "steady",
     "kor": "안정된, 한결같은, 꾸준한",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "exchange",
-    "kor": "교환하다",
+    "eng": "reflect",
+    "kor": "반영하다, 반사하다, 숙고하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "species",
+    "kor": "(생물 분류상의) 종",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cause",
+    "kor": "~의 원인이 되다, 야기하다; 원 인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "equipment",
+    "kor": "장치, 장비",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "account",
+    "kor": "은행 계좌, 이야기, 설명; 설명 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "term",
+    "kor": "용어, 기간, 학기",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "desire",
+    "kor": "욕망, 욕구; 바라다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "publish",
+    "kor": "발표하다, 출판하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lonely",
+    "kor": "외로운",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -222,20 +180,62 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "species",
-    "kor": "(생물분류상의) 종",
-    "answer_count_kor": 1,
+    "eng": "compose",
+    "kor": "구성하다, 작곡하다, 작문하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "athletic",
-    "kor": "운동의, 운동경기의",
+    "eng": "follow",
+    "kor": "따라가다, (규칙을) 따르다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "dental",
-    "kor": "치아의",
+    "eng": "congratulate",
+    "kor": "축하하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decrease",
+    "kor": "줄다[감소하다], 줄이다; 감소",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "frequent",
+    "kor": "빈번한; (장소·모임에) 자주 가 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "extend",
+    "kor": "연장하다, 넓히다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "balance",
+    "kor": "균형, 은행 잔고; 균형을 이루다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "describe",
+    "kor": "묘사하다, 표현하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "expert",
+    "kor": "전문가",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recycle",
+    "kor": "재활용하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
