@@ -1,134 +1,122 @@
 [
   {
+    "eng": "swell",
+    "kor": "부풀다; 팽창",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "glimpse",
+    "kor": "흘긋 봄; 흘긋 보다, 깨닫다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suitor",
+    "kor": "소송인, 구혼자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "feedback",
+    "kor": "반응, 피드백",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "retain",
+    "kor": "유지[보유]하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obsess",
+    "kor": "강박 관념을 갖다, (망상이) 사로잡다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "slice",
+    "kor": "얇은 조각; 얇게 썰다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "machinery",
+    "kor": "(집합적) 기계",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "maximize",
+    "kor": "최대화하다, 최대한으로 활용하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outbreak",
+    "kor": "(전쟁·질병 등의) 발발, 폭동",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grief",
+    "kor": "큰 슬픔",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "altitude",
+    "kor": "고도, 높이",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cozy",
+    "kor": "아늑한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "toss",
+    "kor": "던지다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recommend",
+    "kor": "추천하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sacrifice",
+    "kor": "희생하다, 희생시키다; 희생, 제물",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shrub",
+    "kor": "관목",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "abundant",
     "kor": "풍부한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "duplicate",
-    "kor": "똑같은, 복사하다, 사본",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "spoil",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "altitude",
-    "kor": "고도",
+    "eng": "inevitable",
+    "kor": "피할 수 없는",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "glimpse",
-    "kor": "흘끗 보다, 흘끗 봄",
+    "eng": "assert",
+    "kor": "주장하다, 행사하다",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "blend",
-    "kor": "섞다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "swell",
-    "kor": "부풀다, 팽창",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "grief",
-    "kor": "비탄, 큰 슬픔",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "beverage",
-    "kor": "음료수",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "warrior",
-    "kor": "전사, 용사",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "shrub",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "slice",
-    "kor": "(얇게 썬)조각, 얇게 썰다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "exotic",
-    "kor": "이국적인",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "arrogant",
-    "kor": "거만한, 건방진",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "vanish",
-    "kor": "사라지다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "outbreak",
-    "kor": "(전쟁, 사고등의) 발발",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "accommodate",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "cozy",
-    "kor": "안락한, 아늑한",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "recommend",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "auction",
-    "kor": "경매, 경매로 팔다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "obsess",
-    "kor": "v.사로잡다, 강박 관념을 갖다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "suitor",
-    "kor": "",
-    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
@@ -138,57 +126,21 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "discreet",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "pioneer",
-    "kor": "개척자, 개척하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "assert",
-    "kor": "주장하다",
+    "eng": "beverage",
+    "kor": "음료",
     "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "undo",
-    "kor": "(잠긴 것을) 풀다, 원상태로 돌리다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "inevitable",
-    "kor": "",
-    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
     "eng": "elaborate",
-    "kor": "정교한",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "toss",
-    "kor": "던지다, 던지기",
+    "kor": "정교한, 공들인",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "retain",
-    "kor": "보유하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "maximize",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "duplicate",
+    "kor": "복제품; 이중으로 하다, 복제하 다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -198,15 +150,51 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "machinery",
-    "kor": "기계",
+    "eng": "exotic",
+    "kor": "이국적인",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "sacrifice",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "blend",
+    "kor": "혼합; 섞다, 혼합하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discreet",
+    "kor": "분별 있는, 사려 깊은",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "warrior",
+    "kor": "전사, 용사",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spoil",
+    "kor": "망치다, 상하게 하다, 버릇없게 키우다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "radioactive",
+    "kor": "방사성의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "neglect",
+    "kor": "무시하다; 소홀, 무시",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "auction",
+    "kor": "경매; 경매에 부치다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -217,25 +205,37 @@
   },
   {
     "eng": "linger",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "neglect",
-    "kor": "무시하다, 소홀",
+    "kor": "오래 머물다, 계속되다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "feedback",
-    "kor": "피드백",
+    "eng": "pioneer",
+    "kor": "개척자, 선구자; 개척자의; 개척 하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "accommodate",
+    "kor": "수용하다, 숙박시키다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "arrogant",
+    "kor": "거만한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "radioactive",
-    "kor": "방사능의",
+    "eng": "undo",
+    "kor": "원상태로 돌리다, (매듭을) 풀다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vanish",
+    "kor": "사라지다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
