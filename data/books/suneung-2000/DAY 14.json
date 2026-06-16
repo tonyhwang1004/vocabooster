@@ -1,49 +1,37 @@
 [
   {
-    "eng": "necessity",
-    "kor": "필요, 필수, 필수품",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "yield",
-    "kor": "생산하다, 굴복하다, 양도하다, 수확(물)",
+    "kor": "생산하다, 양도하다, 굴복하다; 수확(물)",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "eng": "decline",
-    "kor": "감소, 쇠퇴, 감소하다, 쇠퇴하다, 거절하다",
-    "answer_count_kor": 5,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "apply",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "aside",
-    "kor": "한쪽으로, 제쳐 두고",
-    "answer_count_kor": 2,
+    "eng": "install",
+    "kor": "설치하다",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "contemporary",
-    "kor": "현대의, 동시대의",
+    "kor": "동시대의, 현대의",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "bless",
-    "kor": "축복하다, 감사하다",
-    "answer_count_kor": 2,
+    "eng": "document",
+    "kor": "문서, 서류; 기록하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "explain",
-    "kor": "설명하다",
+    "eng": "measure",
+    "kor": "측정하다; 측정, 수단",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "appropriate",
+    "kor": "적절한",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -54,128 +42,26 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "tolerate",
-    "kor": "참다, 용인하다",
+    "eng": "suspect",
+    "kor": "의심하다; 용의자",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "measure",
-    "kor": "측정하다, 측정, 수단",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "abstract",
-    "kor": "추상적인, 추상, 개요",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "cottage",
-    "kor": "오두막집",
-    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "correct",
-    "kor": "올바른, 정확한, 바로잡다, 정정하다",
+    "kor": "올바른, 정확한; 바로잡다, 정정하다",
     "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "eng": "confirm",
-    "kor": "확인하다, 입증하다, (결심을) 굳게 하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "imitate",
-    "kor": "모방하다",
+    "eng": "explain",
+    "kor": "설명하다",
     "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "prey",
-    "kor": "먹이, 희생자",
-    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "defeat",
-    "kor": "패배시키다, 패배",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "illustrate",
-    "kor": "설명하다, (분명히) 보여주다, 삽화를 넣다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "fuse",
-    "kor": "퓨즈, 도화선, 융합하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "pupil",
-    "kor": "학생, 눈동자",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "intellect",
-    "kor": "지성",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "spice",
-    "kor": "향신료, 양념",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "tempt",
-    "kor": "유혹하다 (관심을) 끌다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "inspire",
-    "kor": "영감을 주다, 고무시키다, 격려하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "dine",
-    "kor": "식사하다, 만찬을 대접하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "literally",
-    "kor": "문자 그대로",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "appropriate",
-    "kor": "적절한",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "resort",
-    "kor": "휴양지, 의지, 의지하다, 자주 가다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "grab",
-    "kor": "움켜쥐다, 움켜쥠",
+    "kor": "패배시키다; 패배",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -187,26 +73,158 @@
   },
   {
     "eng": "wreck",
-    "kor": "난파선, 사고, 난파시키다",
+    "kor": "난파선, 사고; 난파시키다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "document",
-    "kor": "문서, 서류, 기록하다",
+    "eng": "aside",
+    "kor": "한쪽으로, 제쳐 두고",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "resort",
+    "kor": "휴양지, 의지; 의지하다, 자주 가다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scholarship",
+    "kor": "학문, 장학금",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "necessity",
+    "kor": "필수, 필수품, 필요",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "suspect",
-    "kor": "의심하다, 용의자",
+    "eng": "pupil",
+    "kor": "학생, 눈동자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abstract",
+    "kor": "추상적인; 추상, 개요",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "literally",
+    "kor": "문자 그대로",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "illustrate",
+    "kor": "설명하다, 예증하다, 삽화를 넣 다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "cottage",
+    "kor": "오두막집",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "inspire",
+    "kor": "영감을 주다, 고무시키다, 격려 하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prey",
+    "kor": "먹이, 희생자",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tempt",
+    "kor": "유혹하다, (관심을) 끌다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "imitate",
+    "kor": "모방하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tolerate",
+    "kor": "참다, 용인하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "intellect",
+    "kor": "지성",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "triumph",
+    "kor": "승리; 승리하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fuse",
+    "kor": "퓨즈, 도화선; 융합하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "grab",
+    "kor": "움켜쥐다; 움켜쥠",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bless",
+    "kor": "축복하다, 감사하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "alien",
-    "kor": "외국의, 이질적인, 외국인, 외계인",
+    "kor": "외국인, 외계인; 외국의, 이질적 인",
     "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decline",
+    "kor": "감소, 쇠퇴; 감소하다, 쇠퇴하다, 거절하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "execute",
+    "kor": "실행하다, 처형하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dine",
+    "kor": "만찬을 대접하다, 식사하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "apply",
+    "kor": "적용하다, 지원하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spice",
+    "kor": "향신료, 양념",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -216,26 +234,8 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "install",
-    "kor": "설치하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "triumph",
-    "kor": "승리, 승리하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "scholarship",
-    "kor": "장학금, 학문",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "execute",
-    "kor": "실행하다, 처형하다",
+    "eng": "confirm",
+    "kor": "입증[확인]하다, (결심을) 굳게 하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   }
