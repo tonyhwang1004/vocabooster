@@ -1,242 +1,242 @@
 [
   {
-    "eng": "support",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "revise",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "suggest",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "control",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "mammal",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "internal",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "resent",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "abrupt",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "diverse",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "refine",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "dynamic",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "nerve",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "prompt",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "suspend",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "industry",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "iceberg",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "monetary",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "priceless",
+    "kor": "대단히 귀중한",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "judge",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "판단하다; 재판관",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "gloom",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "nerve",
+    "kor": "신경",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "distraction",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "suggest",
+    "kor": "암시하다, 넌지시 말하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "collapse",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "control",
+    "kor": "지배하다, 제어하다; 지배, 제어",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "monetary",
+    "kor": "화폐의",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "trigger",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "촉발하다, 유발하다; 방아쇠, 계기",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
-    "eng": "martial",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "monologue",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "deliberate",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "plot",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "rod",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "partial",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "mutual",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "priceless",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "iceberg",
+    "kor": "빙산",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "fate",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "운명",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "pursue",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "dynamic",
+    "kor": "동적인, 역학의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "atlantic",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "refine",
+    "kor": "정제하다, 개선하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "weird",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "gloom",
+    "kor": "어둠, 우울",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "booth",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "support",
+    "kor": "지지하다, 받치다, 부양하다; 지지, 지탱함, 부양",
+    "answer_count_kor": 6,
     "answer_count_eng": 1
   },
   {
-    "eng": "prescribe",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "revise",
+    "kor": "변경하다, 개정[수정]하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "erupt",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "resent",
+    "kor": "분개하다, 화를 내다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "insult",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "gaze",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "internal",
+    "kor": "내부의",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "supreme",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "최고의",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "partial",
+    "kor": "부분적인, 편파적인",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distraction",
+    "kor": "주의 산만, (정신을) 산만하게 하는 것, 기분 전환",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "weird",
+    "kor": "이상한, 기묘한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "monologue",
+    "kor": "독백",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "diverse",
+    "kor": "다른, 다양한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "erupt",
+    "kor": "분출하다, 폭발하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "industry",
+    "kor": "산업, 공업",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suspend",
+    "kor": "매달다, 중지하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prompt",
+    "kor": "즉각적인, 신속한; 촉구하다, 자 극하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "collapse",
+    "kor": "무너지다, 붕괴하다; 붕괴",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gaze",
+    "kor": "뚫어지게 보다, 응시하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "Atlantic",
+    "kor": "대서양; 대서양의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pursue",
+    "kor": "추구하다, 쫓다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "insult",
+    "kor": "모욕하다; 모욕",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "abrupt",
+    "kor": "갑작스러운",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prescribe",
+    "kor": "규정하다, (약을) 처방하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "booth",
+    "kor": "칸막이한 공간, 부스, 노점",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "martial",
+    "kor": "전쟁의, 군대의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mammal",
+    "kor": "포유동물",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "plot",
+    "kor": "줄거리, 음모; 음모를 꾸미다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deliberate",
+    "kor": "의도적인, 신중한; 숙고하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rod",
+    "kor": "막대기, 회초리",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mutual",
+    "kor": "서로의, 공통의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
