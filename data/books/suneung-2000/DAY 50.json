@@ -1,242 +1,242 @@
 [
   {
-    "eng": "penetrate",
-    "kor": "관통하다, 꿰뚫다, 침투하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "intrude",
-    "kor": "침범하다, 방해하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "notable",
-    "kor": "주목할 만한, 유명한",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "grumble",
-    "kor": "불평하다, 투덜거리다, 불평",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "eng": "limb",
+    "kor": "사지, 팔다리",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "landfill",
     "kor": "쓰레기 매립지",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "scrutiny",
-    "kor": "(정밀) 조사, 철저한 검토",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "reckless",
-    "kor": "무모한, 부주의한, 신중하지 못한",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "synthetic",
-    "kor": "합성의, 종합적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "productive",
-    "kor": "생산하는, 생산적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "outset",
-    "kor": "착수, 발단, 시작, 처음",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "peril",
-    "kor": "위험",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "rage",
-    "kor": "격노, 격노하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "kidnap",
-    "kor": "납치하다, 유괴",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "liable",
-    "kor": "책임이 있는, ~하기 쉬운",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "insane",
-    "kor": "정신 이상의, 미친, 비상식적인",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "pitfall",
-    "kor": "위험, 함정",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "radius",
     "kor": "반지름",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "hybrid",
-    "kor": "잡종, 혼합물",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "eng": "outset",
+    "kor": "착수, 시작",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "uncover",
-    "kor": "폭로하다, 덮개를 벗기다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "eng": "liable",
+    "kor": "책임이 있는, ~할 것 같은, ~하기 쉬운",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "limb",
-    "kor": "사지, 팔다리, 나뭇가지",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "eng": "rage",
+    "kor": "격노",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "setback",
-    "kor": "좌절, 차질, 방해, 실패",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
+    "eng": "cumulative",
+    "kor": "누적되는, 점증적인",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "prudent",
-    "kor": "신중한",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
+    "eng": "grumble",
+    "kor": "불평하다, 으르렁거리다; 불평",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "solidify",
-    "kor": "굳어지다, 굳히다, 확고히 하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "eng": "reckless",
+    "kor": "부주의한, 무모한",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "grudge",
     "kor": "원한, 유감",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "transcend",
-    "kor": "",
     "answer_count_kor": 0,
-    "answer_count_eng": 1
+    "answer_count_eng": 0
   },
   {
-    "eng": "tangle",
-    "kor": "얽히게 하다, 혼란시키다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "subsidy",
-    "kor": "보조금, 장려금",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "eng": "hybrid",
+    "kor": "혼합, 잡종",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "ambiguous",
-    "kor": "애매모호한, 불명확한",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "kor": "애매모호한, 두 가지 뜻으로 해석 가능한",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "enthusiasm",
-    "kor": "열광, 열정, 열광하는 대상",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
+    "eng": "pitfall",
+    "kor": "함정, 위험",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "setback",
+    "kor": "좌절, 차질",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "solidify",
+    "kor": "굳어지다, 굳히다, 확고히 하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "bankruptcy",
     "kor": "파산",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "pollination",
-    "kor": "수분",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
+    "eng": "peril",
+    "kor": "위험, 위기",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "prosper",
-    "kor": "번영하다, 번창하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "eng": "prudent",
+    "kor": "신중한, 빈틈없는",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "phase",
-    "kor": "단계",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
+    "eng": "infrastructure",
+    "kor": "사회 기반 시설, (단체 등의) 하부 조직[구조]",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "kidnap",
+    "kor": "유괴; 납치하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "subsidy",
+    "kor": "보조금, 장려금",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "transcend",
+    "kor": "초월하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "counterattack",
+    "kor": "반격, 역습; 반격하다, 역습하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "wound",
+    "kor": "부상을 입히다; 부상",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "enthusiasm",
+    "kor": "열광, 열정, 열의",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "uncover",
+    "kor": "폭로하다, (비밀 등을) 알아내다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "synthetic",
+    "kor": "(화학) 합성의",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "notable",
+    "kor": "주목할 만한, 유명한",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "veterinarian",
     "kor": "수의사",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "counterattack",
-    "kor": "반격, 연습, 반격하다, 역습하다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
+    "eng": "phase",
+    "kor": "단계, 상, 면, 양상",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "cumulative",
-    "kor": "누적되는",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
+    "eng": "prosper",
+    "kor": "번영하다, 번창하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "infrastructure",
-    "kor": "(사회) 기반 시설, 하부 조직",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "eng": "insane",
+    "kor": "정신 이상의, 비상식적인",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
-    "eng": "wound",
-    "kor": "상처를 입히다, 부상하게 하다, 부상, 상처",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
+    "eng": "pollination",
+    "kor": "(식물) 수분 (작용)",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "discrete",
-    "kor": "별개의",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
+    "kor": "분리된, 별개의",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "tangle",
+    "kor": "얽히게 하다, 혼란시키다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "productive",
+    "kor": "생산적인, 다산의",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "scrutiny",
+    "kor": "(면밀한) 조사",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "intrude",
+    "kor": "방해하다, 침범하다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   },
   {
     "eng": "fluctuation",
-    "kor": "변동, 동요",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
+    "kor": "변동, 오르내림, 요동",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
+  },
+  {
+    "eng": "penetrate",
+    "kor": "침투하다, 꿰뚫다",
+    "answer_count_kor": 0,
+    "answer_count_eng": 0
   }
 ]
