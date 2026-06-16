@@ -1,242 +1,242 @@
 [
   {
-    "eng": "prepare",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "transaction",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "sufficient",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "stable",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "concern",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "sympathy",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "principal",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "by-product",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "anxiety",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "edible",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "federal",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "suffer",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "casual",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "tablet",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "trade",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "liquid",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "연방의, 연합의",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "characteristic",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "anticipate",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "outlook",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "desert",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "infinite",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "roam",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "decent",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "behalf",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "distortion",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "bud",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "symbolic",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "municipal",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "phenomenon",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "devote",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "peasant",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "특징, 특색; 독특한, 특징적인",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
     "eng": "diminish",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "감소하다",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "jealous",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "sufficient",
+    "kor": "충분한",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "exclude",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "symbolic",
+    "kor": "상징적인",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "flexible",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "tablet",
+    "kor": "(의학) 정제, 알약, (평평한) 판",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "trade",
+    "kor": "거래[교환]하다; 무역",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distortion",
+    "kor": "왜곡, 찌그러뜨림",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bud",
+    "kor": "싹; 싹트다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "casual",
+    "kor": "우연한, 무심결의, 격식을 차리지 않는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "liquid",
+    "kor": "액체; 액체의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "roam",
+    "kor": "배회하다, 돌아다니다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outlook",
+    "kor": "전망, 조망",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prepare",
+    "kor": "준비하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "edible",
+    "kor": "먹을 수 있는, 식용의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "concern",
+    "kor": "관련되다, 걱정하게 하다; 걱정, 관심사",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "transaction",
+    "kor": "거래, 처리",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "tenant",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "세입자, 주민",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "worthwhile",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "peasant",
+    "kor": "농민, 소작농",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "pavement",
-    "kor": "",
-    "answer_count_kor": 0,
+    "eng": "municipal",
+    "kor": "지방(자치제)의, 시의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "phenomenon",
+    "kor": "현상, 사건, 비범한 인물",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exclude",
+    "kor": "배제하다, 제외하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stable",
+    "kor": "안정된; 마구간",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "jealous",
+    "kor": "질투하는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "flexible",
+    "kor": "융통성 있는, 유연한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "principal",
+    "kor": "주요한, 제1의; (단체의) 장, 주 역",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
     "eng": "nominate",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "(후보자로) 지명[추천]하다, 임 명하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "behalf",
+    "kor": "이익, 자기편",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "decent",
+    "kor": "제대로 된, 품위 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "suffer",
+    "kor": "고통받다, 겪다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "worthwhile",
+    "kor": "~할 가치가 있는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "pavement",
+    "kor": "보도, 포장도로",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "anxiety",
+    "kor": "걱정, 불안, 열망",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "by-product",
+    "kor": "부산물",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "devote",
+    "kor": "(노력·시간 등을) 바치다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "desert",
+    "kor": "사막; 사막의, 불모의; 버리다, 도주하다",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "anticipate",
+    "kor": "예상하다, 기대하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "infinite",
+    "kor": "무한한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sympathy",
+    "kor": "동정, 공감",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "sacred",
-    "kor": "",
-    "answer_count_kor": 0,
+    "kor": "신성한, 성스러운",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
