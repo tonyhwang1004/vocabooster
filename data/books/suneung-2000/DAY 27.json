@@ -1,14 +1,8 @@
 [
   {
-    "eng": "convert",
-    "kor": "전환시키다, 바꾸다",
+    "eng": "empirical",
+    "kor": "경험적인, 실증적인",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "strike",
-    "kor": "치다",
-    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
@@ -18,111 +12,27 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "core",
-    "kor": "핵심(의)",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "contribute",
-    "kor": "공헌하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "spear",
-    "kor": "창",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "renowned",
-    "kor": "명성 있는",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "era",
-    "kor": "시대",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "withdraw",
-    "kor": "인출하다",
+    "kor": "철수하다, 철회하다, (돈을) 인출하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mow",
+    "kor": "(풀 등을) 베다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "separate",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "dignity",
-    "kor": "존엄",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "notify",
-    "kor": "통보하다, 알리다",
+    "eng": "range",
+    "kor": "범위; 정렬시키다",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "animate",
-    "kor": "살아 있는",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "prevent",
-    "kor": "예방하다, 막다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "bilingual",
-    "kor": "2개 국어의",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "mischief",
-    "kor": "장난, 해악",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "discriminate",
-    "kor": "차별하다, 구별하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "exemplify",
-    "kor": "예시하다",
-    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "adhere",
-    "kor": "고수하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "superb",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "peculiar",
-    "kor": "독특한",
-    "answer_count_kor": 1,
+    "kor": "고수하다, 충실하다, 집착하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -132,98 +42,8 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "choke",
-    "kor": "질식시키다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "folktale",
-    "kor": "민간 설화, 전설",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "simultaneously",
-    "kor": "동시에",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "range",
-    "kor": "범위",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "groom",
-    "kor": "신랑",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "supernatural",
-    "kor": "초자연적인",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "tender",
-    "kor": "부드러운",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "instinct",
-    "kor": "본능",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "gigantic",
-    "kor": "거대한",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "meditate",
-    "kor": "명상하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "mow",
-    "kor": "(풀을) 베다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "evolve",
-    "kor": "진화하다, 발전하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "chase",
-    "kor": "추격하다, 쫓다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "afflict",
-    "kor": "괴롭히다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "empirical",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "coherent",
-    "kor": "통일성 있는, 조리 있는",
+    "eng": "renowned",
+    "kor": "유명한, 명성 있는",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -234,8 +54,188 @@
     "answer_count_eng": 1
   },
   {
+    "eng": "strike",
+    "kor": "치다, (머릿속에) 떠오르다; 치기, 동맹 파업",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "peculiar",
+    "kor": "독특한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "separate",
+    "kor": "분리하다; 갈라진, 개개의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "notify",
+    "kor": "통지하다, 알리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "fountain",
-    "kor": "분수",
+    "kor": "분수, 근원",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "exemplify",
+    "kor": "예시하다, ~의 좋은 예가 되다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "choke",
+    "kor": "질식시키다, 숨이 막히다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "supernatural",
+    "kor": "초자연적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "instinct",
+    "kor": "본능",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "core",
+    "kor": "핵심; 핵심의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "prevent",
+    "kor": "막다, 예방하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "chase",
+    "kor": "쫓다, 추적하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "simultaneously",
+    "kor": "동시에",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "mischief",
+    "kor": "장난, 해악",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "contribute",
+    "kor": "기여하다, 공헌하다, 기부하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "tender",
+    "kor": "부드러운; 입찰하다; 입찰",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "era",
+    "kor": "시대",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gigantic",
+    "kor": "거대한",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "superb",
+    "kor": "최고의, 훌륭한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dignity",
+    "kor": "존엄(성)",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "afflict",
+    "kor": "괴롭히다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "groom",
+    "kor": "신랑",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "spear",
+    "kor": "창",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "discriminate",
+    "kor": "구별하다, 차별하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "convert",
+    "kor": "전환하다, 바꾸다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "evolve",
+    "kor": "진화하다, 발전하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "meditate",
+    "kor": "명상하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "animate",
+    "kor": "생기 있게 하다, 고무하다; 살아 있는",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "coherent",
+    "kor": "통일성 있는, 조리 있는",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "folktale",
+    "kor": "민간 설화, 전설",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bilingual",
+    "kor": "2개 국어의",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   }
