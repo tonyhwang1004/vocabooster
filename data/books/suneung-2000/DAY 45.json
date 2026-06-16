@@ -1,26 +1,74 @@
 [
   {
-    "eng": "relevant",
-    "kor": "관련된, 적절한",
+    "eng": "verdict",
+    "kor": "판결, 결정",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "predator",
-    "kor": "포식자, 약탈자, 육식 동물",
+    "eng": "collective",
+    "kor": "집합적인, 집단적인; 집단",
     "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sustain",
+    "kor": "지탱하다, 유지하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "scope",
+    "kor": "(관찰·활동의) 범위, 시야; 조사하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "frontier",
+    "kor": "국경; 국경의, 최첨단의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outburst",
+    "kor": "분출, 폭발",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "outrage",
+    "kor": "화나게 하다; 분노, 화",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "retention",
+    "kor": "보유, 기억(력)",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "perspiration",
+    "kor": "땀, 노력",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stall",
+    "kor": "마구간, 우리, 핑계; 핑계를 대다",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
     "eng": "drain",
-    "kor": "물을 빼내다, 소모시키다, 배수관",
-    "answer_count_kor": 3,
+    "kor": "물을 빼내다, 소모시키다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "countless",
-    "kor": "셀 수 없는, 무수한",
-    "answer_count_kor": 2,
+    "eng": "hail",
+    "kor": "싸락눈, 우박; 우박이 내리다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
@@ -30,164 +78,20 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "post",
-    "kor": "(벽 따위에) 붙이다, 우편",
+    "eng": "indispensable",
+    "kor": "필수 불가결한; 없어서는 안 될 것",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "poise",
-    "kor": "균형을 잡다, 균형, 평정",
+    "eng": "render",
+    "kor": "~이 되게 하다, 주다, 표현하다",
     "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "disciple",
-    "kor": "제자, 문하생",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "gust",
-    "kor": "돌풍, 질풍",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "collective",
-    "kor": "집합적인, 집단적인, 집단",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "scope",
-    "kor": "(관찰, 활동의) 범위, 시야, 조사하다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "compatible",
-    "kor": "양립할 수 있는, 모순이 없는",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "border",
-    "kor": "경계, 가장자리, 국경, 인접하다",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "frontier",
-    "kor": "국경, 국경의, 최첨단의",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "withhold",
-    "kor": "억누르다, 억제하다, 보류하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "verdict",
-    "kor": "판결, 결정",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "stall",
-    "kor": "마구간, 우리, 핑계를 대다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "apparatus",
-    "kor": "장치, 기구, 조직",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "hail",
-    "kor": "우박, 싸락눈, 우박이 내리다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "outburst",
-    "kor": "폭발, 분출",
-    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "vanity",
     "kor": "허영심, 허무함",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "firsthand",
-    "kor": "직접의, 직접, 바로",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "obesity",
-    "kor": "비만, 비대",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "dilemma",
-    "kor": "진퇴양난, 딜레마, 궁지",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "render",
-    "kor": "~이 되게 하다, 주다, 제공하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "indispensable",
-    "kor": "필수 불가결한, 없어서는 안 될 것",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "outdated",
-    "kor": "구식의, 시대에 뒤진",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "bother",
-    "kor": "일부러~ 하다, 괴롭히다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "counteract",
-    "kor": "(효력을) 중화시키다, 약화시키다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "static",
-    "kor": "정적인, 고정된",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "sustain",
-    "kor": "유지하다, 지탱하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "posture",
-    "kor": "자세, 태도",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -198,8 +102,86 @@
     "answer_count_eng": 1
   },
   {
+    "eng": "static",
+    "kor": "정적인, 고정된",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "bribe",
-    "kor": "뇌물, 뇌물을 주다",
+    "kor": "뇌물; 뇌물을 주다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "nursery",
+    "kor": "육아실, 탁아소, 양성소",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "firsthand",
+    "kor": "직접, 바로; 직접의",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "withhold",
+    "kor": "억누르다, 억제하다, 보류하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "predator",
+    "kor": "포식자, 약탈자, 육식 동물",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "poise",
+    "kor": "균형을 잡다; 균형, 평정",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "posture",
+    "kor": "태도, 자세",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "post",
+    "kor": "(벽 따위에) 붙이다; 우편",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "gust",
+    "kor": "돌풍, 질풍",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dilemma",
+    "kor": "진퇴양난, 딜레마, 궁지",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "disciple",
+    "kor": "제자, 문하생",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "obesity",
+    "kor": "(병적인) 비만, 비대",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compatible",
+    "kor": "양립할 수 있는, 모순이 없는",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
@@ -210,32 +192,50 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "perspiration",
-    "kor": "땀, 노력",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "retention",
-    "kor": "보유, 기억력",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "outrage",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "distress",
-    "kor": "고민, 고통, ~을 괴롭히다",
+    "eng": "apparatus",
+    "kor": "장치, 기구, 조직",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "nursery",
-    "kor": "육아실, 탁아소",
+    "eng": "outdated",
+    "kor": "시대에 뒤진, 구식의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "border",
+    "kor": "가장자리, 국경; 접하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "counteract",
+    "kor": "(효력을) 중화시키다, 약화시키 다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "countless",
+    "kor": "셀 수 없는, 무수한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "relevant",
+    "kor": "관련이 있는, 적절한",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "distress",
+    "kor": "고민, 고통; 괴롭히다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bother",
+    "kor": "일부러 ~하다, 괴롭히다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   }
