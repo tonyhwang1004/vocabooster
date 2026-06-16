@@ -1,50 +1,110 @@
 [
   {
-    "eng": "reform",
-    "kor": "개혁하다, 개혁",
-    "answer_count_kor": 2,
+    "eng": "substitute",
+    "kor": "대리자, 대체물; 대체하다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "deal",
-    "kor": "다루다, 거래",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "recruit",
-    "kor": "모집하다, 신병",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "maintain",
-    "kor": "유지하다",
+    "eng": "startle",
+    "kor": "깜짝 놀라게 하다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "workshop",
-    "kor": "작업장, 워크숍",
+    "eng": "reign",
+    "kor": "통치 기간, 치세; 군림하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "deal",
+    "kor": "다루다, 대처하다(with); 거래",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reform",
+    "kor": "개혁; 개혁하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "patient",
-    "kor": "환자",
+    "eng": "concrete",
+    "kor": "구체적인; 콘크리트",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "await",
+    "kor": "기다리다",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "convention",
-    "kor": "총회, 관습",
+    "kor": "집회, 총회, 관습",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "rule",
+    "kor": "지배, 규칙; 지배하다, 통치하다",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fatal",
+    "kor": "치명적인",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stun",
+    "kor": "놀라게 하다, 기절시키다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "devastate",
-    "kor": "황폐시키다",
+    "eng": "deliver",
+    "kor": "배달하다, 전달하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "lease",
+    "kor": "임대; 임대하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "recruit",
+    "kor": "모집하다, 징집하다, 신병, 신입 사원",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compensate",
+    "kor": "보상하다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "respect",
+    "kor": "존중하다; 존경, 관련",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "literate",
+    "kor": "읽고 쓸 수 있는",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "crack",
+    "kor": "갈라진 틈; 금 가다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
@@ -54,69 +114,15 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "overlook",
-    "kor": "간과하다, 내려다보다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "deliver",
-    "kor": "배달하다, (연설을)하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "reject",
-    "kor": "거부하다, 거절하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "nourish",
-    "kor": "영양분을 주다, 기르다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "bay",
-    "kor": "만",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "stun",
-    "kor": "놀라게 하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "particular",
-    "kor": "특정한",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "bulletin",
-    "kor": "게시(물)",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "fluid",
-    "kor": "유동성의, 유동체",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "affair",
-    "kor": "일, 사건",
-    "answer_count_kor": 2,
+    "kor": "사건, 일",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "dawn",
-    "kor": "새벽, 시작, 날이 새다",
-    "answer_count_kor": 3,
+    "eng": "perseverance",
+    "kor": "인내심",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
@@ -127,116 +133,110 @@
   },
   {
     "eng": "contend",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "respect",
-    "kor": "존경하다, (법 등을) 준수하다, 존경, 측면",
-    "answer_count_kor": 4,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "await",
-    "kor": "기다리다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "concrete",
-    "kor": "구체적인",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "satisfy",
-    "kor": "만족시키다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "literate",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "variable",
-    "kor": "변수. 변하기 쉬운, 변덕스러운",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "lease",
-    "kor": "임대하다, 임대차 계약",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "rule",
-    "kor": "규칙, 지배, 지배하다",
+    "kor": "싸우다, 주장하다, 경쟁하다",
     "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "perseverance",
-    "kor": "인내심",
+    "eng": "particular",
+    "kor": "특정한, 개개의; 사항, (-s) 상세",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bay",
+    "kor": "만(灣)",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
-    "eng": "fatal",
-    "kor": "치명적인",
-    "answer_count_kor": 1,
+    "eng": "nourish",
+    "kor": "영양분을 주다, 기르다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "substitute",
-    "kor": "",
-    "answer_count_kor": 0,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "invert",
-    "kor": "거꾸로 하다",
-    "answer_count_kor": 1,
+    "eng": "overlook",
+    "kor": "간과하다, 너그럽게 봐주다, 내 려다보다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
     "eng": "tension",
-    "kor": "긴장",
-    "answer_count_kor": 1,
+    "kor": "긴장, 불안; 긴장시키다",
+    "answer_count_kor": 3,
     "answer_count_eng": 1
   },
   {
-    "eng": "reign",
-    "kor": "통치, 지배",
+    "eng": "variable",
+    "kor": "변수; 변하기 쉬운, 변덕스러운",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "satisfy",
+    "kor": "만족시키다, 충족시키다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "crack",
-    "kor": "금이 가다, (갈라진 틈",
+    "eng": "patient",
+    "kor": "환자; 인내심 있는",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "startle",
-    "kor": "깜짝 놀라게 하다",
-    "answer_count_kor": 1,
+    "eng": "workshop",
+    "kor": "워크숍, 작업장, 연구 집회",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "maintain",
+    "kor": "유지하다, 지지하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "bulletin",
+    "kor": "게시, 게시물",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "fluid",
+    "kor": "유동체(액체·기체의 총칭); 유동 체의, 유동적인",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "reject",
+    "kor": "거부하다, 거절하다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "discourage",
-    "kor": "낙담시키다, 말리다",
+    "kor": "낙담시키다, 단념시키다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "compensate",
-    "kor": "보상하다",
+    "eng": "devastate",
+    "kor": "황폐시키다",
     "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dawn",
+    "kor": "새벽; 이해되기 시작하다, 날이 새다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "invert",
+    "kor": "(위치·순서 등을) 거꾸로 하다, 뒤집다",
+    "answer_count_kor": 2,
     "answer_count_eng": 1
   }
 ]
