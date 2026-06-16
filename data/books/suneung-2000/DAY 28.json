@@ -1,116 +1,44 @@
 [
   {
+    "eng": "heritage",
+    "kor": "유산, 세습 재산",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
     "eng": "bold",
     "kor": "대담한, 선이 굵은",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "compliment",
-    "kor": "칭찬하다, 칭찬",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "summit",
-    "kor": "정상",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "troop",
-    "kor": "무리, 군대",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "alter",
-    "kor": "바꾸다, 변경하다",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "conceive",
-    "kor": "생각해 내다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "durability",
-    "kor": "내구성",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "destroy",
-    "kor": "파괴하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "shallow",
-    "kor": "얕은, 피상적인",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "face",
-    "kor": "얼굴, 표면, 직면하다",
-    "answer_count_kor": 3,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "promote",
-    "kor": "승진시키다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "weep",
-    "kor": "울다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "grasp",
-    "kor": "붙잡다",
-    "answer_count_kor": 1,
+    "kor": "붙잡다, 이해하다, 파악하다; 꽉 쥐기, 이해",
+    "answer_count_kor": 5,
     "answer_count_eng": 1
   },
   {
-    "eng": "overall",
-    "kor": "전반적인, 전체의",
+    "eng": "incentive",
+    "kor": "자극, 장려책, 동기; 격려하는, 자극하는",
+    "answer_count_kor": 5,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "neutral",
+    "kor": "중립의, 공평한",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "superstition",
-    "kor": "미신",
-    "answer_count_kor": 1,
     "answer_count_eng": 1
   },
   {
     "eng": "colony",
-    "kor": "식민지",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "absurd",
-    "kor": "불합리한, 우스꽝스러운",
+    "kor": "식민지, (새·개미·꿀벌 등의) 집단",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "conduct",
-    "kor": "수행하다, 행위",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "dormitory",
-    "kor": "기숙사",
-    "answer_count_kor": 1,
+    "kor": "수행하다, 실시하다; 행위, 안내",
+    "answer_count_kor": 4,
     "answer_count_eng": 1
   },
   {
@@ -126,51 +54,9 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "retreat",
-    "kor": "후퇴하다, 후퇴",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "compulsive",
-    "kor": "강제적인, 강박의",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "clinic",
-    "kor": "전문 병원, 개인 병원",
-    "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "banner",
-    "kor": "현수막",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
     "eng": "formulate",
-    "kor": "만들어내다, 공식화하다",
+    "kor": "만들어 내다, 공식화하다",
     "answer_count_kor": 2,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "vow",
-    "kor": "맹세(하다)",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "malnutrition",
-    "kor": "영양실조",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "heritage",
-    "kor": "",
-    "answer_count_kor": 0,
     "answer_count_eng": 1
   },
   {
@@ -180,38 +66,104 @@
     "answer_count_eng": 1
   },
   {
-    "eng": "boast",
-    "kor": "자랑하다",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "neutral",
-    "kor": "중립의",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "stain",
-    "kor": "얼룩",
-    "answer_count_kor": 1,
-    "answer_count_eng": 1
-  },
-  {
-    "eng": "incentive",
-    "kor": "장려책, 자극",
+    "eng": "promote",
+    "kor": "증진하다, 승진시키다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "float",
-    "kor": "뜨다, 떠다니다",
+    "eng": "overall",
+    "kor": "전반적인, 전체의; 작업복",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "banner",
+    "kor": "깃발, 현수막",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "destroy",
+    "kor": "파괴하다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "troop",
+    "kor": "무리, 떼, 군대, 군사",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "clinic",
+    "kor": "전문 병원, 개인 병원",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "absurd",
+    "kor": "불합리한, 우스꽝스러운",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
     "eng": "tendency",
-    "kor": "경향",
+    "kor": "경향, 추세",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "superstition",
+    "kor": "미신",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "shallow",
+    "kor": "얕은, 얇은, 피상적인, 천박한",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "sensation",
+    "kor": "감각, 느낌, 대사건(센세이션)",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "summit",
+    "kor": "꼭대기, 정상",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "boast",
+    "kor": "자랑하다, 떠벌리다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "vow",
+    "kor": "맹세; 맹세하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "face",
+    "kor": "직면하다; 얼굴, 표면",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "alter",
+    "kor": "바꾸다, 변경하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "durability",
+    "kor": "내구성",
     "answer_count_kor": 1,
     "answer_count_eng": 1
   },
@@ -223,20 +175,68 @@
   },
   {
     "eng": "wrestle",
-    "kor": "싸우다, 씨름하다",
+    "kor": "싸우다, (일과) 씨름하다, 레슬 링하다",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "conceive",
+    "kor": "생각해 내다, 마음속에 그리다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "sensation",
-    "kor": "감각, 느낌",
+    "eng": "compliment",
+    "kor": "칭찬; 칭찬하다",
     "answer_count_kor": 2,
     "answer_count_eng": 1
   },
   {
-    "eng": "confucian",
+    "eng": "Confucian",
     "kor": "공자의, 유교의",
     "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "compulsive",
+    "kor": "강제적인, 강박의",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "retreat",
+    "kor": "후퇴하다, 물러서다; 퇴각, 후퇴",
+    "answer_count_kor": 4,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "dormitory",
+    "kor": "기숙사",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "stain",
+    "kor": "얼룩; 얼룩지게 하다",
+    "answer_count_kor": 2,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "weep",
+    "kor": "울다",
+    "answer_count_kor": 1,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "float",
+    "kor": "뜨다, 떠다니다; 부유물",
+    "answer_count_kor": 3,
+    "answer_count_eng": 1
+  },
+  {
+    "eng": "malnutrition",
+    "kor": "영양실조",
+    "answer_count_kor": 1,
     "answer_count_eng": 1
   }
 ]
